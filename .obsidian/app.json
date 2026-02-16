@@ -1,0 +1,9 @@
+{
+  "showLineNumber": true,
+  "vimMode": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "root",
+  "newFileFolderPath": "/assets",
+  "attachmentFolderPath": "attachments",
+  "readableLineLength": false
+}

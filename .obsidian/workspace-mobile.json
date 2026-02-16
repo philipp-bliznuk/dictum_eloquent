@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "e093b3c4cf712a82",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3b0e05c42e5c528",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5bd53650277bfced",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Inbox.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_Inbox"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e544af27adc9346b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9376a917b8cbb1a1",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": true
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "0deda2969f29954e",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "ingrati",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "fde32b685e0d049f",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "7510cf3ad7a71b9d",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "17880cf518bca525",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ab0cabf90f58d498",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "_Inbox.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "8bad5db9d70e3f91",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "D.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "80aa450a68cbd8bb",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "D.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "0deda2969f29954e",
+  "lastOpenFiles": [
+    "I.md",
+    "_Inbox.md",
+    "T.md",
+    "C.md",
+    "E.md",
+    "H.md",
+    "A.md",
+    "U.md",
+    "B.md",
+    "D.md",
+    "S.md",
+    "L.md",
+    "W.md",
+    "V.md",
+    "R.md",
+    "G.md",
+    "M.md",
+    "O.md",
+    "P.md",
+    "Q.md",
+    "Untitled.md",
+    "Untitled",
+    "F.md",
+    "Y.md",
+    "N.md"
+  ]
+}

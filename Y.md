@@ -1,0 +1,16 @@
+##### Yokel (noun)
+*ˈyō-kəl*
+- **a naive or gullible inhabitant of a rural area or small town**
+	a lame comedy about the misadventures of _yokels_ in the big city
+
+##### Yoke (noun / verb)
+*ˈyōk*
+- **a wooden bar or frame by which two draft animals (such as oxen) are joined at the heads or necks for working together**
+- **an oppressive agency: servitude, bondage**
+	a people able at last to throw off the _yoke_ and to embrace freedom
+	_yoked_ several ideas together to come up with a new theory
+
+##### Yore (noun)
+*ˈyȯr*
+- **time past and especially long past -> usually used in the phrase _of yore_**
+	my favorite stories are about gallant knights and fair maidens in the days of _yore_

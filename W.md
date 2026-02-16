@@ -1,0 +1,186 @@
+##### Waffle (verb)
+*ˈwä-fəl*
+- **equivocate, vacillate**
+- **to talk or write foolishly: blather**
+	she _waffled_ when asked what she thought of her sister's new boyfriend
+	_waffled_ on the important issues
+
+##### Wag (verb)
+*ˈwag*
+- **to move to and fro or up and down especially with quick jerky motions**
+- **to move in chatter or gossip**
+	scandal caused tongues to *wag*
+	She _wagged_ her finger at the children as she scolded them.
+
+##### Wallow (verb / noun)
+*ˈwä-(ˌ)lō*
+- **to roll oneself about in a lazy, relaxed, or ungainly manner**
+- **a state of degradation or degeneracy**
+	elephants _wallowing_ in the river
+	Buffalo _wallow_ in mud to keep away flies.
+
+##### Wan (adjective / verb)
+*ˈwän*
+- **suggestive of poor health: sickly, pallid**
+- **languid**
+	She gave a _wan_ laugh.
+	she looks a little _wan_ after all that tiring work
+
+##### Wane (verb / noun)
+*ˈwān*
+- **to decrease in size, extent, or degree: dwindle**
+- **suggests the fading or weakening of something good or impressive**
+	The scandal caused her popularity to _wane_.
+	the _waning_ days of summer
+
+##### Wanton (noun / adjective / verb)
+*ˈwȯn-tᵊn*
+- **merciless, inhumane**
+- **being without check or limitation**
+- **causing sexual excitement**
+	They were accused of _wanton_ cruelty toward animals.
+	a life of _wanton_ luxury
+	quite the _wanton_ when he wants to be
+
+##### Warren (noun)
+*ˈwȯr-ən*
+- **an area (as of uncultivated ground) where rabbits breed**
+- **a crowded tenement or district / a maze of passageways or small rooms**
+	a _warren_ of narrow hallways
+	got lost in the _warren_ of interconnected side streets
+
+##### Wastrel (noun)
+*ˈwā-strəl*
+- **vagabond, waif**
+- **one who expends resources foolishly and self-indulgently: profligate**
+	the black sheep of the family, he ended up being a _wastrel_ and a drunkard
+	He was raised on Chicago’s North Side by a _wastrel_ father and a mother who struggled to put food on their table.
+
+##### Wax (verb / noun)
+*ˈwaks*
+- **to increase in size, numbers, strength, prosperity, or intensity**
+- **to assume a (specified) characteristic, quality, or state: become**
+	the commitment of the young volunteers to the cause seems to _wax_ and wane
+	_waxed_ poetic whenever he wrote to his girlfriend
+
+##### Wayfarer (noun)
+*ˈwā-ˌfer-ər*
+- **a traveler especially on foot**
+	one of the great _wayfarers_ of American folklore, Johnny Appleseed wandered across the country, always planting apple seeds
+
+##### Welter (verb / noun)
+*ˈwel-tər*
+- **writhe, toss, wallow**
+- **a state of wild disorder: turmoil**
+- **a chaotic mass or jumble**
+	there was a _welter_ of pushing and shoving as people rushed to grab the best seats for the outdoor concert
+	a _welter_ of junk in the closet, most of which needed to be thrown out
+
+##### Whelp (noun / verb)
+*ˈ(h)welp*
+- **any of the young of various carnivorous mammals and especially of the dog**
+- **a young boy or girl**
+- **to give birth to -> used of various carnivores and especially the dog**
+	playtime's over, it's time to gather up the _whelps_ and head home
+	The dog _whelped_ in March.
+
+##### Whence (adverb)
+*ˈ(h)wen(t)s*
+- **from what place, source, or cause**
+	They returned to the land _whence_ they came.
+	no one could tell me _from whence_ the gold had come
+
+##### Wherewithal (noun)
+*ˈ(h)wer-wi-ˌt͟hȯl*
+- **money, finances, resources**
+- **means to pay**
+	didn't have the *wherewithal* for an expensive dinner
+	A project as big as this requires a lot of financial _wherewithal_.
+
+##### Whet (verb)
+*ˈ(h)wet*
+- **to sharpen by rubbing on or with something (such as a stone)**
+- **to make keen or more acute: excite, stimulate**
+	We had some wine to _whet_ our appetites.
+	The ads are trying to _whet_ booksellers' interest.
+
+##### Whippersnapper (noun)
+*ˈ(h)wi-pər-ˌsna-pər*
+- **a diminutive, insignificant, or presumptuous person**
+	some young _whippersnapper_ piped up with a pointless comment
+
+##### Whittle (verb)
+*ˈ(h)wi-tᵊl*
+- **to pare or cut off chips from the surface of (wood) with a knife**
+- **to reduce, remove, or destroy gradually as if by cutting off bits with a knife: pare**
+	He was sitting on the porch, _whittling_ a stick.
+	She _whittled_ a walking stick from a maple tree branch.
+
+##### Wile (verb / noun)
+*ˈwī(-ə)l*
+- **suggests an attempt to entrap or deceive with false allurements**
+- **skill in outwitting: trickery, guile**
+	her stories of the Old South could _wile_ anyone
+	had to use all of her _wiles_ to convince her guests to stay for dinner
+
+##### Willful (adjective)
+*ˈwil-fəl*
+- **implies an obstinate determination to have one's own way**
+- **done deliberately: intentional**
+	a stubborn and _willful_ child
+	He has shown a *willful* disregard for other people's feelings.
+
+##### Willowy (adjective)
+*ˈwi-lə-wē*
+- **resembling a willow**
+- **gracefully tall and slender**
+	a *willowy* actress
+	the *willowy* curve of her neck
+
+##### Wilt (verb / noun)
+*ˈwilt*
+- **to lose turgor from lack of water**
+- **to grow weak or faint: languish**
+	The hot weather _wilted_ the plants.
+	He _wilted_ under the pressure.
+
+##### Wing (verb)
+*ˈwiŋ*
+- **to do or perform without preparation or guidelines: improvise**
+	Don’t *wing* it or make last-minute changes and expect the same results.
+	Others just *wing* it and type whatever comes to their mind.
+
+##### Winnow (verb)
+*ˈwi-(ˌ)nō*
+- **to remove (something, such as chaff) by a current of air**
+- **to treat (something, such as grain) by exposure to a current of air so that waste matter is eliminated**
+	The least qualified applicants were _winnowed_ out of the initial pool.
+	Harvesters _winnowed_ the chaff from the wheat.
+
+##### Wiry (adjective)
+*ˈwī(-ə)r-ē*
+- **resembling wire especially in form and flexibility**
+- **being lean, supple, and vigorous: sinewy**
+	a man with long, _wiry_ arms
+	He has dark, _wiry_ hair.
+
+##### Wistful (adjective)
+*ˈwist-fəl*
+- **full of yearning or desire tinged with melancholy**
+- **musingly sad: pensive**
+	She was _wistful_ for a moment, then asked, “Do you remember the old playground?”.
+	He had a _wistful_ look on his face.
+
+##### Writhe (verb)
+*ˈrīt͟h*
+- **to twist into coils or folds**
+- **intertwine, weave**
+	She lay on the floor, _writhing_ in pain.
+	a nest of _writhing_ snakes
+
+##### Wry (adjective / verb)
+*ˈrī*
+- **bent, twisted, or turned usually abnormally to one side**
+- **made by a deliberate distortion of the facial muscles often to express irony or mockery**
+	His books are noted for their _wry_ humor.
+	When I asked her how she felt after winning the race, she gave me a _wry_ smile and said, “Pretty tired.”
