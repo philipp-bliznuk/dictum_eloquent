@@ -82,6 +82,13 @@
 	She has an _unerring_ instinct for language.
 	He has an _unerring_ sense of good taste.
 
+##### Unforthcoming (adjective)
+*ˌən-fȯrth-ˈkə-miŋ*
+- **not affable or sociable: reticent, reserved**
+- **not characterized by openness, candidness, or forthrightness**
+	an *unforthcoming* and taciturn man
+	He was *unforthcoming* about his childhood.
+
 ##### Ungainly (adjective)
 *ˌən-ˈgān-lē*
 - **lacking in smoothness or dexterity: clumsy**
@@ -141,6 +148,13 @@
 - **materials (such as fabric, padding, and springs) used to make a soft covering especially for a seat**
 	an old chair that needs new _upholstery_
 	He learned _upholstery_ from his father.
+
+##### Urbane (adjective)
+*ˌər-ˈbān*
+- **fashionable and somewhat formal**
+- **implies high cultivation and poise coming from wide social experience**
+	an *urbane* diplomat
+	the hotel's *urbane* sophistication
 
 ##### Urn (noun)
 *ˈərn*

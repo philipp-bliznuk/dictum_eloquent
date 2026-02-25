@@ -180,6 +180,13 @@
 	Excessive logging has _denuded_ the hillside of trees.
 	Trash burning and water shortages are a worsening blight, while the construction of upscale villas has _denuded_ vegetation and exacerbated a perennial flooding problem.
 
+##### Deplore (verb)
+*di-ˈplȯr*
+- **to consider unfortunate or deserving of disapproval: condem**
+- **implies regret for the loss or impairment of something of value**
+	_deplores_ the breakdown in family values
+	Although _deplored_ by many, her decisions have greatly benefited the company.
+
 ##### Depredate (verb)
 *ˈde-prə-ˌdāt*
 - **to lay waste: plunder, ravage**

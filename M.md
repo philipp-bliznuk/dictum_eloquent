@@ -40,6 +40,13 @@
 	both parties to the divorce showed a _malign_ desire to make each other's future life utterly miserable
 	a candidate who believes that it is possible to win an election without _maligning_ anyone
 
+##### Malignant (adjective)
+*mə-ˈlig-nənt*
+- **tending to produce death or deterioration**
+- **evil in nature, influence, or effect: injurious**
+	a highly _malignant_ form of cancer
+	a powerful and _malignant_ influence
+
 ##### Malinger (verb)
 *mə-ˈliŋ-gər*
 - **to pretend or exaggerate incapacity or illness (as to avoid duty or work)**

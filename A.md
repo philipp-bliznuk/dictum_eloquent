@@ -609,6 +609,20 @@ _ə-ˈskan(t)s_
 - **the Roman goddess of dawn**
 	a gorgeous pink _aurora_ aroused us out of our slumber
 
+##### Auspice (noun)
+*ˈȯ-spəs*
+- **kindly patronage and guidance**
+- **a prophetic/favorable sign**
+	a program for inner-city youths that is under the _auspices_ of a national corporation
+	interpreted the teacher's smile as an _auspice_ that he would get an A on his presentation
+
+##### Auspicious (adjective)
+*ȯ-ˈspi-shəs*
+- **showing or suggesting that future success is likely: propitious**
+- **attended by good auspices: fortunate, prosperous**
+	His acclaimed first novel was an _auspicious_ debut.
+	told him she couldn't dance with him just then, but her _auspicious_ smile encouraged him to ask again later
+
 ##### Austere (adjective)
 *ȯ-ˈstir*
 - **stern and cold in appearance or manner**

@@ -110,6 +110,13 @@
 	angrily *belched* insults
 	Smoke _belched_ from the factory chimneys beside the river.
 
+##### Bellow (verb)
+*ˈbe-(ˌ)lō*
+- **to make the loud deep hollow sound characteristic of a bull**
+- **to shout in a deep voice**
+	He _bellowed_ at her to come over at once.
+	He was _bellowing_ into the phone, giving orders to one of his employees.
+
 ##### Benediction (noun)
 *ˌbe-nə-ˈdik-shən*
 - **the invocation of a blessing**
@@ -209,6 +216,13 @@ _bi-ˈsä-təd_
 	found a _billet_ at one of the leading brokerage houses in New York
 	a lucrative *billet*
 	a stack of gold _billets_ in the vault
+
+##### Birth (noun / verb)
+*ˈbərth*
+- **sufficient distance for maneuvering a ship**
+- **a place to sit or sleep especially on a ship or vehicle: accommodation**
+	giving him a wide *berth* until he is in a better mood
+	a comfortable cabin with a deep _berth_
 
 ##### Bisect (verb)
 *ˈbī-ˌsekt*
@@ -348,6 +362,13 @@ _bi-ˈsä-təd_
 	I enjoy the author's _breezy_ style.
 	She listened to their complaints with _breezy_ indifference.
 
+##### Briar (noun)
+*ˈbrī(-ə)r*
+- **a plant (such as a rose, blackberry, or greenbrier) having a usually woody and thorny or prickly stem**
+- **a mass of briars**
+	a thicket of *briars*
+	volunteers methodically searching through the *briar* and trees
+
 ##### Brimstone (noun)
 *ˈbrim-ˌstōn*
 - **sulfur, especially considered as a component of the torments of hell in Christianity.**
@@ -460,3 +481,5 @@ _bi-ˈsä-təd_
 ##### By my troth! (idiom)
 - **you have my word**
 - **I swear**
+	*By my troth!* I have never seen a more magnificent sunset in all my years of traveling the coast.
+	*By my troth*, sir, if you continue to speak of me in such a manner, I shall be forced to demand an apology!

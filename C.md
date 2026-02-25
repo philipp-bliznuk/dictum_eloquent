@@ -68,6 +68,13 @@
 	The trumpets sounded, and the knights charged each other in full *career*.
 	a car *careered* off the road
 
+##### Carmine (noun)
+*ˈkär-mən*
+- **a rich red to crimson pigment made from cochineal**
+- **a vivid red**
+	The set comes in black, beige, _carmine_ red, sunset orange and more.
+	Then there’s _carmine_, which makes some consumers queasy because the reddish pigment comes from cochineal insects.
+
 ##### Carnivore (noun)
 *ˈkär-nə-ˌvȯr*
 - **an animal (such as a dog, fox, crocodile, or shark) that feeds primarily or exclusively on animal matter: a carnivorous animal**
@@ -611,6 +618,13 @@ _ˈküt_
 - **a woman who endeavours without sincere affection to gain the attention and admiration of men**
 	She was a bit of a _coquette_.
 
+##### Corrigible (adjecive)
+*ˈkȯr-ə-jə-bəl*
+- **capable of being set right: reparable**
+- **correctable**
+	a *corrigible* defect
+	there are _corrigible_ lapses in the author's grammar, but nothing that a good editor cannot readily fix
+
 ##### Corroborate (verb)
 *kə-ˈrä-bə-ˌrāt*
 - **to support or help prove with evidence or authority: make more certain**
@@ -774,3 +788,10 @@ _ˈkau̇n-tᵊn-ən(t)s_
 - **adds an implication of cutting that in some way deprives of completeness or adequacy**
 	The new laws are an effort to _curtail_ illegal drug use.
 	School activities are being _curtailed_ due to a lack of funds.
+
+##### Custodian (noun)
+*ˌkə-ˈstō-dē-ən*
+- **one that guards and protects or maintains: keeper**
+- **one entrusted with guarding and keeping property or records or with custody or guardianship of prisoners or inmates: warden**
+	the _custodian_ made his usual rounds of the building to make sure that everything was OK
+	served as _custodian_ of the prisoner until he could be turned over to federal authorities

@@ -138,6 +138,13 @@
 - **very thin and feeble especially from lack of nutrition or illness**
 	the _emaciated_ bodies of the survivors of the concentration camps
 
+##### Embezzle (verb)
+*im-ˈbe-zəl*
+- **to appropriate (something, such as property entrusted to one's care) fraudulently to one's own use**
+- **steal, pilfer, plunder**
+	He was caught _embezzling_ money from his clients.
+	He was convicted of _embezzling_.
+
 ##### Embolism (noun)
 *ˈem-bə-ˌli-zəm*
 - **the insertion of one or more days in a calendar: intercalation**

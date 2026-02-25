@@ -107,6 +107,20 @@
 	She used the box as a _receptacle_ for her jewelry.
 	place all wrappers in the trash _receptacles_ at the entrances of the theater
 
+##### Recidivism (noun)
+*ri-ˈsi-də-ˌvi-zəm*
+- a tendency to relapse into a previous condition or mode of behavior
+- relapse into criminal behavior
+	Youth with felony or gross misdemeanor cases had 50% higher risk of _recidivism_.
+	Reducing _recidivism_ through positive change within individuals and communities as individuals reintegrate into them.
+
+##### Recidivist (noun)
+*ri-ˈsi-də-vist*
+- **one who relapses**
+- **a habitual criminal**
+	Our office has also filed 1,709 cases under Prop. 36’s _recidivist_ theft statute.
+	As a *recidivist* the penalty likely would be more severe.
+
 ##### Recompense (verb / noun)
 *ˈre-kəm-ˌpen(t)s*
 - **to give something to by way of compensation (as for a service rendered or damage incurred)**

@@ -143,6 +143,13 @@
 	Remember that iconic image of Washington crossing the Delaware to make a surprise attack on the _Hessians_?
 	A gust of wind lifted a roadside _hessian_ screen, revealing Hitler’s army, mustered for the invasion.
 
+##### Heterogenous / Heterogeneous (adjective)
+*ˌhe-tə-ˈrä-jə-nəs* / *ˌhe-tə-rə-ˈjēn-yəs*
+- **consisting of dissimilar or diverse ingredients or constituents: mixed**
+- **varied, eclectic, assorted**
+	the seating in the hall was a _heterogeneous_ collection of old school desk chairs, wood and metal folding chairs, and even a few plush theater seats
+	The result is the ability to make disparate robotic systems work together and provide commanders with a universal command interface for controlling a _heterogeneous_ fleet of drones.
+
 ##### Hick (noun / adjective)
 *ˈhik*
 - **an unsophisticated person with local or restricted interests or outlook**

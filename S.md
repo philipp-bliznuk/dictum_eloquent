@@ -107,6 +107,13 @@
 	The CEO was _made the scapegoat_ for the company's failures.
 	companies often use the economy as a _scapegoat_ to avoid taking responsibility for dropping sales
 
+##### Scapegrace (noun)
+*ˈskāp-ˌgrās*
+- **one who has escaped the grace of God**
+- **an incorrigible rascal**
+	a whoring, drunken _scapegrace_ who was blackening the family's name
+	That young *scapegrace* has been caught climbing the neighbor's orchard walls for the third time this week, yet he always manages to charm his way out of a scolding.
+
 ##### Scintillate (verb)
 *ˈsin-tə-ˌlāt*
 - **to emit sparks: spark**
@@ -140,6 +147,13 @@
 - **imply an extreme leanness that suggests deficient strength and vitality**
 	The only plants in their yard were a couple of _scrawny_ bushes.
 	a _scrawny_ chicken
+
+##### Scrimshaw (noun / verb)
+*ˈskrim-ˌshȯ*
+- **any of various carved or engraved articles made originally by American whalers usually from baleen or whale ivory**
+- **the art, practice, or technique of producing scrimshaw**
+	At this point, asking them to write an email is the same as asking them to _scrimshaw_ their memo to you.
+	The only item that was written down in his will was John’s beloved _scrimshaw_ set - sailor’s carvings made from whales’ teeth.
 
 ##### Scrollwork (noun)
 *ˈskrōl-ˌwərk*
@@ -201,6 +215,13 @@
 - **implies painstaking and persevering application**
 	an impressively _sedulous_ suitor, he was constantly sending her flowers and other tokens of his affection
 	a _sedulous_ investigation of the murder
+
+##### Segue / Segway (noun / verb)
+*ˈse-(ˌ)gwā*
+- **a transition made without pause or interruption: the act or an instance of segueing**
+- **to proceed without pause from one musical number or theme to another**
+	The band smoothly _segued_ from one song to the next.
+	She quickly _segued_ to the next topic.
 
 ##### Semblance (noun)
 *ˈsem-blən(t)s*
@@ -281,6 +302,19 @@
 - **smart, astute, savvy**
 	She's _shrewd_ about her investments.
 	a _shrewd_ used car dealer who knew how to make the best possible deal
+
+##### Sidereal (adjective)
+*sī-ˈdir-ē-əl*
+- **of, relating to, or expressed in relation to stars or constellations: astral**
+	Another form of astrology known as the _sidereal_ Zodiac, which is predominantly used in India, does take precession into account.
+	With this definition, a _sidereal_ year is something like 365.256363 solar days.
+
+##### Signet (noun / verb)
+*ˈsig-nət*
+- **a seal used officially to give personal authority to a document in lieu of signature**
+- **a small intaglio seal (as in a finger ring)**
+	The ring features a _signet_ design, with the oval plate at the top depicting a married couple, and flutes (raised parallel grooves) on each side.
+	That is our _signet_, which makes a clean impression in sealing wax.
 
 ##### Sinecure (noun)
 *ˈsī-ni-ˌkyu̇r*
@@ -673,6 +707,13 @@
 	He fell into a drunken _stupor_.
 	in a _stupor_ of fatigue
 
+##### Suave (adjective)
+*ˈswäv*
+- **smoothly though often superficially gracious and sophisticated**
+- **suggests a specific ability to deal with others easily and without friction**
+	a _suave_ public relations coordinator
+	the _suave_ gentleman was a great favorite of the elegant ladies who attended parties at the embassy
+
 ##### Subaltern (adjective)
 *sə-ˈbȯl-tərn*
 - **particular with reference to a related universal proposition**
@@ -724,6 +765,13 @@
 - **implies a spreading through of something that gives an unusual color or quality**
 	Morning light _suffused_ the room.
 	she was _suffused_ with an overwhelming feeling of liberation as her horse broke into a gallop
+
+##### Sulk (noun / verb)
+*ˈsəlk*
+- **to be moodily silent**
+- **pout, frown, scowl**
+	She has been _sulking_ all day.
+	a child sitting in a _sulk_ over a minor disagreement
 
 ##### Sully (verb)
 *ˈsə-lē*
@@ -810,6 +858,20 @@
 - **a whispering sound: murmur**
 	We lay on the beach listening to the *susurration* of the water and looking up at the sky.
 	When he rose to speak, the Senate chamber was filled with *susurrations*.
+
+##### Svelte (adjective)
+*ˈsvelt*
+- **slender, lithe**
+- **urbane, suave**
+	She has a _svelte_ figure.
+	the _svelte_ dancer seemed to float across the stage
+
+##### Swaddle (verb)
+*ˈswä-dᵊl*
+- **to wrap (an infant) with swaddling clothes: envelop, swathe**
+- **restrain, restrict**
+	He _swaddled_ the baby in a blanket.
+	marriage _swaddled_ him in a domesticity he came to loathe
 
 ##### Swat (noun / verb)
 *ˈswät*

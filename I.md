@@ -146,6 +146,13 @@
 	a voyage into the limitless *inane*
 	an _inane_ interpretation of the play
 
+##### Inauspicious (adjective)
+*ˌi-ˌnȯ-ˈspi-shəs*
+- **not auspicious**
+- **ominous, sinister, menacing**
+	Despite its _inauspicious_ beginnings, the company eventually became very profitable.
+	this many problems so early in the project is a most _inauspicious_ sign
+
 ##### Incandescent (adjective)
 *ˌin-kən-ˈde-sᵊnt*
 - **white, glowing, or luminous with intense heat**
@@ -207,6 +214,13 @@
 - **not corporeal: having no material body or form**
 - **of, relating to, or constituting a right that is based on property (such as bonds or patents) which has no intrinsic value**
 	ghosts are supposed to be *incorporeal*
+
+##### Incorrigible (adjective)
+*(ˌ)in-ˈkȯr-ə-jə-bəl*
+- **incapable of being corrected or amended: incurable**
+- **not manageable: unruly, hopeless**
+	an _incorrigible_ habit of playing practical jokes
+	He is always the class clown and his teachers say he is _incorrigible_.
 
 ##### Incredulous (adjective)
 *(ˌ)in-ˈkre-jə-ləs*
@@ -385,6 +399,13 @@
 	the army is finally making _inroads_ into enemy territory
 	There are several other companies looking to make _inroads_ in the space.
 
+##### Insidious (adjective)
+*in-ˈsi-dē-əs*
+- **causing harm in a way that is gradual or not easily noticed**
+- **awaiting a chance to entrap: treacherous**
+	an *insidious* enemy
+	Most people with this _insidious_ disease have no idea that they are infected.
+
 ##### Insipid (adjective)
 *in-ˈsi-pəd*
 - **lacking in qualities that interest, stimulate, or challenge: dull, flat**
@@ -502,6 +523,11 @@
 - **not easily relieved or cured**
 	a patient experiencing _intractable_ pain
 	an _intractable_ child who deliberately does the opposite of whatever he is told
+
+##### Intraday (adjective)
+*ˈin-trə-ˌdā*
+- **occurring in the course of a single day**
+	the market showed wide *intraday* fluctuations
 
 ##### Intrepid (adjective)
 *in-ˈtre-pəd*

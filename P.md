@@ -260,6 +260,20 @@
 	The water _permeated_ the sand.
 	The smell of baking bread _permeated_ the kitchen.
 
+##### Pernicious (adjective)
+*pər-ˈni-shəs*
+- **wicked**
+- **implies irreparable harm done through evil or insidious corrupting or undermining**
+	pornography has a _pernicious_ effect on society
+	She thinks television has a _pernicious_ influence on our children.
+
+##### Perspicacious (adjective)
+*ˌpər-spə-ˈkā-shəs*
+- **of acute mental vision or discernment: keen**
+- **implies unusual power to see through and understand what is puzzling or hidden**
+	a _perspicacious_ counselor saw through the child's facade
+	One of the few _perspicacious_ journalists of the Trump era, Graeme Wood, put it pithily: The Deep State is in the White House, and Trump appointed it.
+ 
 ##### Perspire (verb)
 *pər-ˈspī(-ə)r*
 - **to emit matter through the skin**

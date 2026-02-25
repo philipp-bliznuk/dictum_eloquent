@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z.md",
+                "file": "D.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Z"
+              "title": "D"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A.md",
+                "file": "_Inbox.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A"
+              "title": "_Inbox"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +88,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,36 +181,37 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1620b4a07baff240",
+  "active": "022f09e956846e38",
   "lastOpenFiles": [
     "C.md",
-    "E.md",
-    "B.md",
-    "A.md",
     "_Inbox.md",
+    "S.md",
+    "U.md",
+    "B.md",
+    "R.md",
+    "H.md",
+    "I.md",
+    "P.md",
+    "E.md",
+    "A.md",
+    "M.md",
+    "Untitled.md",
     "Z.md",
     "Y.md",
     "X.md",
     "W.md",
     "V.md",
-    "U.md",
     "T.md",
-    "S.md",
-    "R.md",
     "Q.md",
-    "P.md",
-    "Untitled.md",
     "O.md",
     "N.md",
-    "M.md",
     "L.md",
     "K.md",
     "J.md",
-    "I.md",
-    "H.md",
     "G.md",
     "Untitled.base"
   ]
