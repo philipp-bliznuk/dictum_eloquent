@@ -165,6 +165,12 @@
 - **any of the solid intervals between crenellations of a battlement**
 	Conversely, an arresting-looking romaine salad, dressed with za'atar yogurt and served in a bowl with Parmesan crisps lining the edge like _merlons_ atop a castle wall, is oddly underseasoned.
 
+##### Mewl (verb)
+*ˈmyül*
+- **to cry weakly: whimper**
+	the tiny kitten _mewled_ for its mother
+	Stray cats followed us around, _mewling_ from hunger.
+
 ##### Mew (noun / verb)
 *ˈmyü*
 - **a place for hiding or retirement**

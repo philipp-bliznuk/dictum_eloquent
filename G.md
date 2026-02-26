@@ -25,6 +25,13 @@
 	The group is hoping to *galvanize* public opinion against the proposed law.
 	a factory where steel is *galvanized*
 
+##### Ganglion (noun)
+*ˈgaŋ-glē-ən*
+- **a small cystic tumor connected either with a joint membrane or tendon sheath**
+- **a mass of nerve tissue containing cell bodies of neurons external to the brain or spinal cord: nerve center**
+	Glaucoma remains a leading cause of blindness worldwide, and while treatments often focus on lowering intraocular pressure, damage to retinal _ganglion_ cells can continue even when pressure is controlled.
+	The ventral _ganglion_ is a collection of nerves found on an arrow worm’s belly and is a biological feature unique only to them.
+
 ##### Gantry (noun)
 *ˈgan-trē*
 - **a frame for supporting barrels**

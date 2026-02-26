@@ -96,6 +96,12 @@
 	He was tall and _ungainly_.
 	getting the _ungainly_ couch up the stairs was a real chore
 
+##### Unguent (noun)
+*ˈəŋ-gwənt*
+- **a soothing or healing salve: ointment**
+	Cosmetics emporium sells all-natural _unguents_ for face and body.
+	influencers chat over their plethora of skin-nourishing _unguents_ and artful makeup products
+
 ##### Unremitting (adjective)
 *ˌən-ri-ˈmi-tiŋ*
 - **not remitting: constant, incessant**

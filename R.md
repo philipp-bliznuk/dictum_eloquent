@@ -12,6 +12,13 @@
 	a _ragtag_ group of musicians
 	the team was a _ragtag_ bunch who had only one thing in common: a lack of skill
 
+##### Rake (noun)
+*ˈrāk*
+- **inclination from the perpendicular / the overhang of a ship's bow or stern**
+- **inclination from the horizontal: slope**
+	the floor of the auditorium doesn't have much of a _rake_, so sightlines for spectators in the rear are not good
+	The vintage schooner was admired for the elegant *rake* of its masts, which tilted slightly toward the stern to give the vessel a more aerodynamic appearance.
+
 ##### Rakish (adjective)
 *ˈrā-kish*
 - **of, relating to, or characteristic of a rake: dissolute**

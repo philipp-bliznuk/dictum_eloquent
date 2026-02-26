@@ -46,6 +46,13 @@
 	The unexpected results of the test have created a _quandary_ for researchers.
 	I'm in a _quandary_ about whether I should try to repair my stereo or buy a new one, even though I don't have the money to do either.
 
+##### Quarry (noun / verb)
+*ˈkwȯr-ē*
+- **one that is sought or pursued: prey**
+- **an open excavation usually for obtaining building stone, slate, or limestone**
+	a hunter relentlessly tracking his _quarry_
+	an area where workers are _quarrying_ for limestone
+
 ##### Queasy (adjective)
 *ˈkwē-zē*
 - **causing nausea**

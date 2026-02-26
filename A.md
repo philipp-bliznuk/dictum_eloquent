@@ -472,6 +472,13 @@ _ə-ˈper-əl_
 	a dull and _arid_ textbook
 	an _arid_ speech about duty and responsibility
 
+##### Ark (noun)
+*ˈärk*
+- **a boat or ship held to resemble that in which Noah and his family were preserved from the Flood**
+- **the sacred chest representing to the Hebrews the presence of God among them**
+	Many people believe the _ark_ and flood are a fairytale, but there is someone who disagrees.
+	Josh just found a way to tell the story of Passover to the children and somehow bring it around to referencing the *ark* of the covenant from Raiders of the Lost Ark.
+
 ##### Arrest (verb)
 *ə-ˈrest*
 - **to bring to a stop**

@@ -375,6 +375,13 @@
 - **a motorcycle or bicycle saddle for a passenger**
 	The killers were mostly masked or hooded gunmen riding _pillion_ on motorcycles, sometimes in broad daylight.
 
+##### Pinnace (noun)
+*ˈpi-nəs*
+- **a light sailing ship**
+- **any of various ship's boats**
+	As the galleon dropped anchor in the bay, the captain ordered the *pinnace* to be lowered so the landing party could scout the shoreline for fresh water.
+	The sailors pulled hard at the oars of the *pinnace*, desperately trying to reach the flagship before the storm broke across the harbor.
+
 ##### Pious (adjective)
 *ˈpī-əs*
 - **marked by or showing reverence for deity and devotion to divine worship**

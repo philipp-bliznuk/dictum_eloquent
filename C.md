@@ -618,6 +618,12 @@ _ˈküt_
 - **a woman who endeavours without sincere affection to gain the attention and admiration of men**
 	She was a bit of a _coquette_.
 
+##### Cordite (noun)
+*ˈkȯr-ˌdīt*
+- **a smokeless powder composed of nitroglycerin, guncotton, and a petroleum substance usually gelatinized by addition of acetone and pressed into cords resembling brown twine**
+	For the railgun, it's used to propel projectiles at tremendous speeds without the need for _cordite_ or other explosives.
+	The men hit the ground as the blast hit, the smell of _cordite_ and dust going deep into their nostrils.
+
 ##### Corrigible (adjecive)
 *ˈkȯr-ə-jə-bəl*
 - **capable of being set right: reparable**

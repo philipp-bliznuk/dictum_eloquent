@@ -14,3 +14,10 @@
 *ˈyȯr*
 - **time past and especially long past -> usually used in the phrase _of yore_**
 	my favorite stories are about gallant knights and fair maidens in the days of _yore_
+
+##### Yowl (verb / noun)
+*ˈyau̇(-ə)l*
+- **to utter a loud long cry of grief, pain, or distress: wail**
+- **a loud long mournful wail or howl (as of a cat)**
+	He was _yowling_ in pain.
+	the cat gave a _yowl_ of anger

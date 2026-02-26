@@ -26,6 +26,13 @@
 	the teacher _bantered_ pleasantly, albeit a bit awkwardly, with the students at the school dance
 	I enjoyed hearing their good-natured _banter_.
 
+##### Barb (noun / verb)
+*ˈbärb*
+- **a sharp projection extending backward (as from the point of an arrow or fishhook) and preventing easy extraction**
+- **a biting or pointedly critical remark or comment**
+	delivered one last _barb_ to his ex-girlfriend as he stalked away
+	Comments that once elicited antagonistic _barbs_ are met with calm acceptance.
+
 ##### Barmy (adjective)
 *ˈbär-mē*
 - **crazy, loony**
@@ -350,6 +357,13 @@ _bi-ˈsä-təd_
 - **being swollen and hard**
 	the store manager always asked the _brawniest_ person there to do the heavy lifting
 	_brawny_ arms that weren't developed in the gym but by years of work in the construction business
+
+##### Bray (verb)
+*ˈbrā*
+- **to utter the characteristic loud harsh cry of a donkey**
+- **to crush or grind fine**
+	The need to placate a _braying_ mob of X posters desperate to see Lemon in chains does not constitute an emergency.
+	_bray_ the seeds using a mortar and pestle
 
 ##### Break fast (idiom)
 - **to have the first meal after fast**

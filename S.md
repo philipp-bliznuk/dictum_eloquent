@@ -275,6 +275,13 @@
 - **obviously disorganized or confused**
 	a _shambolic_ system of public transportation
 
+##### Sheaf (noun)
+*ˈshēf*
+- **a quantity of the stalks and ears of a cereal grass or sometimes other plant material bound together**
+- **a large amount or number**
+	contends that casino gambling would generate a _sheaf_ of social problems for the state
+	The sum total of Washington’s two-state endeavors is a _sheaf_ of memoirs lamenting a lost peace.
+
 ##### Sheen (noun / verb / adjective)
 *ˈshēn*
 - **a bright or shining condition: brightness**
@@ -640,6 +647,13 @@
 - **conforming to the highest standard**
 	a _sterling_ example of democracy at work
 	credited the win to the pitcher's _sterling_ performance on the mound
+
+##### Stern (noun)
+*ˈstərn*
+- **the rear end of a boat**
+- **a hinder or rear part: the last or latter part**
+	So with that all said, to any and all who see our flag flying off your _stern_, know this… There will be no quarter nor mercy offered nor given.
+	With their imposing bulk, elegant curves, colorfully painted _sterns_, and ornate decorations, the vessels were among the most distinctive and beautiful ships on the seas.
 
 ##### Stigma (noun)
 *ˈstig-mə*
