@@ -176,6 +176,12 @@
 	The answer to both questions lies in the *cerebellum's* ability to make connections between the active tickling motion and the sensation of tickling.
 	Chronic exposure to alcohol can damage a part of the brain called the _cerebellum_, which can lead to a tremor.
 
+##### Cerise (noun)
+*sə-ˈrēs*
+- **a moderate red**
+	The dial’s vivid color is echoed by ruby root beads in juicy _cerise_ and raspberry tones, interspersed throughout the chain.
+	The power of a red lipstick cannot be understated - a simple swipe of crimson or _cerise_ has the ability to transform any look.
+
 ##### Cessation (noun)
 *se-ˈsā-shən*
 - **a temporary or final ceasing (as of action): stop**
@@ -352,6 +358,13 @@
 - **appendix, supplement**
 	a _codicil_ to the treaty was necessary to clarify certain provisos that had proved to be ambiguous
 	A codicil is literally a "little _codex,_" a little bit of writing on a small piece of writing material, used to add to or change something about a larger piece of writing.
+
+##### Codify (verb)
+*ˈkä-də-ˌfī*
+- **to reduce to a code**
+- **systematize, classify**
+	The convention _codified_ the rules of war.
+	The author tries to _codify_ important ideas about language.
 
 ##### Coiffure (noun)
 *kwä-ˈfyu̇r*
@@ -745,6 +758,13 @@ _ˈkau̇n-tᵊn-ən(t)s_
 - **a small very thin pancake**
 	To make the *crepe*, whisk the eggs with salt and pepper.
 	And the pink *crepe* dress with the satin lining that falls from the hips like a cloud.
+
+##### Crescent (noun / adjective)
+*ˈkre-sᵊnt*
+- **the moon at any stage between new moon and first quarter and between last quarter and the succeeding new moon when less than half of the illuminated hemisphere is visible**
+- **something shaped like a crescent**
+	People living with sickle cell disease have red blood cells that are _crescent_ shaped due to a gene mutation.
+	Off in the southwest, the last colors of sunset lit up the rim of the sky, as a _crescent_ Moon and two planets lined up above.
 
 ##### Crestfallen (adjective)
 *ˈkrest-ˌfȯ-lən*

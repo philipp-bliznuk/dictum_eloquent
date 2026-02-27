@@ -323,6 +323,13 @@
 	The ring features a _signet_ design, with the oval plate at the top depicting a married couple, and flutes (raised parallel grooves) on each side.
 	That is our _signet_, which makes a clean impression in sealing wax.
 
+##### Silo (noun / verb)
+*ˈsī-(ˌ)lō*
+- **a trench, pit, or especially a tall cylinder (as of wood or concrete) usually sealed to exclude air and used for making and storing silage**
+- **an isolated grouping, department, etc., that functions apart from others especially in a way seen as hindering communication and cooperation**
+	In an era of algorithmic _silos_ and weakened local journalism, politics is driven too often by tribalism instead of values and dialogue.
+	The facility houses _silo_ launch sites critical for firing ballistic missiles with earthwork and construction around them.
+
 ##### Sinecure (noun)
 *ˈsī-ni-ˌkyu̇r*
 - **an office or position that requires little or no work and that usually provides an income**
@@ -558,6 +565,13 @@
 - **undaunted by pain or danger**
 	accommodations on the windjammer are _spartan_ but clean and comfortable nevertheless
 	a *spartan* room
+
+##### Spittle (noun)
+*ˈspi-tᵊl*
+- **saliva**
+- **spit**
+	_Spittle_ sprayed from his lips as he shouted at them.
+	unaware that _spittle_ was leaking out of his mouth while he slept
 
 ##### Splurge (noun / verb)
 *ˈsplərj*

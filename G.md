@@ -243,6 +243,12 @@
 	We were really _gung ho_ about joining the team.
 	he was _gung ho_ about his accounting class
 
+##### Gurney (noun)
+*ˈgər-nē*
+- **a wheeled cot or stretcher**
+	All those paramedics and EMTs, lifting her from one _gurney_ to another, into and out of an ambulance, onto and off a plane.
+	The spiritual advisor stood beside the execution _gurney_ reading scriptures during the procedure.
+
 ##### Gush (verb / noun)
 *ˈgəsh*
 - **to issue copiously or violently**

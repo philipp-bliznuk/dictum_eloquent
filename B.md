@@ -117,6 +117,13 @@
 	angrily *belched* insults
 	Smoke _belched_ from the factory chimneys beside the river.
 
+##### Belie (verb)
+*bi-ˈlī*
+- **to give a false impression of: misrepresent**
+- **to show (something) to be false or wrong**
+	a tree whose delicate beauty _belies_ its real toughness
+	Their actions _belie_ their claim to be innocent.
+
 ##### Bellow (verb)
 *ˈbe-(ˌ)lō*
 - **to make the loud deep hollow sound characteristic of a bull**
