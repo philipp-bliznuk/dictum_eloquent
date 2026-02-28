@@ -162,6 +162,12 @@
 	*In lieu of* flowers, donations can be made to the American Cancer Society.
 	I have decided that *in lieu of* a going-away shower, those who wish to go in on a nice gift for her can see me after church.
 
+##### Liquescent (adjective)
+*li-ˈkwe-sᵊnt*
+- **being or tending to become liquid: melting**
+	As the sun began to set, the harsh desert horizon softened into a *liquescent* glow of violets and deep oranges.
+	The soprano’s voice was truly *liquescent*, flowing over the high notes with a seamless, watery grace that left the audience spellbound.
+
 ##### Listless (adjective)
 *ˈlist-ləs*
 - **characterized by lack of interest, energy, or spirit**
@@ -182,6 +188,14 @@
 - **a servant's uniform**
 	an automobile *livery*
 	the limousine chauffeur was easily distinguished from the cab drivers by his _livery_
+
+##### Livid (adjective)
+*ˈli-vəd*
+- **discolored by bruising: black-and-blue**
+- **ashen, palid, reddish**
+- **very angry: enraged**
+	the boss was _livid_ when yet another deadline was missed
+	her face was _livid_ with fear
 
 ##### Lode (noun)
 *ˈlōd*

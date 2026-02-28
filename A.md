@@ -331,6 +331,13 @@ _ˈāl_
 	the main factory and its *ancillary* plants
 	the need for *ancillary* evidence
 
+##### Annexe / Annex (noun)
+*ˈa-ˌneks*
+- **an added stipulation or statement: appendix**
+- **a building that is attached to or near a larger building and usually used as part of it: wing**
+	approved the *annex* in the treaty
+	Historical photographs were on view in the library's *annex*.
+
 ##### Anoint (verb)
 *ə-ˈnȯint*
 - to smear or rub with oil or an oily substance

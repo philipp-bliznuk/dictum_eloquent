@@ -315,6 +315,13 @@ _bi-ˈsä-təd_
 	a _boisterous_ crowd of party goers
 	The crowd was young and *boisterous*, the cheeseburgers were juicy and perfectly charred, and the place was always packed.
 
+##### Bonnet (noun / verb)
+*ˈbä-nət*
+- **an automobile hood**
+- **a brimless Scottish cap of seamless woolen fabric**
+	He lifted the car's _bonnet_ to check the engine.
+	The _bonnet_-and-cloak outfit was largely inspired by a can of Old Dutch cleaning solution.
+
 ##### Boon (noun / adjective)
 *ˈbün*
 - **a timely benefit: blessing**

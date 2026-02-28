@@ -229,6 +229,13 @@
 	_chastened_ the child with five minutes of sitting in the corner
 	the unexpected loss to a second-rate player really _chastened_ the tournament's top-seeded tennis star
 
+##### Chasten (verb)
+*ˈchā-sᵊn*
+- **to correct by punishment or suffering: discipline**
+- **to prune (something, such as a work or style of art) of excess, pretense, or falsity: refine**
+	_chastened_ the child with five minutes of sitting in the corner
+	_chastened_ by a landslide election defeat
+
 ##### Chauffeur (noun / verb)
 *ˈshō-fər* / *shō-ˈfər*
 - **a person employed to drive a motor vehicle**
@@ -366,6 +373,13 @@
 	The convention _codified_ the rules of war.
 	The author tries to _codify_ important ideas about language.
 
+##### Cognizant (adjective)
+*ˈkäg-nə-zənt*
+- **knowledgeable of something especially through personal experience: mindful**
+- **having responsibility or jurisdiction**
+	He is _cognizant_ of his duties as a father.
+	not fully _cognizant_ of the details of the trade agreement
+
 ##### Coiffure (noun)
 *kwä-ˈfyu̇r*
 - **a style or manner of arranging the hair**
@@ -458,6 +472,13 @@
 - **stable, balanced, rational**
 	went to court to prove that her grandmother was no longer _compos mentis_ and needed a legal guardian
 	News coverage showed Trump in the act of president-ing with the air of a man who is, if not a stable genius, at least _compos mentis_.
+
+##### Compunction (noun)
+*kəm-ˈpəŋ(k)-shən*
+- **implies a painful sting of conscience especially for contemplated wrongdoing**
+- **a twinge of misgiving: scruple**
+	a brutal murderer who killed without _compunction_
+	had no _compunctions_ about taking back what is mine
 
 ##### Conceit (noun / verb)
 *kən-ˈsēt*

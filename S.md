@@ -197,6 +197,12 @@
 	the _seams_ of a dress
 	in fencing circles it is a mark of honor to have one's face _seamed_ with saber cuts
 
+##### Seamstress (noun)
+*ˈsēm(p)-strəs*
+- **a woman whose occupation is sewing**
+	Inside a tent serving as a dressing room, _seamstresses_ put the finishing touches on costumes inspired by the opera world as volunteers prepped for the stage.
+	The Philharmonic ball, ever solicitous of its elite guests, provides _seamstresses_, hairdressers and cosmeticians on site for emergency repairs.
+
 ##### Secession (noun)
 *si-ˈse-shən*
 - **withdrawal into privacy or solitude: retirement**
@@ -749,6 +755,12 @@
 	My *subaltern* got hit in the shoulder
 	a *subaltern* employee
 
+##### Subcutaneous (adjective)
+*ˌsəb-kyu̇-ˈtā-nē-əs*
+- **being, living, occurring, or administered under the skin**
+	*subcutaneous* parasites
+	*subcutaneous* tissues
+
 ##### Sublime (verb / adjective)
 *sə-ˈblīm*
 - **to cause to pass directly from the solid to the vapour state and condense back to solid form**
@@ -847,6 +859,13 @@
 - **marked by wastefulness: extravagant**
 	he cleared off all the _superfluous_ stuff on his desk to make room for the new computer
 	Oddly, despite the preponderance of *superfluous* words, the book has no glossary, which is a must for an introductory audience.
+
+##### Supplicate (verb)
+*ˈsə-plə-ˌkāt*
+- **to make a humble entreaty**
+- **suggests a posture of humility**
+	with bowed heads they _supplicated_ their Lord
+	the minister reminded his flock that God is a being to be obeyed and worshipped always and not just someone to be _supplicated_ in times of trouble
 
 ##### Suppurate (verb)
 *ˈsə-pyə-ˌrāt*

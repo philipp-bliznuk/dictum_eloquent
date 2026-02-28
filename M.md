@@ -284,6 +284,13 @@
 	searching for any *morsel* of useful information
 	the chef's cuisine is so good that diners will want to savour every *morsel*
 
+##### Mortuary (noun / adjective)
+*ˈmȯr-chə-ˌwer-ē*
+- **place in which dead bodies are kept until burial: funeral home**
+- **of or relating to the burial of the dead**
+	the huge department store's _mortuary_ atmosphere in its sad, last weeks of operation
+	They were used as _mortuary_ offerings and in festive settings for around 10,000 years.
+
 ##### Mote (noun)
 *ˈmōt*
 - **a small particle, speck**

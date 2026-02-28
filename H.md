@@ -13,6 +13,13 @@
 	If the past is a predictor, that one will raise *hackles*.
 	Another speech, in October of that same year, raised more *hackles*.
 
+##### Haggard (adjective)
+*ˈha-gərd*
+- **having a worn or emaciated appearance: gaunt**
+- **wild in appearance**
+	She looked tired and _haggard_.
+	We were shocked by his _haggard_ appearance.
+
 ##### Hagiography (noun)
 *ˌha-gē-ˈä-grə-fē*
 - **biography of saints or venerated persons**

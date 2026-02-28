@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "B.md",
+                "file": "L.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "B"
+              "title": "L"
             }
           },
           {
@@ -35,7 +35,8 @@
               "title": "_Inbox"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,21 +186,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "022f09e956846e38",
+  "active": "1620b4a07baff240",
   "lastOpenFiles": [
-    "_Inbox.md",
-    "B.md",
+    "L.md",
     "S.md",
-    "G.md",
+    "_Inbox.md",
     "C.md",
+    "H.md",
+    "B.md",
+    "M.md",
+    "A.md",
+    "G.md",
     "R.md",
     "P.md",
     "Q.md",
     "U.md",
-    "A.md",
-    "M.md",
     "Y.md",
-    "H.md",
     "D.md",
     "I.md",
     "E.md",
@@ -211,7 +213,6 @@
     "T.md",
     "O.md",
     "N.md",
-    "L.md",
     "K.md",
     "Untitled.base"
   ]
