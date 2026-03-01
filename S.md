@@ -675,6 +675,13 @@
 	So with that all said, to any and all who see our flag flying off your _stern_, know this… There will be no quarter nor mercy offered nor given.
 	With their imposing bulk, elegant curves, colorfully painted _sterns_, and ornate decorations, the vessels were among the most distinctive and beautiful ships on the seas.
 
+##### Stevedore (noun / verb)
+*ˈstē-və-ˌdȯr*
+- **one who works at or is responsible for loading and unloading ships in port**
+- **to handle (cargo) as a stevedore**
+	on the wharves, _stevedores_ were unloading cargo from the far corners of the world
+	The jobs reflected in the survey include dockworkers, _stevedores_, truck drivers, financing and administrative positions.
+
 ##### Stigma (noun)
 *ˈstig-mə*
 - **a set of negative and unfair beliefs that a society or group of people have about something**
@@ -792,6 +799,13 @@
 - **aid, help**
 - **something that furnishes relief**
 	We see it as our duty to give *succor* to those in need.
+
+##### Sudsy (adjective)
+*ˈsəd-zē*
+- **full of suds: frothy, foamy**
+- **of, relating to, or having the characteristics of a soap opera**
+	came out of the bathroom with her hair all _sudsy_ because someone had turned off the water
+	Fill it with hot water and some dish soap and simply submerge it in the _sudsy_ water.
 
 ##### Suffer (verb)
 *ˈsə-fər*

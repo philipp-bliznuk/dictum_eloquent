@@ -380,6 +380,13 @@
 - **a short fleshy usually underground stem bearing minute scale leaves each of which bears a bud in its axil and is potentially able to produce a new plant**
 	Sweet potatoes are starchy _tubers_, often a vibrant orange color, that can be a healthy part of a balanced diet.
 
+##### Tuft (noun / verb)
+*ˈtəft*
+- **a small cluster of elongated flexible outgrowths attached or close together at the base and free at the opposite ends**
+- **clump, cluster**
+	A _tuft_ of hair stuck out from under his hat.
+	The mattresses are hand-_tufted_ and made in California.
+
 ##### Tureen (noun)
 *tə-ˈrēn*
 - **a deep and usually covered bowl from which foods (such as soup) are served**

@@ -451,6 +451,13 @@ _bi-ˈsä-təd_
 - **an awkward and unsophisticated rustic**
 	the _bumpkin_ was overwhelmed by the city's confusing subway system
 
+##### Bureau (noun)
+*ˈbyu̇r-(ˌ)ō*
+- **a writing desk, especially one having drawers and a slant top**
+- **a specialized administrative unit**
+	the Federal _Bureau_ of Investigation
+	The book is on top of my _bureau_.
+
 ##### Burgeoning (adjective)
 *ˈbər-jə-niŋ*
 - **growing, expanding, or developing rapidly**

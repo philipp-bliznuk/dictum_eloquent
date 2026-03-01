@@ -767,6 +767,13 @@ _ˈkau̇n-tᵊn-ən(t)s_
 	The theory is gaining _credence_ among scientists.
 	I'm afraid I don't put much _credence_ in common gossip.
 
+##### Credenza (noun)
+*kri-ˈden-zə*
+- **a Renaissance sideboard used chiefly for valuable plate**
+- **a sideboard, buffet, or bookcase patterned after a Renaissance credence**
+	_credenza_ is a welcome addition to small living room
+	Avoid blocking windows with tall furniture; a low-profile _credenza_ or shelf might be a better choice than a wardrobe.
+
 ##### Crenellation (noun)
 *ˌkre-nə-ˈlā-shən*
 - **battlement**
@@ -814,6 +821,13 @@ _ˈkau̇n-tᵊn-ən(t)s_
 - **implies exultant boasting or bragging**
 	The boy _crowed_ with delight.
 	The rest of us were sick of hearing her _crow_ about her success.
+
+##### Crud (noun)
+*ˈkrəd*
+- **a deposit or incrustation of filth, grease, or refuse**
+- **a usually ill-defined or imperfectly identified bodily disorder**
+	I spent an hour scrubbing the _crud_ off the old stove.
+	He complains that there's too much _crud_ on TV these days.
 
 ##### Cubbyhole (noun)
 *ˈkə-bē-ˌhōl*
