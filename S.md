@@ -920,6 +920,13 @@
 	We lay on the beach listening to the *susurration* of the water and looking up at the sky.
 	When he rose to speak, the Senate chamber was filled with *susurrations*.
 
+##### Suture (noun / verb)
+*ˈsü-chər*
+- **a strand or fiber used to sew parts of the living body**
+- **the seam or seamlike line along which two things or parts are sewed or united: stitch**
+	The surgeon _sutured_ the incision.
+	the doctor cleaned, _sutured_, and bandaged the wound
+
 ##### Svelte (adjective)
 *ˈsvelt*
 - **slender, lithe**

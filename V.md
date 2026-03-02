@@ -186,6 +186,13 @@
 	fairy tales that typically portray stepmothers as _viragoes_
 	Meredith is a stereotypical _virago_ updated with modern libertarian notions.
 
+##### Virility (noun)
+*və-ˈri-lə-tē*
+- **the quality or state of being virile: masculinity**
+- **the condition of being an adult male as distinguished from a child or female**
+	many cultures value _virility_ as a sign of power
+	Now, data shows that fitness _virility_ in 2026 isn’t driven by extreme gym culture or elite athletes.
+
 ##### Virulent (adjective)
 *ˈvir-ə-lənt*
 - **marked by a rapid, severe, and destructive course**
@@ -232,6 +239,13 @@ Vermilion (noun)
 - **implies fluent and sustained abuse**
 	their _vituperation_ against the president
 	Voters are tired of all the _vituperation_ in this campaign.
+
+##### Vivacious (adjective)
+*və-ˈvā-shəs*
+- **lively in temper, conduct, or spirit: sprightly**
+- **suggests an activeness of gesture and wit, often playful or alluring**
+	a _vivacious_ party host
+	an outgoing, _vivacious_ girl who became a successful sales rep
 
 ##### Vivarium (noun)
 *vī-ˈver-ē-əm*

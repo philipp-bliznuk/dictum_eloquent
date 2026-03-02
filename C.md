@@ -574,6 +574,13 @@
 	newly *consecrated* bishops
 	The ashes are _consecrated_ with holy water and incense before being administered.
 
+##### Consignment (noun / adjective)
+*kən-ˈsīn-mənt*
+- **something consigned especially in a single shipment**
+- **of, relating to, or received as goods on consignment**
+	Commission rates at the online _consignment_ shop start at 40 percent and max out at 70 percent.
+	a *consignment* sale
+
 ##### Consort (noun / verb)
 *ˈkän-ˌsȯrt*
 - **associate, spouse**

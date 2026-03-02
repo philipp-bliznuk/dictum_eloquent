@@ -1,3 +1,10 @@
+##### Lacquer (noun / verb)
+*ˈla-kər*
+- **a spirit varnish (such as shellac)**
+- **any of various clear or colored synthetic organic coatings that typically dry to form a film by evaporation of the solvent**
+	Many coats of _lacquer_ were applied to the table.
+	*lacquered* her hair
+
 ##### Lacuna (noun)
 *lə-ˈkü-nə*
 - **a blank space or a missing part: gap**
@@ -154,6 +161,13 @@
 - **slander, disgrace**
 	The newspaper was found guilty of _libel_.
 	The jury found that the article *libeled* him.
+
+##### Licentious (adjective)
+*lī-ˈsen(t)-shəs*
+- **lacking legal or moral restraints, especially sexual restraints: lustful**
+- **marked by disregard for strict rules of correctness**
+	a moralist who decried what she regarded as the _licentious_ and corrupt culture of the entertainment industry
+	*licentious* behavior
 
 ##### Lieu / In lieu of (noun / phrase)
 *ˈlü* / *ˈin ˈlü ˈəv*

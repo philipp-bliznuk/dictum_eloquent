@@ -58,6 +58,13 @@
 	leaves that _taper_ to a point
 	you'll find the symptoms begin _tapering_ gradually about 24 hours after you take the medicine
 
+##### Tawdry (adjective / noun)
+*ˈtȯ-drē*
+- **cheap and gaudy in appearance or quality**
+- **morally sordid, base, or distasteful**
+	*tawdry* clothing/jewels
+	a *tawdry* scandal/affair
+
 ##### Temerity (noun)
 *tə-ˈmer-ə-tē*
 - **unreasonable or foolhardy contempt of danger or opposition: rashness, recklessness**

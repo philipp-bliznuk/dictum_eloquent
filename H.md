@@ -181,6 +181,13 @@
 	*hock* a loogie
 	*hock* a wad of tobacco
 
+##### Holdall (noun)
+*ˈhōld-ˌȯl*
+- **an often cloth traveling case or bag**
+- **suitcase**
+	there was a forgotten _holdall_ in the bus station loo
+	Bally’s core tradition in accessories is reflected in the range of luxurious yet practical _holdalls_ and backpacks, trimmed in leather.
+
 ##### Homage (noun)
 *ˈä-mij*
 - **a feudal ceremony by which a person acknowledges vassalage to a lord**
