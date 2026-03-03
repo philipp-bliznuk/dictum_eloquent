@@ -215,6 +215,13 @@
 - **detracting from the character or standing of something -> often used with _to, towards_, or _of_**
 	fans made a steady stream of _derogatory_ remarks about the players on the visiting team
 
+##### Derrick (noun)
+*ˈder-ik*
+- **a hoisting apparatus employing a tackle rigged at the end of a beam**
+- **a framework or tower over a deep drill hole (as of an oil well) for supporting boring tackle or for hoisting and lowering**
+	Dotting the shoreline is a bleak expanse of detritus: timeworn pumps, tottering _derricks_, wayward cranes and aging pipelines.
+	The company built a 54-foot statue of an oil _derrick_, now the largest monument in the Austin, Texas, area.
+
 ##### Derriere (noun)
 *ˌder-ē-ˈer*
 - **the part of the body a person sits on: buttocks -> used euphemistically**

@@ -209,6 +209,13 @@
 	did not mean to _affront_ you when I told you I didn't need your help
 	He regarded her rude behavior as a personal _affront_.
 
+##### Aft (adverb / adjective)
+*ˈaft*
+- **near, toward, or in the stern of a ship or the tail of an aircraft**
+- **rearward, after**
+	We stood on the ship's deck facing _aft_.
+	The fore and _aft_ exits can both be used in an emergency.
+
 ##### Agog (adjective)
 *ə-ˈgäg*
 - **full of intense interest or excitement: eager**
@@ -662,6 +669,13 @@ _ə-ˈskan(t)s_
 - **commonly used in compounds both with and without a hyphen**
 	I'm not _averse_ to broccoli if it's cooked right.
 	a conservative *risk-averse* investor
+
+##### Aver (verb)
+*ə-ˈvər*
+- **to declare positively: claim**
+- **to verify or prove to be true in pleading a cause**
+	He _averred_ that he was innocent.
+	Plenty of Trump’s most senior appointees have _averred_ that COVID started in a lab.
 
 ##### Avunculicide (noun)
 *ə-ˈvəŋ-kyə-lə-ˌsīd*

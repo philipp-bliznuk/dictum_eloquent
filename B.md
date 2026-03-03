@@ -193,6 +193,13 @@ _bi-ˈsä-təd_
 	Then one of them, the boy’s trim and _bespectacled_ father, spoke.
 	On the very top of the pile was a black-and-white mug shot of a bearded, *bespectacled* man.
 
+##### Betoken (verb)
+*bi-ˈtō-kən*
+- **to typify beforehand: presage**
+- **to give evidence of: show**
+	the humor in his writing is never cruel, and _betokens_ a warm and compassionate heart
+	Those acts _betoken_ a more significant change.
+
 ##### Bevy (noun)
 *ˈbe-vē*
 - **a large group or collection**

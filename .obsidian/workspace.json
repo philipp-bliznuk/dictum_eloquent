@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "H.md",
+                "file": "S.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "H"
+              "title": "S"
             }
           },
           {
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -187,24 +188,25 @@
   },
   "active": "1620b4a07baff240",
   "lastOpenFiles": [
-    "H.md",
+    "S.md",
+    "P.md",
     "_Inbox.md",
+    "D.md",
+    "F.md",
+    "G.md",
+    "A.md",
+    "T.md",
+    "B.md",
+    "H.md",
     "Untitled.md",
     "C.md",
     "V.md",
-    "T.md",
     "L.md",
-    "B.md",
-    "S.md",
     "M.md",
-    "A.md",
-    "G.md",
     "R.md",
-    "P.md",
     "Q.md",
     "U.md",
     "Y.md",
-    "D.md",
     "I.md",
     "E.md",
     "Z.md",
@@ -212,7 +214,6 @@
     "W.md",
     "O.md",
     "N.md",
-    "K.md",
     "Untitled.base"
   ]
 }

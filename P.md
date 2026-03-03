@@ -246,6 +246,18 @@
 	a *perfunctory* smile
 	the violinist delivered a *perfunctory* performance that displayed none of the passion and warmth he was once known for
 
+##### Periwig (noun)
+*ˈper-i-ˌwig*
+- **peruke**
+- **wig**
+	The word “wig” is derived from the word “*periwig*”, which is what the English thought they heard when the French introduced them to their word: “perruque”.
+
+Peruke (noun)
+*pə-ˈrük*
+- **wig, especially one of a type popular from the 17th to the early 19th century**
+	For my part I prefer the snows of life’s winter to the best made *peruke*, and even a bald head to an inferior wig.
+	That would be nice. I think you will look darling in a *peruke*.
+
 ##### Perjury (noun)
 *ˈpər-jə-rē*
 - **the voluntary violation of an oath or vow either by swearing to what is untrue or by omission to do what has been promised under oath: false swearing**
@@ -416,6 +428,13 @@
 - **suggests changing resentment or bitterness to goodwill**
 	The administration _placated_ protesters by agreeing to consider their demands
 	The angry customer was not _placated_ by the clerk's apology.
+
+##### Plaintive (adjective)
+*ˈplān-tiv*
+- **expressive of suffering or woe: melancholy**
+- **mournful**
+	We could hear the _plaintive_ cry of a wounded animal in the woods.
+	the puppy's _plaintive_ expression after we put the toy away was rather amusing
 
 ##### Platitude (noun)
 *ˈpla-tə-ˌtüd*
@@ -720,6 +739,13 @@
 - **plebeian, low-life, ignoble**
 	the writer's *prole* origins are evident in his gritty novels about life in the inner city
 	What benediction is possible for soot-faced _proles_ shunned by God and man?
+
+##### Promenade (noun / verb)
+*ˌprä-mə-ˈnād*
+- **a place for strolling**
+- **a leisurely walk or ride especially in a public place for pleasure or display**
+	a beautifully landscaped park with a wide _promenade_ along the riverside
+	They _promenaded_ along the beach.
 
 ##### Propensity (noun)
 *prə-ˈpen(t)-sə-tē*

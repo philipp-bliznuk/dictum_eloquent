@@ -58,6 +58,13 @@
 	leaves that _taper_ to a point
 	you'll find the symptoms begin _tapering_ gradually about 24 hours after you take the medicine
 
+##### Tarpaulin (noun)
+*tär-ˈpȯ-lən*
+- **a piece of material used especially for protecting exposed objects or areas: tarp**
+- **sailor**
+	They were merely spread over with an old *tarpaulin*, cracked and rent in every direction.
+	The Englishman replied, like a rough *tarpaulin*, "They might starve; they should not plant nor build in that place."
+
 ##### Tawdry (adjective / noun)
 *ˈtȯ-drē*
 - **cheap and gaudy in appearance or quality**

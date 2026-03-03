@@ -127,6 +127,13 @@
 	a surface decorated with _filigree_ and pearls
 	a *filigree* of frost
 
+##### Finial (noun)
+*ˈfi-nē-əl*
+- **a usually foliated ornament forming an upper extremity especially in Gothic architecture**
+- **a crowning ornament or detail (such as a decorative knob)**
+	The bronze finish adds drama and warmth to your space, even without a decorative _finial_ or end cap.
+	The red, green, and gold set comes with a variety of shapes, including _finials_, snowflakes, and traditional, circular balls.
+
 ##### Firmament (noun)
 *ˈfər-mə-mənt*
 - **the vault or arch of the sky: heavens**

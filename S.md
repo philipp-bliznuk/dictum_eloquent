@@ -47,6 +47,12 @@
 	The accident should be a _salutary_ lesson to be more careful.
 	the low interest rates should have a _salutary_ effect on business
 
+##### Salver (noun)
+*ˈsal-vər*
+- **a tray especially for serving food or beverages**
+	And maybe a butler is approaching with biscuits on a _salver_.
+	The plow, in short, has been cleaned, polished and turned on its side as a _salver_ to serve adorable canapes in a posh lounge that once was a barn.
+
 ##### Salvo (noun / verb)
 *ˈsal-(ˌ)vō*
 - **a simultaneous discharge of two or more guns in military action or as a salute; barrage; volley**
@@ -606,6 +612,13 @@
 - **stresses contempt or disdain in rejection or repudiation**
 	_spurned_ his overtures of friendship
 	fiercely independent, the elderly couple _spurned_ all offers of financial help
+
+##### Squall (noun / verb)
+*ˈskwȯl*
+- **a sudden violent wind often with rain or snow**
+- **to cry out raucously: scream**
+	a snow _squall_ is expected tonight
+	the baby _squalled_ in pain
 
 ##### Squirm (verb)
 *ˈskwərm*
