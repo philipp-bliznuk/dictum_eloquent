@@ -1,3 +1,11 @@
+##### Facia / Fascia (noun)
+*ˈfā-sh(ē-)ə*
+- **a flat usually horizontal member of a building having the form of a flat band or broad fillet**
+- **a sheet of connective tissue covering or binding together body structures (such as muscles)**
+- **the dashboard of an automobile**
+	The architect selected a sleek, dark wood for the *facia* of the new boutique to give the storefront a modern and inviting look.
+	As the swelling increases, pressure in the area between the muscle and the _fascia_ builds.
+
 ##### Familicide (noun)
 *fəˈmɪlɪˌsaɪd*
 - **the murder of an entire family by a family member.**

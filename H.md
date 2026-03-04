@@ -1,3 +1,10 @@
+##### Habeas Corpus (noun)
+*ˈhā-bē-əs-ˈkȯr-pəs*
+- **any of several common-law writs issued to bring a party before a court or judge**
+- **the right of a prisoner or detainee to obtain a writ of habeas corpus as a protection against illegal imprisonment**
+	apply for a writ of _habeas corpus_
+	Florida has recorded 912 _habeas corpus_ cases in federal court since last January
+
 ##### Habit (noun / verb)
 *ˈha-bət*
 - **a costume characteristic of a calling, rank, or function**

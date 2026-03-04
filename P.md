@@ -387,6 +387,13 @@ Peruke (noun)
 - **a motorcycle or bicycle saddle for a passenger**
 	The killers were mostly masked or hooded gunmen riding _pillion_ on motorcycles, sometimes in broad daylight.
 
+##### Pink (noun / verb)
+*ˈpiŋk*
+- **the very embodiment: paragon**
+- **pierce, stab**
+	the _pink_ of society will be at the gala for the city's opera company
+	accidentally _pinked_ my shoulder with his fencing sword
+
 ##### Pinnace (noun)
 *ˈpi-nəs*
 - **a light sailing ship**

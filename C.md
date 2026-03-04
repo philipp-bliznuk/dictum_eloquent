@@ -222,6 +222,13 @@
 - **a building or chamber in which bodies or bones are deposited; called also charnel house**
 	Though cremation has since solved the burial space issue, Hallstatt townspeople can choose to send their remains to the *charnel* house.
 
+##### Chase (noun / verb)
+*ˈchās*
+- **groove, furrow, ornamental work on a metal surface**
+- **to ornament (metal) by indenting with a hammer and tools without a cutting edge**
+	The silversmith began to *chase* a delicate vine pattern into the exterior of the communion cup, using a tiny hammer to create depth.
+	Upon closer inspection, the jeweler noticed a slight imperfection in the *chase*, suggesting the piece had been handcrafted rather than machine-stamped.
+
 ##### Chasen (verb)
 *ˈchā-sᵊn*
 - **to correct by punishment or suffering: discipline**

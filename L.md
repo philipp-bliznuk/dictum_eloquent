@@ -26,6 +26,13 @@
 	They proceeded at a _languid_ pace.
 	It was a hot, _languid_ summer day.
 
+##### Languish (verb)
+*ˈlaŋ-gwish*
+- **to be or become feeble, weak, or enervated**
+- **to become dispirited or neglected**
+	Plants *languish* in the drought.
+	the bill *languished* in the Senate for eight months
+
 ##### Lank (adjective)
 *ˈlaŋk*
 - **not well filled out: slender, thin**

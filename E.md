@@ -268,6 +268,13 @@
 	The snake _entwined_ itself around the branch.
 	marveled at how the vines had delicately and intricately _entwined_ themselves on the trellis
 
+##### Epaulet (noun)
+*ˌe-pə-ˈlet*
+- **an ornamental fringed shoulder pad formerly worn as part of a military uniform**
+- **an ornamental strip or loop sewn across the shoulder of a dress or coat**
+	The admiral’s gold *epaulets* caught the sunlight, their long silk fringes swaying with every step he took across the deck.
+	For the gala, the designer added faux-pearl *epaulets* to the blazer, giving the structured shoulders a regal, avant-garde flair.
+
 ##### Epithet (noun)
 *ˈe-pə-ˌthet*
 - **a characterizing word or phrase accompanying or occurring in place of the name of a person or thing**

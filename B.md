@@ -372,6 +372,13 @@ _bi-ˈsä-təd_
 	_bowered_ by a canopy of grapevines, we enjoyed a serene and very private picnic
 	This elegant crisscross trellis can be used in the most formal of outdoor spaces to support climbing foliage like pink _bower_ vines.
 
+##### Braise (noun / verb)
+*ˈbrāz*
+- **to cook slowly in fat and a small amount of liquid in a closed pot**
+- **an item of braised food**
+	He _braised_ the beef in a wine sauce.
+	This is particularly effective in _braises_ and other gentle cooking methods.
+
 ##### Brawny (adjective)
 *ˈbrȯ-nē*
 - **muscular, strong, powerful**
