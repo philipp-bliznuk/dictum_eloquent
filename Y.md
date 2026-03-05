@@ -1,3 +1,10 @@
+##### Yawl (noun)
+*ˈyȯl*
+- **a ship's small boat: jolly boat**
+- **a fore-and-aft rigged sailboat carrying a mainsail and one or more jibs with a mizzenmast far aft**
+	The ship's captain ordered the crew to the _yawl_ boat.
+	Prior to the incident, Wilson had been aboard a 52-foot _yawl_ named the Emerald with friends Oster and Colleen McGovern.
+
 ##### Yokel (noun)
 *ˈyō-kəl*
 - **a naive or gullible inhabitant of a rural area or small town**

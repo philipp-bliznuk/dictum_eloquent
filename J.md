@@ -33,6 +33,13 @@
 	Our plans are finally starting to _jell_.
 	Boil the jam until it begins to _jell_.
 
+##### Jetty (noun / verb)
+*ˈje-tē*
+- **a structure extended into a sea, lake, or river to influence the current or tide or to protect a harbor: pier**
+- **project, jut**
+	didn't see any passengers waiting for the ferry, so the captain sailed past the _jetty_
+	Stay off of _jetties_, piers, rocks, and other waterside infrastructure.
+
 ##### Jink (verb / noun)
 *ˈjiŋk*
 - **to move quickly or unexpectedly with sudden turns and shifts (as in dodging)**
@@ -47,6 +54,13 @@
 - **athlete (especially: a school or college athlete)**
 	computer *jocks*
 	Sports *jocks* and computer nerds spent a lifetime at odds with each other.
+
+##### Jodhpur (noun)
+*ˈjäd-(ˌ)pər*
+- **an ankle-high boot fastened with a strap that is buckled at the side -> called also jodhpur boot**
+- **plural: riding breeches cut full through the hips and close-fitting from knee to ankle**
+	An equestrian silhouette was also presented, with tight _jodhpur_ trousers worn with cropped jackets and long leather boots.
+	Carrington wore corduroy trousers and _jodhpurs_, and styled her hair in a short, blunt bob that threatened to obscure her face.
 
 ##### Juxtapose (verb)
 *ˈjək-stə-ˌpōz*

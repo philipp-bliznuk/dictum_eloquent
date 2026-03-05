@@ -276,6 +276,13 @@
 	a boss with a reputation for _chivying_ his workers about every little thing
 	chivy an olive out of a bottle
 
+##### Choppy (adjective)
+*ˈchä-pē*
+- **rough with small waves**
+- **interrupted by ups and downs: jerky**
+	a sharp, _choppy_ wind coming off the lake
+	the plot was intriguing, but the author's style was so _choppy_ that I finally gave up in frustration
+
 ##### Chow (noun / verb)
 *ˈchau̇*
 - **food, victuals**
@@ -661,6 +668,13 @@ _ˈküt_
 - **a stupid fellow; a simpleton**
 	Don't mind him - he's just a crazy old *coot*.
 
+##### Coo (verb)
+*ˈkü*
+- **to make the low soft cry of a dove or pigeon or a similar sound**
+- **to talk fondly, amorously, or appreciatively**
+	The baby _cooed_ quietly in her crib.
+	They all _cooed_ over the baby pictures.
+
 ##### Coquette (noun)
 *kō-ˈket*
 - **a woman who endeavours without sincere affection to gain the attention and admiration of men**
@@ -870,3 +884,10 @@ _ˈkau̇n-tᵊn-ən(t)s_
 - **one entrusted with guarding and keeping property or records or with custody or guardianship of prisoners or inmates: warden**
 	the _custodian_ made his usual rounds of the building to make sure that everything was OK
 	served as _custodian_ of the prisoner until he could be turned over to federal authorities
+
+##### Cyclopean (adjective)
+*ˌsī-klə-ˈpē-ən*
+- **huge, massive**
+- **of or relating to a style of stone construction marked typically by the use of large irregular blocks without mortar**
+	a _cyclopean_ granite statue that the dictator himself had commissioned
+	The wall was built with a range of construction techniques, including _cyclopean_ masonry.

@@ -348,6 +348,13 @@
 	since fruits and vegetables are regarded as _fungible_ in this diet, you are allowed a total of five servings of either or both
 	Some of those figures seemed *fungible* because there were no price tags.
 
+##### Furlough (noun / verb)
+*ˈfər-(ˌ)lō*
+- **a leave of absence granted to a governmental or institutional employee (such as a soldier or civil servant)**
+- **a temporary leave from work that is not paid and is often for a set period of time**
+	Each employee will have a one-day _furlough_ every month.
+	The company will consider _furloughing_ a small number of workers.
+
 ##### Furnish (verb)
 *ˈfər-nish*
 - **implies the provision of any or all essentials for performing a function**

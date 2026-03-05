@@ -120,6 +120,7 @@
 ##### Patent (adjective)
 *ˈpa-tᵊnt*
 - **readily visible or intelligible: obvious**
+- **applies to a cause, effect, or significant feature that is clear and unmistakable once attention has been directed to it.**
 	his *patent* sincerity
 	a *patent* falsehood
 
@@ -182,6 +183,13 @@
 - **liable to punishment**
 	a *penal* offense
 	Australia was once a _penal_ colony.
+
+##### Pennant (noun)
+*ˈpe-nənt*
+- **any of various nautical flags tapering usually to a point or swallowtail and used for identification or signaling**
+- **a championship or flag emblematic of championship**
+	_pennants_ waving atop the tower
+	The Red Sox won the American League _pennant_ in 2004.
 
 ##### Pen (noun / verb)
 *ˈpen*
@@ -671,6 +679,14 @@ Peruke (noun)
 	The fossil was well _preserved_.
 	a jar of strawberry _preserve_
 
+##### Pretension (noun)
+*pri-ˈten(t)-shən*
+- **an allegation of doubtful value: pretext**
+- **a claim or right to attention or honor because of merit**
+- **an aspiration or intention that may or may not reach fulfillment**
+	He spoke about his achievements without _pretension_.
+	I admire his honesty and lack of _pretension_.
+
 ##### Prig (noun)
 *ˈprig*
 - **thief**
@@ -704,6 +720,13 @@ Peruke (noun)
 - **suggests a strong natural proneness usually to something objectionable or evil**
 	showed artistic _proclivities_ at an early age
 	a _proclivity_ for violence
+
+##### Procurator (noun)
+*ˈprä-kyə-ˌrā-tər*
+- **one that manages another's affairs: agent**
+- **an officer of the Roman empire entrusted with management of the financial affairs of a province and often having administrative powers as agent of the emperor**
+	he was appointed _procurator_ of the church and was responsible for all of the financial arrangements
+	The wealthy merchant, traveling abroad for years, appointed a trusted *procurator* to manage his estates and collect his rents in his absence.
 
 ##### Prodigious (adjective)
 *prə-ˈdi-jəs*

@@ -681,3 +681,10 @@ _ə-ˈskan(t)s_
 *ə-ˈvəŋ-kyə-lə-ˌsīd*
 - **the killing of an uncle by his nephew or niece**
 	*Avunculicide* is a heinous crime.
+
+##### Awning (noun)
+*ˈȯ-niŋ*
+- **a rooflike cover extending over or in front of a place (as over the deck or in front of a door or window) as a shelter**
+- **canopy, tent**
+	stayed under the _awning_ outside the shop during the rainstorm
+	The shape of the *awning* gives you far more wind, rain, and sun protection.

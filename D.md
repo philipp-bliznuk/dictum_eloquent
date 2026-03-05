@@ -11,6 +11,13 @@
 - **the condition marked by excessive shedding of such flakes and usually accompanied by itching**
 	The shampoo is supposed to help control _dandruff_.
 
+##### Dappled / Dapple (adjective)
+*ˈda-pəld*
+- **marked with small spots or patches contrasting with the background**
+- **dotted**
+	a forest that was vibrant with the _dappled_ foliage of autumn
+	This hardy perennial grows in _dappled_ light or full shade.
+
 ##### Daub (verb / noun)
 *ˈdȯb*
 - **to cover or coat with soft adhesive matter: plaster**
@@ -293,6 +300,12 @@
 - **finger, toe**
 	She suffered several broken _digits_.
 	From sleek leather to toasty wool, these gloves will keep your *digits* cozy but still free to swipe and type.
+
+##### Dignitary (noun / adjective)
+*ˈdig-nə-ˌter-ē*
+- **one who possesses exalted rank or holds a position of dignity or honor**
+	The dinner was attended by many foreign _dignitaries_.
+	After the war, Julian joined a delegation of American _dignitaries_ on a trip to Europe that included a stop in Berlin.
 
 ##### Dilapidated (adjective)
 *də-ˈla-pə-ˌdā-təd*

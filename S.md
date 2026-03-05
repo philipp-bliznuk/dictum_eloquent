@@ -189,6 +189,13 @@
 	She has curly red hair and big jolly brown eyes and *scrumptious* freckles.
 	baked a _scrumptious_ chocolate cake
 
+##### Scud (noun / verb)
+*ˈskəd*
+- **a gust of wind**
+- **to move or run swiftly especially as if driven forward**
+	Clouds _scudded_ across the sky.
+	a cold _scud_ sent leaves skittering down from the trees
+
 ##### Scuffle (verb)
 *ˈskə-fəl*
 - **to struggle at close quarters with disorder and confusion**
@@ -529,6 +536,13 @@
 	He expressed _solicitude_ for my health.
 	a growing _solicitude_ over the possible results of the criminal investigation
 
+##### Soliloquy (noun)
+*sə-ˈli-lə-kwē*
+- **the act of talking to oneself**
+- **a poem, discourse, or utterance of a character in a drama that has the form of a monologue or gives the illusion of being a series of unspoken reflections**
+	In his famous *soliloquy*, Hamlet contemplates the very nature of existence, famously asking whether it is better 'to be, or not to be'.
+	The actress delivered her final *soliloquy* with such raw emotion that the audience felt they were intruding on a deeply private moment of grief.
+
 ##### Soporific (adjective / noun)
 *ˌsä-pə-ˈri-fik*
 - **causing or tending to cause sleep**
@@ -702,6 +716,20 @@
 	There's a _social stigma_ attached to receiving welfare.
 	the _stigma_ of slavery remained long after it had been abolished
 
+##### Stilt (noun / verb)
+*ˈstilt*
+- **one of two poles each with a rest or strap for the foot used to elevate the wearer above the ground in walking**
+- **a pile or post serving as one of the supports of a structure above ground or water level**
+	a circus performer walking on _stilts_
+	The word _stilt_ comes from Middle English stilt(e), meaning a crutch or support.
+
+##### Stockade (noun / verb)
+*stä-ˈkād*
+- **a line of stout posts set firmly to form a defense**
+- **an enclosure or pen made with posts and stakes: jail**
+	prisoners of war confined in a _stockade_
+	The camp consisted of a _stockade_ erected around a 16-acre field by 200 enslaved workers commandeered from nearby plantations.
+
 ##### Stolid (adjective)
 *ˈstä-ləd*
 - **having or expressing little or no sensibility: unemotional**
@@ -735,6 +763,12 @@
 - **a part of a historical or sociological series representing a period or a stage of development**
 	the lower _strata_ of society have been hit especially hard by this economic downturn
 	the level of writing in that pop novel is several _strata_ beneath that of serious fiction
+
+##### Streamer (noun)
+*ˈstrē-mər*
+- **a flag that streams in the wind: pennant**
+- **any long narrow wavy strip resembling or suggesting a banner floating in the wind**
+	_streamers_ in the team's colors hung from the top of the stadium
 
 ##### Stricture (noun)
 *ˈstrik-chər*
@@ -853,6 +887,13 @@
 - **hot with passion or anger / exciting or capable of exciting strong sexual desire**
 	She looked at him with a _sultry_ glance.
 	an actress with a _sultry_ voice
+
+##### Summations (noun)
+*(ˌ)sə-ˈmā-shən*
+- **the act or process of forming a sum: addition**
+- **a final part of an argument reviewing points made and expressing conclusions**
+	A _summation_ can be found at the end of the report.
+	We gave a _summation_ of our discovery.
 
 ##### Sump (noun)
 *ˈsəmp*

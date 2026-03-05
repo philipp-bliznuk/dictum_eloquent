@@ -308,6 +308,13 @@ _bi-ˈsä-təd_
 	guards armed with _bludgeons_ roamed the compound
 	the boxer _bludgeons_ opponents with an assortment of punches
 
+##### Bluff (noun / adjective)
+*ˈbləf*
+- **a high steep bank: cliff**
+- **good-naturedly frank and outspoken**
+	stood on the *bluffs* overlooking the ocean
+	a *bluff*, easygoing fellow
+
 ##### Bluster (verb / noun)
 *ˈblə-stər*
 - **to talk or act with noisy swaggering threats**
@@ -418,6 +425,13 @@ _bi-ˈsä-təd_
 	He was not a fire and _brimstone_ kind of preacher.
 	It's a dark, furious image with a lingering odor of _brimstone_.
 
+##### Brocade (noun)
+*brō-ˈkād*
+- **a rich silk fabric with raised patterns in gold and silver**
+- **a fabric characterized by raised designs**
+	From _brocade_ coats to workaday dresses, these looks dominated the runway.
+	As for the men, there was plenty of ornate, *brocade* jackets and suits in the early bunch.
+
 ##### Brook (noun / verb)
 *ˈbru̇k*
 - **a natural stream of water normally smaller than and often tributary to a river**
@@ -499,6 +513,13 @@ _bi-ˈsä-təd_
 - **athletic, powerful, beefy**
 	a _burly_ delivery man brought the furniture
 	The footage revealed a _burly_ bear regularly walking past his house and the camera.
+
+##### Burnish (verb / noun)
+*ˈbər-nish*
+- **to make shiny or lustrous especially by rubbing: polish**
+- **luster, gloss**
+	_burnished_ the floor of the ballroom to a soft luster
+	after some much-needed polishing, the silver tea set had a brilliant _burnish_
 
 ##### Burr (noun / verb)
 *ˈbər*

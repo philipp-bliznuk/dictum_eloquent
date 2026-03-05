@@ -179,6 +179,13 @@
 	the _eminence_ of the Nobel Prize in the field of awards and prizes
 	the old citadel sits on an _eminence_ with a commanding view of the city
 
+##### Emplacement (noun)
+*im-ˈplā-smənt*
+- **the situation or location of something**
+- **a prepared position for weapons or military equipment**
+	secret _emplacement_ of missiles on the island
+	the _emplacement_ of the house, which is between two hulking mansions, makes it seem smaller than it is
+
 ##### Emporium (noun)
 *im-ˈpȯr-ē-əm*
 - **a place of trade: bazaar**

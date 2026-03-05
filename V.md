@@ -88,6 +88,13 @@
 - **unripe in experience or judgment**
 	a beautiful, _verdant_ field
 
+##### Verdigris (noun)
+*ˈvər-də-ˌgrēs*
+- **a green or greenish-blue poisonous pigment resulting from the action of acetic acid on copper and consisting of one or more basic copper acetates**
+- **a green or bluish deposit especially of copper carbonates formed on copper, brass, or bronze surfaces**
+	This material resists corrosion without _verdigris_ oxidation, ensuring slow aging and a lasting patina.
+	The metal form features a purposeful _verdigris_ patina (i.e., the blue-green tint metal can take on when exposed to air or water), giving it the look of a true vintage piece without the antique market haggling.
+
 ##### Verisimilar (adjective)
 *ˌver-ə-ˈsi-mə-lər*
 - **having the appearance of truth: probable**
