@@ -195,6 +195,13 @@
 	an *incisive* unsentimental writer
 	She's known for her _incisive_ mind and quick wit.
 
+##### Inclement (adjective)
+*(ˌ)in-ˈkle-mənt*
+- **lacking mildness: turbulent**
+- **physically severe: stormy**
+	The game was postponed due to _inclement_ weather.
+	the weather report warned that the holiday weekend would be spoiled by _inclement_ weather
+
 ##### (In)congruous (adjective)
 *(ˌ)in-ˈkäŋ-grə-wəs*
 - **not harmonious**
@@ -568,3 +575,10 @@
 - **annoying, frustrating**
 	the _irksome_ task of cleaning up
 	the _irksome_ habit of leaving all the kitchen cabinet doors open
+
+##### Itinerary (noun)
+*ī-ˈti-nə-ˌrer-ē*
+- **the route of a journey or tour or the proposed outline of one**
+- **a traveler's guidebook**
+	Our _itinerary_ included stops at several famous cathedrals.
+	I'll mail you a copy of my _itinerary_ so you'll know where to reach me.

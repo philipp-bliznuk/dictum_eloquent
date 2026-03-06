@@ -173,6 +173,13 @@
 	the finely _delineated_ characters of the novel will seem real to the reader
 	These tumors tend to be invasive and extend beyond *delineated* margins.
 
+##### Delinquent (adjective / noun)
+*di-ˈliŋ-kwənt*
+- **offending by neglect or violation of duty or of law**
+- **being overdue in payment**
+	His _delinquent_ behavior could lead to more serious problems.
+	The town is trying to collect _delinquent_ taxes.
+
 ##### Demagogue (noun / verb)
 *ˈde-mə-ˌgäg*
 - **a political leader who appeals to popular prejudices and who makes false claims and promises in order to gain power**

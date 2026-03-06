@@ -401,6 +401,13 @@
 	A _tuft_ of hair stuck out from under his hat.
 	The mattresses are hand-_tufted_ and made in California.
 
+##### Tumbler (noun)
+*ˈtəm-blər*
+- **a drinking glass without foot or stem and originally with pointed or convex base**
+- **one who performs tumbling feats: acrobat**
+	She drank a _tumbler_ of water.
+	a gymnast who's a skillful _tumbler_
+
 ##### Tureen (noun)
 *tə-ˈrēn*
 - **a deep and usually covered bowl from which foods (such as soup) are served**

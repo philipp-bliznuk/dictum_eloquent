@@ -171,6 +171,13 @@
 	She was _wistful_ for a moment, then asked, “Do you remember the old playground?”.
 	He had a _wistful_ look on his face.
 
+##### Wizen (verb / adjective)
+*ˈwi-zᵊn*
+- **to become dry, shrunken, and wrinkled often as a result of aging or of failing vitality**
+- **that is wizened**
+	a face *wizened* by age
+	_wizened_ old women
+
 ##### Writhe (verb)
 *ˈrīt͟h*
 - **to twist into coils or folds**

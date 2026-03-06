@@ -5,6 +5,12 @@
 	After making his *obeisances* he approached the altar.
 	The players paid *obeisance* to their coach.
 
+##### Oblate (adjective)
+*ä-ˈblāt*
+- **flattened or depressed at the poles**
+	an *oblate* spheroid
+	Instead our star is actually a little squished, or _oblate_.
+
 ##### Obscene (adjective)
 *äb-ˈsēn*
 - **disgusting to the senses: repulsive**

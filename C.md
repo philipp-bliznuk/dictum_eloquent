@@ -754,12 +754,26 @@ _ˈkau̇n-tᵊn-ən(t)s_
 	_cozened_ several elderly ladies into believing that he was intending marriage
 	_cozened_ scores of people by persuading them to hand over funds that he would “invest”
 
+##### Craggy (adjective)
+*ˈkra-gē*
+- **full of crags**
+- **rough, rugged**
+	a famous actor who is known for his _craggy_ good looks
+	his white hair and _craggy_ face
+
 ##### Crag (noun)
 *ˈkrag*
 - **a steep rugged rock or cliff**
 - **a sharp detached fragment of rock**
 	a menacing _crag_ overhangs the hiking trail
 	Even overconfidence is easily understandable at the _crag_ or climbing wall.
+
+##### Crag (noun)
+*ˈkrag*
+- **a steep rugged rock or cliff**
+- **escarpment**
+	a menacing _crag_ overhangs the hiking trail
+	Her travels are usually inspired by mountain bike trails, classic _crags_, and whatever is happening in the sky.
 
 ##### Crass (adjective)
 *ˈkras*

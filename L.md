@@ -19,6 +19,13 @@
 	The coach _lambasted_ the team for its poor play.
 	They wrote several letters _lambasting_ the new law.
 
+##### Lambent (adjective)
+*ˈlam-bənt*
+- **playing lightly on or over a surface: flickering**
+- **marked by lightness or brilliance especially of expression**
+	_lambent_ sunlight glinting off the waves
+	a writer known for her _lambent_ wit
+
 ##### Languid (adjective)
 *ˈlaŋ-gwəd*
 - **sluggish in character or disposition: listless**
@@ -86,6 +93,13 @@
 - **worthy of praise: commendable**
 	Improving the schools is a _laudable_ goal.
 	you showed _laudable_ restraint in dealing with that ridiculously demanding customer
+
+##### Launch (noun)
+*ˈlȯnch*
+- **a large boat that operates from a ship**
+- **a small motorboat that is open or that has the forepart of the hull covered**
+	The captain signaled for the steam *launch* to be lowered so the officers could be ferried to the shore for the evening's festivities.
+	We spent the afternoon touring the Venetian canals in a polished mahogany *launch*, its engine humming quietly as we glided past the ancient palaces.
 
 ##### Lavatory (noun)
 *ˈla-və-ˌtȯr-ē* / *ˈla-və-t(ə-)rē*

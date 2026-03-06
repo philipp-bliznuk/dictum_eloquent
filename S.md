@@ -822,6 +822,13 @@
 	Judging by the satisfied look that settles on both men's faces, the meal was *sublime*.
 	He composed some of the most _sublime_ symphonies in existence.
 
+##### Subterfuge (noun)
+*ˈsəb-tər-ˌfyüj*
+- **deception by artifice or stratagem in order to conceal, escape, or evade**
+- **suggests the adoption of a stratagem or the telling of a lie in order to escape guilt or to gain an end**
+	obtained the papers by _subterfuge_
+	propagandists who use a kind of photographic _subterfuge_, superimposing one image on another to create a false “reality”
+
 ##### Subversion (noun)
 *səb-ˈvər-zhən*
 - **a systematic attempt to overthrow or undermine a government or political system by persons working secretly from within**

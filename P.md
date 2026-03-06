@@ -486,6 +486,13 @@ Peruke (noun)
 	a _poignant_ documentary on the homeless
 	The photograph was a _poignant_ reminder of her childhood.
 
+##### Pollen (noun)
+*ˈpä-lən*
+- **a mass of microspores in a seed plant appearing usually as a fine dust**
+- **a dusty bloom on the body of an insect**
+	Not only is sunflower _pollen_ more allergenic that other pollens but, due to flower size, there is much more of it than in other flowers.
+	Aside from adding a pop of color to your garden, coneflowers are also a great source of _pollen_ for bees and seeds for birds.
+
 ##### Ponderous (adjective)
 *ˈpän-d(ə-)rəs*
 - **unwieldy or clumsy because of weight and size**

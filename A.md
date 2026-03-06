@@ -554,6 +554,13 @@ _ə-ˈskan(t)s_
 	Bernadette died of _asphyxiation_, according to an autopsy.
 	*Asphyxiation* at birth caused permanent impairment of his nerve-signaling system.
 
+##### Assent (noun / verb)
+*ə-ˈsent*
+- **an act of agreeing to something especially after thoughtful consideration: agreement**
+- **to agree to or approve of something (such as an idea or suggestion) especially after thoughtful consideration: concur**
+	The general proposed a detailed plan and the President _assented_.
+	are we to conclude from your silence that you _assent_?
+
 ##### Assiduous (adjective)
 *ə-ˈsij-wəs*
 - **showing great care, attention, and effort: marked by careful unremitting attention or persistent application**
