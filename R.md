@@ -196,6 +196,13 @@
 	_refuse_ had littered the playground until our volunteer group cleaned it up
 	As workers separated the burning _refuse_ and doused the items with water, a 911 call was made.
 
+##### Regal (adjective)
+*ˈrē-gəl*
+- **of, relating to, or suitable for a king: royal**
+- **of notable excellence or magnificence: splendid**
+	the actress's _regal_ bearing makes her a perfect choice to play royalty on the screen
+	envisioned a _regal_ wedding with hundreds of guests, a full choir, and a reception at the fanciest hotel in town
+
 ##### Regicide (noun)
 *ˈre-jə-ˌsīd*
 - **a person who kills a king**

@@ -356,6 +356,13 @@ Peruke (noun)
 	Her tone was _petulant_ and angry.
 	a _petulant_ and fussy man who is always blaming everyone else for his problems
 
+##### Pew (noun)
+*ˈpyü*
+- **a compartment in the auditorium of a church providing seats for several persons**
+- **one of the benches with backs and sometimes doors fixed in rows in a church**
+	Dreher knelt in one of the _pews_ and prayed.
+	The person sat in the last *pew* on the left side of the church.
+
 ##### Phlegmatic (adjective)
 *fleg-ˈma-tik*
 - **resembling, consisting of, or producing the humor phlegm**

@@ -12,6 +12,13 @@
 	Their efforts came to *naught*.
 	It was all for *naught*.
 
+##### Nave (noun)
+*ˈnāv*
+- **the hub of a wheel**
+- **the main part of the interior of a church**
+	After the ringing, Ingalls went into the church _nave_ to pray, Wisniowiecki said.
+	The towers would be held up by columns that soared upward through the church’s _nave_.
+
 ##### Nebulous
 *ˈne-byə-ləs*
 - **of, relating to, or resembling a nebula**

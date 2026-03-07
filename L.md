@@ -40,6 +40,13 @@
 	Plants *languish* in the drought.
 	the bill *languished* in the Senate for eight months
 
+##### Languor (noun)
+*ˈlaŋ-gər*
+- **weakness or weariness of body or mind: lethargy**
+- **suggests inertia induced by an enervating climate or illness or love**
+	They enjoyed the _languor_ brought on by a hot summer afternoon.
+	They felt an indefinable _languor_.
+
 ##### Lank (adjective)
 *ˈlaŋk*
 - **not well filled out: slender, thin**
@@ -73,6 +80,13 @@
 - **extending from side to side**
 	the _lateral_ force of an earthquake
 	from the _lateral_ view you can see how thick the wall really is
+
+##### Lathe (noun / verb)
+*ˈlāt͟h*
+- **a machine in which work is rotated about a horizontal axis and shaped by a fixed tool**
+- **to cut or shape with a lathe**
+	Using his army of tools, a mighty wood *lathe*, and solid block of wood, Kennard saws and sharpens the wood to create the decorative boxes.
+	The bowl on my desk, which was turned on a *lathe* from a single piece of wood, is by Ed Moulthrop.
 
 ##### Latrine (noun)
 *lə-ˈtrēn*
@@ -147,6 +161,12 @@
 - **a dominant recurring theme**
 	And so animals became a kind of _leitmotif_ throughout the book.
 	Not exactly _leitmotifs_, but yes, as each person sings, the music tends to reflect their character.
+
+##### Leonine (adjective)
+*ˈlē-ə-ˌnīn*
+- **of, relating to, suggestive of, or resembling a lion**
+	a _leonine_ mane of hair
+	Both young and old, Douglass had magnificent, _leonine_ looks.
 
 ##### Levity (noun)
 *ˈle-və-tē*
@@ -263,6 +283,13 @@
 *ˈlȯr-ē*
 - **motortruck**
 	Half a world away, in Philadelphia, her husband’s work as a *lorry* driver has dried up.
+
+##### Louver / Louvre (noun)
+*ˈlü-vər*
+- **a roof lantern or turret often with slatted apertures for escape of smoke or admission of light in a medieval building**
+- **an opening provided with one or more slanted fixed or movable fins to allow flow of air but to exclude rain or sun or to provide privacy**
+	The gunfire damaged the car’s rear end, trunk, tail light and rear window _louver_, according to court documents.
+	The wood *louver* shutters are drawn to block your view of the dollar store and Aurora outside.
 
 ##### Lucre (noun)
 *ˈlü-kər*

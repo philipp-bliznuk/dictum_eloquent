@@ -123,6 +123,13 @@
 	an _unseemly_ interest in their host's income and expenses
 	remarried with _unseemly_ haste
 
+##### Unstinting (adjective)
+*ˌən-ˈstin-tiŋ*
+- **not restricting or holding back: giving or being given freely or generously**
+- **generous**
+	a group of school volunteers who are _unstinting_ with their time
+	*unstinting* praise
+
 ##### Untoward (adjective)
 *ˌən-ˈtō-ərd*
 - **difficult to guide, manage, or work with: unruly, intractable**

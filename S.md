@@ -147,6 +147,13 @@
 	*Scores* of people attended the rally.
 	He lived to be three *score* years and ten (= until he was 70 years old).
 
+##### Scourge (noun / verb)
+*ˈskərj*
+- **whip, especially used to inflict pain or punishment**
+- **a cause of wide or great affliction**
+	a city ravaged by the _scourge_ of unemployment
+	a neighborhood _scourged_ by crime
+
 ##### Scrawny (adjective)
 *ˈskrȯ-nē*
 - **exceptionally thin and slight or meager in body or size**
@@ -202,6 +209,12 @@
 - **to move with a quick shuffling gait: scurry**
 	Children _scuffled_ on the playground.
 	Small creatures _scuffled_ in the underbrush.
+
+##### Scullery (noun)
+*ˈskə-lə-rē*
+- **a room for cleaning and storing dishes and cooking utensils and for doing messy kitchen work**
+	DuVall says a secondary kitchen (sometimes called a prep kitchen or a _scullery_) is also increasingly desired.
+	When possible, move countertop appliances into a _scullery_, pantry, or cupboard.
 
 ##### Seam (noun / verb)
 *ˈsēm*
@@ -788,6 +801,13 @@
 - **easily offended**
 	There's no need to get _stroppy_ with me.
 
+##### Stubble (noun)
+*ˈstə-bəl*
+- **the basal part of herbaceous plants and especially cereal grasses remaining attached to the soil after harvest**
+- **a rough surface or growth resembling stubble**
+	He ran his hand over his _stubble_.
+	Government satellite data showed a rise in crop _stubble_ fires, used by farmers to clear land before the next planting, since the start of November.
+
 ##### Stupor (noun)
 *ˈstü-pər*
 - **a condition of greatly dulled or completely suspended sense or sensibility**
@@ -934,6 +954,13 @@
 - **marked by wastefulness: extravagant**
 	he cleared off all the _superfluous_ stuff on his desk to make room for the new computer
 	Oddly, despite the preponderance of *superfluous* words, the book has no glossary, which is a must for an introductory audience.
+
+##### Supple (adjective / verb)
+*ˈsə-pəl*
+- **compliant often to the point of obsequiousness**
+- **applies to something that can be readily bent, twisted, or folded without any sign of injury**
+	a dome tent outfitted with _supple_ fiberglass tent poles
+	shoes made from _supple_ leather
 
 ##### Supplicate (verb)
 *ˈsə-plə-ˌkāt*

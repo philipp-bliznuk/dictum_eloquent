@@ -161,6 +161,13 @@
 	with an _adroit_ flick of the wrist, flipped the omelet into the air and landed it squarely back in the pan
 	the magician's _adroit_ response to the failure of her prop won applause
 
+##### Adulation (noun)
+*ˌa-jə-ˈlā-shən*
+- **extreme or excessive admiration or flattery**
+- **worship**
+	The rugby player enjoyed the _adulation_ of his fans.
+	a writer who inspires _adulation_ in her readers
+
 ##### Advent (noun)
 *ˈad-ˌvent*
 - **the period beginning four Sundays before Christmas and observed by some Christians as a season of prayer and fasting**

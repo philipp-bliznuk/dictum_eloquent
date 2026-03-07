@@ -367,6 +367,13 @@
 	a group of young reformers who gradually _coalesced_ into a political movement
 	The ice masses _coalesced_ into a glacier over time.
 
+##### Cocksure (adjective)
+*ˈkäk-ˈshu̇r*
+- **marked by overconfidence or presumptuousness: cocky**
+- **implies presumptuous or careless positiveness: insolent**
+	you're always so _cocksure_ about everything
+	No brand should be so _cocksure_ as to presume its products are irreplaceable.
+
 ##### Codger (noun)
 *ˈkä-jər*
 - **an often mildly eccentric and usually elderly fellow**
