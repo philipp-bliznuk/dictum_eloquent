@@ -93,6 +93,13 @@
 	Direct contact with mpox rash or _scabs_, as well as contaminated bodily fluids — like mucus, saliva or blood — are the most common ways people pass the virus to each other.
 	In the days following the procedure, the skin began to _scab_ and gradually peel, uncovering the freckles beneath the surface.
 
+##### Scads (noun)
+*ˈskads*
+- **a large number or quantity -> usually used in plural**
+- **loads, plenty, ton**
+	_scads_ of people showed up for the party
+	The nature of the American political system propagates _scads_ of lawyers and poseurs who blather on endlessly, promising everything and delivering little.
+
 ##### Scallywag / Scalawag (noun)
 *ˈska-li-ˌwag*
 - **scamp, reprobate**
@@ -174,6 +181,12 @@
 - **fancy designs in wood often made with a scroll saw**
 	Among the turquoise *scrollwork* and wrappings are inlays that depict morel mushrooms, oak leaves, and gobblers.
 	The white oven is covered in golden *scrollwork* depicting the 12 days of Christmas.
+
+##### Scrooge (noun)
+*ˈskrüj*
+- **a miserly person**
+- **curmudgeon, hunks**
+	her father is a real _scrooge_ and refuses to pay her way through college, even though he can easily afford it
 
 ##### Scrounge (verb)
 *ˈskrau̇nj*
@@ -640,6 +653,13 @@
 	_spurned_ his overtures of friendship
 	fiercely independent, the elderly couple _spurned_ all offers of financial help
 
+##### Squalid (adjective)
+*ˈskwä-ləd*
+- **adds to the idea of dirtiness and filth that of slovenly neglect**
+- **sordid**
+	The family lived in _squalid_ conditions.
+	_squalid_ slums
+
 ##### Squall (noun / verb)
 *ˈskwȯl*
 - **a sudden violent wind often with rain or snow**
@@ -715,6 +735,13 @@
 	So with that all said, to any and all who see our flag flying off your _stern_, know this… There will be no quarter nor mercy offered nor given.
 	With their imposing bulk, elegant curves, colorfully painted _sterns_, and ornate decorations, the vessels were among the most distinctive and beautiful ships on the seas.
 
+##### Sternum (noun)
+*ˈstər-nəm*
+- **a compound ventral bone or cartilage of most vertebrates other than fishes that connects the ribs or the shoulder girdle or both and in humans consists of the manubrium, gladiolus, and xiphoid process**
+- **brestbone**
+	The other woman was taken to the hospital with a fractured _sternum_.
+	The cause of death was a shot through the *sternum* that struck the aorta and lodged in the spine.
+
 ##### Stevedore (noun / verb)
 *ˈstē-və-ˌdȯr*
 - **one who works at or is responsible for loading and unloading ships in port**
@@ -735,6 +762,13 @@
 - **a pile or post serving as one of the supports of a structure above ground or water level**
 	a circus performer walking on _stilts_
 	The word _stilt_ comes from Middle English stilt(e), meaning a crutch or support.
+
+##### Stipple (verb / noun)
+*ˈsti-pəl*
+- **to engrave by means of dots and flicks: sprinkle**
+- **to make by small short touches (as of paint or ink) that together produce an even or softly graded shadow**
+	the sunlight falling through the lace curtain _stippled_ her face
+	Squash bugs leave white _stipples_, or dots, on foliage, followed by yellowing leaves.
 
 ##### Stockade (noun / verb)
 *stä-ˈkād*
@@ -762,6 +796,12 @@
 - **now commonly straits, applies to a troublesome situation from which escape is extremely difficult**
 	The economy is in _dire straits_.
 	The city enjoyed trade from both land and sea due to its excellent location on the *strait*.
+
+##### Strangulate (verb)
+*ˈstraŋ-gyə-ˌlāt*
+- **strangle, constrict**
+	Birdlike calls periodically ring out, but they are confined, desperate, _strangulated_.
+	In the president’s words, Webster heard echoes of his own thoughts about the _strangulating_ overreach of an authoritarian government.
 
 ##### Stratagem (noun)
 *ˈstra-tə-jəm*

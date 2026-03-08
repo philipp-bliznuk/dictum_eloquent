@@ -5,6 +5,12 @@
 	Nobody wants political parties that behave like unruly *rabbles*.
 	Academy's officials showed its determination to eradicate the *rabble* of synonyms, onomatopoeias and vulgarities
 
+##### Raffia (noun)
+*ˈra-fē-ə*
+- **the fiber of the raffia palm used especially as cord for tying and weaving**
+	Each piece comes rolled up, tied with a piece of *raffia*.
+	The shoes come in four neutral shades: *raffia*, black, caramel and gold.
+
 ##### Ragtag (adjective)
 *ˈrag-ˌtag*
 - **ragged, unkempt**
@@ -243,6 +249,13 @@
 - **implies blameworthy carelessness shown in slackness, forgetfulness, or neglect**
 	had been _remiss_ in their familial duties
 	I would be _remiss_ if I didn't tell you how much I appreciated the lovely gift.
+
+##### Remit (noun)
+*ri-ˈmit*
+- **an area of responsibility or authority -> usually singular**
+- **something remitted to another person or authority**
+	The problem was outside/beyond our *remit*.
+	The BBC simply no longer sees producing Shakespeare as part of its *remit* as a public service television broadcaster.
 
 ##### Remonstrance (noun)
 *ri-ˈmän(t)-strən(t)s*

@@ -19,6 +19,13 @@
 	the _vainglory_ that nations have historically shown after they have achieved military supremacy
 	For all his _vainglory_, Mitchell was onto something in betting on a race as an aeronautical showcase.
 
+##### Vale (noun)
+*ˈvāl*
+- **valley, dale**
+- **world**
+	this *vale* of tears
+	settled in a lush _vale_ in the shadow of the mountains
+
 ##### Vapid (adjective)
 *ˈva-pəd*
 - **lacking flavour, zest, interest, animation, or spirit: flat, dull**

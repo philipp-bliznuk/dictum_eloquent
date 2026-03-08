@@ -225,6 +225,13 @@
 	The troops marched onward through the muck and the _mire_.
 	the case has been _mired_ in probate court for years
 
+##### Miser (noun)
+*ˈmī-zər*
+- **a mean grasping person**
+- **one who is extremely stingy with money: cheapskate**
+	the _miser_ liked to sit and play with his money
+	a *miser* cackling over unexpected treasure
+
 ##### Modicum (noun)
 *ˈmä-di-kəm*
 - **a small portion: a limited quantity**

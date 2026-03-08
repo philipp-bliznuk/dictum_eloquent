@@ -892,6 +892,13 @@ _ˈkau̇n-tᵊn-ən(t)s_
 	The river and *culvert* were about 20 feet down from the road.
 	Rivers were put in *culverts* partly to contain the smell.
 
+##### Curmudgeon (noun)
+*(ˌ)kər-ˈmə-jən*
+- **a crusty, ill-tempered, and usually old man**
+- **miser**
+	The film follows Otto, an older man who has become a *curmudgeon* upon the loss of his wife from cancer.
+	a _curmudgeonly_ old fellow with a wurst in one hand and a stein of beer in the other
+
 ##### Curtail (verb)
 *(ˌ)kər-ˈtāl*
 - **to make less by or as if by cutting off or away some part**

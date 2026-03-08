@@ -62,6 +62,13 @@
 	An equestrian silhouette was also presented, with tight _jodhpur_ trousers worn with cropped jackets and long leather boots.
 	Carrington wore corduroy trousers and _jodhpurs_, and styled her hair in a short, blunt bob that threatened to obscure her face.
 
+##### Judder (verb / noun)
+*ˈjə-dər*
+- **to vibrate with intensity: shudder**
+- **the action or sound of juddering**
+	the engine began to _judder_ alarmingly just a few miles outside of Brighton
+	But the vast majority of viewers seem to be totally fine with _judder_.
+
 ##### Juxtapose (verb)
 *ˈjək-stə-ˌpōz*
 - **to place (different things) side by side (as to compare them or contrast them or to create an interesting effect)**

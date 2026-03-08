@@ -1,3 +1,10 @@
+##### Oath (noun)
+*ˈōth*
+- **an irreverent or careless use of a sacred name**
+- **swear word**
+	He uttered an *oath* and stormed away.
+	He got a detention for murmuring an *oath* during a class.
+
 ##### Obeisance (noun)
 *ō-ˈbē-sᵊn(t)s*
 - **a movement of the body made in token of respect or submission: bow**

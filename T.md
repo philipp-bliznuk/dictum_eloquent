@@ -126,7 +126,7 @@
 	a *tepid* bath
 	My suggestion was given a _tepid_ response.
 
-##### Terra-cotta (noun)
+##### Terra-cotta / Terracota (noun)
 *ˌter-ə-ˈkä-tə*
 - **a glazed or unglazed fired clay used especially for statuettes and vases and architectural purposes (as for roofing, facing, and relief ornamentation)**
 - **a brownish orange**

@@ -1,3 +1,10 @@
+##### Page (noun / verb)
+*ˈpāj*
+- **one employed to deliver messages, assist patrons, serve as a guide, or attend to similar duties**
+- **to summon by repeatedly calling out the name of**
+	dispatch a _page_ to bring coffee to the senator
+	The officer had dispatch contact Walmart to *page* the owners.
+
 ##### Painstaking (adjective / noun)
 *ˈpān-ˌstā-kiŋ*
 - **taking pains: expending, showing, or involving diligent care and effort**
@@ -458,6 +465,13 @@ Peruke (noun)
 	We could hear the _plaintive_ cry of a wounded animal in the woods.
 	the puppy's _plaintive_ expression after we put the toy away was rather amusing
 
+##### Plane (noun / verb / adjective)
+*ˈplān*
+- **a tool for smoothing or shaping a wood surface**
+- **to make smooth or even: level**
+	the _plane_ sides of a crystal
+	_planed_ the wood for the picnic table perfectly smooth so that no one would get splinters
+
 ##### Platitude (noun)
 *ˈpla-tə-ˌtüd*
 - **the quality or state of being dull or insipid**
@@ -499,6 +513,13 @@ Peruke (noun)
 - **a dusty bloom on the body of an insect**
 	Not only is sunflower _pollen_ more allergenic that other pollens but, due to flower size, there is much more of it than in other flowers.
 	Aside from adding a pop of color to your garden, coneflowers are also a great source of _pollen_ for bees and seeds for birds.
+
+##### Pommel (noun)
+*ˈpə-məl*
+- **the knob on the hilt of a sword or saber**
+- **the protuberance at the front and top of a saddle**
+	The blade itself has a nice activation sound as light extends from the _pommel_ to the tip.
+	There, researchers set out to determine how the hilt and blade were joined, as well as the composition of the materials embedded in the grooves of the _pommel_ and *pommel* plate.
 
 ##### Ponderous (adjective)
 *ˈpän-d(ə-)rəs*

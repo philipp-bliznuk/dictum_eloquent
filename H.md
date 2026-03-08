@@ -61,6 +61,13 @@
 	The mayor tried to _hamstring_ our efforts by cutting the budget.
 	The company claims it is being _hamstrung_ by government regulations.
 
+##### Hank (noun)
+*ˈhaŋk*
+- **coil, loop**
+- **any of a series of rings or clips by which a jib or staysail is attached to a stay**
+	the Shaker Store sells _hanks_ of yarn, Shaker seeds, herbal teas, and Shaker brooms.
+	The next morning, the police and Victoria’s parents found articles of the girl’s clothing and a bloody _hank_ of hair on a road near a sand pit in Mahwah.
+
 ##### Harangue (noun / verb)
 *hə-ˈraŋ*
 - **a speech addressed to a public assembly**
@@ -221,6 +228,12 @@
 - **confusion, turmoil**
 	All the _hubbub_ in the airport made it hard to hear the flight announcements.
 	We went to the country to escape the _hubbub_ of the city.
+
+##### Hunks (noun)
+*ˈhəŋ(k)s*
+- **a surly ill-natured person**
+- **miser**
+	a horrible old _hunks_ who refused to lend money to his destitute brother
 
 ##### Hymn (noun / verb)
 *ˈhim*

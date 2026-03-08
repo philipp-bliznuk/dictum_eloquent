@@ -124,6 +124,13 @@
 	The day itself was one of those prize-winningly crappy days when everything went *pear-shaped*.
 	Next we travelled to Bournemouth and it was there that things began to turn rather *pear-shaped*.
 
+##### Gopher (noun)
+*ˈgō-fər*
+- **a burrowing land tortoise (Gopherus polyphemus) of the southern U.S**
+- **any of a family (Geomyidae) of burrowing rodents of western North America, Central America, and the southern U.S. that are the size of a large rat and have large cheek pouches opening beside the mouth**
+	Other weather prediction ceremonies center on different animals, including cats, guinea pigs, _gophers_ and beavers.
+	Garden centers sometimes sell dedicated _gopher_ repellent sprays, but fish emulsion, blood meal, castor oil, hot peppers, and predator urine may also help repel gophers.
+
 ##### Gormless (adjective)
 *ˈgȯrm-ləs*
 - **lacking intelligence: stupid**
@@ -201,6 +208,13 @@
 - **cave**
 - **an artificial recess or structure made to resemble a natural cave**
 	at the heart of the shrine is a small rocky _grotto_ into which pilgrims can descend
+
+##### Grovel (verb)
+*ˈgrä-vᵊl*
+- **to creep with the face to the ground: crawl**
+- **to lie or creep with the body prostrate in token of subservience or abasement**
+	The peasants *groveled* before the king.
+	He had to _grovel_ to get her to accept his apology.
 
 ##### Grunt (noun)
 *ˈgrənt*
