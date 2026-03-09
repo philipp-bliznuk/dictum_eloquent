@@ -304,6 +304,13 @@
 	It would be _churlish_ not to congratulate him.
 	outrage is among your more *churlish* emotions
 
+##### Cinder (noun)
+*ˈsin-dər*
+- **a partly burned combustible in which fire is extinct**
+- **plural: ashes / a fragment of ash**
+	_Cinders_ from the campfire floated through the air.
+	Red-orange _cinders_ dropped across the skylight, followed by bursts of flame.
+
 ##### Circumference (noun)
 *sər-ˈkəm(p)-f(ə-)rən(t)s*
 - **the perimeter of a circle**
@@ -352,6 +359,13 @@
 - **implies a mild or merciful disposition in one having the power or duty of punishing**
 	the judge chose to show _clemency_ to the truly repentant embezzler
 	The fair was a great success, owing to the *clemency* of the weather.
+
+##### Clomp (verb)
+*ˈklämp*
+- **to walk or move clumsily and noisily**
+- **lump, slough, stumble**
+	These days, though, there’s no need to _clomp_ around in heels.
+	Then my daughter *clomped* down the stairs, running her hands along the wall to steady herself.
 
 ##### Cloying (adjective)
 *ˈklȯi-iŋ*
@@ -567,6 +581,13 @@
 	The treaty is the latest attempt to resolve the ten-year _conflagration_.
 	the historic tavern burned to the ground in a horrible _conflagration_
 
+##### Conflate (verb)
+*kən-ˈflāt*
+- **to bring together: blend**
+- **to combine (things, such as two versions of a text) into a composite whole**
+	be careful not to _conflate_ gossip with real news
+	the movie _conflates_ documentary footage and dramatized reenactments so seamlessly and ingeniously that viewers may not know what is real and what is not
+
 ##### Confluence (noun)
 *ˈkän-ˌflü-ən(t)s*
 - **a coming or flowing together, meeting, or gathering at one point**
@@ -662,6 +683,13 @@
 	the hiking club attracts a wide range of _convivial_ people who share a love of the outdoors
 	The vibe was _convivial_ and giddy, like a summer-camp reunion.
 
+##### Convocation (noun)
+*ˌkän-və-ˈkā-shən*
+- **an assembly of act of calling an assembly of persons called together to a meeting**
+- **conference**
+	They called for the immediate _convocation_ of the council.
+	the first speaker to address the _convocation_
+
 ##### Convoke (verb)
 *kən-ˈvōk*
 - **to call together to a meeting**
@@ -719,6 +747,13 @@ _ˈkau̇n-tᵊn-ən(t)s_
 - **the face as an indication of mood, emotion, or character**
 	… a *countenance* which expressed both good humor and intelligence …
 	He managed to keep his *countenance* through the ordeal.
+
+##### Countermand (noun / verb)
+*ˈkau̇n-tər-ˌmand*
+- **a contrary order**
+- **to recall or order back by a superseding contrary order**
+	Orders to blow up the bridge were _countermanded_.
+	But his decision was _countermanded_ by three of the five city commissioners at their Aug. 12 meeting.
 
 ##### Coup de grâce (noun)
 *ˌkü-də-ˈgräs*

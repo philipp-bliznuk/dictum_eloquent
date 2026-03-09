@@ -40,6 +40,13 @@
 	a farm in Yorkshire that seemed to be run by a _barmy_ old man
 	he is now likely to feel that a rather large part of the country has gone slightly *barmy*
 
+##### Basilica (noun)
+*bə-ˈsi-li-kə*
+- **an oblong building ending in a semicircular apse used in ancient Rome especially for a court of justice and place of public assembly**
+- **a Roman Catholic church given ceremonial privileges**
+	Today, the _basilica_ remains a sought-after wedding venue, with the parish hosting as many as eight ceremonies a day, according to the church's priest.
+	The earth beneath my feet shook as the bells of the ancient *basilica* tolled.
+
 ##### Bauble (noun)
 *ˈbȯ-bəl*
 - **trinket, ornament**

@@ -33,6 +33,13 @@
 	The scandal caused her popularity to _wane_.
 	the _waning_ days of summer
 
+##### Wanting (adjective / preposition)
+*ˈwän-tiŋ*
+- **not being up to standards or expectations**
+- **without**
+	we tried her cooking and found it to be very _wanting_
+	a mitten _wanting_ its mate
+
 ##### Wanton (noun / adjective / verb)
 *ˈwȯn-tᵊn*
 - **merciless, inhumane**

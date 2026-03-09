@@ -149,6 +149,13 @@
 	meteors flashing across the _firmament_
 	She's a rising star in the city's artistic *firmament*.
 
+##### Fitful (adjective)
+*ˈfit-fəl*
+- **characterized by fits or paroxysms: sporadic**
+- **having an erratic or intermittent character: irregular**
+	He had a few _fitful_ hours of sleep.
+	Several _fitful_ attempts at negotiation have failed.
+
 ##### Fixity (noun)
 *ˈfik-sə-tē*
 - **the quality or state of being fixed or stable**

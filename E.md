@@ -375,6 +375,13 @@
 	They now _eschew_ the violence of their past.
 	a psychologist who _eschews_ the traditional methods of psychotherapy
 
+##### Esophagus / Oesophagus (noun)
+*i-ˈsä-fə-gəs*
+- **a muscular tube that conveys food from the mouth to the stomach and that in humans is about nine inches (23 centimeters) long and passes from the pharynx down the neck between the trachea and the spinal column and behind the left bronchus where it pierces the diaphragm slightly to the left of the middle line and joins the cardiac end of the stomach**
+- **throat**
+	The condition also affects the _esophagus_, meaning Duglof can only eat soft foods.
+	The tear appeared to be at the lower left end of the *esophagus*, just above the diaphragm.
+
 ##### Essay (verb)
 *e-ˈsā*
 - **to put to a test**
@@ -492,6 +499,13 @@
 - **to eliminate from one's consciousness**
 	time and the weather have _expunged_ any evidence that a thriving community once existed here
 	*expunge* a memory
+
+##### Extol (verb)
+*ik-ˈstōl*
+- **to praise highly: glorify**
+- **celebrate**
+	The health benefits of exercise are widely _extolled_.
+	campaign literature _extolling_ the candidate's military record
 
 ##### Extraneous (adjective)
 *ek-ˈstrā-nē-əs*

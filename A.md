@@ -195,6 +195,13 @@
 	though wealthy, she was _affable_ to all
 	as the show's _affable_ host, she keeps the freewheeling gabfest from getting out of hand
 
+##### Affectation (noun)
+*ˌa-ˌfek-ˈtā-shən*
+- **speech or conduct not natural to oneself: an unnatural form of behavior meant especially to impress others**
+- **applies to a trick of speech or behavior that strikes the observer as insincere**
+	His French accent is just an _affectation_.
+	a woman of great _affectation_ at social gatherings
+
 ##### Affinity (noun)
 *ə-ˈfi-nə-tē*
 - **relationship by marriage**

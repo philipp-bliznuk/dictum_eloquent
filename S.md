@@ -127,6 +127,13 @@
 	a whoring, drunken _scapegrace_ who was blackening the family's name
 	That young *scapegrace* has been caught climbing the neighbor's orchard walls for the third time this week, yet he always manages to charm his way out of a scolding.
 
+##### Schism (noun)
+*ˈsi-zəm*
+- **division, separation**
+- **discord, disharmony**
+	a _schism_ between leading members of the party
+	The church was divided by _schism_.
+
 ##### Scintillate (verb)
 *ˈsin-tə-ˌlāt*
 - **to emit sparks: spark**

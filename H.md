@@ -121,6 +121,13 @@
 	*hearkened* without much mental comment
 	the humble folk who *hearkened* to these evangelists
 
+##### Hector (noun / verb)
+*ˈhek-tər*
+- **bully, braggart**
+- **to behave in an arrogant or intimidating way: to act like a bully**
+	law penalizing debt collection agencies that operate like _hectors_
+	The judge ordered the attorney to stop _hectoring_ the witness.
+
 ##### Heed (verb / noun)
 *ˈhēd*
 - **to pay attention**

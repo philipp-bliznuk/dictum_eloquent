@@ -294,6 +294,13 @@
 	spent a _restive_ night worrying about the next day's exam
 	the _restive_ horse threw its head and refused to move when the rider urged it forward
 
+##### Restorative (adjective / noun)
+*ri-ˈstȯr-ə-tiv*
+- **of or relating to restoration / having power to restore**
+- **something that serves to restore to consciousness, vigor, or health**
+	took a _restorative_ vitamin mix to improve his immune system
+	Sleep is a powerful _restorative_.
+
 ##### Resuscitate (verb)
 *ri-ˈsə-sə-ˌtāt*
 - **to revive from apparent death or from unconsciousness**

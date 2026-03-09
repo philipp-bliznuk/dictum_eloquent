@@ -108,6 +108,13 @@
 	Improving the schools is a _laudable_ goal.
 	you showed _laudable_ restraint in dealing with that ridiculously demanding customer
 
+##### Laud (noun / verb)
+*ˈlȯd*
+- **praise, acclaim**
+- **praise, extol**
+	He was much _lauded_ as a successful businessman.
+	an actor who in his lifetime received all the _laud_ and honor that the theater world could bestow
+
 ##### Launch (noun)
 *ˈlȯnch*
 - **a large boat that operates from a ship**

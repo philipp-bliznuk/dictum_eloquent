@@ -102,6 +102,13 @@
 	we were asked to be on our most _decorous_ behavior at the formal event
 	the oppressively _decorous_ standards of a royal court
 
+##### Decry (verb)
+*di-ˈkrī*
+- **to depreciate (something, such as a coin) officially or publicly**
+- **to express strong disapproval of**
+	In her article, she _decries_ the pollution of the environment by manufacturers.
+	Violence on television is generally _decried_ as harmful to children.
+
 ##### Defamation (noun)
 *ˌde-fə-ˈmā-shən*
 - **libel**
@@ -490,6 +497,13 @@
 *ˈdō-tərd*
 - **old person in a state on mental decline**
 	We humored the rambling *dotard* by listening to his stories.
+
+##### Doughty (adjective)
+*ˈdau̇-tē*
+- **marked by fearless resolution: valiant**
+- **courageous, heroic**
+	the _doughty_ heroes of old
+	a *doughty* warrior
 
 ##### Dour (adjective)
 *ˈdau̇(-ə)r*
