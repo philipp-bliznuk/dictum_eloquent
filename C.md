@@ -941,6 +941,13 @@ _ˈkau̇n-tᵊn-ən(t)s_
 	The new laws are an effort to _curtail_ illegal drug use.
 	School activities are being _curtailed_ due to a lack of funds.
 
+##### Cuss (noun / verb)
+*ˈkəs*
+- **curse, profanity**
+- **swear**
+	a man who has never uttered a single _cuss_
+	She started to yell and _cuss_ as soon as she saw him.
+
 ##### Custodian (noun)
 *ˌkə-ˈstō-dē-ən*
 - **one that guards and protects or maintains: keeper**

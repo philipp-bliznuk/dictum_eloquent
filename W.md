@@ -49,6 +49,13 @@
 	a life of _wanton_ luxury
 	quite the _wanton_ when he wants to be
 
+##### Warble (noun / verb)
+*ˈwȯr-bəl*
+- **a melodious succession of low pleasing sounds**
+- **a musical trill**
+	whistled a cheerful _warble_ as he strolled down the street
+	Birds were _warbling_ in the trees.
+
 ##### Warren (noun)
 *ˈwȯr-ən*
 - **an area (as of uncultivated ground) where rabbits breed**

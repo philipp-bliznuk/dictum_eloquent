@@ -527,6 +527,13 @@ _ə-ˈper-əl_
 	They sell rugs made by local _artisans_.
 	*artisan* breads
 
+##### Ascertain (verb)
+*ˌa-sər-ˈtān*
+- **to find out or learn with certainty**
+- **implies effort to find the facts or the truth proceeding from awareness of ignorance or uncertainty**
+	trying to *ascertain* the cause of the fire
+	attempts to _ascertain_ the population of the region
+
 ##### Ascetic (adjective)
 *ə-ˈse-tik*
 - **practicing strict self-denial as a measure of personal and especially spiritual discipline**
@@ -702,6 +709,12 @@ _ə-ˈskan(t)s_
 *ə-ˈvəŋ-kyə-lə-ˌsīd*
 - **the killing of an uncle by his nephew or niece**
 	*Avunculicide* is a heinous crime.
+
+##### Awl (noun)
+*ˈȯl*
+- **a pointed tool for marking surfaces or piercing small holes (as in leather or wood)**
+	Some _awls_, or handheld ice spikes, are important to have.
+	Quills are embroidered into birchbark with small sewing _awls_ made from needles.
 
 ##### Awning (noun)
 *ˈȯ-niŋ*

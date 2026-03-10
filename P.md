@@ -935,6 +935,20 @@ Peruke (noun)
 	the _pusillanimous_ fear of a future full of possibility
 	pusillanimous _politicians_ who vote according to whichever way the political wind is blowing
 
+##### Pustular (adjective)
+*ˈpəs-chə-lər*
+- **of, relating to, or resembling pustules**
+- **covered with pustular prominences: pustulated**
+	Villagran has spent the last 10 days dealing with a _pustular_ rash covering her arms, legs and torso.
+	Monkeypox causes a rash that starts as flat spots, which then become raised and finally appears _pustular_.
+
+##### Pustule (noun)
+*ˈpəs-(ˌ)chül*
+- **a small circumscribed elevation of the skin containing pus and having an inflamed base**
+- **a small often distinctively colored elevation or spot resembling a blister or pimple**
+	smallpox's characteristic _pustules_ typically resulted in permanent scarring for survivors of the dreaded disease
+	Research suggests that pimple patches aren't effective on cystic acne, _pustules_, or blackheads.
+
 ##### Putative (adjective)
 *ˈpyü-tə-tiv*
 - **commonly accepted or supposed**

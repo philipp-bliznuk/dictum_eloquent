@@ -175,6 +175,12 @@
 	The only plants in their yard were a couple of _scrawny_ bushes.
 	a _scrawny_ chicken
 
+##### Scree (noun)
+*ˈskrē*
+- **an accumulation of loose stones or rocky debris lying on a slope or at the base of a hill or cliff: talus**
+	The faint trail climbs through forest, up loose _scree_, and then disappears entirely.
+	Keep that volcanic ash and *scree* from getting into your shoes.
+
 ##### Scrimshaw (noun / verb)
 *ˈskrim-ˌshȯ*
 - **any of various carved or engraved articles made originally by American whalers usually from baleen or whale ivory**
@@ -255,6 +261,13 @@
 - **formal withdrawal from an organization**
 	the _secession_ of the Southern states
 	Proponents of Illinois _secession_ are serious about leaving Illinois, but don't necessarily want to join Indiana.
+
+##### Sediment (noun / verb)
+*ˈse-də-mənt*
+- **the matter that settles to the bottom of a liquid**
+- **material deposited by water, wind, or glaciers**
+	There was a layer of _sediment_ in the bottom of the tank.
+	the water flowing into the reservoir is _sedimenting_ silt faster than was originally expected
 
 ##### Sedition (noun)
 *si-ˈdi-shən*
@@ -341,6 +354,13 @@
 	Her hair has a _sheen_ to it.
 	polished the metal until it had an even _sheen_
 
+##### Shingle (noun / verb)
+*ˈshiŋ-gəl*
+- **a small thin piece of building material often with one end thicker than the other for laying in overlapping rows as a covering for the roof or sides of a building**
+- **a woman's haircut with the hair trimmed short from the back of the head to the nape**
+	a house _shingled_ with cedar
+	Most repairs and cosmetic updates don't require a permit, like painting walls, _shingling_ your roof, replacing a faucet, or installing new bathroom tile.
+
 ##### Shirk (verb)
 *ˈshərk*
 - **to go stealthily: sneak**
@@ -400,6 +420,13 @@
 - **a cavity in the substance of a bone of the skull that usually communicates with the nostrils and contains air**
 	Each *sinus* has an opening that connects it to your nose.
 	The leaves can be used to brew a soothing tea for *sinus* problems.
+
+##### Skein (noun / verb)
+*ˈskān*
+- **a loosely coiled length of yarn or thread wound on a reel**
+- **something suggesting the twists or coils of a skein: tangle**
+	This yarn _skein_ is $10 for 170 yards and is more than enough to make several amigurumi projects.
+	One of the biggest advantages of shopping local is these stores oftentimes have unique _skeins_ that were dyed locally, meaning no two skeins are alike!
 
 ##### Skid (verb)
 *ˈskid*
@@ -1034,6 +1061,13 @@
 - **an intemperate or immoderate indulgence in something (such as food or drink)**
 	_surfeited_ themselves with junk food
 	ended up with a _surfeit_ of volunteers who simply got in each other's way
+
+##### Surly (adjective)
+*ˈsər-lē*
+- **menacing or threatening in appearance**
+- **implies gruffness and sullenness of speech or manner**
+	went about his chores in a _surly_ huff, totally annoyed that he was stuck at home on this beautiful Saturday
+	the _surly_ receptionist told us we'd have to wait outside in the rain
 
 ##### Surmise (noun / verb)
 *sər-ˈmīz*

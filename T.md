@@ -31,6 +31,13 @@
 	Her second goal turned out to be the game-winning _tally_.
 	He _tallied_ his expenses every day.
 
+##### Talus (noun)
+*ˈtā-ləs*
+- **a slope formed especially by an accumulation of rock debris**
+- **rock debris at the base of a cliff**
+	The trail huffs up 1,000 feet per mile, traversing _talus_ slopes and narrow ridgelines en route to a dizzying view of Yellowstone Lake.
+	Winding roads diving deep between steep hillsides littered with jagged deadfall and boulder-size _talus_, towns few and far between.
+
 ##### Tangential (adjective)
 *tan-ˈjen(t)-shəl*
 - **touching lightly: incidental, peripheral**
@@ -306,6 +313,13 @@
 - **labor, childbirth**
 	no greater _travail_ than that of parents who have suffered the death of a child
 	Labor Day is the day on which we recognise those men and women who daily _travail_ with little appreciation or compensation.
+
+##### Trek (noun / verb)
+*ˈtrek*
+- **a trip or movement especially when involving difficulties or complex organization: an arduous journey**
+- **to make one's way arduously**
+	We had to _trek_ up six flights of stairs with our groceries.
+	Our car broke down and we had a long _trek_ back to town.
 
 ##### Trellis (noun / verb)
 *ˈtre-ləs*

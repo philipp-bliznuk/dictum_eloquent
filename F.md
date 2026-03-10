@@ -323,6 +323,13 @@
 - **a brief moment of emotional excitement: shudder, thrill**
 	those two are still caught up in the giddy _frisson_ of a new romance
 
+##### Frond (noun)
+*ˈfränd*
+- **a large leaf (especially of a palm or fern) usually with many divisions**
+- **a thallus or thalloid shoot (as of a lichen or seaweed) resembling a leaf**
+	Take a look at the base of the plants or within the canopy of brown _fronds_.
+	Trim the root end and _fronds_ (the branchy arms) off the fennel bulb and discard, then cut the bulb in half.
+
 ##### Frowsy (adjective)
 *ˈfrau̇-zē*
 - **musty, stale**

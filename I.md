@@ -10,6 +10,13 @@
 - **an individualising characteristic or quality**
 	The current system has a few *idiosyncrasies*.
 
+##### Igneous (adjective)
+*ˈig-nē-əs*
+- **formed by solidification of magma**
+- **of, relating to, or resembling fire: fiery**
+	Within the samples was anorthosite, a type of _igneous_ rock.
+	Olivine is a mineral primarily found in _igneous_ rocks (rocks created through the solidification and crystallization of molten rock) that are rich in magnesium and iron.
+
 ##### Ignominious (adjective)
 *ˌig-nə-ˈmi-nē-əs*
 - **humiliating, degrading**

@@ -185,6 +185,12 @@
 	The children sat in the *mezzanine*, waiting for the show to start.
 	This space is just a flight of stairs from the *mezzanine*.
 
+##### Mica (noun)
+*ˈmī-kə*
+- **any of various colored or transparent mineral silicates crystallizing in monoclinic forms that readily separate into very thin leaves**
+	Granite is a natural stone composed primarily of silicates, such as quartz, feldspar, and _mica_.
+	Its sparkle comes from the *mica* exposed by a carver’s chisel.
+
 ##### Midden (noun)
 *ˈmi-dᵊn*
 - **dunghill**

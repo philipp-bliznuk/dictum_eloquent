@@ -294,6 +294,13 @@
 	an argument *devoid* of sense
 	a landscape *devoid* of life
 
+##### Devout (adjective)
+*di-ˈvau̇t*
+- **committed or devoted to religion or to religious duties or exercises**
+- **devoted to a pursuit, belief, or mode of behavior: serious, earnest**
+	It is his _devout_ wish to help people in need.
+	_devout_ Red Sox fans never lost faith during the long World Series drought
+
 ##### Dictum / Dicta (noun)
 *ˈdik-təm* / *ˈdik-tə*
 - **a formal pronouncement of a principle, proposition, or opinion**
