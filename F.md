@@ -93,6 +93,13 @@
 	the _fetid_ odour of skunk cabbage
 	a _fetid_ pool of water
 
+##### Fetish (noun)
+*ˈfe-tish*
+- **a usually handcrafted object (such as a carving) of spiritual significance that is believed to have the power to protect or aid its owner**
+- **an object of irrational reverence or obsessive devotion: prepossession**
+	He has a _fetish_ for secrecy.
+	He wore a _fetish_ to ward off evil spirits.
+
 ##### Feverish (adjective)
 *ˈfe-vər-ish*
 - **tending to cause fever**

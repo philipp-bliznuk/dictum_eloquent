@@ -375,6 +375,13 @@
 	I would recognise that *shock* of ginger hair anywhere.
 	he had an unruly *shock* of black hair
 
+##### Shod (adjective)
+*ˈshäd*
+- **wearing footgear (such as shoes), equipped with tires**
+- **furnished or equipped with a shoe**
+	The limiting factor here is that both cars are _shod_ with all-season tires; a sports sedan like the GLI deserves stickier rubber.
+	Ennamorati was charged with an additional assault and battery with dangerous weapon for using a _shod_ foot.
+
 ##### Shrewd (adjective)
 *ˈshrüd*
 - **having or showing the insight, intelligence, and understanding to make good judgments about practical matters (as in business or finance)**
@@ -734,6 +741,21 @@
 	The bouncer set the microphone in a stand and carefully unhooked a velvet rope from its metal _stanchion_.
 	Folding tables and chairs were cordoned off with *stanchions* and rope.
 
+##### Starboard (noun / adjective / verb)
+*ˈstär-bərd*
+- **the right side of a ship or aircraft looking forward**
+- **of, relating to, or situated to starboard**
+- **to turn or put (a helm or rudder) to the right**
+	The lookout shouted a warning when he spotted a massive ice floe drifting toward the *starboard* side of the vessel.
+	To avoid the oncoming storm, the pilot initiated a sharp turn to *starboard*, dipping the right wing toward the churning ocean below.
+
+##### Stark (adjective)
+*ˈstärk*
+- **barren, desolate**
+- **utter, sheer**
+	The room was decorated with _stark_ simplicity.
+	There is a _stark_ difference between them.
+
 ##### Statuesque (adjective)
 *ˌsta-chə-ˈwesk*
 - **resembling a statue especially in dignity, shapeliness, or stillness**
@@ -856,6 +878,13 @@
 - **a flag that streams in the wind: pennant**
 - **any long narrow wavy strip resembling or suggesting a banner floating in the wind**
 	_streamers_ in the team's colors hung from the top of the stadium
+
+##### Striation (noun)
+*strī-ˈā-shən*
+- **a minute groove, scratch, or channel especially when one of a parallel series**
+- **any of the alternate dark and light cross bands of a myofibril of striated muscle**
+	Spray the cleaner on your stainless steel refrigerator, then wipe with an unused microfiber cloth going in the direction of the grain or _striations_ of the stainless steel.
+	The tool shows clear signs of rotary motion, including fine circular wear patterns known as _striations_, rounded edges, and a distinctive curvature at the working end.
 
 ##### Stricture (noun)
 *ˈstrik-chər*

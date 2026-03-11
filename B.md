@@ -541,6 +541,12 @@ _bi-ˈsä-təd_
 	Ask the college _bursar_ about tuition installment plans.
 	He was owned by William O. Young, who oversaw the university's business affairs as secretary and _bursar_ from 1917 to 1941.
 
+##### Butte (noun)
+*ˈbyüt*
+- **an isolated hill or mountain with steep or precipitous sides usually having a smaller summit area than a mesa**
+	This sea of sharp _buttes_ and sky-high pinnacles offers numerous west-facing vantage points.
+	Hike through the poppies on a short series of moderate trails that run just a few miles in length, affording views of the poppy fields and surrounding _buttes_.
+
 ##### Buttery (noun)
 *ˈbə-tə-rē*
 - **a storeroom for liquors**

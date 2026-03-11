@@ -554,6 +554,14 @@ Peruke (noun)
 	The _portico_ would replace the previous entrance to the East Wing that millions of Americans have walked through for public tours of the White House.
 	Guests will enter through a cantilevered teakwood _portico_ framed by a vertical garden of wisteria and climbing roses.
 
+##### Port / Larboard (noun / verb / adjective)
+*ˈpȯrt*
+- **the left side of a ship or aircraft looking forward -> called also larboard**
+- **to turn or put (a helm) to the left -> used chiefly as a command**
+- **located on the left side of a ship or airplane looking forward: of, relating to, or situated to port**
+	The forward and *port* staterooms share a head and both feature upper/lower bunks.
+	As the captain steered the launch into the harbor, he noticed a jagged rock formation looming just off the *port* bow.
+
 ##### Posh (adjective)
 *ˈpäsh*
 - **elegant, fashionable**

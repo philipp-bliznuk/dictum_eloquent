@@ -384,3 +384,10 @@
 - **suggest lack of fresh air and sunlight, stressing the effects of dampness, mildew, or age**
 	the _musty_ prose of writers who use the same expressions over and over
 	a dark and _musty_ basement
+
+##### Muzzle (noun / verb)
+*ˈmə-zəl*
+- **a fastening or covering for the mouth of an animal used to prevent eating or biting**
+- **gag, restrain, restrict**
+	a dangerous dog that should be _muzzled_
+	attempts by the government to _muzzle_ the press

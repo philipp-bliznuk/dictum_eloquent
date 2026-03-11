@@ -399,6 +399,13 @@
 	did not give the slightest _inkling_ that he was planning to quit
 	My guess is that your best friend already has an _inkling_ of how tight your budget is.
 
+##### Inlaid (adjective)
+*ˈin-ˈlād*
+- **set into a surface in a decorative design**
+- **decorated with a design or material set into a surface**
+	Each desk has an ornate carving of an _inlaid_ diamond on the front.
+	The living room/bedroom is all lovely arches and warm wooden millwork, including what looks like an _inlaid_ wood medallion on the floor.
+
 ##### Inordinate (adjective)
 *in-ˈȯr-də-nət*
 - **exceeding reasonable limits: immoderate**

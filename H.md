@@ -178,6 +178,13 @@
 	the seating in the hall was a _heterogeneous_ collection of old school desk chairs, wood and metal folding chairs, and even a few plush theater seats
 	The result is the ability to make disparate robotic systems work together and provide commanders with a universal command interface for controlling a _heterogeneous_ fleet of drones.
 
+##### Heyday (noun)
+*ˈhā-ˌdā*
+- **the period of one's greatest popularity, vigor, or prosperity**
+- **high spirits**
+	in its _heyday_, the circus was a major form of entertainment for small-town America
+	he'd been a legendary scene painter during the *heyday* of vaudeville.
+
 ##### Hick (noun / adjective)
 *ˈhik*
 - **an unsophisticated person with local or restricted interests or outlook**
