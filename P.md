@@ -785,6 +785,13 @@ Peruke (noun)
 	the once-lovely landscape had been _profaned_ by ugly factories
 	it was hard to juggle the requirements of church and our more _profane_ duties
 
+##### Profess (verb)
+*prə-ˈfes*
+- **to receive formally into a religious community following a novitiate by acceptance of the required vows**
+- **to declare or admit openly or freely: affirm**
+	He _professes_ confidence in his friend.
+	They _profess_ loyalty to the king.
+
 ##### Profuse (adjective)
 *prə-ˈfyüs*
 - **pouring forth liberally: extravagant**

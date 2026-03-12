@@ -452,6 +452,13 @@
 	There has been an increase in the amount of violence _instigated_ by gangs.
 	The government has _instigated_ an investigation into the cause of the accident.
 
+##### Insular (adjective)
+*ˈin(t)-su̇-lər*
+- **separated from other people or cultures**
+- **of, relating to, or constituting an island**
+	the _insular_ world of boarding schools
+	an _insular_ community that is not receptive of new ideas, especially from outsiders
+
 ##### Insurgent (noun / adjective)
 *in-ˈsər-jənt*
 - **a person who revolts against civil authority or an established government**

@@ -254,6 +254,13 @@
 	The luxurious Breakfast Room’s fireplace ensemble, including Roman Doric columns supporting an exquisite _entablature_, is as brilliantly designed, if not as eye-catching, as the Banquet Hall’s triple fireplace.
 	Those ornamental capitals on top of columns were a way to muffle the violence of a vertical pillar piercing into a horizontal beam or _entablature_.
 
+##### Entente (noun)
+*än-ˈtänt*
+- **an international understanding providing for a common course of action: amity**
+- **entente cordiale: a coalition of parties to an entente**
+	Particularly important has been Hamas’s long-standing _entente_ with Islamic Jihad.
+	Central to this deal is the distinct _entente_ between Putin and Bibi.
+
 ##### Entourage (noun)
 *ˌän-tu̇-ˈräzh*
 - **one's attendants or associates**

@@ -73,6 +73,13 @@
 - **oral stimulation of the penis**
 	*Fellatio* is a form of blowjob in which the person giving the blowjob plays the active role.
 
+##### Felt (noun / verb)
+*ˈfelt*
+- **a cloth made of wool and fur often mixed with natural or synthetic fibers through the action of heat, moisture, chemicals, and pressure**
+- **to make into / cover with felt or a similar substance**
+	She made her son's costume from scraps of _felt_.
+	Picking up embroidery, crochet, sewing, _felting_, or knitting is a fun way to expand your home’s decor by making something meaningful.
+
 ##### Fervor (noun)
 *ˈfər-vər*
 - **intensity of feeling or expression**

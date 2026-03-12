@@ -271,6 +271,11 @@
 	He got angry when I politely _remonstrated_ with him about littering.
 	Members of the public _remonstrating_ against it had $1 million homes, hardly in the affordable housing range.
 
+##### Repatriate (verb)
+*(ˌ)rē-ˈpā-trē-ˌāt*
+- **to restore or return to the country of origin, allegiance, or citizenship**
+	Countries are required to _repatriate_ prisoners of war when conflict has ended.
+
 ##### Reprobate (noun / adjective / verb)
 *ˈre-prə-ˌbāt*
 - **an unprincipled or depraved person: scoundrel, rogue**
