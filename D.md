@@ -223,6 +223,13 @@
 	The officer was charged with being _derelict in_ his duty.
 	It was a run-down neighborhood filled with drugs addicts and _derelicts_.
 
+##### Dereliction (noun)
+*ˌder-ə-ˈlik-shən*
+- **an intentional abandonment**
+- **intentional or conscious neglect: delinquency**
+	the _dereliction_ of a cause by its leaders
+	The officer was formally charged with _dereliction of duty_.
+
 ##### Derisive (adjective)
 *di-ˈrī-siv*
 - **expressing or causing contemptuous ridicule or scorn**

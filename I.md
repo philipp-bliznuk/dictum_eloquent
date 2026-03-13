@@ -32,6 +32,13 @@
 	a man who _immolated_ himself as an act of protest
 	a ceremony in which they _immolated_ their cherished possessions so that the gods would send rain
 
+##### Immure (verb)
+*i-ˈmyu̇r*
+- **to enclose within or as if within walls: imprison**
+- **to build into a wall**
+	scientists at the research station in Alaska are _immured_ by the frozen wastelands that surround them
+	_immured_ by a controlling, possessive mother, the young woman had no outside social life
+
 ##### Impart (verb)
 *im-ˈpärt*
 - **to give, convey, or grant from or as if from a store**

@@ -72,6 +72,15 @@
 - **comes from French / Italian origin and conveys meanings of "lacking" and "left-handed"**
 	a poet *manqué*
 
+##### Mantle (noun / verb)
+*ˈman-tᵊl*
+- **a figurative cloak symbolizing preeminence or authority: cloak**
+- **something that covers, enfolds, or envelops**
+- **the part of the interior of a terrestrial planet and especially the earth that lies beneath the crust and above the central core: regolith**
+	She _accepted the mantle of_ leadership.
+	The ground was covered with a *mantle* of leaves.
+	a past shrouded in a *mantle* of secrecy
+
 ##### Maritime (adjective)
 *ˈmer-ə-ˌtīm*
 - **of, relating to, or bordering on the sea**

@@ -507,6 +507,13 @@
 	time and the weather have _expunged_ any evidence that a thriving community once existed here
 	*expunge* a memory
 
+##### Extant (adjective)
+*ˈek-stənt*
+- **currently or actually existing**
+- **not destroyed or lost**
+	There are few _extant_ records from that period.
+	one of the oldest buildings still _extant_
+
 ##### Extol (verb)
 *ik-ˈstōl*
 - **to praise highly: glorify**

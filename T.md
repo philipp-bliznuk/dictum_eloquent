@@ -72,6 +72,13 @@
 	They were merely spread over with an old *tarpaulin*, cracked and rent in every direction.
 	The Englishman replied, like a rough *tarpaulin*, "They might starve; they should not plant nor build in that place."
 
+##### Tatter (verb / noun)
+*ˈta-tər*
+- **to make ragged: rip**
+- **a part torn and left hanging: shred**
+	the little boy _tattered_ that blanket beyond repair by repeatedly yanking on it
+	The economy is in *tatters* and large parts of the country have been reduced to rubble.
+
 ##### Tawdry (adjective / noun)
 *ˈtȯ-drē*
 - **cheap and gaudy in appearance or quality**
@@ -158,6 +165,12 @@
 - **implies pointed conciseness**
 	a *terse* summary
 	dismissed me with a *terse* "no"
+
+##### Tessellated (adjective)
+*ˈte-sə-ˌlā-təd*
+- **having a checkered appearance**
+	Red, white and black stones make up the _tessellated_ floor.
+	When a current was applied, these were capable of presenting in black, white, or shades thereof, allowing for _tessellated_ animations.
 
 ##### Tete-a-tete (noun / adverb / adjective)
 *ˌtet-ə-ˈtet*

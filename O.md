@@ -39,6 +39,13 @@
 	an *obtuse* triangle
 	He is too *obtuse* to take a hint.
 
+##### Occlude (verb)
+*ə-ˈklüd*
+- **to close up or block off: obstruct**
+- **sorb**
+	a blood clot had _occluded_ a major artery in his body
+	Palladium *occludes* large volumes of hydrogen.
+
 ##### Occult (verb / adjective)
 *ə-ˈkəlt*
 - **to shut off from view or exposure: cover, eclipse**

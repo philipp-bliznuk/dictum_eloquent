@@ -617,6 +617,13 @@
 	the _soporific_ heat of summer
 	this medication is _soporific_, so do not drive after taking it
 
+##### Sorb (verb / noun)
+*ˈsȯrb*
+- **to take up and hold by either adsorption or absorption**
+- **wend (a member of a Slavic people of eastern Germany)**
+	The sulphides this introduces react with water to produce sulphate mineral phases that are exceptionally good at *sorbing* technetium-99.
+	Even if you breathe it in, it can’t *sorb*, react, or build-up inside of you, since the only process that has any effect on this element is Henry’s Law.
+
 ##### Sordid (adjective)
 *ˈsȯr-dəd*
 - **dirty, filthy, wretched, squalid**
@@ -845,6 +852,13 @@
 - **to rake (ground troops, an airfield, etc.) with fire at close range and especially with machine-gun fire from low-flying aircraft**
 	And then back on the plane, the group is _strafed_ by a fighter jet.
 	So the Japanese thought this would be a lot of fun to come down there and *strafe* them in the water.
+
+##### Straggle (verb / noun)
+*ˈstra-gəl*
+- **to wander from the direct course or way: rove, stray**
+- **a straggling group (as of persons or objects)**
+	She _straggled_ behind the rest of the group.
+	little cabins _straggling_ off into the woods
 
 ##### Strait (noun / adjective)
 *ˈstrāt*
