@@ -130,6 +130,13 @@
 	He was sitting on the porch, _whittling_ a stick.
 	She _whittled_ a walking stick from a maple tree branch.
 
+##### Whorl (noun)
+*ˈ(h)wȯr(-ə)l*
+- **something that whirls, coils, or spirals or whose form suggests such movement: swirl**
+- **an arrangement of similar anatomical parts (such as leaves) in a circle around a point on an axis**
+	the _whorls_ and eddies of the river
+	the _whorl_ of a fingerprint
+
 ##### Wile (verb / noun)
 *ˈwī(-ə)l*
 - **suggests an attempt to entrap or deceive with false allurements**

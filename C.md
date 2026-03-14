@@ -18,6 +18,20 @@
 	a *cadre* of technicians
 	claims that the problem will never be solved within the existing _cadre_ of the state bureaucracy
 
+##### Cajole (verb)
+*kə-ˈjōl*
+- **to persuade with flattery or gentle urging especially in the face of reluctance: coax**
+- **to deceive with soothing words or false promises**
+	_cajoled_ her into doing his laundry for him
+	_cajoled_ him into cheating on the final exam
+
+##### Calliper / Caliper (noun)
+*ˈka-lə-pər*
+- **any of various measuring instruments having two usually adjustable arms, legs, or jaws used especially to measure diameter or thickness -> usually used in plural**
+- **a device for pressing a frictional material (such as a brake pad) against the sides of a rotating wheel or disc**
+	Clean the area on the piston and *caliper* where the brake pad backing plate touches.
+	Friction between the *caliper* and disc make brakes very hot.
+
 ##### Callipygian (adjective)
 *ˌka-lə-ˈpi-j(ē-)ən*
 - **having shapely buttocks**
@@ -789,6 +803,13 @@ _ˈkau̇n-tᵊn-ən(t)s_
 	From a distance, most of the engine’s _cowling_ and exhaust nozzle appeared intact.
 	Saul passes through its streets in a black *cowl* and a mask, looking like a scythe-less Grim Reaper.
 
+##### Cow (verb)
+*ˈkau̇*
+- **implies reduction to a state where the spirit is broken or all courage is lost**
+- **to bring to a state or an action by intimidation -> used with _into_**
+	I refuse to be _cowed_ by their threats.
+	a sharp glare _cowed_ the child into being quiet
+
 ##### Cozen (verb)
 *ˈkə-zən*
 - **to deceive, win over, or induce to do something by artful coaxing and wheedling or shrewd trickery**
@@ -912,6 +933,12 @@ _ˈkau̇n-tᵊn-ən(t)s_
 - **a usually ill-defined or imperfectly identified bodily disorder**
 	I spent an hour scrubbing the _crud_ off the old stove.
 	He complains that there's too much _crud_ on TV these days.
+
+##### Crustacean (noun)
+*ˌkrə-ˈstā-shən*
+- **any of a large class (Crustacea) of mostly aquatic mandibulate arthropods that have a chitinous or calcareous and chitinous exoskeleton, a pair of often much modified appendages on each segment, and two pairs of antennae and that include the lobsters, shrimp, crabs, wood lice, water fleas, and barnacles**
+	After evolving in the sea about 500 million years ago, _crustaceans_ expanded into a huge range of undersea niches.
+	The nearby bay was full of the _crustaceans_, but back in 1921, nobody was eating them.
 
 ##### Cubbyhole (noun)
 *ˈkə-bē-ˌhōl*

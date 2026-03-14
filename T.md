@@ -172,6 +172,13 @@
 	Red, white and black stones make up the _tessellated_ floor.
 	When a current was applied, these were capable of presenting in black, white, or shades thereof, allowing for _tessellated_ animations.
 
+##### Tessera (noun)
+*ˈte-sə-rə*
+- **a small tablet (as of wood, bone, or ivory) used by the ancient Romans as a ticket, tally, voucher, or means of identification**
+- **a small piece (as of marble, glass, or tile) used in mosaic work**
+	In the milling street Crivano feels invisible again, a _tessera_ blended into a mosaic.
+	The tickets were small disks made of clay, called _tessera_ in Latin, which were stamped with seating details and distributed to Roman citizens through institutions, companies, and other organizations.
+
 ##### Tete-a-tete (noun / adverb / adjective)
 *ˌtet-ə-ˈtet*
 - **a private conversation between two persons**

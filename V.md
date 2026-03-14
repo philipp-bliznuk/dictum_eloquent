@@ -287,6 +287,13 @@ Vermilion (noun)
 	He was _vociferous_ in his support of the proposal.
 	The decision was made over their _vociferous_ objections.
 
+##### Voluble (adjective)
+*ˈväl-yə-bəl*
+- **easily rolling or turning: rotating**
+- **characterized by ready or rapid speech: glib, fluent**
+	Jason is one of my most *voluble* and expressive friends.
+	Amiable and *voluble*, Li speaks with the rhetorical flourish of a man who has told his story often.
+
 ##### Votive (adjective / noun)
 *ˈvō-tiv*
 - **consisting of or expressing a vow, wish, or desire**

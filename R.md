@@ -441,6 +441,13 @@
 	Still, analysts fear that a _Rubicon_ may have been crossed.
 	Even before it was done training, OpenAI knew the model was crossing some sort of AI _Rubicon_.
 
+##### Rugose (adjective)
+*ˈrü-ˌgōs*
+- **full of wrinkles**
+- **having the veinlets sunken and the spaces between elevated**
+	*rugose* cheeks
+	*rugose* leaves of the sage
+
 ##### Runnel (noun)
 *ˈrə-nᵊl*
 - **rivulet, streamlet**
