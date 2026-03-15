@@ -5,6 +5,13 @@
 	mourners _keening_ at a funeral
 	victims of the disaster have been _keening_ for weeks about the slowness of governmental aid
 
+##### Ken (noun / verb)
+*ˈken*
+- **the range of perception, understanding, or knowledge**
+- **the range of vision**
+	abstract words that are beyond the *ken* of young children
+	'tis double death to drown in *ken* of shore
+
 ##### Keyed up (adjective)
 *ˈkēd ˈəp*
 - **nervous, tense, or excited**
@@ -16,6 +23,13 @@
 - **implies a comparatively minor but special ability making for ease and dexterity in performance**
 	She has a _knack_ for telling interesting stories.
 	the _knack_ of getting along
+
+##### Knave (noun)
+*ˈnāv*
+- **a tricky deceitful fellow**
+- **a playing card carrying the figure of a soldier or servant and ranking usually below the queen: jack**
+	he plays the role of the duplicitous _knave_ who tries to foil the play's hero
+	How does history distinguish _knaves_ from legendary figures?
 
 ##### Kowtow (verb / noun)
 *ˈkau̇-ˌtau̇*

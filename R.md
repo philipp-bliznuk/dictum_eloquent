@@ -5,6 +5,13 @@
 	Nobody wants political parties that behave like unruly *rabbles*.
 	Academy's officials showed its determination to eradicate the *rabble* of synonyms, onomatopoeias and vulgarities
 
+##### Raddled (adjective)
+*ˈra-dᵊld*
+- **being in a state of confusion: bewildered**
+- **broken-down, worn**
+	trying to explain a mix-up in my mail order to a clearly _raddled_ clerk in customer service
+	That time, she also had to look *raddled*, wrecked by life, desperate and unlovable, whereas this time, she only has to look pregnant.
+
 ##### Raffia (noun)
 *ˈra-fē-ə*
 - **the fiber of the raffia palm used especially as cord for tying and weaving**
@@ -181,6 +188,13 @@
 - **a secure retreat: stronghold**
 	The refugees gathered in a hilly _redoubt_ several miles outside the city.
 	a massive stone _redoubt_ at the entrance of the bay guarded the city
+
+##### Reedy (adjective)
+*ˈrē-dē*
+- **abounding in or covered with reeds**
+- **having the tone quality of a reed instrument: shrill**
+	Park lakes and _reedy_ little streams - anything not too polluted from the steel factories.
+	But his voice is still warm and _reedy_ - a deviated septum helps give it that slight nasal edge - and the notes land precisely, if not predictably.
 
 ##### Refectory (noun)
 *ri-ˈfek-t(ə-)rē*

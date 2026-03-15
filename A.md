@@ -514,6 +514,13 @@ _ə-ˈper-əl_
 	The drugs can't _arrest_ the disease's progress, but they can slow it down considerably.
 	an *arrested* tumor
 
+##### Arsenic (noun / adjective)
+*ˈär-sə-nic*
+- **a solid chemical element that is used especially in wood preservatives, alloys, and semiconductors and is extremely toxic in both pure and combined forms**
+- **of, relating to, or containing arsenic especially with a valence of five**
+	The pool is rimmed with a rusty red color from the mix of iron, aluminum, and _arsenic_.
+	Richards' doctor, Shaida Sina, who is aware of the slag pile, said it was likely caused by _arsenic_ exposure.
+
 ##### Artificer (noun)
 *är-ˈti-fə-sər*
 - **a skilled or artistic worker or craftsman**

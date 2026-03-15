@@ -271,6 +271,13 @@
 	after years of _toil_ in a sweatshop, Kim was finally able to start her own dressmaking business
 	They were _toiling_ up a steep hill.
 
+##### Tonsure (noun / verb)
+*ˈtän(t)-shər*
+- **the shaven crown or patch worn by monks and other clerics**
+- **the Roman Catholic or Eastern rite of admission to the clerical state by the clipping or shaving of a portion of the head**
+	His Semitic features suggested intelligence, but his shambling gait and inattention to his _tonsure_ and sartorial presence suggested a man under extraordinary stress.
+	his head was crowned with a friar’s _tonsure_
+
 ##### Torpid (adjective)
 *ˈtȯr-pəd*
 - **sluggish in functioning or acting**

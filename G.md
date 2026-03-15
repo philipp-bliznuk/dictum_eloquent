@@ -1,3 +1,10 @@
+##### Gabble (verb / noun)
+*ˈga-bəl*
+- **to talk fast or foolishly: jabber**
+- **to utter inarticulate or animal sounds**
+	heard her parents' guests still _gabbling_ in the living room late into the night
+	during the filming of the party scene the extras were told to just _gabble_ and act like they were having a great time
+
 ##### Gaiety (noun)
 *ˈgā-ə-tē*
 - **merrymaking**

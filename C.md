@@ -170,6 +170,20 @@
 	a journalist who writes his well-crafted stories with remarkable _celerity_
 	*Celerity* of movement is vital in war.
 
+##### Censer (noun)
+*ˈsen(t)-sər*
+- **a vessel for burning incense**
+- **a covered incense burner swung on chains in a religious ritual**
+	Martha says, waving a smoking _censer_ back and forth over the golden flowers that snake from the garden gate into the parlor of her childhood home.
+	The clanging of heavy weight in motion is like the clinking of a priest’s _censer_, releasing a cloud of incense, which enters the nooks and crannies of one’s life and infuses them with a certain power.
+
+##### Censure (noun / verb)
+*ˈsen(t)-shər*
+- **a judgment involving condemnation**
+- **an official reprimand**
+	a rare _censure_ of a senator by the full United States Senate for misconduct
+	He was _censured_ by the committee for his failure to report the problem.
+
 ##### Census (noun)
 *ˈsen(t)-səs*
 - **a usually complete enumeration of a population**

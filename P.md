@@ -124,6 +124,13 @@
 	The mixture has a _pasty_ consistency.
 	You look a little _pasty_. Are you feeling OK?
 
+##### Paten (noun)
+*ˈpa-tᵊn*
+- **a plate usually made of precious metal and used to carry the bread at the Eucharist**
+- **something (such as a metal disk) resembling a plate, plate**
+	The priest carefully placed the consecrated host upon the golden *paten*, which shimmered under the candlelight of the high altar.
+	The museum’s collection of medieval metalwork featured a heavily engraved silver *paten*, showcasing a masterful chase of biblical scenes around its rim.
+
 ##### Patent (adjective)
 *ˈpa-tᵊnt*
 - **readily visible or intelligible: obvious**
@@ -846,6 +853,13 @@ Peruke (noun)
 	Now is a _propitious_ time to start a business.
 	the success of the first big movie in May was a _propitious_ start for the summer season of blockbusters
 
+##### Proscribe (verb)
+*prō-ˈskrīb*
+- **to publish the name of as condemned to death with the property of the condemned forfeited to the state**
+- **to condemn or forbid as harmful or unlawful: prohibit**
+	acts that are _proscribed_ by law
+	regulations _proscribe_ the use of electronic devices on board a plane while it is landing
+
 ##### Prostrate (adjective / verb)
 *ˈprä-ˌstrāt*
 - **implies lying full-length as in submission, defeat, or physical collapse**
@@ -892,7 +906,7 @@ Peruke (noun)
 	Tired of painting test areas of a wall with endless shades of _puce_?
 	But this week, at least, the most reliable method for inducing _puce_-faced rage in the Brussels diplomatic corps has been to utter the word Spitzenkandidaten.
 
-##### Pudgy (adjective)
+##### Pudgy / Podgy (adjective)
 *ˈpə-jē*
 - **being short and plump: chubby**
 - **plump, fat**

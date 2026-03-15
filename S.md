@@ -328,6 +328,13 @@
 	He preached a _sermon_ on the importance of kindness.
 	Dad gave me a _sermon_ yesterday about doing my homework.
 
+##### Serpantine (adjective)
+*ˈsər-pən-ˌtēn*
+- **of or resembling a serpent (as in form or movement): winding**
+- **subtly wily or tempting**
+	the country inn lies at the end of a rather _serpentine_ road, but it's worth the trip
+	The neurochemical keys to this process are encoded in the song’s _serpentine_ groove, a hypnotic inside-out drum pattern that’s difficult to resist and seemingly impossible for anyone but the late icon Sly Dunbar - who passed away this week at 73—to play accurately.
+
 ##### Serried (adjective)
 *ˈser-ēd*
 - **crowded or pressed together: compact**
@@ -839,6 +846,13 @@
 - **an enclosure or pen made with posts and stakes: jail**
 	prisoners of war confined in a _stockade_
 	The camp consisted of a _stockade_ erected around a 16-acre field by 200 enslaved workers commandeered from nearby plantations.
+
+##### Stocky (adjective)
+*ˈstä-kē*
+- **compact, sturdy, and relatively thick in build**
+- **stout, sturdy**
+	That outfit makes you look _stocky_.
+	the _stocky_ boxer's strength and speed more than make up for his opponent's longer reach
 
 ##### Stolid (adjective)
 *ˈstä-ləd*
