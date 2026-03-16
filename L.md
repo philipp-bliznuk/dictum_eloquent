@@ -347,3 +347,10 @@
 - **an inner beauty**
 	on a clear night at sea the stars seem to take on a magical _luster_
 	her pearl necklace *lustered* softly in the candlelight of the restaurant
+
+##### Lyre (noun)
+*ˈlī(-ə)r*
+- **a stringed instrument of the harp class having an approximately U-shaped frame and used by the ancient Greeks especially to accompany song and recitation**
+- **a small clip typically resembling a lyre that is used for holding sheet music and attaches to a musical instrument (such as a trombone)**
+	Add a miniature harp or _lyre_ to complete the vision.
+	So imagine the scandal when the emperor himself, the ruler of the known world, climbed onto a stage with a _lyre_ in his hands, singing, reciting, performing for hours.

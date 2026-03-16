@@ -66,6 +66,13 @@
 	The jawbone is part of an adult *mandible*, but its height points to a person of short stature and small body size.
 	The fossil, a *mandible* for chewing, was first discovered in 1980 by a monk.
 
+##### Manifold (noun / adjective / adverb / verb)
+*ˈma-nə-ˌfōld*
+- **a whole that unites or consists of many diverse elements**
+- **rightfully so-called for many reasons**
+	the _manifold_ attractions of that state make it an ideal destination for a family vacation
+	a *manifold* liar
+
 ##### Manqué (adjective)
 *mäⁿ-ˈkā*
 - **short of or frustrated in the fulfillment of one's aspirations or talents -> used postpositively**

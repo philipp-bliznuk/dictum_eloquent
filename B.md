@@ -294,6 +294,13 @@ _bi-ˈsä-təd_
 	we'll have to _blench_ the sheets with bleach to restore that snow-white look
 	she _blenched_ from the horrible sight
 
+##### Blinkered (adjective)
+*ˈbliŋ-kərd*
+- **limited in scope or understanding: narrow-minded**
+- **fitted with blinders**
+	The CEO’s *blinkered* focus on short-term profits caused him to ignore the long-term technological shifts that eventually bankrupted the company.
+	Growing up in a tiny, isolated village had left him with a *blinkered* perspective on the world, but traveling abroad quickly opened his mind.
+
 ##### Blissful (adjective)
 *ˈblis-fəl*
 - **full of, marked by, or causing complete happiness**

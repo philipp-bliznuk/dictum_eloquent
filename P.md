@@ -138,6 +138,12 @@
 	his *patent* sincerity
 	a *patent* falsehood
 
+##### Pathogen (noun)
+*ˈpa-thə-jən*
+- **a specific causative agent (such as a bacterium or virus) of disease**
+	Lymphoid follicles produce antibodies, such as immunoglobulin A, to neutralize _pathogens_.
+	This level of cleaning is most important to do when someone is ill or when surfaces may be contaminated with disease-causing _pathogens_.
+
 ##### Pathos (noun)
 *ˈpā-ˌthäs* / *ˈpā-ˌthōs*
 - **an element in experience or in artistic representation evoking pity or compassion**

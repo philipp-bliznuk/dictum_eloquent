@@ -52,6 +52,13 @@
 	my comment held a *tang* of sarcasm
 	the young author's novel is surprisingly earnest, tackling its subject without the slightest _tang_ of irony
 
+##### Tan (noun / verb / adjective)
+*ˈtan*
+- **a brown color imparted to the skin especially by exposure to the sun**
+- **to thrash, whip**
+	a horse with _tan_ markings
+	a time when children were routinely _tanned_ for misbehavior
+
 ##### Tantamount (adjective)
 *ˈtan-tə-ˌmau̇nt*
 - **equivalent in value, significance, or effect**
@@ -92,6 +99,13 @@
 - **a rash or reckless act**
 	He was punished for his _temerity_.
 	she had the _temerity_ to ask me if she could borrow some money even though she never repaid the last loan
+
+##### Tempest (noun / verb)
+*ˈtem-pəst*
+- **a violent storm**
+- **tumult, uproar**
+	the sudden summertime _tempest_ drove us off the golf course and into the clubhouse
+	the town council handled the _tempest_ over cuts to the school budget as well as could be expected
 
 ##### Temporize (verb)
 *ˈtem-pə-ˌrīz*
@@ -197,6 +211,13 @@
 - **the middle of the three chief divisions of the body of an insect**
 	The *thorax* is evaluated for fluid at the flanks and for pneumothorax anteriorly.
 	This haunting pitch issues from drum tissue stretched over the *thorax* of the male annual cicada.
+
+##### Threnody (noun)
+*ˈthre-nə-dē*
+- **a song of lamentation for the dead: elegy**
+- **dirge, requiem**
+	the composer's cello concerto was composed as a moving _threnody_ for his late wife
+	His diary shrank to a litany of suffering and a _threnody_ for what might have been.
 
 ##### Throe (noun)
 *ˈthrō*

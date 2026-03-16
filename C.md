@@ -395,6 +395,13 @@
 	These days, though, there’s no need to _clomp_ around in heels.
 	Then my daughter *clomped* down the stairs, running her hands along the wall to steady herself.
 
+##### Clot (noun / verb)
+*ˈklät*
+- **a portion of a substance adhering together in a thick nondescript mass (as of clay or gum)**
+- **cluster, group**
+	We were told that his stroke was caused by a _clot_ in his brain.
+	medications that prevent blood from _clotting_
+
 ##### Cloying (adjective)
 *ˈklȯi-iŋ*
 - **disgusting or distasteful by reason of excess**
@@ -448,6 +455,12 @@
 - **a style or manner of arranging the hair**
 - **hairdresser**
 	I love his eerily perfect *coiffure* and his … impish smile …
+
+##### Coin (verb)
+*ˈkȯin*
+- **create, invent**
+	The coach _coined_ the phrase “refuse to lose.”
+	William Shakespeare is believed to have _coined_ many words.
 
 ##### Colander (noun)
 *ˈkä-lən-dər*
@@ -967,6 +980,13 @@ _ˈkau̇n-tᵊn-ən(t)s_
 - **a conduit for a culvert**
 	The river and *culvert* were about 20 feet down from the road.
 	Rivers were put in *culverts* partly to contain the smell.
+
+##### Curia (noun)
+*ˈkyu̇r-ē-ə*
+- **the court of a medieval king**
+- **the body of congregations, tribunals, and offices through which the pope governs the Roman Catholic Church**
+	The senator argued that the matter should be settled within the *curia*, rather than by a direct decree from the Emperor.
+	The diplomat spent months navigating the complex bureaucracy of the Roman *curia* to secure an audience regarding the new treaty.
 
 ##### Curmudgeon (noun)
 *(ˌ)kər-ˈmə-jən*

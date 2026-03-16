@@ -82,6 +82,13 @@
 	The bottles were uncorked and the wine was _decanted_ an hour before the meal.
 	Unused guest toiletries are _decanted_ for use in staff changing rooms.
 
+##### Declaim (verb)
+*di-ˈklām*
+- **to speak rhetorically**
+- **to speak pompously or bombastically: harangue**
+	The actress _declaimed_ her lines with passion.
+	The speakers _declaimed_ on a variety of issues.
+
 ##### Declivity (noun)
 *di-ˈkli-və-tē*
 - **downward inclination**

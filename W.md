@@ -192,6 +192,13 @@
 	She was _wistful_ for a moment, then asked, “Do you remember the old playground?”.
 	He had a _wistful_ look on his face.
 
+##### Withe (noun)
+*ˈwith*
+- **a slender flexible branch or twig**
+- **especially one used as a band or line**
+	The fletcher used a slender *withe* to bind the bundles of arrows together before transporting them to the armory.
+	Before the invention of wire fencing, the farmers would weave *withes* through the upright posts to create a sturdy, natural barrier for their livestock.
+
 ##### Wizen (verb / adjective)
 *ˈwi-zᵊn*
 - **to become dry, shrunken, and wrinkled often as a result of aging or of failing vitality**

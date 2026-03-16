@@ -342,6 +342,12 @@
 	The crowd collected in a *serried* mass.
 	the *serried* contours of the mountains
 
+##### Shale (noun)
+*ˈshāl*
+- **a fissile rock that is formed by the consolidation of clay, mud, or silt, has a finely stratified or laminated structure, and is composed of minerals essentially unaltered since deposition**
+	Higher fuel prices are beneficial for _shale_ refiners.
+	In the Permian basin of New Mexico and west Texas, for example, producers can more quickly and economically ramp up extraction of light crude oil trapped in _shale_ rock.
+
 ##### Shambolic (adjective)
 *sham-ˈbä-lik*
 - **obviously disorganized or confused**
@@ -701,6 +707,13 @@
 	She tripped and _went sprawling_ into the table.
 	The bushes were _sprawling_ along the road.
 
+##### Sprightly (adjective)
+*ˈsprīt-lē*
+- **full of life and vivacity: spirited**
+- **having a distinctively piquant taste: zesty**
+	a _sprightly_ child who often claims to be too tired to move when it's time to do chores
+	a *sprightly* salsa
+
 ##### Spurn (verb / noun)
 *ˈspərn*
 - **to tread sharply or heavily upon: trample**
@@ -833,6 +846,13 @@
 	a circus performer walking on _stilts_
 	The word _stilt_ comes from Middle English stilt(e), meaning a crutch or support.
 
+##### Stipend (noun)
+*ˈstī-ˌpend*
+- **a fixed sum of money paid periodically for services or to defray expenses**
+- **wage, salary**
+	He receives a small _stipend_ for his work as a research fellow.
+	the _stipend_ you'll receive as an intern will just barely cover your housing costs
+
 ##### Stipple (verb / noun)
 *ˈsti-pəl*
 - **to engrave by means of dots and flicks: sprinkle**
@@ -920,6 +940,13 @@
 - **an adverse criticism: censure**
 	the church's _strictures_ on the morals and mores of contemporary society
 	the new zoning _strictures_ effectively make further development along the riverfront commercially unviable
+
+##### Strident (adjective)
+*ˈstrī-dᵊnt*
+- **characterized by harsh, insistent, and discordant sound**
+- **commanding attention by a loud or obtrusive quality**
+	The _strident_ tone in his voice revealed his anger.
+	heard the _strident_ cry of the crow
 
 ##### Stripling (noun)
 *ˈstri-pliŋ*

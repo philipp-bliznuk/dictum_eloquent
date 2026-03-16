@@ -101,6 +101,12 @@
 	once given away as a cheap prize at carnivals, this _opalescent_ glass is now highly prized by collectors
 	The formal coupes are polished using specialty techniques to reveal a reflective, _opalescent_ finish.
 
+##### Operetta (noun)
+*ˌä-pə-ˈre-tə*
+- **a usually romantic comic opera that includes songs and dancing**
+	The _operetta_’s success rests equally on its witty dialogue and its brilliant music.
+	Together, the four could send up almost anything: melodrama, tragedy, _operetta_, game show.
+
 ##### Opine (verb)
 *ō-ˈpīn*
 - **to express opinions**
@@ -127,6 +133,13 @@
 - **to issue an order**
 	She is an _ordained_ minister.
 	The process was _ordained_ by law.
+
+##### Orderly (noun)
+*ˈȯr-dər-lē*
+- **a soldier assigned to perform various services (such as carrying messages) for a superior officer**
+- **a hospital attendant who does routine or heavy work (such as cleaning, carrying supplies, or moving patients)**
+	Why couldn’t the _orderlies_ have been played by Caucasian actors in this instance?
+	Shortly after the _orderlies_ wheeled Jim away to be intubated, an intensive-care doctor explained to me and Alice that our brother was suffering from acute respiratory failure.
 
 ##### Ordure (noun)
 *ˈȯr-jər*

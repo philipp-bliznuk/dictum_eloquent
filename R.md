@@ -327,6 +327,13 @@
 	The patient stopped breathing but doctors were able to _resuscitate_ him.
 	she hopes to _resuscitate_ the currently defunct charity organisation
 
+##### Retainer (noun)
+*ri-ˈtā-nər*
+- **a person attached or owing service to a household: servant**
+- **the act of a client by which the services of a lawyer, counselor, or adviser are engaged**
+	knights being dressed for battle by their _retainers_
+	lifelong civil service _retainers_
+
 ##### Reticent (adjective)
 *ˈre-tə-sənt*
 - **inclined to be silent or uncommunicative in speech: reserved**

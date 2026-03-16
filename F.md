@@ -1,3 +1,10 @@
+##### Facetious (adjective)
+*fə-ˈsē-shəs*
+- **joking or sarcastic especially in a way regarded by others as silly, annoying, or inappropriate**
+- **stresses a desire to produce laughter and may be derogatory in implying dubious or ill-timed attempts at wit or humor**
+	the essay is a _facetious_ commentary on the absurdity of war as a solution for international disputes
+	a _facetious_ and tasteless remark about people in famine-stricken countries being spared the problem of overeating
+
 ##### Facia / Fascia (noun)
 *ˈfā-sh(ē-)ə*
 - **a flat usually horizontal member of a building having the form of a flat band or broad fillet**
@@ -93,6 +100,13 @@
 	You look very _fetching_ in that outfit.
 	the woman's _fetching_ smile has long made the painting a favorite with visitors to the museum
 
+##### Fete (noun / verb)
+*ˈfāt*
+- **a lavish often outdoor entertainment / festival**
+- **to honor or commemorate with a fete**
+	a *fete* in the park with music and performances
+	They _feted_ the winning team with banquets and parades.
+
 ##### Fetid (adjective)
 *ˈfe-təd*
 - **having a heavy offensive smell**
@@ -148,6 +162,13 @@
 - **ornamental openwork of delicate or intricate design**
 	a surface decorated with _filigree_ and pearls
 	a *filigree* of frost
+
+##### Finery (noun)
+*ˈfī-nə-rē*
+- **ornament, decoration**
+- **dressy or showy clothing and jewels: costume**
+	She was proud to show off her new evening _finery_.
+	the guests arrived at the wedding in all their _finery_
 
 ##### Finial (noun)
 *ˈfi-nē-əl*
@@ -226,6 +247,12 @@
 - **accident, chance**
 	the discovery of oil on their property was just an amazing _fluke_
 	Still, oddsmakers believe that game was a _fluke_.
+
+##### Fluted (adjective)
+*ˈflü-təd*
+- **having or marked by grooves**
+	The mansion has six _fluted_ columns across the porch.
+	Perched atop Telegraph Hill, Coit Tower crowns the skyline with its unmistakable _fluted_ silhouette.
 
 ##### Flux (noun / verb)
 *ˈfləks*

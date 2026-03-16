@@ -132,6 +132,13 @@
 	Two of my friends came by unexpectedly, and we had an _impromptu_ little party in my kitchen.
 	although five different lines had been written, the best choice turned out to be an _impromptu_ from the tired actor himself
 
+##### Impudence (noun)
+*ˈim-pyə-dən(t)s*
+- **the quality or state of being impudent**
+- **disrespect, insolence**
+	my mother would not tolerate _impudence_ from any of us
+	their _impudence_ irritated everyone at the wedding reception
+
 ##### Impunity (noun)
 *im-ˈpyü-nə-tē*
 - **exemption or freedom from punishment, harm, or loss**
@@ -194,6 +201,13 @@
 - **imperfectly formed or formulated: formless, incoherent**
 	_inchoate_ feelings of affection for a man whom she had, up till now, thought of as only a friend
 	misty, *inchoate* suspicions that all is not well with the nation
+
+##### Incidental (noun)
+*ˌin(t)-sə-ˈden-tᵊl*
+- **minor items (as of expense) that are not particularized**
+- **something that is incidental**
+	The company covered my flight and hotel, but I had to pay for my own *incidentals*, such as laundry service and room service snacks.
+	While the main plot of the play was gripping, the various *incidentals* of the production - the music, the lighting, and the costumes - really brought the world to life.
 
 ##### Incipient (adjective)
 *in-ˈsi-pē-ənt*
@@ -603,6 +617,13 @@
 - **annoying, frustrating**
 	the _irksome_ task of cleaning up
 	the _irksome_ habit of leaving all the kitchen cabinet doors open
+
+##### Irreconcilable (adjective / noun)
+*i-ˌre-kən-ˈsī-lə-bəl*
+- **impossible to reconcile**
+- **a member of a group (such as a political party) opposing compromise or collaboration**
+	theories that are _irreconcilable_ with each other
+	In both negotiations, opposing sides appear to have _irreconcilable_ demands.
 
 ##### Itinerary (noun)
 *ī-ˈti-nə-ˌrer-ē*
