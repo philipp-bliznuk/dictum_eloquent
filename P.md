@@ -422,6 +422,13 @@ Peruke (noun)
 - **a motorcycle or bicycle saddle for a passenger**
 	The killers were mostly masked or hooded gunmen riding _pillion_ on motorcycles, sometimes in broad daylight.
 
+##### Pincer (noun)
+*ˈpin(t)-sər*
+- **plural: an instrument having two short handles and two grasping jaws working on a pivot and used for gripping things**
+- **a military attack by two coordinated forces that close in on an enemy position from different directions**
+	Along its _pincers_, the scorpion has sensory hairs known as trichobothria.
+	In a video demo, Alibaba showed a robot with _pincers_ for hands that appeared to be able to count oranges, pick them up and place them in a basket.
+
 ##### Pink (noun / verb)
 *ˈpiŋk*
 - **the very embodiment: paragon**

@@ -19,6 +19,13 @@
 	She was too _magnanimous_ to resent all the things others had said to her.
 	a _magnanimous_ donation to the town's animal shelter
 
+##### Mainstay (noun)
+*ˈmān-ˌstā*
+- **a crucial or key part of something**
+- **a ship's stay extending from the maintop forward usually to the foot of the foremast**
+	Fish is a _mainstay_ of their diet.
+	My mother has always been the _mainstay_ of our family.
+
 ##### Malcontent (noun / adjective)
 *ˌmal-kən-ˈtent*
 - **one who bears a grudge from a sense of grievance or thwarted ambition**
@@ -246,6 +253,12 @@
 - **a troublesome or intractable situation**
 	The troops marched onward through the muck and the _mire_.
 	the case has been _mired_ in probate court for years
+
+##### Mirepoix (noun)
+*mir-ˈpwä*
+- **a sautéed mixture of diced vegetables (such as carrots, celery, and onions), herbs, and sometimes ham or bacon used especially as a basis for soups, stews, and sauces**
+	Steidle-Land recommends adding classic _mirepoix_, garlic, thyme, and very small amounts of star anise and clove.
+	All great soups start with a good _mirepoix_, and this soup is no different.
 
 ##### Miser (noun)
 *ˈmī-zər*

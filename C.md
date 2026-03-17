@@ -572,6 +572,13 @@
 	the governor is eager to _concert_ with the federal authorities on this matter
 	*concerted* their differences
 
+##### Conch (noun)
+*ˈkäŋk* / *ˈkänch*
+- **any of various large spiral-shelled marine gastropod mollusks (as of the genus _Strombus_)**
+- **a native or resident of the Florida Keys**
+	The photo shows the patch of grass under a tree, with a _conch_ shell lying on it, which appears to serve as the grave’s only marker.
+	Be sure to make a reservation or risk missing out on savoring _conch_ fritters and the signature pulled pork burger.
+
 ##### Conciliate (verb)
 *kən-ˈsi-lē-ˌāt*
 - **to gain (something, such as goodwill) by pleasing acts**
@@ -704,6 +711,13 @@
 - **an aggregation or continuous network of urban communities**
 	a _conurbation_ of cities along the river
 
+##### Convalesce (verb)
+*ˌkän-və-ˈles*
+- **to recover health and strength gradually after sickness or weakness**
+- **recuperate**
+	He is _convalescing_ from his leg injuries.
+	the long months that the soldier spent in the hospital slowly _convalescing_
+
 ##### Convene (verb)
 *kən-ˈvēn*
 - **to come together in a body**
@@ -782,6 +796,13 @@ _ˈküt_
 - **a plant bark or rind (such as cinchona) used medicinally**
 	Part of your brain called the motor _cortex_ tells your body how to move.
 	In the language network, there are basically three areas in the frontal _cortex_ in most people.
+
+##### Coruscate (verb)
+*ˈkȯr-ə-ˌskāt*
+- **to give off or reflect light in bright beams or flashes: sparkle**
+- **to be brilliant or showy in technique or style**
+	a classic car from the 1950s, replete with yards of _coruscating_ chrome
+	With his new book, Pan, Clune has turned his cockeyed sensibility and _coruscating_ intellect to fiction.
 
 ##### Countenance (noun)
 _ˈkau̇n-tᵊn-ən(t)s_
@@ -1015,6 +1036,12 @@ _ˈkau̇n-tᵊn-ən(t)s_
 - **one entrusted with guarding and keeping property or records or with custody or guardianship of prisoners or inmates: warden**
 	the _custodian_ made his usual rounds of the building to make sure that everything was OK
 	served as _custodian_ of the prisoner until he could be turned over to federal authorities
+
+##### Cycad (noun)
+*ˈsī-kəd*
+- **any of an order (Cycadales) of dioecious cycadophytes that flourished especially during the Jurassic and are represented by four surviving families of palmlike tropical plants**
+	Yes, all the various _cycads_, but also cacti and succulents, and citrus trees.
+	In the Triassic, however, forests only consisted of conifers and _cycads_; flowers didn’t even exist yet.
 
 ##### Cyclopean (adjective)
 *ˌsī-klə-ˈpē-ən*

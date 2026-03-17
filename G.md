@@ -81,6 +81,13 @@
 	He wrapped the wound in _gauze_.
 	wrapped in the pale _gauze_ of a misty afternoon, the city seemed eerily romantic to the strolling lovers
 
+##### Genteel (adjective)
+*jen-ˈtēl*
+- **having an aristocratic quality or flavor: stylish**
+- **maintaining or striving to maintain the appearance of superior or middle-class social status or respectability**
+	a person of _genteel_ upbringing
+	the _genteel_ manners of an old southern gentleman
+
 ##### Giddy (adjective)
 *ˈgi-dē*
 - **lightheartedly silly: frivolous**

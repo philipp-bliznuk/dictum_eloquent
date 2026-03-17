@@ -279,6 +279,13 @@
 	Church offering plates are meant for _tithes_ and charity, not political contributions.
 	Christians had settled for _tithing_ 10 percent; for Unger, this was hardly a drop in the pond.
 
+##### Titter (verb / noun)
+*ˈti-tər*
+- **to laugh in a nervous, affected, or partly suppressed manner: giggle, snicker**
+- **a quiet or nervous laugh: an act or instance of tittering**
+	Some people in the audience _tittered_ nervously during an awkward pause in the speech.
+	a _titter_ swept through the crowd at his verbal slip
+
 ##### To and fro (noun)
 *ˌtü-ən-ˈfrō*
 - **forward and backward**
@@ -326,6 +333,13 @@
 - **haul, convey**
 	_toted_ his dog from the muddy backyard to the bathtub for a thorough washing
 	The compact style is easy to *tote* around yet still has enough room for most laptops.
+
+##### Totter (verb / noun)
+*ˈtä-tər*
+- **to move unsteadily: stagger, wobble**
+- **to tremble or rock as if about to fall: sway**
+	The child _tottered_ across the room.
+	He _tottered_ away to bed.
 
 ##### Tout (verb)
 *ˈtau̇t*
@@ -443,6 +457,13 @@
 - **scathingly harsh: vitriolic**
 	die-hard fans who became _truculent_ and violent after their team's loss
 	a theater critic who was notorious for his titanically _truculent_ reviews
+
+##### Truncheon (noun / verb)
+*ˈtrən-chən*
+- **a police officer's billy club: baton**
+- **a shattered spear or lance**
+	police officers kept their hands on their _truncheons_
+	Hundreds of people crowded the runway to greet Ali, pushing against a cordon of soldiers armed with _truncheons_.
 
 ##### Trundle (verb / noun)
 *ˈtrən-dᵊl*

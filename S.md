@@ -127,6 +127,13 @@
 	a whoring, drunken _scapegrace_ who was blackening the family's name
 	That young *scapegrace* has been caught climbing the neighbor's orchard walls for the third time this week, yet he always manages to charm his way out of a scolding.
 
+##### Scatty (adjective)
+*ˈska-tē*
+- **eccentric, odd**
+- **scatterbrained**
+	any number of individuals have been fingered as the _scatty_ serial killer known to history as Jack the Ripper
+	She did, however, complete five physics papers and, being *scatty*, sent them - one after the other - to the wrong email address.
+
 ##### Schism (noun)
 *ˈsi-zəm*
 - **division, separation**
@@ -221,6 +228,13 @@
 - **delicious**
 	She has curly red hair and big jolly brown eyes and *scrumptious* freckles.
 	baked a _scrumptious_ chocolate cake
+
+##### Scrupulous (adjective)
+*ˈskrü-pyə-ləs*
+- **having moral integrity: acting in strict regard for what is considered right or proper**
+- **punctiliously exact: painstaking**
+	She was always _scrupulous_ about her work.
+	Less _scrupulous_ companies find ways to evade the law.
 
 ##### Scud (noun / verb)
 *ˈskəd*
@@ -845,6 +859,13 @@
 - **a pile or post serving as one of the supports of a structure above ground or water level**
 	a circus performer walking on _stilts_
 	The word _stilt_ comes from Middle English stilt(e), meaning a crutch or support.
+
+##### Stint (noun / verb)
+*ˈstint*
+- **a period of time spent at a particular activity**
+- **to be sparing or frugal**
+	served a brief *stint* as a waiter
+	not *stinting* with their praise
 
 ##### Stipend (noun)
 *ˈstī-ˌpend*

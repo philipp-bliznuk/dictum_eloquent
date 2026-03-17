@@ -400,6 +400,13 @@ _bi-ˈsä-təd_
 	He _braised_ the beef in a wine sauce.
 	This is particularly effective in _braises_ and other gentle cooking methods.
 
+##### Brash (adjective)
+*ˈbrash*
+- **heedless of the consequences: audacious**
+- **lacking restraint and discernment: tactless**
+	She asks such _brash_ questions.
+	a _brash_ request to get something for free
+
 ##### Brawny (adjective)
 *ˈbrȯ-nē*
 - **muscular, strong, powerful**

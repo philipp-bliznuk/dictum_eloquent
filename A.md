@@ -31,6 +31,13 @@
 	She is known as an _abstemious_ eater and drinker.
 	being _abstemious_ diners, they avoid restaurants with all-you-can-eat buffets
 
+##### Accentuate (verb)
+*ik-ˈsen(t)-shə-ˌwāt*
+- **to make (something) more prominent or noticeable: accent, emphasize**
+- **intensify**
+	He likes to wear clothes that _accentuate_ his muscular build.
+	let's _accentuate_ the saxophones during this piece by having the sax players stand up
+
 ##### Accolade (noun)
 *ˈa-kə-ˌlād*
 - **a mark of acknowledgment: award**
@@ -337,6 +344,12 @@ _ˈāl_
 - **friendly relations between nations**
 	The American-Russian *amity* that underpinned their work has gone.
 	More profound is the widespread *amity* and prosperity that have resulted.
+
+##### Ammonite (noun)
+*ˈa-mə-ˌnīt*
+- **any of a subclass (Ammonoidea) of extinct cephalopods especially abundant in the Mesozoic age that had flat spiral shells with the interior divided by septa into chambers**
+	Visitors typically find ancient shark’s teeth and internal molds of _ammonites_ and oyster shells.
+	The biggest of these whale-like creatures were apex predators, hunting ancient fish, _ammonites_, and even their smaller reptile relatives.
 
 ##### Anchorite (noun)
 *ˈaŋ-kə-ˌrīt*
