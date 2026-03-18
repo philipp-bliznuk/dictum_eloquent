@@ -26,6 +26,13 @@
 	_lambent_ sunlight glinting off the waves
 	a writer known for her _lambent_ wit
 
+##### Lamina (noun)
+*ˈla-mə-nə*
+- **a thin plate or scale: layer**
+- **either of two broad, flat plates of bone of a vertebra that is fused with and extends from the pedicle to the median line of the neural arch to form the base of the spinous process and that along with the pedicle forms the posterior part of the vertebral foramen**
+	the _laminae_ of stratified rock were deposited separately, building upwards as time passed
+	The tissue in which the teeth were embedded, called the dental _lamina_, was similarly only recorded inside a vertebrate's jaw before the study, per CBC.
+
 ##### Languid (adjective)
 *ˈlaŋ-gwəd*
 - **sluggish in character or disposition: listless**

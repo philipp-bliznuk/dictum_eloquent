@@ -464,6 +464,13 @@ Peruke (noun)
 	that remark _piqued_ my interest
 	He slammed the door _in a fit of pique_.
 
+##### Piteous (adjective)
+*ˈpi-tē-əs*
+- **of a kind to move to pity or compassion**
+- **pitiful, miserable**
+	The child cried out in a _piteous_ voice.
+	a _piteous_ beggar huddled in the doorway of an abandoned building
+
 ##### Pithy (adjective)
 *ˈpi-thē*
 - **adds to succinct or terse the implication of richness of meaning or substance**

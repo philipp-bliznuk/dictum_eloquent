@@ -12,6 +12,12 @@
 	Their efforts came to *naught*.
 	It was all for *naught*.
 
+##### Nautilus (noun)
+*ˈnȯ-tə-ləs*
+- **any of a genus (Nautilus) of cephalopod mollusks of the South Pacific and Indian oceans with a spiral chambered shell that is pearly on the inside**
+	The hard shell of the _nautilus_ encloses a series of chambers.
+	But later research showed that decay processes can give a similar appearance in the eyes of cephalopods, like squid or _nautiluses_.
+
 ##### Nave (noun)
 *ˈnāv*
 - **the hub of a wheel**

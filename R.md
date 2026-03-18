@@ -424,6 +424,13 @@
 	small _rivulets_ trickled down the side of the cliff
 	Several _rivulets_ flowed lazily through the debris.
 
+##### Roil (verb)
+*ˈrȯi(-ə)l*
+- **to make turbid by stirring up the sediment or dregs of: disturb, disorder**
+- **to make agitated and angry: upset**
+	Financial markets have been _roiled_ by the banking crisis.
+	the waters of the gulf tossed and _roiled_ as the hurricane surged toward the shore
+
 ##### Rosary (noun)
 *ˈrō-zə-rē*
 - **a traditional Catholic devotion involving the recitation of a series of prayers while meditating on key events in the lives of Jesus Christ and his mother, Mary**

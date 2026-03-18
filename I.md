@@ -25,6 +25,13 @@
 	some of his friends considered the low-level job to be an _ignominious_ fate for the laid-off executive
 	the prison guards degraded themselves with their inhumane, _ignominious_ treatment of the prisoners
 
+##### Imbricate (adjective / verb)
+*ˈim-bri-kət*
+- **lying lapped over each other in regular order**
+- **to overlap**
+	*imbricate* scales
+	But in reality, the poet’s life is also her work, or the two are _imbricated_ in a frightening way.
+
 ##### Immolate (verb)
 *ˈi-mə-ˌlāt*
 - **to kill or destroy especially by fire**

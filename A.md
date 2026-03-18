@@ -10,6 +10,13 @@
 - **the superior of a monastery for men**
 	The _abbot_ later said the temple would cover her medical expenses, according to Pairat.
 
+##### Abolition (noun)
+*ˌa-bə-ˈli-shᵊn*
+- **the act of officially ending or stopping something: the act of abolishing something**
+- **the act of officially ending slavery**
+	the _abolition_ of a law
+	calls for the _abolition_ of the death penalty
+
 ##### Abridge (verb)
 *ə-ˈbrij*
 - **to shorten by omission of words without sacrifice of sense: condense**
@@ -194,6 +201,13 @@
 *ˈadz*
 - **a cutting tool that has a thin arched blade set at right angles to the handle and is used chiefly for shaping wood**
 	Experimental archaeologists have, for instance, built their own versions of Early Upper Paleolithic _adzes_, axes, and chisels.
+
+##### Aegis (noun)
+*ˈē-jəs*
+- **auspices, sponsorship**
+- **protection**
+	having no claim to the land under the _aegis_ of the law, the cattle baron decided to claim it by force
+	a medical study that was questioned by many because it was done under the _aegis_ of a major pharmaceutical company
 
 ##### Affable (adjective)
 *ˈa-fə-bəl*
@@ -671,6 +685,12 @@ _ə-ˈskan(t)s_
 - **one held to foretell events by omens**
 	the extended interview _augurs_ well for your acceptance into that law school
 	ancient Roman _augurs_ who predicted the future by reading the flight of birds
+
+##### Aurochs (noun)
+*ˈau̇-ˌräks*
+- **an extinct large long-horned wild ox (Bos primigenius) of Europe that is the ancestor of domestic cattle**
+	Rather than cowering with a rattle, the person may be crouching with a lasso, about to capture an _aurochs_, the extinct ancestor of domesticated cattle.
+	Some Mesolithic sediment layers at the site still hold the hoofprints of long-extinct _aurochs_, and more than half the animal bones archaeologists have unearthed there come from that animal.
 
 ##### Aurora (noun)
 *ə-ˈrȯr-ə*

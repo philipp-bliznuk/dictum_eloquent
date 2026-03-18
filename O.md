@@ -53,6 +53,12 @@
 	_occulted_ their house from prying eyes by planting large trees around it
 	He began to believe he had _occult_ powers.
 
+##### Octahedron (noun)
+*ˌäk-tə-ˈhē-drən*
+- **a solid bounded by eight plane faces**
+	Diamonds, which form eight-sided crystals called _octahedrons_, can be billions of years old, Dr. Harlow said.
+	They are defined by symmetry, and the Greeks knew that there were only five possibilities meeting the criteria: the tetrahedron, cube, _octahedron_, dodecahedron and icosahedron.
+
 ##### Odiferous / Odoriferous (adjective)
 *ō-ˈdi-f(ə-)rəs / ˌō-də-ˈri-f(ə-)rəs*
 - **yielding an odor: odorous**

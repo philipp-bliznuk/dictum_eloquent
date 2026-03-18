@@ -26,6 +26,13 @@
 	He struck a _jaunty_ pose for the camera.
 	She was wearing a _jaunty_ white cap.
 
+##### Jejune (adjective)
+*ji-ˈjün*
+- **devoid of significance or interest: dull**
+- **suggests a lack of rewarding or satisfying substance**
+	She made _jejune_ remarks about life and art.
+	another moralizing tale filled with _jejune_ platitudes
+
 ##### Jell (verb)
 *ˈjel*
 - **to take shape and achieve distinctness: become cohesive**
