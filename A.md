@@ -379,6 +379,13 @@ _ˈāl_
 	the main factory and its *ancillary* plants
 	the need for *ancillary* evidence
 
+##### Anima (noun)
+*ˈa-nə-mə*
+- **an individual's true inner self that in the analytical psychology of Carl Gustav Jung reflects archetypal ideals of conduct**
+- **an inner feminine part of the male personality**
+	The artist claimed that his latest sculpture wasn't just cold marble, but possessed a certain *anima* that made it seem as though it might draw breath at any moment.
+	According to Jungian theory, a man must integrate his *anima* - the unconscious feminine side of his personality - to achieve true psychological balance.
+
 ##### Annexe / Annex (noun)
 *ˈa-ˌneks*
 - **an added stipulation or statement: appendix**

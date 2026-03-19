@@ -165,6 +165,13 @@
 	a *vicarious* thrill
 	*vicarious* authority
 
+##### Vicissitude (noun)
+*və-ˈsi-sə-ˌtüd*
+- **the quality or state of being changeable: mutability**
+- **a favorable or unfavorable event or situation that occurs by chance: a fluctuation of state or condition**
+	the *vicissitudes* of daily life
+	The show is good at making the off-and-on _vicissitudes_ of modern dating feel natural to the plot.
+
 ##### Victual (noun / verb)
 *ˈvi-tᵊl*
 - **food usable by people: provisions**

@@ -450,6 +450,13 @@
 - **cheap or inferior liquor**
 	Moonshine that falls into the _rotgut_ category could be dangerous and even deadly for anyone desperate enough to drink it.
 
+##### Roundel (noun)
+*ˈrau̇n-dᵊl*
+- **a round figure or object (such as a circular panel, window, or niche)**
+- **ring, orb**
+	the windows in the colonial-era statehouse are _roundels_
+	This suggests that the front will be adorned with BMW’s trademark _roundel_.
+
 ##### Round the bend (phrase)
 *ˈrau̇nd t͟hə ˈbend*
 - **mentally unsound**

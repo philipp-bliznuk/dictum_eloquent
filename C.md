@@ -238,6 +238,13 @@
 	The fact that he'd been unable to attend the funeral was a source of _chagrin_ for Ted.
 	She had gained five pounds over the winter, much _to her chagrin_.
 
+##### Charcuterie (noun)
+*(ˌ)shär-ˌkü-tə-ˈrē*
+- **cooked or cured meat products (such as salami or prosciutto) that are usually served cold**
+- **plural: a shop specializing in charcuterie**
+	we nibbled on rich *charcuterie* from Béarn, in southwest France
+	This butcher shop and grocery store is the closest thing New York has to a French *charcuterie*.
+
 ##### Chariot (noun / verb)
 *ˈcher-ē-ət*
 - **a light four-wheeled pleasure or state carriage**
@@ -621,6 +628,13 @@
 - **implies a gracious giving (as of a favour or honour)**
 	_confer_ an honorary degree
 	The lawyer and judge _conferred_ about the ruling.
+
+##### Confidant (noun)
+*ˈkän-fə-ˌdänt*
+- **one to whom secrets are entrusted**
+- **intimate, friend**
+	He is a trusted _confidant_ of the president.
+	she's my _confidant_; I tell her everything without reservation
 
 ##### Conflagration (noun)
 *ˌkän-flə-ˈgrā-shən*

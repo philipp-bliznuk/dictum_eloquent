@@ -201,6 +201,13 @@
 	The most fervent devotees of a cult or *demagogue* are those who mistake courtship for love and the power of a leader for their own.
 	that politician is just a _demagogue_ who preys upon people's fears and prejudices
 
+##### Demure (adjective)
+*di-ˈmyu̇r*
+- **reserved or modest in manner**
+- **coquettish, coy**
+	She was wearing a _demure_ gray suit.
+	the _demure_ charm of the cottage
+
 ##### Denude (verb)
 *di-ˈn(y)üd*
 - **to deprive of something important**
@@ -584,6 +591,13 @@
 	coffee *dregs* at the bottom of the cup
 	the *dregs* of society
 	the last *dregs* of fuel
+
+##### Duplicitous (adjective)
+*du̇-ˈpli-sə-təs*
+- **marked by duplicity: deceptive in words or action**
+- **fraudulent, deceptive**
+	warned her not to trust the _duplicitous_ art dealer
+	he decided to employ *duplicitous* tactics
 
 ##### Dyspepsia (noun)
 *dis-ˈpep-shə*

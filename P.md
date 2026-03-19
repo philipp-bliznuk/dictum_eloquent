@@ -109,6 +109,13 @@
 	The defendant was charged with *parricide* after investigators discovered he had conspired to eliminate both his parents to claim his inheritance early.
 	In ancient Rome, the punishment for *parricide* was uniquely severe, reflecting the society's deep-seated belief in the sanctity of the parental bond.
 
+##### Pashmina (noun)
+*ˌpəsh-ˈmē-nə*
+- **a fine wool similar to cashmere made from the undercoat of domestic Himalayan goats**
+- **a shawl made from this wool**
+	The point is that packing a shawl or _pashmina_ is extremely useful.
+	music venue known for drawing _pashmina_-wearing bros
+
 ##### Pastel (noun / adjective)
 *pa-ˈstel*
 - **a paste made of powdered pigment ranging from pale to deep colors and used for making crayons**
@@ -688,6 +695,13 @@ Peruke (noun)
 	She suffered an injury that _precluded_ the possibility of an athletic career.
 	Bad weather _precluded_ any further attempts to reach the summit.
 
+##### Predation (noun)
+*pri-ˈdā-shən*
+- **the killing by one living organism of another for food**
+- **the act of injuring, exploiting, or plundering others for personal gain**
+	elephant seals historically avoided the mainland to protect the newborns from *predation* by grizzly bears
+	A burglary occurs every 10 seconds, according to the Federal Bureau of Investigation. Such *predation* keeps Americans uneasy.
+
 ##### Predilection (noun)
 *ˌpre-də-ˈlek-shən*
 - **an established preference for something**
@@ -1007,7 +1021,7 @@ Peruke (noun)
 
 ##### Put paid to (phrase)
 - **to finish off: bring an end to**
-	We must *put a paid* to that farce.
+	We must *put a paid to* that farce.
 
 ##### Pyrrhic (adjective)
 *ˈpir-ik*

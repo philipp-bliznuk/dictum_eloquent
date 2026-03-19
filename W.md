@@ -118,6 +118,13 @@
 	We had some wine to _whet_ our appetites.
 	The ads are trying to _whet_ booksellers' interest.
 
+##### While (verb)
+*ˈ(h)wī(-ə)l*
+- **to cause to pass especially without boredom or in a pleasant manner -> usually used with _away_**
+- **to spend (time) doing something pleasant and easy**
+	There's plenty of luxury to go around, as backseat passengers can _while_ away the miles with a massage.
+	The activity is in the Art Lab, which is brimming with other projects that will _while_ away the time.
+
 ##### Whippersnapper (noun)
 *ˈ(h)wi-pər-ˌsna-pər*
 - **a diminutive, insignificant, or presumptuous person**

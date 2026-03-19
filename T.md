@@ -52,6 +52,18 @@
 	my comment held a *tang* of sarcasm
 	the young author's novel is surprisingly earnest, tackling its subject without the slightest _tang_ of irony
 
+##### Tannery (noun)
+*ˈta-nə-rē*
+- **a place where tanning is carried on**
+	Leather uppers are sourced from Italian and French _tanneries_ that finish leather in small batches to ensure the highest quality.
+
+##### Tanning (noun)
+*ˈta-niŋ*
+- **a browning of the skin especially by exposure to sun**
+- **the art or process of converting (hide) into leather by treatment with an infusion of tannin-rich bark or other agent of similar effect**
+	In a backroom are the giant wooden drums that spin the hides dry as a last step in the *tanning*.
+	To prevent streaks and orange palms, use a *tanning* mitt.
+
 ##### Tan (noun / verb / adjective)
 *ˈtan*
 - **a brown color imparted to the skin especially by exposure to the sun**

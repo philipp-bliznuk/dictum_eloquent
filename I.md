@@ -632,6 +632,13 @@
 	theories that are _irreconcilable_ with each other
 	In both negotiations, opposing sides appear to have _irreconcilable_ demands.
 
+##### Itinerant (adjective)
+*ī-ˈti-nə-rənt*
+- **traveling from place to place**
+- **nomadic**
+	an _itinerant_ musician can see a lot of the world
+	The _itinerant_ festival launched in Kazakhstan, Central Asia in 2023 and expanded to Indonesia, Southeast Asia in 2024.
+
 ##### Itinerary (noun)
 *ī-ˈti-nə-ˌrer-ē*
 - **the route of a journey or tour or the proposed outline of one**

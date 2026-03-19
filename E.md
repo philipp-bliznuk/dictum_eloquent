@@ -99,6 +99,13 @@
 - **vigorous spirit or enthusiasm**
 	The dancer performed with great _élan_.
 
+##### Elation (noun)
+*i-ˈlā-shən*
+- **the quality or state of being elated: ecstasy**
+- **pathological euphoria**
+	most people can't imagine the kind of _elation_ that comes with winning a super lottery's grand prize, but they're dying to find out
+	Another Bruce Springsteen tour on-sale; another bout of _elation_ among those who procured tickets.
+
 ##### Eldritch (adjective)
 *ˈel-drich*
 - **strange or unnatural especially in a way that inspires fear: weird, eerie**
@@ -327,6 +334,13 @@
 - **of, relating to, or resembling a horse or the horse family**
 	a look of surprise on her *equine* face
 	Veterinarians with Colorado State University's _equine_ medical hospital are warning horse owners to be cautious amid an outbreak of *equine* herpes.
+
+##### Equinox (noun)
+*ˈē-kwə-ˌnäks*
+- **either of the two points on the celestial sphere where the celestial equator intersects the ecliptic**
+- **either of the two times each year (as about March 21 and September 23) when the sun crosses the equator and day and night are everywhere on earth of approximately equal length**
+	This also occurs in late September on the day of the autumnal _equinox_.
+	Nowruz, the Persian New Year, is a holy holiday that takes place on the spring _equinox_ each March.
 
 ##### Equivocate (verb)
 *i-ˈkwi-və-ˌkāt*

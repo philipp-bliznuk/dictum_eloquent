@@ -637,6 +637,13 @@
 	In his famous *soliloquy*, Hamlet contemplates the very nature of existence, famously asking whether it is better 'to be, or not to be'.
 	The actress delivered her final *soliloquy* with such raw emotion that the audience felt they were intruding on a deeply private moment of grief.
 
+##### Solstice (noun)
+*ˈsäl-stəs*
+- **either of the two points on the ecliptic at which its distance from the celestial equator is greatest and which is reached by the sun each year about June 21 and December 21**
+- **the time of the sun's passing a solstice which occurs about June 21 to begin summer in the northern hemisphere and about December 21 to begin winter in the northern hemisphere**
+	On summer _solstice_ day in late June, the sun’s most direct rays shine over the Earth’s northern hemisphere.
+	Equinoxes happen in the fall and spring, while _solstices_ occur in winter and summer.
+
 ##### Soporific (adjective / noun)
 *ˌsä-pə-ˈri-fik*
 - **causing or tending to cause sleep**
