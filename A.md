@@ -38,6 +38,13 @@
 	She is known as an _abstemious_ eater and drinker.
 	being _abstemious_ diners, they avoid restaurants with all-you-can-eat buffets
 
+##### Accelerant (noun)
+*ik-ˈse-lə-rənt*
+- **a substance used to accelerate a process (such as the spreading of a fire)**
+- **catalyst**
+	This narrow growth profile is hard on workers, particularly when AI is seen more as a threat than a labor-market _accelerant_.
+	He was charged with arson after investigators found signs that an _accelerant_ had been used in the blaze.
+
 ##### Accentuate (verb)
 *ik-ˈsen(t)-shə-ˌwāt*
 - **to make (something) more prominent or noticeable: accent, emphasize**

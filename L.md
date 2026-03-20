@@ -355,6 +355,13 @@
 	on a clear night at sea the stars seem to take on a magical _luster_
 	her pearl necklace *lustered* softly in the candlelight of the restaurant
 
+##### Lye (noun)
+*ˈlī*
+- **a strong alkaline liquor rich in potassium carbonate leached from wood ashes and used especially in making soap and for washing**
+- **a solid caustic (such as sodium hydroxide)**
+	Mix ash thoroughly with other compost materials to prevent _lye_ formation, and always test soil pH before applying.
+	Wood ashes have a fantastic ability to create _lye_, an alkaline chemical compound that's found in soap.
+
 ##### Lyre (noun)
 *ˈlī(-ə)r*
 - **a stringed instrument of the harp class having an approximately U-shaped frame and used by the ancient Greeks especially to accompany song and recitation**

@@ -90,6 +90,12 @@
 	there was a _welter_ of pushing and shoving as people rushed to grab the best seats for the outdoor concert
 	a _welter_ of junk in the closet, most of which needed to be thrown out
 
+##### Wheatear (noun)
+*ˈ(h)wēt-ˌir*
+- **any of various small Old World flycatchers (genus Oenanthe) (bird)**
+- **a white-rumped one (O. oenanthe) of northern North America and the Old World**
+	The bird of last week was undoubtedly a northern _wheatear_ that spent the better part of late Tuesday afternoon actively foraging in a backyard near a marsh beside Water Street in Yarmouth.
+
 ##### Whelp (noun / verb)
 *ˈ(h)welp*
 - **any of the young of various carnivorous mammals and especially of the dog**

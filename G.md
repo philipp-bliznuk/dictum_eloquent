@@ -5,6 +5,13 @@
 	heard her parents' guests still _gabbling_ in the living room late into the night
 	during the filming of the party scene the extras were told to just _gabble_ and act like they were having a great time
 
+##### Gaffe (noun)
+*ˈgaf*
+- **a social or diplomatic blunder**
+- **a noticeable mistake**
+	He realized that he had committed an awful _gaffe_ when he mispronounced her name.
+	committed a huge _gaffe_ when she started drinking from the finger bowl
+
 ##### Gaiety (noun)
 *ˈgā-ə-tē*
 - **merrymaking**
@@ -80,6 +87,13 @@
 - **haze**
 	He wrapped the wound in _gauze_.
 	wrapped in the pale _gauze_ of a misty afternoon, the city seemed eerily romantic to the strolling lovers
+
+##### Genius Loci (noun)
+*ˈjēn-yəs-ˈlō-ˌsī*
+- **the pervading spirit of a place**
+- **a tutelary deity of a place**
+	These stories, embedded in the design, culture and essence of a destination, tap into the spirit of place, or _genius loci_, creating a narrative that resonates on a personal level.
+	Inspiration was found in the _genius loci_ of this region, known for both the elegance of its Renaissance villas and the rough-hewn farmhouses that date back to medieval times.
 
 ##### Genteel (adjective)
 *jen-ˈtēl*

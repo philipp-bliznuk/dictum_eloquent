@@ -74,6 +74,13 @@
 	They were _questing_ for gold.
 	I respectfully _quest_ your assistance in this matter.
 
+##### Quilt (noun / verb)
+*ˈkwilt*
+- **a bed coverlet of two layers of cloth filled with padding (such as down or batting) held in place by ties or stitched designs: blanket**
+- **to fill, pad, or line like a quilt**
+	The new *quilt* and throw blanket come just in time to snuggle up on chilly fall nights.
+	The cotton fabric is *quilted* in channels, giving it the striped look with varying textures and prints.
+
 ##### Quincunx (noun)
 *ˈkwin-ˌkəŋ(k)s*
 - **an arrangement of five things in a square or rectangle with one at each corner and one in the middle**

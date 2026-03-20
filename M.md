@@ -73,6 +73,19 @@
 	The jawbone is part of an adult *mandible*, but its height points to a person of short stature and small body size.
 	The fossil, a *mandible* for chewing, was first discovered in 1980 by a monk.
 
+##### Mange (noun)
+*ˈmānj*
+- **any of various persistent contagious skin diseases marked especially by eczematous inflammation and loss of hair, affecting domestic animals or sometimes humans, and caused by a minute parasitic mite**
+	Though microscopic in size, the mites responsible for _mange_ leave a visual trail of destruction.
+	Caiman was found wandering as a stray and suffering from demodectic _mange_, a skin infection that left him hairless and pink.
+
+##### Mangy (adjective)
+*ˈmān-jē*
+- **affected with or resulting from mange**
+- **having many worn or bare spots: shabby**
+	a _mangy_ old car that was covered in rust
+	a *mangy* rug
+
 ##### Manifold (noun / adjective / adverb / verb)
 *ˈma-nə-ˌfōld*
 - **a whole that unites or consists of many diverse elements**

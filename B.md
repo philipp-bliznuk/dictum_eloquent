@@ -287,12 +287,26 @@ _bi-ˈsä-təd_
 	The lamb _bleated_ as I approached.
 	The labor union is always _bleating_ about the management.
 
+##### Bleep (noun / verb)
+*ˈblēp*
+- **a short high-pitched sound (as from electronic equipment)**
+- **used in place of an obscene or vulgar expletive**
+	They _bleeped_ half the words in the interview!
+	The doctor is not in the office today, but I can _bleep_ her for you.
+
 ##### Blench (verb)
 *ˈblench*
 - **bleach, whiten**
 - **implies fainthearted flinching**
 	we'll have to _blench_ the sheets with bleach to restore that snow-white look
 	she _blenched_ from the horrible sight
+
+##### Blight (noun / verb)
+*ˈblīt*
+- **something that frustrates plans or hopes / plant injury or disease**
+- **something that impairs or destroys**
+	the expanding urban sprawl is a _blight_ on the countryside
+	Builders _blighted_ the land with malls and parking lots.
 
 ##### Blinkered (adjective)
 *ˈbliŋ-kərd*

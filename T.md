@@ -98,6 +98,13 @@
 	the little boy _tattered_ that blanket beyond repair by repeatedly yanking on it
 	The economy is in *tatters* and large parts of the country have been reduced to rubble.
 
+##### Taut (adjective)
+*ˈtȯt*
+- **having no give or slack: tightly drawn, tightened**
+- **kept in proper order or condition**
+	The rope was drawn _taut_.
+	The book is a _taut_ thriller.
+
 ##### Tawdry (adjective / noun)
 *ˈtȯ-drē*
 - **cheap and gaudy in appearance or quality**
@@ -144,6 +151,13 @@
 - **hard to understand: obscure**
 	a _tenebrous_ night with no moon
 	Her writing can be luminous or _tenebrous_ as the mood requires.
+
+##### Tenement (noun)
+*ˈte-nə-mənt*
+- **tenement house: apartment building meeting minimum standards of sanitation, safety, and comfort and usually located in a city**
+- **a house used as a dwelling: residence, dwelling**
+	an exhibit of pictures showing the _tenements_ of the New York City neighborhood of Hell's Kitchen during the 1920s
+	My earliest memories are from the South Bronx, where my family lived in a _tenement_ building on Leggett Avenue.
 
 ##### Tenuous (adjective)
 *ˈten-yə-wəs*

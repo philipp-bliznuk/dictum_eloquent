@@ -474,6 +474,15 @@
 	was able to _divine_ Europe's rapid recovery from the war
 	it was easy to _divine_ his intention of asking his girlfriend to marry him
 
+##### Docket (noun / verb)
+*ˈdä-kət*
+- **a brief written summary of a document: abstract**
+- **a calendar of business matters to be acted on: agenda**
+- **an identifying statement about a document placed on its outer surface or cover**
+	The judge had to postpone some of the cases _on the docket_.
+	on the Broadway _docket_ for the early part of this season
+	The court has not _docketed_ the request as of Monday afternoon.
+
 ##### Dogged (adjective)
 *ˈdȯ-gəd*
 - **marked by stubborn determination**
