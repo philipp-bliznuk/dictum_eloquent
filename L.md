@@ -33,6 +33,12 @@
 	the _laminae_ of stratified rock were deposited separately, building upwards as time passed
 	The tissue in which the teeth were embedded, called the dental _lamina_, was similarly only recorded inside a vertebrate's jaw before the study, per CBC.
 
+##### Landau (noun)
+*ˈlan-ˌdau̇*
+- **a four-wheel carriage with a top divided into two sections that can be folded away or removed and with a raised seat outside for the driver**
+	Also, my Honda had neither a _landau_ top nor finicky SU carburetors.
+	The royal couple was transported to the senate in the grandest of royal ways: in a _landau_ carriage escorted by a troupe from the Royal Canadian Mounted Police Musical Ride in their bright red tunics.
+
 ##### Languid (adjective)
 *ˈlaŋ-gwəd*
 - **sluggish in character or disposition: listless**
@@ -265,6 +271,13 @@
 - **very angry: enraged**
 	the boss was _livid_ when yet another deadline was missed
 	her face was _livid_ with fear
+
+##### Loam (noun)
+*ˈlōm*
+- **a mixture (as for plastering) composed chiefly of moistened clay**
+- **a soil consisting of a friable mixture of varying proportions of clay, silt, and sand**
+	The bushy tropical plant does best in a mix of _loam_ and sand, and prefers partial shade in very hot climates.
+	Is the soil a porous, well-draining _loam_, or a rocky clay that will be hard to dig in and harder to drain?
 
 ##### Lode (noun)
 *ˈlōd*

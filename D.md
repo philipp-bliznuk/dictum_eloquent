@@ -440,6 +440,13 @@
 	literature dealing with the _dissolute_ and degrading aspects of human experience
 	Through friends, she hears stories of *dissolute* cities filled with broken marriages and prostitution.
 
+##### Distaff (adjective / noun)
+*ˈdi-ˌstaf*
+- **of, relating to, or being the sex that typically has the capacity to bear young or produce eggs: female**
+- **the female branch or side of a family**
+	*distaff* executives
+	And behind the camera, Scherfig has created something of a _distaff_ utopia: both the book and the screenplay were written by women.
+
 ##### Distended (adjective)
 *di-ˈsten-dəd*
 - **enlarged, expanded, or stretched out (as from internal pressure)**

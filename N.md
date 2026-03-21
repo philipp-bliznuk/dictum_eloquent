@@ -37,6 +37,13 @@
 - **flagrantly wicked impious: evil**
 	the *nefarious* rackets of organised crime
 
+##### Neophyte (noun)
+*ˈnē-ə-ˌfīt*
+- **a person admitted to probationary membership in a religious community**
+- **tyro, beginner**
+	_neophytes_ are assigned an experienced church member to guide them through their first year
+	a *neophyte* when it comes to computers
+
 ##### Nepoticide (noun)
 *nəˈpɑtəsaɪd*
 - **the killing of one's own nephew.**

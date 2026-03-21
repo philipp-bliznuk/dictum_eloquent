@@ -86,6 +86,12 @@
 	a _mangy_ old car that was covered in rust
 	a *mangy* rug
 
+##### Manic (adjective)
+*ˈma-nik*
+- **affected with, relating to, characterized by, or resulting from mania**
+	a _manic_ sense of humor
+	had a *manic* personality
+
 ##### Manifold (noun / adjective / adverb / verb)
 *ˈma-nə-ˌfōld*
 - **a whole that unites or consists of many diverse elements**
@@ -279,6 +285,13 @@
 - **one who is extremely stingy with money: cheapskate**
 	the _miser_ liked to sit and play with his money
 	a *miser* cackling over unexpected treasure
+
+##### Missive (noun)
+*ˈmi-siv*
+- **a written communication: letter**
+- **epistle**
+	She received yet another lengthy _missive_ from her father.
+	the two old friends like to fire off _missives_ filled with good-natured teasing and mock insults
 
 ##### Modicum (noun)
 *ˈmä-di-kəm*

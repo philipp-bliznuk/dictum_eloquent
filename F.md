@@ -27,6 +27,13 @@
 	the _farcical_ behavior of the troupe of circus clowns
 	the _farcical_ routine that a person has to go through to get a refund from that company
 
+##### Fastness (noun)
+*ˈfas(t)-nəs*
+- **the quality or state of being fast**
+- **a fortified or secure place**
+	the amazing _fastness_ with which the boy took his shower had us wondering if he'd used any water
+	the guerillas retreated to their network of hidden _fastnesses_ deep within the mountains
+
 ##### Fatigue (noun / verb / adjective)
 *fə-ˈtēg*
 - **manual or menial work (such as the cleaning up of a camp area) performed by military personnel**

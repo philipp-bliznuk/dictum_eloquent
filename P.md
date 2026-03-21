@@ -190,6 +190,13 @@
 	a _pedagogue_ whose classroom lessons consisted entirely of reading directly from the textbook in a monotone
 	They are attracted to personalities that feel to them more like friends than _pedagogues_.
 
+##### Peerless (adjective)
+*ˈpir-ləs*
+- **matchless, incomparable**
+- **exceptional**
+	As an athlete he is _peerless_.
+	the show's enduring success was a testimony to the _peerless_ talents of its ensemble cast
+
 ##### Peevish (adjective)
 *ˈpē-vish*
 - **perversely obstinate**

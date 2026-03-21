@@ -68,6 +68,13 @@
 	the colourful _cant_ used by movie producers and publicity agents in Hollywood
 	carefully _canted_ the ladder against the wall
 
+##### Caper (noun / verb)
+*ˈkā-pər*
+- **an illegal or questionable act or escapade / prank**
+- **to leap or prance about in a playful manner**
+	long-ago college _capers_ that have become more rollicking and daring with each recounting
+	a young goat _capering_ in its pen
+
 ##### Capricious (adjective)
 *kə-ˈpri-shəs*
 - **governed or characterized by sudden irrational and unpredictable impulses or whims: impulsive**
@@ -95,6 +102,13 @@
 - **a carnivorous plant**
 	As big as a bull elephant, T. rex weighed 15 times as much as the largest *carnivores* living on land today.
 	the Venus flytrap and other *carnivores* subsisting on insects
+
+##### Carouse (verb / noun)
+*kə-ˈrau̇z*
+- **to drink liquor freely or excessively**
+- **a drunken revel**
+	My brother and his friends went out _carousing_ last night.
+	the Old West custom of heading to the saloon at night for an all-out _carouse_ and some poker playing
 
 ##### Carpe diem (noun / verb)
 *ˈkär-pe-ˈdē-ˌem*
@@ -394,6 +408,13 @@
 - **implies a mild or merciful disposition in one having the power or duty of punishing**
 	the judge chose to show _clemency_ to the truly repentant embezzler
 	The fair was a great success, owing to the *clemency* of the weather.
+
+##### Cloister (noun / verb)
+*ˈklȯi-stər*
+- **an area within a monastery or convent to which the religious are normally restricted**
+- **a covered passage on the side of a court usually having one side walled and the other an open arcade or colonnade**
+	monks living in a _cloister_ in the country
+	The courtyard is surrounded with a *cloister*.
 
 ##### Clomp (verb)
 *ˈklämp*

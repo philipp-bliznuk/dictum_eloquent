@@ -61,6 +61,13 @@
 	an *unctuous* appraisal of the boss's decision
 	an _unctuous_ effort to appear religious to the voters
 
+##### Undercroft (noun)
+*ˈən-dər-ˌkrȯft*
+- **a subterranean room**
+- **a vaulted chamber under a church**
+	The café is located in Edward III's medieval _undercroft_ (a cellar or storage room), which has been used for centuries as the estate's wine cellar.
+	New exhibits will be added, and visitors will be able to see the massive pilings and foundation that support the memorial in its _undercroft_.
+
 ##### Undue (adjective)
 *ˌən-ˈdü*
 - **not due: not yet payable**

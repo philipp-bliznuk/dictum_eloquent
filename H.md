@@ -43,6 +43,12 @@
 	the museum director _hailed_ the artist's new installation as a groundbreaking work of genius
 	stay within _hail_ of the restaurant's front desk so you'll know when your table is ready
 
+##### Halberd (noun)
+*ˈhal-bərd*
+- **a weapon especially of the 15th and 16th centuries consisting typically of a battle-ax and pike mounted on a handle about six feet long**
+	Those Swiss guards would take that _halberd_ and just take you down.
+	For the uninitiated, a _halberd_ is a medieval weapon that looks like a combination of a spear and an axe.
+
 ##### Halitosis (noun)
 *ˌha-lə-ˈtō-səs*
 - **a condition of having fetid breath**

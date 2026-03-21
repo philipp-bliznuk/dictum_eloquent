@@ -1,3 +1,9 @@
+##### Sacrarium (noun)
+*sə-ˈkrer-ē-əm*
+- **the most sacred part of a religious building (such as the part of a Christian church in which the altar is placed)**
+- **an ancient Roman shrine or sanctuary in a temple or a home holding sacred objects**
+	When Queen Elizabeth was crowned in 1953, wooden steps were constructed on top of the Cosmati pavement in the _sacrarium_ at the Abbey.
+
 ##### Sacristy (noun)
 *ˈsa-krə-stē*
 - **a room in a church where sacred vessels and vestments are kept and where the clergy prepares for services, rites, etc.**
@@ -416,6 +422,13 @@
 	She's _shrewd_ about her investments.
 	a _shrewd_ used car dealer who knew how to make the best possible deal
 
+##### Sibilant (adjective / noun)
+*ˈsi-bə-lənt*
+- **having, containing, or producing the sound of or a sound resembling that of the _s_ or the _sh_ in _sash_**
+- **a sibilant speech sound (such as English \s\, \z\, \sh\, \zh\, \ch(=tsh)\, or \j(=dzh)\)**
+	the _sibilant_ hiss of a snake
+	Our test recordings were free of noticeable fuzz and generally crisp without being _sibilant_.
+
 ##### Sidereal (adjective)
 *sī-ˈdir-ē-əl*
 - **of, relating to, or expressed in relation to stars or constellations: astral**
@@ -803,6 +816,13 @@
 - **utter, sheer**
 	The room was decorated with _stark_ simplicity.
 	There is a _stark_ difference between them.
+
+##### Stately (adjective)
+*ˈstāt-lē*
+- **may suggest poised dignity, erectness of bearing, handsomeness of proportions, ceremonious deliberation of movement**
+- **impressive in size or proportions**
+	a _stately_ dowager in an evening gown
+	the governor watched with _stately_ aloofness as his wife charmed the party guests
 
 ##### Statuesque (adjective)
 *ˌsta-chə-ˈwesk*

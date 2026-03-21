@@ -291,6 +291,13 @@ _ˈāl_
 - **promptness in response: cheerful readiness**
 	accepted the invitation with *alacrity*
 
+##### Alcove (noun)
+*ˈal-ˌkōv*
+- **a small recessed section of a room: nook**
+- **a covered structure in a garden or park designed to provide a shady resting place in summer**
+	a small _alcove_ in one corner of the backyard garden
+	an ancient vase in an _alcove_ and a sculpture of Achilles on a stand in the museum's Greek Hall
+
 ##### Alfresco (adjective / adverb)
 *al-ˈfre-(ˌ)skō*
 - **taking place or located in the open air: outdoor, outdoors**
@@ -468,6 +475,13 @@ _ə-ˈper-əl_
 - **a geographical name (as of a region, village, or vineyard) under which a winegrower is authorized to identify and market wine**
 	was entitled to the *appellation* "doctor"
 	The *appellation* is small and prestigious, so the wines start on the pricey side and only go up from there.
+
+##### Appraise (verb)
+*ə-ˈprāz*
+- **to set a value on: to estimate the amount of**
+- **to evaluate the worth, significance, or status of: assess**
+	The ring must be _appraised_ by a jeweler before it can be insured.
+	_appraise_ the house and property
 
 ##### Apprise (verb)
 *ə-ˈprīz*
@@ -699,6 +713,13 @@ _ə-ˈskan(t)s_
 - **one held to foretell events by omens**
 	the extended interview _augurs_ well for your acceptance into that law school
 	ancient Roman _augurs_ who predicted the future by reading the flight of birds
+
+##### August (adjective)
+*ȯ-ˈgəst* / *ˈȯ-(ˌ)gəst*
+- **marked by majestic dignity or grandeur**
+- **imposing, solemn**
+	We visited their _august_ mansion and expansive grounds.
+	The family claims an _august_ lineage.
 
 ##### Aurochs (noun)
 *ˈau̇-ˌräks*

@@ -123,6 +123,13 @@
 	The tower's steel *girders* shivered and, with a mighty screech, bent in two.
 	The bridge’s other *girder* would be a wall between the station and a trail.
 
+##### Glaive (noun)
+*ˈglāv*
+- **sword**
+- **broadsword**
+	The palace guard stood motionless, his polished *glaive* held upright as its long, curved blade glinted in the torchlight.
+	During the chaotic skirmish, the foot soldiers used their *glaives* to keep the charging cavalry at a distance, sweeping the heavy blades in wide, lethal arcs.
+
 ##### Glop (noun)
 *ˈgläp*
 - **a thick semiliquid substance (such as food) that is usually unattractive in appearance**
