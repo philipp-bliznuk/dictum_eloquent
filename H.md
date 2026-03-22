@@ -101,6 +101,13 @@
 	*harrying* them to work faster
 	the strikers had been _harried_ by thugs
 
+##### Haunch (noun)
+*ˈhȯnch*
+- **the laterally projecting region of each side of the lower or posterior part of the mammalian trunk formed by the lateral parts of the pelvis and upper part of the femur together with the fleshy parts covering them: hip**
+- **plural: one side of the back half of the carcass of a quadruped including a leg and usually one or more ribs**
+	squatted down on her _haunches_ to get a better shot of the ducks with her camera
+	The dogs curled up and jammed their snouts into their _haunches_, to defend against the wind.
+
 ##### Hawk (verb)
 *ˈhȯk*
 - **to utter a harsh guttural sound in or as if in trying to clear the throat**

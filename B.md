@@ -19,6 +19,13 @@
 	a pleasant, _balmy_ breeze was all that stirred the wildflowers growing near the shore
 	a *balmy* summer evening
 
+##### Bangle (noun)
+*ˈbaŋ-gəl*
+- **a stiff usually ornamental bracelet or anklet slipped or clasped on**
+- **an ornamental disk that hangs loosely (as on a bracelet): pendant**
+	She wore plastic _bangles_ on both wrists.
+	wore a bracelet with small silver _bangles_ on it
+
 ##### Banter (verb / noun)
 *ˈban-tər*
 - **to speak to or address in a witty and teasing manner**
@@ -445,6 +452,13 @@ _bi-ˈsä-təd_
 - **briskly informal: casual, mellow, nonchalant**
 	I enjoy the author's _breezy_ style.
 	She listened to their complaints with _breezy_ indifference.
+
+##### Brevity (noun)
+*ˈbre-və-tē*
+- **shortness of duration**
+- **shortness or conciseness of expression**
+	The book's major flaw is its _brevity_.
+	the best quality a graduation speech can have is _brevity_
 
 ##### Briar (noun)
 *ˈbrī(-ə)r*

@@ -275,6 +275,13 @@
 	people who try to _fob off_ to charities broken-down furniture that is fit only for the junkyard
 	Your potential clients are terrified of being sold the dream then _fobbed off_ to a junior team member.
 
+##### Follicle (noun)
+*ˈfä-li-kəl*
+- **a small, anatomical cavity, sac, or gland**
+- **in biology to describe various pouch-like structures that produce or contain something - such as an egg in an ovary or a hormone in the thyroid**
+	The dermatologist explained that a blocked *follicle* on the scalp was the primary cause of the patient's localized inflammation.
+	The surgeon noted that the patient's lymphatic *follicles* were slightly enlarged, indicating a robust immune response to the infection.
+
 ##### Foment (verb)
 *ˈfō-ˌment*
 - **to promote the growth or development of: rouse, incite, provoke**

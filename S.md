@@ -401,6 +401,13 @@
 	He's too conscientious to _shirk_ his duty.
 	They did their duty without _shirking_ or complaining.
 
+##### Shoal (noun / verb)
+*ˈshōl*
+- **a large group or number: crowd**
+- **throng, school**
+	As the gates to the stadium swung open, a *shoal* of eager fans surged forward, their voices rising in a collective roar of anticipation.
+	The marketplace was a dizzying *shoal* of merchants and travelers, each person darting through the narrow alleys like a silver fish in a stream.
+
 ##### Shock (noun / adjective)
 *ˈshäk*
 - **a thick bushy mass (as of hair)**
@@ -1261,3 +1268,10 @@
 *ˈsi-kə-fənt*
 - **a servile self-seeking flatterer** 
 	a powerful prince surrounded by _sycophants_
+
+##### Synod (noun)
+*ˈsi-nəd*
+- **an ecclesiastical governing or advisory council**
+- **the ecclesiastical district governed by a synod**
+	Leaders of the *synod* say that dealing with the crisis requires considering major changes to Catholic life.
+	Most of the protesters belonged to the United Church of Christ, which is holding its general *synod* in Milwaukee.

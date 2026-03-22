@@ -448,6 +448,13 @@ _ˈāl_
 	She played several roles with equal *aplomb*.
 	handled the reporters with great _aplomb_
 
+##### Apotheosis (noun)
+*ə-ˌpä-thē-ˈō-səs*
+- **the perfect form or example of something: quintessence**
+- **elevation to divine status: deification**
+	the _apotheosis_ of the picaresque novel
+	the *apotheosis* of Roman emperors
+
 ##### Apparel (noun)
 _ə-ˈper-əl_
 - **personal attire: clothing of a particular kind**

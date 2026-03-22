@@ -11,6 +11,13 @@
 	The houses are grouped together in a charming _tableau_.
 	Church members, along with live animals, will recreate the _tableau_ of Jesus’ birth in the manger.
 
+##### Tacit (adjective)
+*ˈta-sət*
+- **expressed or carried on without words or speech: unspoken**
+- **implied or indicated (as by an act or by silence) but not actually expressed**
+	The blush was a *tacit* answer
+	*tacit* admission of guilt
+
 ##### Taciturn (adjective)
 *ˈta-sə-ˌtərn*
 - **temperamentally disinclined talk**
@@ -179,6 +186,13 @@
 - **lacking in passion, force, or zest: neutral**
 	a *tepid* bath
 	My suggestion was given a _tepid_ response.
+
+##### Terce / Tierce (noun)
+*ˈtərs*
+- **the service of prayer appointed for the third hour of the daylight (traditionally 9:00 AM)**
+- **one of the "Little Hours" and is historically associated with the descent of the Holy Spirit upon the Apostles at Pentecost.**
+	The monastery bells rang out for *terce*, summoning the monks from their morning labors in the garden to the quiet sanctity of the chapel.
+	As the sun climbed higher, the nuncio finished his private recitation of *terce* before preparing for the afternoon's diplomatic summit.
 
 ##### Terra-cotta / Terracota (noun)
 *ˌter-ə-ˈkä-tə*

@@ -76,6 +76,20 @@
 	the engine began to _judder_ alarmingly just a few miles outside of Brighton
 	But the vast majority of viewers seem to be totally fine with _judder_.
 
+##### Junket (noun / verb)
+*ˈjəŋ-kət*
+- **a trip made by an official at public expense**
+- **to feast, to banquet**
+	The senator has been criticized for expensive _junkets_ to foreign countries.
+	a lobbyist who regularly _junkets_ politicians who are friendly toward the oil industry
+
+##### Jus / Au jus (noun / adjective)
+*ˈjüs* / *ō-ˈzhü(s)*
+- **juice obtained from roasting meat (such as beef or lamb)**
+- **served in the juice obtained from roasting -> used following the noun it modifies**
+	an Italian bread sturdy enough to withstand the entire sandwich being dunked into savory *au jus*.
+	beef *au jus*
+
 ##### Juxtapose (verb)
 *ˈjək-stə-ˌpōz*
 - **to place (different things) side by side (as to compare them or contrast them or to create an interesting effect)**

@@ -476,6 +476,13 @@
 	Still, analysts fear that a _Rubicon_ may have been crossed.
 	Even before it was done training, OpenAI knew the model was crossing some sort of AI _Rubicon_.
 
+##### Rubricate (verb)
+*ˈrü-bri-ˌkāt*
+- **to write or print as a rubric**
+- **to provide with a rubric**
+	After the scribe finished copying the gospel, the manuscript was sent to a monk who would *rubricate* the initial capitals and the feast days in the calendar.
+	The legal document was so complex that the clerk had to *rubricate* the key clauses to ensure they wouldn't be overlooked by the judge.
+
 ##### Rugose (adjective)
 *ˈrü-ˌgōs*
 - **full of wrinkles**

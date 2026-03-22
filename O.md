@@ -187,6 +187,13 @@
 	_Ostracism_ of political opponents was a common practice in ancient Athens.
 	For years she suffered *ostracism* from the scientific community.
 
+##### Oust (verb)
+*ˈau̇st*
+- **implies removal or dispossession by power of the law or by force or compulsion**
+- **to take the place of: supplant**
+	The rebels _ousted_ the dictator from power.
+	Large national banks are _ousting_ local banks in many communities.
+
 ##### Outfall (noun)
 *ˈau̇t-ˌfȯl*
 - **the outlet of a body of water (such as a river or lake)**

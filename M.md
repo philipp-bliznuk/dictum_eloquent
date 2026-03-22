@@ -202,6 +202,13 @@
 	a wealth of early railroad *memorabilia*
 	baseball *memorabilia*
 
+##### Mercantile (adjective)
+*ˈmər-kən-ˌtēl*
+- **of or relating to merchants or trading**
+- **of, relating to, or having the characteristics of mercantilism**
+	At its peak, about 80 breweries operated in this _mercantile_ hot spot.
+	The young man was a quick study, learning the ins and outs of the _mercantile_ and cigar trade and showing a keen business sense.
+
 ##### Merlon (noun)
 *ˈmər-lən*
 - **any of the solid intervals between crenellations of a battlement**

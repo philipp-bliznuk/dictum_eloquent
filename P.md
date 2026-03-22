@@ -39,6 +39,13 @@
 	Succeeding kings, out of devotion to this saint, declared the bishop a count _palatine_, with an extensive civil jurisdiction.
 	The _palatine_ gives me no assistance; he doubtless believes my virtue is strong enough to suffice without aid or counsel.
 
+##### Palimpsest (noun)
+*ˈpa-ləm(p)-ˌsest*
+- **writing material (such as a parchment or tablet) used one or more times after earlier writing has been erased**
+- **something having usually diverse layers or aspects apparent beneath the surface**
+	The medieval prayer book turned out to be a *palimpsest*, hiding a much older, lost treatise by Archimedes beneath its Latin hymns.
+	To the historian, the city of Rome is a living *palimpsest*, where modern glass buildings sit directly atop Renaissance plazas and ancient Roman ruins.
+
 ##### Pall (verb / noun)
 *ˈpȯl*
 - **to lose strength or effectiveness**
@@ -742,6 +749,13 @@ Peruke (noun)
 - **tending to create a favorable impression: attractive**
 	She lives in one of the least *prepossessing* parts of the city.
 
+##### Preprandial (adjective)
+*(ˌ)prē-ˈpran-dē-əl*
+- **of, relating to, or suitable for the time just before dinner**
+- **occurring before meal**
+	The nuncio invited his guests to the terrace for a *preprandial* glass of sherry while they watched the sun dip below the horizon.
+	In many aristocratic households, the *preprandial* hour was strictly reserved for light political gossip and the adjusting of one's epaulets before the grand banquet.
+
 ##### Presage (verb / noun)
 *ˈpre-sij*
 - **an intuition or feeling of what is going to happen in the future**
@@ -874,6 +888,13 @@ Peruke (noun)
 - **a leisurely walk or ride especially in a public place for pleasure or display**
 	a beautifully landscaped park with a wide _promenade_ along the riverside
 	They _promenaded_ along the beach.
+
+##### Promulgate (verb)
+*ˈprä-məl-ˌgāt*
+- **to make (an idea, belief, etc.) known to many people by open declaration: proclaim**
+- **implies the proclaiming of a dogma, doctrine, or law**
+	Her ideas have been widely _promulgated_ on the Internet.
+	The law was _promulgated_ in April 1988.
 
 ##### Propensity (noun)
 *prə-ˈpen(t)-sə-tē*

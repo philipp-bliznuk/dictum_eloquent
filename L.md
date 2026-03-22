@@ -67,6 +67,13 @@
 	right after a shower, her _lank_ hair hung down to her shoulders
 	the _lank_ legs of the heron
 
+##### Lap up (transitive verb)
+*ˈlap ˈəp*
+- **to take in (food or drink) with the tongue**
+- **to take in or absorb (something) eagerly or quickly**
+	The stray cat began to *lap up* the saucer of milk the moment it was placed on the porch.
+	The politician stood on the stage, watching the crowd *lap up* every empty promise he made.
+
 ##### Larch (noun)
 *ˈlärch*
 - **any of a genus (Larix) of northern hemisphere trees of the pine family with short fascicled deciduous leaves**
@@ -339,6 +346,13 @@
 - **lacking conviction: half-hearted**
 	I hate drinking _lukewarm_ coffee.
 	Our plan got a _lukewarm_ reception.
+
+##### Luminary (noun)
+*ˈlü-mə-ˌner-ē*
+- **a person of prominence or brilliant achievement**
+- **a body that gives light, especially celestial**
+	_luminaries_ of the art world
+	awed by the vast number of _luminaries_ in the night sky
 
 ##### Lummox (noun)
 *ˈlə-məks*

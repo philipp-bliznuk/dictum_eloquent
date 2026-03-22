@@ -184,6 +184,12 @@
 	a journalist who writes his well-crafted stories with remarkable _celerity_
 	*Celerity* of movement is vital in war.
 
+##### Cenotaph (noun)
+*ˈse-nə-ˌtaf*
+- **a tomb or a monument erected in honor of a person or group of persons whose remains are elsewhere**
+	Japanese Prime Minister Shigeru Ishiba, the city’s mayor and other officials laid flowers at the _cenotaph_.
+	Archaeologists concluded the structure was actually a false tomb, or a _cenotaph_, a type of burial monument erected to honor a deceased person buried elsewhere.
+
 ##### Censer (noun)
 *ˈsen(t)-sər*
 - **a vessel for burning incense**
@@ -346,6 +352,13 @@
 	a _chronicle_ of the American Civil War
 	a magazine that _chronicles_ the lives of the rich and famous
 
+##### Chunter (verb)
+*ˈchən-tər*
+- **to talk in a low inarticulate way: mutter**
+- **mumble**
+	The old gardener would often *chunter* to himself about the encroaching weeds as he moved methodically along the flowerbeds.
+	Stop *chuntering* under your breath and just tell me if you're unhappy with the directions I've chosen!
+
 ##### Churlish (adjective)
 *ˈchər-lish*
 - **of, resembling, or characteristic of a churl: vulgar**
@@ -394,6 +407,13 @@
 - **of a cheap showy nature**
 	His entire speech was nothing but _claptrap_.
 	I'm tired of hearing all that _claptrap_ about how hard her life is.
+
+##### Claret (noun)
+*ˈkler-ət*
+- **a red Bordeaux wine**
+- **a dark purplish red**
+	The host poured a glass of aged *claret* to accompany the roast beef, noting that the wine's earthy notes had matured perfectly over the decade.
+	The library was decorated in a Victorian style, featuring heavy *claret* curtains that blocked out the afternoon sun and gave the room a regal, somber feel.
 
 ##### Clarion (noun / adjective)
 *ˈkler-ē-ən*
@@ -810,6 +830,13 @@ _ˈküt_
 - **a smokeless powder composed of nitroglycerin, guncotton, and a petroleum substance usually gelatinized by addition of acetone and pressed into cords resembling brown twine**
 	For the railgun, it's used to propel projectiles at tremendous speeds without the need for _cordite_ or other explosives.
 	The men hit the ground as the blast hit, the smell of _cordite_ and dust going deep into their nostrils.
+
+##### Corpulent (adjective)
+*ˈkȯr-pyə-lənt*
+- **having a large bulky body: obese**
+- **fat, plump**
+	a _corpulent_, elegantly dressed opera singer came out and sang, and we knew it was over
+	were a bit *corpulent* from too many years of privileged living
 
 ##### Corrigible (adjecive)
 *ˈkȯr-ə-jə-bəl*

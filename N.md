@@ -104,9 +104,22 @@
 	the arctic circle is a _nonentity_ - you won't see it on the way to the north pole
 	was so quiet he was almost a _nonentity_ at the meeting
 
+##### Novena (noun)
+*nō-ˈvē-nə*
+- **a Roman Catholic period of prayer lasting nine consecutive days**
+	The procession is seen as a devotional prayer - a walking prayer - and is also called a _novena_.
+	Her mother started a _novena_, a nine-day period of prayer to ask for Casey's intercession on Mary's behalf.
+
 ##### Noxious (adjective)
 *ˈnäk-shəs*
 - **disagreeable, obnoxious**
 - **applies to what is both offensive and injurious to the health of a body or mind**
 	mixing bleach and ammonia can cause _noxious_ fumes that can seriously harm you
 	_noxious_ smog that for years has been encrusting the historic cathedral with soot
+
+##### Nuncio (noun)
+*ˈnən(t)-sē-ˌō*
+- **a papal legate of the highest rank permanently accredited to a civil government**
+- **Vatican’s equivalent of an ambassador, often hold the ecclesiastical rank of Archbishop**
+	The *nuncio* arrived at the royal palace in a sleek black sedan, his purple sash a striking contrast to the gray morning.
+	Before the peace treaty could be signed, the local government sought the mediation of the *nuncio*, hoping his neutral standing would calm the warring factions.
