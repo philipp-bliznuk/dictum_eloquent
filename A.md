@@ -455,6 +455,12 @@ _ˈāl_
 	the _apotheosis_ of the picaresque novel
 	the *apotheosis* of Roman emperors
 
+##### Apotropaic (adjective)
+*ˌa-pə-trō-ˈpā-ik*
+- **designed to avert evil**
+	an *apotropaic* ritual
+	Throughout history, people tried to protect spaces from evil with _apotropaic_ marks, ritual concealments, and other charms.
+
 ##### Apparel (noun)
 _ə-ˈper-əl_
 - **personal attire: clothing of a particular kind**

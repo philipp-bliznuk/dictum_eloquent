@@ -403,6 +403,13 @@
 	_rime_ on the bedroom window after a bitterly cold night
 	frost _riming_ the doorknob
 
+##### Rind (noun)
+*ˈrīnd*
+- **the bark of a tree**
+- **a usually hard or tough outer layer: peel, crust**
+	the _rind_ of a watermelon
+	the _rind_ of a cheese
+
 ##### Riotous (adjective)
 *ˈrī-ə-təs*
 - **of the nature of a riot: turbulent**

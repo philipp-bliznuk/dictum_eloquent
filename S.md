@@ -282,6 +282,13 @@
 	the _secession_ of the Southern states
 	Proponents of Illinois _secession_ are serious about leaving Illinois, but don't necessarily want to join Indiana.
 
+##### Sectarian (adjective / noun)
+*sek-ˈter-ē-ən*
+- **of, relating to, or characteristic of a sect or sectarian**
+- **limited in character or scope: parochial**
+	there are people on both the left and the right who have staked out unyielding _sectarian_ positions in this debate
+	charged that the work of Congress has been stymied by _sectarians_ who are indifferent to reason and intolerant of compromise
+
 ##### Sediment (noun / verb)
 *ˈse-də-mənt*
 - **the matter that settles to the bottom of a liquid**
@@ -442,6 +449,13 @@
 	Another form of astrology known as the _sidereal_ Zodiac, which is predominantly used in India, does take precession into account.
 	With this definition, a _sidereal_ year is something like 365.256363 solar days.
 
+##### Sidle (verb)
+*ˈsī-dᵊl*
+- **to go or move with one side foremost especially in a furtive advance**
+- **to cause to move or turn sideways**
+	He _sidled_ up to me and slipped me a note.
+	She _sidled_ through the narrow opening.
+
 ##### Signet (noun / verb)
 *ˈsig-nət*
 - **a seal used officially to give personal authority to a document in lieu of signature**
@@ -460,6 +474,13 @@
 *ˈsī-ni-ˌkyu̇r*
 - **an office or position that requires little or no work and that usually provides an income**
 	Finally, remember that being a CEO is not a _sinecure_.
+
+##### Singlet (noun)
+*ˈsiŋ-glət*
+- **an athletic jersey**
+- **undershirt**
+	The team breaks out black _singlets_ for the finals.
+	Only instead of wearing a track _singlet_ and shorts, she’ll be dressed in a synthetic, skin-tight speed suit.
 
 ##### Sinuous (adjective)
 *ˈsin-yə-wəs*

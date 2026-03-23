@@ -318,6 +318,13 @@
 - **motortruck**
 	Half a world away, in Philadelphia, her husband’s work as a *lorry* driver has dried up.
 
+##### Louche (adjective)
+*ˈlüsh*
+- **not reputable or decent**
+- **notorious, infamous**
+	it was a seedy neighborhood of _louche_ nightclubs
+	These likable, *louche* fellows encourage Gordy to loosen up, have some fun.
+
 ##### Louver / Louvre (noun)
 *ˈlü-vər*
 - **a roof lantern or turret often with slatted apertures for escape of smoke or admission of light in a medieval building**

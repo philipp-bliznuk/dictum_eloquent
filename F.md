@@ -13,6 +13,13 @@
 	The architect selected a sleek, dark wood for the *facia* of the new boutique to give the storefront a modern and inviting look.
 	As the swelling increases, pressure in the area between the muscle and the _fascia_ builds.
 
+##### Facing (noun)
+*ˈfā-siŋ*
+- **a lining at the edge especially of a garment**
+- **an ornamental or protective layer**
+	a house with brick _facing_
+	a suit with red _facings_ at the collar and the cuffs
+
 ##### Familicide (noun)
 *fəˈmɪlɪˌsaɪd*
 - **the murder of an entire family by a family member.**

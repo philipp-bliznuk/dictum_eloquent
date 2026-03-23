@@ -166,6 +166,13 @@
 	Other weather prediction ceremonies center on different animals, including cats, guinea pigs, _gophers_ and beavers.
 	Garden centers sometimes sell dedicated _gopher_ repellent sprays, but fish emulsion, blood meal, castor oil, hot peppers, and predator urine may also help repel gophers.
 
+##### Gorge (verb)
+*ˈgȯrj*
+- **suggests glutting to the point of bursting or choking**
+- **to eat greedily or to repletion**
+	_gorging on_ books
+	We _gorged on_ chips and cookies.
+
 ##### Gormless (adjective)
 *ˈgȯrm-ləs*
 - **lacking intelligence: stupid**

@@ -450,6 +450,13 @@
 	We were told that his stroke was caused by a _clot_ in his brain.
 	medications that prevent blood from _clotting_
 
+##### Clout (noun / verb)
+*ˈklau̇t*
+- **pull, influence**
+- **a blow especially with the hand**
+	She used her political _clout_ to have another school built.
+	He'll _clout_ me around the head if he finds out what I've done.
+
 ##### Cloying (adjective)
 *ˈklȯi-iŋ*
 - **disgusting or distasteful by reason of excess**

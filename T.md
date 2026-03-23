@@ -119,6 +119,13 @@
 	*tawdry* clothing/jewels
 	a *tawdry* scandal/affair
 
+##### Teak (noun)
+*ˈtēk*
+- **a tall tropical Asian timber tree (Tectona grandis) of the mint family**
+- **the hard yellowish-brown wood of teak used especially for furniture and shipbuilding**
+	The _teak_ shade exudes quiet luxury, though there are plenty of gorgeous hues to choose from.
+	Midcentury purists will rejoice in this true vintage FBJ Mobler piece, made from _teak_ in a classic Danish silhouette.
+
 ##### Temerity (noun)
 *tə-ˈmer-ə-tē*
 - **unreasonable or foolhardy contempt of danger or opposition: rashness, recklessness**

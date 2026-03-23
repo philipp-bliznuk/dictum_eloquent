@@ -102,6 +102,20 @@
 	apple *parings*
 	This 13-piece knife set has six handy blades, including a large chef’s knife for chopping and a _paring_ blade for smaller slices.
 
+##### Parish (noun)
+*ˈper-ish*
+- **the ecclesiastical unit of area committed to one pastor**
+- **a local church community composed of the members or constituents of a Protestant church**
+	The _parish_ will be getting a new priest soon.
+	The _parish_ has grown significantly in the last three years.
+
+##### Parochial (adjective)
+*pə-ˈrō-kē-əl*
+- **of or relating to a church parish**
+- **confined or restricted as if within the borders of a parish : limited in range or scope (as to a narrow area or region): provincial, narrow**
+	It has never been clearer that the country's best self is a global inheritance, its worst a *parochial* self-certainty.
+	our pastor and other _parochial_ leaders
+
 ##### Paroxysm (noun)
 *ˈper-ək-ˌsi-zəm*
 - **a fit, attack, or sudden increase or recurrence of symptoms (as of a disease): convulsion**
