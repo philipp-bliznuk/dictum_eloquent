@@ -258,6 +258,13 @@
 	The fact that he'd been unable to attend the funeral was a source of _chagrin_ for Ted.
 	She had gained five pounds over the winter, much _to her chagrin_.
 
+##### Chalybeate (adjective / noun)
+*kə-ˈlē-bē-ət*
+- **impregnated with salts of iron**
+- **having a taste due to iron**
+	*chalybeate* springs
+	He offered me a glass of *chalybeate* water.
+
 ##### Charcuterie (noun)
 *(ˌ)shär-ˌkü-tə-ˈrē*
 - **cooked or cured meat products (such as salami or prosciutto) that are usually served cold**
@@ -337,6 +344,13 @@
 - **interrupted by ups and downs: jerky**
 	a sharp, _choppy_ wind coming off the lake
 	the plot was intriguing, but the author's style was so _choppy_ that I finally gave up in frustration
+
+##### Choral (adjective)
+*ˈkȯr-əl*
+- **of or relating to a chorus or choir**
+- **sung or designed for singing by a choir**
+	a *choral* arrangement
+	As models walked, a _choral_ finale was performed by the children of The Langley Schools Music Project.
 
 ##### Chow (noun / verb)
 *ˈchau̇*
@@ -837,6 +851,13 @@ _ˈküt_
 - **a smokeless powder composed of nitroglycerin, guncotton, and a petroleum substance usually gelatinized by addition of acetone and pressed into cords resembling brown twine**
 	For the railgun, it's used to propel projectiles at tremendous speeds without the need for _cordite_ or other explosives.
 	The men hit the ground as the blast hit, the smell of _cordite_ and dust going deep into their nostrils.
+
+##### Corposant (noun)
+*ˈkȯr-pə-ˌsant*
+- **saint elmo's fire**
+- **a flaming phenomenon sometimes seen in stormy weather at prominent points on an airplane or ship and on land that is of the nature of a brush discharge of electricity**
+	The terrified sailors dropped to their knees as a brilliant blue *corposant* began to dance atop the mainmast, illuminating the deck in an eerie, flickering light.
+	During the high-altitude flight through the thundercloud, the pilot noticed a faint *corposant* glowing along the edges of the cockpit window.
 
 ##### Corpulent (adjective)
 *ˈkȯr-pyə-lənt*

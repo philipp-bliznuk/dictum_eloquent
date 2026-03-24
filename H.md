@@ -249,6 +249,12 @@
 	the grande dame of the city's _hostelries_, it has played host to presidents, kings, and Hollywood royalty
 	In light of the city’s new broader appeal, local *hostelry* has upped its game considerably.
 
+##### Howdah (noun)
+*ˈhau̇-də*
+- **a seat or covered pavilion on the back of an elephant or camel**
+	The Maharaja waved to the gathered crowds from the gold-encrusted *howdah*, which was draped in heavy crimson silks.
+	Archaeologists discovered a miniature ivory carving of a war elephant, complete with a tiny, detailed *howdah* mounted on its back.
+
 ##### Hubbub (noun)
 *ˈhə-ˌbəb*
 - **noise, uproar**

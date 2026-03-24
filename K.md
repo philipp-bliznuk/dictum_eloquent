@@ -17,6 +17,13 @@
 - **nervous, tense, or excited**
 	was too *keyed up* to sleep
 
+##### Klaxon (noun)
+*ˈklak-sən*
+- **an electrically operated horn or warning signal**
+- **any loud, urgent warning siren used on cars, ships, submarines, or in factories**
+	As the race cars rounded the final bend, a loud *klaxon* sounded to announce the start of the last lap.
+	The factory's evacuation *klaxon* was so ear-splitting that it could be heard even over the roar of the heavy machinery.
+
 ##### Knack (noun)
 *ˈnak*
 - **a special ready capacity that is hard to analyze or teach**

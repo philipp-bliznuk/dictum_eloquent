@@ -530,6 +530,13 @@
 	*donned* his hat and gloves
 	the *donning* of new and more tyrannous moralities
 
+##### Doppler (adjective)
+*ˈdä-plər*
+- **of, relating to, being, or utilizing a shift in frequency in accordance with the Doppler effect**
+- **of or relating to Doppler radar**
+	The doctor performed a *Doppler* ultrasound to listen to the fetal heartbeat and ensure the blood was flowing correctly through the umbilical cord.
+	The meteorologist used *Doppler* radar to track the rotating winds of the storm, allowing the town to receive a tornado warning ten minutes early.
+
 ##### Dorsal (noun / verb)
 *ˈdȯr-səl*
 - **a dorsally located part**

@@ -161,6 +161,12 @@
 	the mouth is a bodily _orifice_
 	the nozzle *orifice*
 
+##### Ormolu (noun)
+*ˈȯr-mə-ˌlü*
+- **golden or gilded brass or bronze used for decorative purposes (as in mounts for furniture)**
+	It has since been corrected to describe the object as an _ormolu_ casket.
+	When Donald Trump stuck _ormolu_ tables into every available corner of the Oval Office, comparisons were made to dictators with similarly ornate taste.
+
 ##### Ornithopter (noun)
 *ˈȯr-nə-ˌthäp-tər*
 - **an aircraft designed to derive its chief support and propulsion from flapping wings**

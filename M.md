@@ -59,6 +59,13 @@
 - **to pretend or exaggerate incapacity or illness (as to avoid duty or work)**
 	His boss suspected him of _malingering_ because of his frequent absences from work.
 
+##### Malleus (noun)
+*ˈma-lē-əs*
+- **the outermost of a chain of three small bones of the mammalian middle ear**
+- **also called "hammer"**
+	The smallest bones are inside your ear, and they are known as the hammer (_malleus_), stirrup (stapes), and anvil (incus).
+	The auditory ossicles of the middle ear – the _malleus_, incus and stapes – are the tiniest bones in the human body.
+
 ##### Malodorous (adjective)
 *ˌmal-ˈō-də-rəs*
 - **having a bad odour**

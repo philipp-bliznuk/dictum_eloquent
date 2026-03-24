@@ -60,6 +60,11 @@
 	His interest in the American Civil War _impelled_ him to make repeated visits to Gettysburg.
 	She felt _impelled_ to give a speech after the performance.
 
+##### Imperator (noun)
+*ˌim-pə-ˈrä-tər*
+- **a commander in chief or emperor of the ancient Romans**
+	Under the Roman republic, an _imperator_ was a victorious general, and later one of two consuls.
+
 ##### Imperforate (adjective)
 *(ˌ)im-ˈpər-f(ə-)rət*
 - **having no opening or aperture**

@@ -123,6 +123,13 @@
 	the _vernacular_ architecture of the region
 	He spoke in the _vernacular_ of an urban teenager.
 
+##### Vestibule (noun)
+*ˈve-stə-ˌbyül*
+- **a passage, hall, or room between the outer door and the interior of a building: lobby**
+- **foyer**
+	please leave your wet boots in the _vestibule_
+	As Wilson reached the store's _vestibule_, the woman came into view of the camera.
+
 ##### Vestige (noun)
 *ˈve-stij*
 - **a trace, mark, or visible sign left by something (such as an ancient city or a condition or practice) vanished or lost: footprint**

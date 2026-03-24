@@ -272,6 +272,13 @@
 	a _guarded_ man who knew better than to reveal such delicate information
 	was in *guarded* condition after the crash
 
+##### Guidon (noun)
+*ˈgī-ˌdän*
+- **a small flag, especially one borne by a military unit as a unit marker**
+- **one who carries a guidon**
+	each army command unit flew a different color _guidon_, though they were all the same shape
+	Ramona Cadet Zito earned the position of guide for 3rd Platoon and marched in carrying the platoon’s _guidon_.
+
 ##### Guile (noun)
 *ˈgī(-ə)l*
 - **deceitful cunning**

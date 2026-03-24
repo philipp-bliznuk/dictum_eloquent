@@ -1,3 +1,10 @@
+##### Pageantry / Pageant (noun)
+*ˈpa-jən-trē*
+- **colorful, rich, or splendid display: spectacle**
+- **mere show: empty display**
+	I like the tradition and _pageantry_ that come with graduations.
+	Their church puts on an annual Christmas _pageant_.
+
 ##### Page (noun / verb)
 *ˈpāj*
 - **one employed to deliver messages, assist patrons, serve as a guide, or attend to similar duties**

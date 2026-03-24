@@ -86,3 +86,10 @@
 - **an arrangement of five things in a square or rectangle with one at each corner and one in the middle**
 	At the same time, Saturn continues its tense square to Uranus while making a *quincunx* to the full moon.
 	We may be tempted to push ourselves to extremes on Tuesday, as the Sun creates a *quincunx* with optimistic Jupiter.
+
+##### Quorum (noun)
+*ˈkwȯr-əm*
+- **the minimum number of officers or members of a body that is required to be present at a given meeting (as to transact business)**
+- **a select group**
+	We need five people to make a _quorum_.
+	In order to adopt articles, according to the rules, the assembly will need a *quorum* of two thirds.
