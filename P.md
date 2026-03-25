@@ -239,6 +239,13 @@
 	a word with _pejorative_ connotations
 	the reviewer used the _pejorative_ word “versifier” to refer to the writer, whose poems had struck a responsive chord with the general public
 
+##### Pellucid (adjective)
+*pə-ˈlü-səd*
+- **admitting maximum passage of light without diffusion or distortion: clear, transparent**
+- **reflecting light evenly from all surfaces: crystalline**
+	the _pellucid_ waters that lap upon that island's beaches
+	her poetry has a _pellucid_ simplicity that betrays none of the sweat that went into writing it
+
 ##### Penal (adjective)
 *ˈpē-nᵊl*
 - **of, relating to, or involving punishment, penalties, or punitive institutions**

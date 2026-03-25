@@ -172,6 +172,13 @@
 - **an aircraft designed to derive its chief support and propulsion from flapping wings**
 	Paul and Jessica fly off in an _ornithopter_ and evade their pursuers by flying into a storm.
 
+##### Ossify (verb)
+*ˈä-sə-ˌfī*
+- **to change into bone: calcify**
+- **to become hardened or conventional and opposed to change**
+	The cartilage will _ossify_, becoming bone.
+	a disease that _ossifies_ the joints
+
 ##### Ostensible (adjective)
 *ä-ˈsten(t)-sə-bəl*
 - **intended for display: open to view**

@@ -106,6 +106,13 @@
 	_scads_ of people showed up for the party
 	The nature of the American political system propagates _scads_ of lawyers and poseurs who blather on endlessly, promising everything and delivering little.
 
+##### Scald (verb / noun / adjective)
+*ˈskȯld*
+- **to burn with or as if with hot liquid or steam**
+- **an injury to the body caused by scalding**
+	The steam _scalded_ his skin.
+	Place one-half cup cream in a sauce pot and bring up to a _scald_.
+
 ##### Scallywag / Scalawag (noun)
 *ˈska-li-ˌwag*
 - **scamp, reprobate**
@@ -1041,6 +1048,13 @@
 - **a rough surface or growth resembling stubble**
 	He ran his hand over his _stubble_.
 	Government satellite data showed a rise in crop _stubble_ fires, used by farmers to clear land before the next planting, since the start of November.
+
+##### Stunt (verb / noun)
+*ˈstənt*
+- **to hinder the normal growth, development, or progress of**
+- **a check in growth / a disease of plants (such as corn) in which dwarfing occurs**
+	unfortunately, an unusually dry summer seems to have permanently _stunted_ the tree
+	Injuries ravage the team again and *stunt* the growth of rookies.
 
 ##### Stupor (noun)
 *ˈstü-pər*

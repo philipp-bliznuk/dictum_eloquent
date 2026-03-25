@@ -25,6 +25,13 @@
 	_cajoled_ her into doing his laundry for him
 	_cajoled_ him into cheating on the final exam
 
+##### Calcify (verb)
+*ˈkal-sə-ˌfī*
+- **to make calcareous by deposit of calcium salts**
+- **to become inflexible and changeless: harden**
+	Her bones are as *calcified* as those of a child between the ages of 6 and 8.
+	In the meantime, the idea that social media is harmful has *calcified*.
+
 ##### Calliper / Caliper (noun)
 *ˈka-lə-pər*
 - **any of various measuring instruments having two usually adjustable arms, legs, or jaws used especially to measure diameter or thickness -> usually used in plural**
