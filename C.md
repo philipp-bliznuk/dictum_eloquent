@@ -55,6 +55,12 @@
 - **rabble, riffraff**
 	God would be *canaille* too in Boston in Massachusetts.
 
+##### Cannery (noun)
+*ˈka-nə-rē*
+- **a factory for the canning of foods**
+	His father was sickly, and Jack had to work in a _cannery_ in West Oakland.
+	Of course, that opens up a whole *cannery* of cans of worms, ethical and emotional.
+
 ##### Canoness (noun)
 *ˈka-nə-nəs*
 - **a woman living in community under a religious rule but not under a perpetual vow**

@@ -370,6 +370,14 @@
 	a radio with a _diminutive_ set of speakers
 	The name Indie can be a _diminutive_ of the names India (country southern Asia) or Indiana (state in midwestern U.S.)
 
+##### Dint (noun / verb)
+*ˈdint*
+- **force, power**
+- **to impress or drive in with force**
+- **by dint of: by force of: because of**
+	Then he was moved to the second unit, which seemed to _dint_ his confidence.
+	succeeded *by dint of* hard work
+
 ##### Dirigible (adjective / noun)
 *ˈdir-ə-jə-bəl*
 - **capable of being steered**

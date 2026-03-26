@@ -1,3 +1,10 @@
+##### Sacerdotal (adjective)
+*ˌsa-sər-ˈdō-tᵊl*
+- **of or relating to priests or a priesthood: priestly**
+- **ministerial, pastoral**
+	_sacerdotal_ garments such as a cassock and miter
+	*sacerdotal* authority
+
 ##### Sacrarium (noun)
 *sə-ˈkrer-ē-əm*
 - **the most sacred part of a religious building (such as the part of a Christian church in which the altar is placed)**
@@ -768,6 +775,13 @@
 - **a light air-filled structure or a winglike part protruding from the hull of a seaplane to steady it on water**
 	With a nod of approval from Mike, Johnson placed his son on a _sponson_ of the 26-foot hull.
 	The _sponsons_ will be able to store plenty of fuel, too, with tanks designed to hold the renewable biofuel of the future.
+
+##### Spout (verb / noun)
+*ˈspau̇t*
+- **to eject (liquid) in a stream**
+- **to speak or utter readily, volubly, and at length: declaim -> often used with "off"**
+	She kept _spouting_ on and on about politics.
+	Water was flowing from the _spout_.
 
 ##### Sprawl (verb / noun)
 *ˈsprȯl*
