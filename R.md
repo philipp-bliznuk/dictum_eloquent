@@ -497,6 +497,13 @@
 	*rugose* cheeks
 	*rugose* leaves of the sage
 
+##### Ruminate (verb)
+*ˈrü-mə-ˌnāt*
+- **to go over in the mind repeatedly and often casually or slowly: ponder**
+- **to chew repeatedly for an extended period**
+	The question got us _ruminating_ on the real value of wealth.
+	He _ruminated_ over the implications of their decision.
+
 ##### Runnel (noun)
 *ˈrə-nᵊl*
 - **rivulet, streamlet**

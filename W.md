@@ -90,6 +90,13 @@
 	there was a _welter_ of pushing and shoving as people rushed to grab the best seats for the outdoor concert
 	a _welter_ of junk in the closet, most of which needed to be thrown out
 
+##### Welt (noun / verb)
+*ˈwelt*
+- **a ridge or lump raised on the body (as by a blow or allergic reaction)**
+- **a heavy blow: whack**
+	I'll hand ye a few _welts_ with me stick and then we'll see how ye feel!
+	Temperature swings, from a hot shower or very cold air, may intensify or cause the formation of new _welts_.
+
 ##### Wheatear (noun)
 *ˈ(h)wēt-ˌir*
 - **any of various small Old World flycatchers (genus Oenanthe) (bird)**

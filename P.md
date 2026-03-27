@@ -604,6 +604,13 @@ Peruke (noun)
 	students struggling to stay awake during a _ponderous_ lecture
 	_ponderous_ elephants in a circus parade
 
+##### Ponder (verb)
+*ˈpän-dər*
+- **to think about: reflect on**
+- **to weigh in the mind: evaluate, appraise**
+	He _pondered_ the question before he answered.
+	The team _pondered_ their chances of success.
+
 ##### Pontificate (verb / noun)
 *pän-ˈti-fə-ˌkāt*
 - **to speak or express opinions in a pompous or dogmatic way**

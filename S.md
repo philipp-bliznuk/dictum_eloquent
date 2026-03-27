@@ -484,6 +484,13 @@
 	In an era of algorithmic _silos_ and weakened local journalism, politics is driven too often by tribalism instead of values and dialogue.
 	The facility houses _silo_ launch sites critical for firing ballistic missiles with earthwork and construction around them.
 
+##### Simian (adjective / noun)
+*ˈsi-mē-ən*
+- **of, relating to, or resembling monkeys or apes**
+- **monkey, ape**
+	a study of _simian_ viruses
+	Rather, the sneaky *simians* are provided with mountains of food to gorge themselves.
+
 ##### Sinecure (noun)
 *ˈsī-ni-ˌkyu̇r*
 - **an office or position that requires little or no work and that usually provides an income**

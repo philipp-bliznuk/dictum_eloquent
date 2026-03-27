@@ -392,6 +392,13 @@
 	was quickly *disabused* of the idea that anything had changed
 	let me _disabuse_ you of your foolish notions
 
+##### Disburse (verb)
+*dis-ˈbərs*
+- **to pay out: expend especially from a fund**
+- **distribute**
+	The money will be _disbursed_ on the basis of need.
+	The government has _disbursed_ millions of dollars in foreign aid.
+
 ##### Discombobulate / Discombobulated (verb / adjective)
 *ˌdis-kəm-ˈbä-b(y)ə-ˌlāt* / *ˌdis-kəm-ˈbä-b(y)ə-ˌlā-təd*
 - **to cause to be in a state of confusion: upset, disorient**
@@ -570,6 +577,13 @@
 - **gloomy, sullen**
 	She had a _dour_ expression on her face.
 	the _dour_ mood of the crowd
+
+##### Dowager (noun)
+*ˈdau̇-i-jər*
+- **a widow holding property or a title from her deceased husband**
+- **a dignified elderly woman: matron**
+	The estate is owned by a wealthy _dowager_.
+	the town's _dowagers_ frequently shake their heads over the younger generation
 
 ##### Drab (adjective / noun)
 *ˈdrab*
