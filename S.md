@@ -87,6 +87,13 @@
 	The movie is a _sardonic_ look at modern life.
 	a _sardonic_ little jab that made her visitor quiet and subdued for the rest of the night
 
+##### Sashay (verb / noun)
+*sa-ˈshā*
+- **to strut or move about in an ostentatious or conspicuous manner**
+- **a sliding dance step resembling the galop: prance**
+	The model _sashayed_ down the runway.
+	just a little weekend _sashay_ we took to get away from it all
+
 ##### Saunter (verb)
 *ˈsȯn-tər*
 - **to walk about in an idle or leisurely manner: stroll**
@@ -276,6 +283,12 @@
 	DuVall says a secondary kitchen (sometimes called a prep kitchen or a _scullery_) is also increasingly desired.
 	When possible, move countertop appliances into a _scullery_, pantry, or cupboard.
 
+##### Scute (noun)
+*ˈsküt*
+- **an external bony or horny plate or large scale**
+	Box turtles, for example, grow their _scute_ outward over time, like how humans grow fingernails.
+	In a study published in the journal PNAS Nexus, researchers claim that the _scute_ keratin of a chelonian shell layers over time.
+
 ##### Seam (noun / verb)
 *ˈsēm*
 - **the joining of two pieces (as of cloth or leather) by sewing usually near the edge**
@@ -393,6 +406,13 @@
 *sham-ˈbä-lik*
 - **obviously disorganized or confused**
 	a _shambolic_ system of public transportation
+
+##### Shanty (noun)
+*ˈshan-ty*
+- **a song sung by sailors in rhythm with their work**
+- **a small crudely built dwelling or shelter usually of wood**
+	lived just off the beach in a crude _shanty_
+	Modern folk bands have revived the traditional *shanty*, bringing the haunting melodies of the 19th-century merchant navy to new audiences.
 
 ##### Sheaf (noun)
 *ˈshēf*
@@ -1062,6 +1082,13 @@
 - **touchy, belligerent**
 - **easily offended**
 	There's no need to get _stroppy_ with me.
+
+##### Strut (verb / noun)
+*ˈstrət*
+- **to walk with a pompous and affected air**
+- **a structural piece designed to resist pressure in the direction of its length**
+	the cat _strutted_ proudly onto the porch with a bird in its mouth
+	the _strut_ of a supermodel
 
 ##### Stubble (noun)
 *ˈstə-bəl*

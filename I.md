@@ -297,6 +297,12 @@
 	an *indelible* pencil
 	winning the state basketball championship was our team's most _indelible_ experience
 
+##### Indentured (adjective)
+*in-ˈden-chərd*
+- **required by contract to work for another for a certain period of time**
+	But most _indentured_ people really weren’t given a choice.
+	Under Trump, Congress has behaved like an _indentured_ servant rather than an independent agent.
+
 ##### Indict (verb)
 *in-ˈdīt*
 - **to formally charge (someone) with a crime by the finding of a jury (such as a grand jury): to formally accuse (someone) of a crime in an indictment**

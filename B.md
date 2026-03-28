@@ -414,6 +414,13 @@ _bi-ˈsä-təd_
 	_bowered_ by a canopy of grapevines, we enjoyed a serene and very private picnic
 	This elegant crisscross trellis can be used in the most formal of outdoor spaces to support climbing foliage like pink _bower_ vines.
 
+##### Brace (noun)
+*ˈbrās*
+- **plural: something that transmits, directs, resists, or supports weight or pressure**
+- **plural British: suspenders**
+	Temporary steel *braces* were installed to hold the ancient stone wall in place during the foundation repairs.
+	He opted for a pair of silk *braces* instead of a belt to ensure his tuxedo trousers draped perfectly during the gala.
+
 ##### Braise (noun / verb)
 *ˈbrāz*
 - **to cook slowly in fat and a small amount of liquid in a closed pot**

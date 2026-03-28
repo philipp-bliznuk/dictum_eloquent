@@ -400,6 +400,13 @@
 	_Cinders_ from the campfire floated through the air.
 	Red-orange _cinders_ dropped across the skylight, followed by bursts of flame.
 
+##### Circuitous (adjective)
+*(ˌ)sər-ˈkyü-ə-təs*
+- **having a circular or winding course**
+- **not being forthright or direct in language or action**
+	Their logic seems a bit _circuitous_.
+	we took a _circuitous_ route to the airport so as to avoid the massive traffic jam on the highway
+
 ##### Circumference (noun)
 *sər-ˈkəm(p)-f(ə-)rən(t)s*
 - **the perimeter of a circle**
@@ -1125,6 +1132,13 @@ _ˈkau̇n-tᵊn-ən(t)s_
 - **adds an implication of cutting that in some way deprives of completeness or adequacy**
 	The new laws are an effort to _curtail_ illegal drug use.
 	School activities are being _curtailed_ due to a lack of funds.
+
+##### Curtsy (noun / verb)
+*ˈkərt-sē*
+- **an act of civility, respect, or reverence made mainly by women and consisting of a slight lowering of the body with bending of the knees**
+- **to make a curtsy**
+	Once there, the Princess of Wales greeted Queen Camilla with a kiss on each cheek, followed by a _curtsy_.
+	As the crowd cheered, Briggs said, the chief put two $1 bills in the officer’s pockets then bowed or _curtsied_.
 
 ##### Cuss (noun / verb)
 *ˈkəs*

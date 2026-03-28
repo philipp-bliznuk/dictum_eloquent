@@ -255,6 +255,13 @@
 	Despite repeated warnings, they have continued to _flout_ the law.
 	an able-bodied motorist openly _flouting_ the law and parking in a space reserved for the disabled
 
+##### Flue (noun)
+*ˈflü*
+- **an enclosed passageway for directing a current**
+- **a channel in a chimney for conveying flame and smoke to the outer air**
+	Use only chimneys and _flues_ that have been cleaned and inspected annually.
+	Close fireplace _flues_ when not in use and follow gas fireplace guidelines.
+
 ##### Fluke (noun)
 *ˈflük*
 - **a stroke of luck**

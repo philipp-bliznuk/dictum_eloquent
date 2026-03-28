@@ -854,6 +854,13 @@ Peruke (noun)
 	_privy_ information on the current state of the peace negotiations
 	He would seem to be *privy* to some pretty good information.
 
+##### Proboscis (noun)
+*prə-ˈbä-səs*
+- **the human nose especially when prominent / any long flexible snout / the trunk of an elephant**
+- **any of various elongated or extensible tubular processes (such as the sucking organ of a butterfly) of the oral region of an invertebrate**
+	if there were a direct relation between mendacity and the length of one's _proboscis_, hers would be a mile long
+	Their tongues and _proboscises_ are much shorter than a hummingbird's tongue, which can dip down twice the length of its beak.
+
 ##### Proclivity (noun)
 *prō-ˈkli-və-tē*
 - **an inclination or predisposition toward something**

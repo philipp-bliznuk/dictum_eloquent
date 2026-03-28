@@ -511,6 +511,13 @@
 	the fugitive made use of local _runnels_ to throw the bloodhounds off his scent
 	the road ran like a twisty _runnel_ through fields and hedges
 
+##### Runt (noun)
+*ˈrənt*
+- **an animal unusually small of its kind**
+- **disparaging: a person of small stature**
+	the _runt_ of the litter
+	one kitten was definitely the _runt_, weighing only six ounces at birth
+
 ##### Rustic (adjective / noun)
 *ˈrə-stik*
 - **characteristic of or resembling country people**

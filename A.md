@@ -38,6 +38,13 @@
 	She is known as an _abstemious_ eater and drinker.
 	being _abstemious_ diners, they avoid restaurants with all-you-can-eat buffets
 
+##### Abuse (noun / verb)
+*ə-ˈbyüs*
+- **language that condemns or vilifies usually unjustly, intemperately, and angrily: curse**
+- **improper or excessive use or treatment: misuse**
+	The prisoner hurled _abuse_ at the judge.
+	He _abused_ my confidence by letting this secret be known.
+
 ##### Accelerant (noun)
 *ik-ˈse-lə-rənt*
 - **a substance used to accelerate a process (such as the spreading of a fire)**
@@ -257,6 +264,13 @@
 - **rearward, after**
 	We stood on the ship's deck facing _aft_.
 	The fore and _aft_ exits can both be used in an emergency.
+
+##### Aggrandize / Aggrandise (verb)
+*ə-ˈgran-ˌdīz*
+- **to make great or greater: increase, enlarge**
+- **to enhance the power, wealth, position, or reputation of**
+	a movie that *aggrandizes* the bad guys and makes the cops look like dopes
+	a generous grant, enabling the library to significantly _aggrandize_ its collection
 
 ##### Agog (adjective)
 *ə-ˈgäg*

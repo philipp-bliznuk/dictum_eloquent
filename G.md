@@ -130,12 +130,28 @@
 	The palace guard stood motionless, his polished *glaive* held upright as its long, curved blade glinted in the torchlight.
 	During the chaotic skirmish, the foot soldiers used their *glaives* to keep the charging cavalry at a distance, sweeping the heavy blades in wide, lethal arcs.
 
+##### Glib (adjective)
+*ˈglib*
+- **said or done offhand and especially with inadequate attention or concern: said or done too easily or carelessly**
+- **marked by ease and fluency in speaking or writing often to the point of being insincere or deceitful**
+	Politicians need to do more than provide _glib_ answers to difficult questions.
+	the actor's _glib_ portrayal of a drug addict
+
 ##### Glop (noun)
 *ˈgläp*
 - **a thick semiliquid substance (such as food) that is usually unattractive in appearance**
 - **tasteless or worthless material**
 	I remember the _glop_ they used to feed us for school lunch.
 	the restaurant served _glop_ that brought back unpleasant memories of my high school cafeteria
+
+##### Glug (noun / verb)
+*ˈgləg*
+- **a gurgling sound (as of a liquid pouring from a bottle)**
+- **a small amount of liquid especially when poured from a bottle**
+- **to drink quickly**
+	Russian sleeper trains are filled with the sounds of laughter, the *glug* of vodka being poured and playing cards slapping makeshift tables.
+	a *glug* of olive oil
+	*glugging* beer/wine/champagne
 
 ##### Goad (noun / verb)
 *ˈgōd*

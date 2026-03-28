@@ -345,6 +345,13 @@
 	The court ruled that the issue is now _moot_ because the people involved in the dispute have died.
 	conservatives had shouted down the proposal when it was first _mooted_
 
+##### Morass (noun)
+*mə-ˈras*
+- **marsh, swamp, quagmire**
+- **a situation that traps, confuses, or impedes**
+	advised against becoming involved in that country's civil war, warning that escape from that _morass_ might prove nigh impossible
+	the distracted driver had driven his car off the road and into a _morass_
+
 ##### Morose (adjective)
 *mə-ˈrōs*
 - **having a sullen and gloomy disposition**
