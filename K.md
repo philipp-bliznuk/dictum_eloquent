@@ -12,6 +12,13 @@
 	abstract words that are beyond the *ken* of young children
 	'tis double death to drown in *ken* of shore
 
+##### Kerchief (noun)
+*ˈkər-chəf*
+- **a square of cloth used as a head covering or worn as a scarf around the neck**
+- **a small usually square piece of cloth used for usually personal purposes (such as blowing the nose) or as a clothing accessory: handkerchief**
+	tied the _kerchief_ around her head to keep her hair out of her face
+	dabbed the sweat on his brow with a _kerchief_
+
 ##### Keyed up (adjective)
 *ˈkēd ˈəp*
 - **nervous, tense, or excited**

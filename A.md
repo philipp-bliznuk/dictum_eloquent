@@ -664,6 +664,12 @@ _ə-ˈskan(t)s_
 	Bernadette died of _asphyxiation_, according to an autopsy.
 	*Asphyxiation* at birth caused permanent impairment of his nerve-signaling system.
 
+##### Aspic (noun)
+*ˈa-spik*
+- **a clear savory jelly (as of fish or meat stock) used as a garnish or to make a meat, fish, or vegetable mold**
+	There are sherbets and _aspics_ aplenty, pound cakes and green beans galore.
+	As chefs once again embrace _aspics_ in fine-dining kitchens, Jell-O salads are also making a comeback with home cooks.
+
 ##### Assent (noun / verb)
 *ə-ˈsent*
 - **an act of agreeing to something especially after thoughtful consideration: agreement**

@@ -11,6 +11,13 @@
 - **one intended for dissection**
 	medical students who train by using _cadavers_
 
+##### Cadge (verb)
+*ˈkaj*
+- **to obtain (something) for free often by persuading or imposing on another: sponge**
+- **to take, use, or borrow (something) without acknowledgment**
+	She _cadged_ money from her sister.
+	Schwarzenegger made a pilgrimage to Washington to _cadge_ more money from the government, but came home empty-handed.
+
 ##### Cadre (noun)
 *ˈka-ˌdrā*
 - **a nucleus or core group especially of trained personnel able to assume control and to train others**
@@ -78,8 +85,10 @@
 *ˈkant*
 - **the expression or repetition of conventional or trite opinions or sentiments**
 - **to pitch to one side: lean**
+- **the private language of the underworld: jargon**
 	the colourful _cant_ used by movie producers and publicity agents in Hollywood
 	carefully _canted_ the ladder against the wall
+	the *cant* of thieves
 
 ##### Caper (noun / verb)
 *ˈkā-pər*
@@ -129,6 +138,13 @@
 - **to enjoy the pleasures of the moment without concern for the future: make the most of the present -> used in the imperative or infinitive**
 	part of the reason the 1920s was a decade of *carpe diem* is because one of the deadliest wars in world history ended unexpectedly
 	When great-grandpa dies on Full House, it's a reminder to *carpe diem*.
+
+##### Carp (verb / noun)
+*ˈkärp*
+- **to find fault or complain querulously**
+- **complaint**
+	He's tired of always being _carped_ at by his critics.
+	the usual _carp_ about that restaurant is that the service is slow
 
 ##### Carte blanche (noun)
 *ˈkärt-ˈblänch*
@@ -189,6 +205,13 @@
 - **a gentleman trained in arms and horsemanship**
 	He has a _cavalier_ disregard for the rights of others.
 	a novel about the dashing _cavaliers_ and gracious ladies of the South before the Civil War
+
+##### Cavil (verb)
+*ˈka-vəl*
+- **to raise trivial and frivolous objection**
+- **complain, moan, nitpick**
+	I don't intend to _cavil_ or compromise.
+	A customer _caviled_ about the price.
 
 ##### Celerity (noun)
 *sə-ˈler-ə-tē*
@@ -688,6 +711,13 @@
 - **an open space where roads or paths meet or where crowds gather**
 	the _concourse_ of the bus terminal
 	airline passengers had to pass through the security checkpoints before being allowed in the _concourse_
+
+##### Concubine (noun)
+*ˈkäŋ-kyu̇-ˌbīn*
+- **a woman with whom a man cohabits without being married: mistress**
+- **one having a recognized social status in a household below that of a wife: lover**
+	the offspring of one of the monarch's _concubines_
+	Among the 20 _concubines_ was the woman who would became known as Malinche.
 
 ##### Confectionary / Confectionery (noun)
 *kən-ˈfek-shə-ˌner-ē* / *kən-ˈfek-shə-ˌner-ē*

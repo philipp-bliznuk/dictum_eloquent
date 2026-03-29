@@ -283,6 +283,13 @@
 	DuVall says a secondary kitchen (sometimes called a prep kitchen or a _scullery_) is also increasingly desired.
 	When possible, move countertop appliances into a _scullery_, pantry, or cupboard.
 
+##### Scurry (verb)
+*ˈskər-ē*
+- **to move in or as if in a brisk pace: scamper**
+- **to move around in an agitated, confused, or fluttering manner**
+	She _scurried_ off to finish the job.
+	Mice _scurried_ around the house.
+
 ##### Scute (noun)
 *ˈsküt*
 - **an external bony or horny plate or large scale**

@@ -74,6 +74,13 @@
 	They were _questing_ for gold.
 	I respectfully _quest_ your assistance in this matter.
 
+##### Quibble (verb / noun)
+*ˈkwi-bəl*
+- **to evade the point of an argument by caviling about words**
+- **cavil, carp**
+	don't _quibble_ over who gets to sit in front
+	Our only _quibble_ about the trip was that it rained a lot.
+
 ##### Quilt (noun / verb)
 *ˈkwilt*
 - **a bed coverlet of two layers of cloth filled with padding (such as down or batting) held in place by ties or stitched designs: blanket**

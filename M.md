@@ -148,6 +148,13 @@
 	For example, an Atlantic storm that ripped the _mast_ off a boat named Antje would become known as Antje's hurricane.
 	Hannah had brought along a white bedsheet, and the crew quickly replaced the Confederate flag that flew above the _mast_ with the white flag of surrender.
 
+##### Matchlock (noun)
+*ˈmach-ˌläk*
+- **a slow-burning match lowered over a hole in the breech of a musket to ignite the charge**
+- **a musket equipped with a matchlock**
+	First-generation _matchlock_ rifles, tanks, and aircraft had major limitations but improved over time.
+	The birth of ‘gunpowder warfare’ can be traced back to the 15th century and the invention of the _matchlock_ gun, the first mechanical firing device.
+
 ##### Matricide (noun)
 *ˈma-trə-ˌsīd*
 - **murder of a mother by her child**

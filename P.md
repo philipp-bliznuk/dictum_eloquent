@@ -12,6 +12,13 @@
 	dispatch a _page_ to bring coffee to the senator
 	The officer had dispatch contact Walmart to *page* the owners.
 
+##### Pail (noun)
+*ˈpāl*
+- **a usually cylindrical container with a handle: bucket**
+- **the quantity that a pail contains**
+	A plastic beach _pail_ was lying on the sand.
+	She poured a _pail_ of water on the campfire.
+
 ##### Painstaking (adjective / noun)
 *ˈpān-ˌstā-kiŋ*
 - **taking pains: expending, showing, or involving diligent care and effort**

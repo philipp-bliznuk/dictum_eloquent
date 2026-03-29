@@ -67,6 +67,13 @@
 	She answered her accusers calmly and without *rancor*.
 	In the end, the debate created a degree of _rancor_ among the committee members.
 
+##### Rangy (adjective)
+*ˈrān-jē*
+- **able to range for considerable distances**
+- **long-limbed and long-bodied, tall and slender**
+	a speech that took a _rangy_ look at the problems facing the university
+	we could use a _rangy_ girl like you on our basketball team
+
 ##### Rank (adjective)
 *ˈraŋk*
 - **offensive in odor or flavour: rancid**

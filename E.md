@@ -442,6 +442,13 @@
 - **having or showing strong feelings of irritation or annoyance**
 	overworked, _exasperated_ parents barking at their children over little things
 
+##### Excise (noun / verb)
+*ˈek-ˌsīz*
+- **any of various taxes on privileges often assessed in the form of a license or fee**
+- **to remove by or as if by excision**
+	an _excise_ imposed on a number of goods
+	All the most scandalous parts had been *excised* from the diary.
+
 ##### Excoriate (verb)
 *ek-ˈskȯr-ē-ˌāt*
 - **to wear off the skin of: abrade**
