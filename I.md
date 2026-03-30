@@ -53,6 +53,13 @@
 	Her presence _imparted_ a sense of importance to the meeting.
 	The oil _imparts_ a distinctive flavour to the sauce.
 
+##### Impasse (noun)
+*ˈim-ˌpas*
+- **a predicament affording no obvious escape**
+- **an impassable road or way: cul-de-sac**
+	An arbitrator was called in to break the _impasse_.
+	She had reached an _impasse_ in her career.
+
 ##### Impel (verb)
 *im-ˈpel*
 - **to urge or drive forward or on by or as if by the exertion of strong moral pressure: force**
@@ -309,6 +316,13 @@
 - **to accuse (someone or something) of a weakness, failing, or wrong action**
 	A grand jury is expected to _indict_ him for murder.
 	If _indicted_, the defendant is bound over for trial.
+
+##### Indiscriminate (adjective)
+*ˌin-di-ˈskri-mə-nət*
+- **not marked by careful distinction: deficient in care and discernment**
+- **promiscuous, unrestrained**
+	They participated in the _indiscriminate_ slaughter of countless innocent victims.
+	She has been _indiscriminate_ in choosing her friends.
 
 ##### Indoctrinate (verb)
 *in-ˈdäk-trə-ˌnāt*

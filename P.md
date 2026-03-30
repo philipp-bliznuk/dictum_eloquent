@@ -94,6 +94,13 @@
 - **a soft food (as for infants)**
 	He finally had a little *pap* and looks like he's going to sleep.
 
+##### Parabellum (noun)
+_parā bellum_
+- **(Lat.) si vis pacem, para bellum: if you want peace, prepare for war**
+- **9x19mm cartridge or firearm of Luger family**
+	The collector prized his 1908 P08 Luger, often simply called a '*Parabellum*' in European circles, for its unique toggle-lock action.
+	The standard sidearm was chambered in 9mm *Parabellum*, a round developed for maximum efficiency in short-range combat.
+
 ##### Parcel (noun / verb)
 *ˈpär-səl*
 - **fragment, portion**

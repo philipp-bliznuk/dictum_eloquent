@@ -121,6 +121,12 @@
 	The court _acquitted_ the prisoner.
 	The recruits _acquitted_ themselves like veterans.
 
+##### Acreage (noun)
+*ˈā-k(ə-)rij*
+- **area in acres: acres**
+	A large portion of the park's _acreage_ is forest.
+	Gregory and her family had just moved to rural Washington, and their new property had enough _acreage_ for some large animals.
+
 ##### Acrid (adjective)
 *ˈa-krəd*
 - **sharp and harsh or unpleasantly pungent in taste or odor: irritating**

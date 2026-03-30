@@ -177,6 +177,13 @@
 	a surface decorated with _filigree_ and pearls
 	a *filigree* of frost
 
+##### Fillet (noun / verb)
+*ˈfi-lət*
+- **a ribbon or narrow strip of material used especially as a headband**
+- **a concave junction formed where two surfaces meet (as at an angle)**
+	a juicy _fillet_ of beef
+	He carefully _filleted_ the fish with a sharp knife.
+
 ##### Finery (noun)
 *ˈfī-nə-rē*
 - **ornament, decoration**

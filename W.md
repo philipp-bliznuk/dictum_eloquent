@@ -63,6 +63,13 @@
 	a _warren_ of narrow hallways
 	got lost in the _warren_ of interconnected side streets
 
+##### Wart (noun)
+*ˈwȯrt*
+- **a horny projection on the skin usually of the extremities produced by proliferation of the skin papillae and caused by any of numerous human papillomaviruses**
+- **one that suggests a wart especially in smallness, unpleasantness, or unattractiveness**
+	Signs of disease include _warts_ on legs, crusty or swollen eyes, feebleness, a ruffled appearance, difficulty breathing, nasal discharge, and diarrhea.
+	The general store transitions to massive profit margins via every _wart_ of United States history, no significant devastation is spared, no milestone overlooked.
+
 ##### Wastrel (noun)
 *ˈwā-strəl*
 - **vagabond, waif**

@@ -1135,6 +1135,13 @@ _ˈkau̇n-tᵊn-ən(t)s_
 	The car has lots of _cubbyholes_ for small items.
 	He worked in a _cubbyhole_ under the stairs.
 
+##### Cul-de-sac (noun)
+*ˈkəl-di-ˌsak*
+- **a street or passage closed at one end**
+- **a fruitless or mistaken course or direction**
+	Our house is located on a quiet *cul-de-sac*.
+	If your job is a *cul-de-sac,* you have to quit or accept the fact that your career is over.
+
 ##### Culvert (noun)
 *ˈkəl-vərt*
 - **a transverse drain**

@@ -266,6 +266,13 @@
 	the composer's cello concerto was composed as a moving _threnody_ for his late wife
 	His diary shrank to a litany of suffering and a _threnody_ for what might have been.
 
+##### Thresh (verb)
+*ˈthresh*
+- **to separate seed from (a harvested plant) mechanically**
+- **to strike repeatedly**
+	_threshing_ and harvesting at the same time
+	the poor dog _threshed_ against his chain
+
 ##### Throe (noun)
 *ˈthrō*
 - **pang, spasm**
