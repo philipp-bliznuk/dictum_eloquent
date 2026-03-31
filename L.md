@@ -389,6 +389,12 @@
 	on a clear night at sea the stars seem to take on a magical _luster_
 	her pearl necklace *lustered* softly in the candlelight of the restaurant
 
+##### Lych-Gate / Lich-Gate / Lychgate (noun)
+*ˈlich-ˌgāt*
+- **a roofed gate in a churchyard under which a bier rests during the initial part of the burial service**
+	The wedding party paused for a photograph under the ancient oak *lychgate*, the dark wood of the structure contrasting with the bride’s white veil.
+	The village elders gathered at the *lychgate* every Sunday morning, shielded from the drizzle by its heavy thatched roof.
+
 ##### Lye (noun)
 *ˈlī*
 - **a strong alkaline liquor rich in potassium carbonate leached from wood ashes and used especially in making soap and for washing**

@@ -294,6 +294,14 @@
 	The fact that he'd been unable to attend the funeral was a source of _chagrin_ for Ted.
 	She had gained five pounds over the winter, much _to her chagrin_.
 
+##### Chaise / Shay / Chase Longue (noun)
+*ˈshāz* / *ˈshā* / ˈ*shāz-ˈlȯŋ* 
+- **any of various light horse-drawn vehicles**
+- **a 2-wheeled carriage for one or two persons with a folding top**
+- **a long reclining chair**
+	We weren’t permitted to sit on these divans and _chaises_, much less eat anywhere near them.
+	Couches, chairs, and *chaise* come in light gray, dark gray, and dark blue.
+
 ##### Chalybeate (adjective / noun)
 *kə-ˈlē-bē-ət*
 - **impregnated with salts of iron**
@@ -554,6 +562,15 @@
 - **systematize, classify**
 	The convention _codified_ the rules of war.
 	The author tries to _codify_ important ideas about language.
+
+##### Coffer (noun / verb)
+*ˈkȯ-fər*
+- **chest, strongbox**
+- **plural: treasury, funds**
+- **a recessed panel in a vault, ceiling, or soffit**
+	put the money in the *coffer*
+	public *coffers* running dry in a bleak economy
+	ceiling *coffers*
 
 ##### Cognizant (adjective)
 *ˈkäg-nə-zənt*
@@ -1155,6 +1172,13 @@ _ˈkau̇n-tᵊn-ən(t)s_
 - **the body of congregations, tribunals, and offices through which the pope governs the Roman Catholic Church**
 	The senator argued that the matter should be settled within the *curia*, rather than by a direct decree from the Emperor.
 	The diplomat spent months navigating the complex bureaucracy of the Roman *curia* to secure an audience regarding the new treaty.
+
+##### Curio (noun)
+*ˈkyu̇r-ē-ˌō*
+- **something (such as a decorative object) considered novel, rare, or bizarre: curiosity**
+- **an unusual or bizarre person**
+	She loves to browse the shops in small towns, looking for _curios_.
+	be careful of the fragile _curios_ on the end tables
 
 ##### Curmudgeon (noun)
 *(ˌ)kər-ˈmə-jən*

@@ -525,6 +525,12 @@
 	the _runt_ of the litter
 	one kitten was definitely the _runt_, weighing only six ounces at birth
 
+##### Rushlight (noun)
+*ˈrəsh-ˌlīt*
+- **a candle that consists of the pith of a rush dipped in grease**
+	By the flickering glow of a single *rushlight*, the weaver continued his work long after the sun had dipped below the horizon.
+	The cottage was dim and smoky, smelling faintly of the mutton fat used to coat the *rushlights* propped in their iron holders.
+
 ##### Rustic (adjective / noun)
 *ˈrə-stik*
 - **characteristic of or resembling country people**

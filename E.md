@@ -186,6 +186,14 @@
 	the _eminence_ of the Nobel Prize in the field of awards and prizes
 	the old citadel sits on an _eminence_ with a commanding view of the city
 
+##### Emphatic (adjective)
+*im-ˈfa-tik*
+- **uttered with or marked by emphasis**
+- **tending to express oneself in forceful speech or to take decisive action**
+- **attracting special attention**
+	They were _emphatic_ about their political differences.
+	the governor issued an _emphatic_ denial of all charges
+
 ##### Emplacement (noun)
 *im-ˈplā-smənt*
 - **the situation or location of something**
@@ -213,6 +221,13 @@
 - **to burden with a legal claim (such as a mortgage)**
 	These rules will only _encumber_ the people we're trying to help.
 	Lack of funding has _encumbered_ the project.
+
+##### Endearing (adjective)
+*in-ˈdir-iŋ*
+- **arousing feelings of affection or admiration**
+- **sweet, adorable**
+	you have to wonder about people who don't find kittens and puppies _endearing_
+	his impish sense of humor is one of his more _endearing_ traits
 
 ##### Endemic (adjective / noun)
 *en-ˈde-mik*

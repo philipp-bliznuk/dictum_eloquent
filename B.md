@@ -1,3 +1,17 @@
+##### Bailie / Bailiff (noun)
+*ˈbā-lē* / *ˈbā-ləf*
+- **a Scottish municipal magistrate corresponding to an English alderman**
+- **an official employed by a British sheriff to serve writs and make arrests and executions**
+- **one who manages an estate or farm**
+	The *bailie* presided over the morning's proceedings, settling a heated dispute between two local merchants over the weight of their grain.
+	The *bailiff* arrived at the warehouse with a court order to seize the machinery in lieu of the unpaid rent.
+
+##### Baldric (noun)
+*ˈbȯl-drik*
+- **an often ornamented belt worn over one shoulder to support a sword or bugle**
+	The musketeer adjusted his leather *baldric*, ensuring the heavy rapier hung at the perfect angle for a quick draw.
+	The ceremonial guard wore a velvet *baldric* embroidered with the royal crest, draped elegantly over his formal tunic.
+
 ##### Baleful (adjective)
 *ˈbāl-fəl*
 - **deadly or pernicious in influence**
@@ -32,6 +46,13 @@
 - **good-natured and usually witty and animated joking**
 	the teacher _bantered_ pleasantly, albeit a bit awkwardly, with the students at the school dance
 	I enjoyed hearing their good-natured _banter_.
+
+##### Barbican (noun)
+*ˈbär-bi-kən*
+- **an outer defensive work**
+- **a tower at a gate or bridge**
+	The invading army breached the outer wall, only to find themselves trapped in the narrow kill-zone of the *barbican*, where archers fired down from every angle.
+	We walked through the stone archway of the *barbican*, noticing the heavy iron grooves where the portcullis would have once dropped to seal the city.
 
 ##### Barb (noun / verb)
 *ˈbärb*
@@ -391,6 +412,13 @@ _bi-ˈsä-təd_
 	Inside the _bothy_ is a kitchenette, dining and lounging areas.
 	The party all headed to a tiny fishing _bothy_, or hut, where the royals were to have some tea.
 
+##### Bourse (noun)
+*ˈbu̇rs*
+- **an organized market or center for trading in securities or commodities**
+- **a sale of numismatic or philatelic items on tables (as at a convention)**
+	The news of the sudden interest rate hike sent shockwaves through the Paris *Bourse*, causing technology stocks to tumble in early trading.
+	The city’s historic *bourse* was a masterpiece of Renaissance architecture, its vaulted halls once echoing with the shouts of spice merchants and grain traders.
+
 ##### Bout (noun)
 *ˈbau̇t*
 - **a spell or period of activity: event, session**
@@ -473,6 +501,13 @@ _bi-ˈsä-təd_
 - **a mass of briars**
 	a thicket of *briars*
 	volunteers methodically searching through the *briar* and trees
+
+##### Bric-a-brac (noun)
+*ˈbri-kə-ˌbrak*
+- **a miscellaneous collection of small articles commonly of ornamental or sentimental value: curios**
+- **something suggesting bric-a-brac especially in extraneous decorative quality**
+	The tiny seaside cottage was cluttered with Victorian *bric-a-brac*, from porcelain cats to faded postcards stuck into the frames of mirrors.
+	We spent the rainy Saturday afternoon rummaging through the *bric-a-brac* stall at the local flea market, looking for a brass paperweight.
 
 ##### Brimstone (noun)
 *ˈbrim-ˌstōn*

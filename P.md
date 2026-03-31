@@ -645,6 +645,12 @@ Peruke (noun)
 	the main _portal_ to the estate is an elaborate wrought iron gate on the side facing the road
 	the cathedral's west *portal*
 
+##### Portcullis (noun)
+*pȯrt-ˈkə-ləs*
+- **a grating of iron hung over the gateway of a fortified place and lowered between grooves to prevent passage**
+	The entrance to the car park even passes under a _portcullis_ and guests’ bags go through an X-ray machine hidden in the rock-face.
+	The prior owner went all out on building a Medieval-style castle, with a moat, a drawbridge and a _portcullis_.
+
 ##### Portico (noun)
 *ˈpȯr-ti-ˌkō*
 - **a colonnade or covered ambulatory especially in classical architecture and often at the entrance of a building**
@@ -853,6 +859,14 @@ Peruke (noun)
 - **neat, trim**
 	He has _prim_ views on religion.
 	Her aunts were very _prim and proper_.
+
+##### Princeps (noun)
+*ˈprinˌseps*
+- **the head of the state under the Roman Empire**
+- **any of various chief officials (as the headman of a tribe) among the ancient Teutons and Anglo-Saxons**
+- **a first edition of a work**
+	By adopting the title of *princeps*, Augustus avoided the hated label of 'king' while effectively ruling the entire Roman world.
+	Scholars often return to the *princeps* edition of a text to see how early printers interpreted the original handwritten notes.
 
 ##### Privation (noun)
 *prī-ˈvā-shən*

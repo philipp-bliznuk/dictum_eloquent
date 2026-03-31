@@ -112,6 +112,12 @@
 - **comes from French / Italian origin and conveys meanings of "lacking" and "left-handed"**
 	a poet *manqué*
 
+##### Mansard (noun)
+*ˈman-ˌsärd*
+- **a roof having two slopes on all sides with the lower slope steeper than the upper one**
+	Its Federal architecture is complemented by a Second Empire _mansard_ roof that was added sometime between 1865 and 1885.
+	Its Second Empire style - stone façades, slate _mansard_ roofs, and rich sculptural detailing - cemented its status as a symbol of urban progress.
+
 ##### Mantle (noun / verb)
 *ˈman-tᵊl*
 - **a figurative cloak symbolizing preeminence or authority: cloak**
@@ -281,6 +287,12 @@
 - **Small in quantity; meager**
 	a _mingy_ portion of food
 	the company's *mingy* Christmas bonuses haven't exactly helped sagging employee morale
+
+##### Minster (noun)
+*ˈmin(t)-stər*
+- **a large or important church often having cathedral status**
+	The jagged towers of York *Minster* dominate the city skyline, their stained glass telling stories that date back over seven centuries.
+	Unlike a standard parish church, the local *minster* served as a hub for several smaller villages, acting as the primary site for major festivals and baptisms.
 
 ##### Minutia / Minutiae (noun)
 *mə-ˈnü-sh(ē-)ə* / *mə-ˈnü-shē-ˌē*

@@ -25,6 +25,13 @@
 	After the ringing, Ingalls went into the church _nave_ to pray, Wisniowiecki said.
 	The towers would be held up by columns that soared upward through the church’s _nave_.
 
+##### Navigable (adjective)
+*ˈna-vi-gə-bəl*
+- **deep enough and wide enough to afford passage to ships**
+- **capable of being steered/navigated**
+	The marsh was _navigable_ only by canoe.
+	this map shows which rivers are _navigable_ and which aren't
+
 ##### Nebulous
 *ˈne-byə-ləs*
 - **of, relating to, or resembling a nebula**
@@ -116,6 +123,13 @@
 - **applies to what is both offensive and injurious to the health of a body or mind**
 	mixing bleach and ammonia can cause _noxious_ fumes that can seriously harm you
 	_noxious_ smog that for years has been encrusting the historic cathedral with soot
+
+##### Numinous (adjective)
+*ˈnü-mə-nəs*
+- **supernatural, mysterious, spiritual**
+- **filled with a sense of the presence of divinity: holy**
+	Her poetry is filled with a _numinous_ beauty.
+	some have sensed a _numinous_ energy in the landscape around Sedona, Arizona
 
 ##### Nuncio (noun)
 *ˈnən(t)-sē-ˌō*

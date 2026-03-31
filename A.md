@@ -10,6 +10,13 @@
 - **the superior of a monastery for men**
 	The _abbot_ later said the temple would cover her medical expenses, according to Pairat.
 
+##### Abhorrence (noun)
+*əb-ˈhȯr-ən(t)s*
+- **the act or state of abhorring or despising something or someone: loathing**
+- **something regarded as repugnant or disgusting**
+	one of the changes in American society that remains a particular _abhorrence_ of social conservatives
+	my firm _abhorrence_ of all forms of hypocrisy
+
 ##### Abolition (noun)
 *ˌa-bə-ˈli-shᵊn*
 - **the act of officially ending or stopping something: the act of abolishing something**
@@ -317,6 +324,13 @@ _ˈāl_
 - **a covered structure in a garden or park designed to provide a shady resting place in summer**
 	a small _alcove_ in one corner of the backyard garden
 	an ancient vase in an _alcove_ and a sculpture of Achilles on a stand in the museum's Greek Hall
+
+##### Aleatory / Aleatoric (adjective)
+*ˈā-lē-ə-ˌtȯr-ē*
+- **depending on an uncertain event or contingency as to both profit and loss**
+- **relating to luck and especially to bad luck**
+	The gambler entered into an *aleatory* agreement with the bookmaker, knowing that his profit depended entirely on the unpredictable outcome of the horse race.
+	The scientist argued that the decay of a radioactive atom is a purely *aleatory* process that cannot be predicted, no matter how much data we collect.
 
 ##### Alfresco (adjective / adverb)
 *al-ˈfre-(ˌ)skō*
@@ -642,6 +656,13 @@ _ə-ˈper-əl_
 - **suggests an inferring or conjecturing of cause, quality, authorship**
 	They *ascribe* most of their success to good timing and good luck.
 	forged paintings formerly _ascribed_ to masters
+
+##### Ashlar (noun)
+*ˈash-lər*
+- **hewn or squared stone**
+- **a thin squared and dressed stone for facing a wall of rubble or brick**
+	Glass sheathing is inexpensive relative to, say, limestone _ashlars_.
+	Without mortar, using a technique called _ashlar_, the Inca fit finely carved granite stones together with such precision that a piece of paper cannot be inserted between them.
 
 ##### Asinine (adjective)
 *ˈa-sə-ˌnīn*

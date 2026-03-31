@@ -137,6 +137,12 @@
 	a group of school volunteers who are _unstinting_ with their time
 	*unstinting* praise
 
+##### Unstopper (verb)
+*ˌən-ˈstä-pər*
+- **to remove a stopper from: unstop**
+	*unstopper* a flask
+	The good news is that a few nuanced regulatory tweaks could _unstopper_ a wave of rehabs.
+
 ##### Untoward (adjective)
 *ˌən-ˈtō-ərd*
 - **difficult to guide, manage, or work with: unruly, intractable**

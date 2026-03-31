@@ -5,6 +5,13 @@
 	mourners _keening_ at a funeral
 	victims of the disaster have been _keening_ for weeks about the slowness of governmental aid
 
+##### Kelp (noun)
+*ˈkelp*
+- **any of various large marine brown algae that are large seaweeds (order Laminariales) growing in cool waters**
+- **a blade of kelp that is usually dried and used as food (as in sushi or soups)**
+	*Kelps* grow fast, drawing on all the minerals and vitamins and nutrients they can from the watershed and the sun.
+	Sea cucumbers hunkered around the holdfasts that anchored the _kelp_ to the ocean floor.
+
 ##### Ken (noun / verb)
 *ˈken*
 - **the range of perception, understanding, or knowledge**

@@ -176,6 +176,13 @@
 	the heroine of Shakespeare's _Romeo and Juliet_
 	The town remembered her as the _heroine_ of the flood and erected a statue in her honor.
 
+##### Herringbone (noun / verb)
+*ˈher-iŋ-ˌbōn*
+- **a pattern made up of rows of parallel lines which in any two adjacent rows slope in opposite directions**
+- **a method in skiing of ascending a slope by toeing out on skis and placing the weight on the inner side**
+	The _herringbone_ floor is original and the pendant light dates to an earlier renovation of the space.
+	The individual condos will have _herringbone_ white-oak floors and large windows.
+
 ##### Hessian (noun)
 *ˈhe-shən*
 - **a native of Hesse**

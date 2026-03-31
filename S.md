@@ -789,6 +789,13 @@
 	accommodations on the windjammer are _spartan_ but clean and comfortable nevertheless
 	a *spartan* room
 
+##### Spica (noun)
+*ˈspī-kə*
+- **a bandage that is applied in successive V-shaped crossings and is used to immobilize a limb especially at a joint**
+- **a star of the first magnitude in the constellation Virgo**
+	The trainer applied a thumb *spica* splint to the athlete's hand to prevent the ligament from stretching further during the game.
+	Navigators have used *Spica* for centuries to find their way, as its brilliant blue-white light is easily spotted near the celestial equator.
+
 ##### Spittle (noun)
 *ˈspi-tᵊl*
 - **saliva**
