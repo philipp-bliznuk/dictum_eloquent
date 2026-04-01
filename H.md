@@ -49,6 +49,13 @@
 	Those Swiss guards would take that _halberd_ and just take you down.
 	For the uninitiated, a _halberd_ is a medieval weapon that looks like a combination of a spear and an axe.
 
+##### Halcyon (adjective)
+*ˈhal-sē-ən*
+- **characterized by happiness, great success, and prosperity: golden -> often used to describe an idyllic time in the past that is remembered as better than today**
+- **prosperous, affluent**
+	a _halcyon_ era following the American Civil War
+	during those early _halcyon_ years the company's potential for growth seemed unlimited
+
 ##### Halitosis (noun)
 *ˌha-lə-ˈtō-səs*
 - **a condition of having fetid breath**

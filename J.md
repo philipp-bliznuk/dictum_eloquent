@@ -1,3 +1,10 @@
+##### Jabot (noun)
+*zha-ˈbō* / *ˈja-ˌbō*
+- **a pleated frill of cloth or lace attached down the center front of a woman's blouse or dress**
+- **a fall of lace or cloth attached to the front of a neckband and worn especially by men in the 18th century**
+	The barrister adjusted his lace *jabot* before addressing the court, maintaining the centuries-old tradition of legal dress.
+	For her Victorian-inspired blouse, the designer added a silk *jabot* that cascaded elegantly down the front, fastened with an antique pearl brooch.
+
 ##### Jaded (adjective)
 *ˈjā-dəd*
 - **fatigued by overwork: exhausted**

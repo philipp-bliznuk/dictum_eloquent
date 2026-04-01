@@ -26,6 +26,12 @@
 	The horse _balked_ and would not jump the fence.
 	the constant interruptions proved to be a _balk_ to the flow of conversation
 
+##### Balmacaan (noun)
+*ˌbal-mə-ˈkan*
+- **a loose single-breasted overcoat usually having raglan sleeves and a short turnover collar**
+	As the autumn rain began to fall, he buttoned his heavy tweed *balmacaan* and pulled the collar tight against the wind.
+	The classic silhouette of the *balmacaan* remains a favorite for commuters because its generous cut allows it to fit easily over a bulky suit jacket.
+
 ##### Balmy (adjective)
 *ˈbä-mē*
 - **having the qualities of balm: soothing, mild, temperate**

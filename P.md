@@ -187,6 +187,13 @@ _parā bellum_
 	his *patent* sincerity
 	a *patent* falsehood
 
+##### Pate / Pâté (noun)
+*pä-ˈtā*
+- **a spread of finely chopped or pureed seasoned meat**
+- **a meat or fish pie or patty**
+	chicken liver *pâté*
+	The *pate* en croute might come with pickled ginger and daikon.
+
 ##### Pathogen (noun)
 *ˈpa-thə-jən*
 - **a specific causative agent (such as a bacterium or virus) of disease**
@@ -212,6 +219,13 @@ _parā bellum_
 - **one who murders his or her own father**
 - **the murder of one's own father**
 	The movie includes intense domestic abuse (verbal, physical and emotional), gun violence, death and descriptions of *patricide*.
+
+##### Peascod (noun)
+*ˈpēz-ˌkäd*
+- **a pea pod**
+- **fashion trend in the 16th century: the peascod-bellied doublet**
+	The kitchen maid spent the afternoon sitting on the porch, splitting each *peascod* with her thumb to release the bright green pearls inside.
+	The Duke strutted through the court, his *peascod* doublet so heavily stuffed with horsehair that he could barely lean forward to bow to the Queen.
 
 ##### Pecking order (noun)
 - **a social hierarchy**

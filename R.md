@@ -120,6 +120,13 @@
 	the rat _ravened_ the poisoned bait just as we had hoped
 	they *ravened* the earth, destroying its resources
 
+##### Ravishing (adjective)
+*ˈra-vi-shiŋ*
+- **unusually attractive, pleasing, or striking**
+- **stunning, gorgeous**
+	She is a _ravishing_ beauty.
+	a _ravishing_ view of the ocean
+
 ##### Recalcitrant (adjective)
 *ri-ˈkal-sə-trənt*
 - **difficult to manage or operate**

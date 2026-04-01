@@ -27,6 +27,14 @@
 	Because of the *familicide* that wiped out his entire family, he will be charged with six counts of murder.
 	The popular professional wrestler became the most notorious *familicide* of 2007.
 
+##### Fantail (noun)
+*ˈfan-ˌtāl*
+- **a fan-shaped tail or end**
+- **an architectural part resembling a fan**
+- **a counter or after overhang of a ship shaped like a duck's bill**
+	The design of the vehicle's rear is inspired by the _fantail_ of a sailing yacht.
+	Langdon’s _fantail_ is actually a common carp with an unusual genetic mutation.
+
 ##### Farcical (adjective)
 *ˈfär-si-kəl*
 - **of, relating to, or resembling farce**

@@ -425,6 +425,13 @@
 	will _essay_ a dramatic role for the first time
 	he had been in gymnastics for some time before he even considered _essaying_ that move
 
+##### Essene (noun)
+*i-ˈsēn*
+- **a member of a monastic brotherhood of Jews in Palestine from the second century b.c. to the second century a.d.**
+- **most famous today for their association with the Dead Sea Scrolls and their strictly ascetic, communal lifestyle in the Judean Desert**
+	While the Pharisees and Sadducees were often embroiled in the politics of Jerusalem, the *Essene* community preferred the isolation of the desert to maintain their spiritual purity.
+	Some historians suggest that the communal lifestyle of the early Christians closely mirrored the social structures found within the *Essene* sect at Qumran.
+
 ##### Eupepsia (noun)
 *yu̇-ˈpep-shə*
 - **good digestion**

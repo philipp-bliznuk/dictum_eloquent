@@ -1,3 +1,10 @@
+##### Sabbaton (noun)
+*ˈsabəˌtän*
+- **a piece of armor covering the foot**
+- **specifically: a solleret broad and blunted at the toes**
+	The knight’s heavy steel *sabbaton* clinked against the stone floor of the cathedral as he knelt to receive his blessing.
+	Because the *sabbaton* was composed of overlapping metal scales called lames, the warrior could still flex his foot comfortably while walking or mounting his horse.
+
 ##### Sacerdotal (adjective)
 *ˌsa-sər-ˈdō-tᵊl*
 - **of or relating to priests or a priesthood: priestly**
@@ -496,6 +503,13 @@
 - **to cause to move or turn sideways**
 	He _sidled_ up to me and slipped me a note.
 	She _sidled_ through the narrow opening.
+
+##### Signal (adjective)
+*ˈsig-nᵊl*
+- **distinguished from the ordinary: notable**
+- **outstanding, prestigious**
+	Is he worthy of such a _signal_ honor?
+	the Louisiana Purchase is cited by many historians as one of the most _signal_ events in American history
 
 ##### Signet (noun / verb)
 *ˈsig-nət*
@@ -1117,6 +1131,13 @@
 - **a check in growth / a disease of plants (such as corn) in which dwarfing occurs**
 	unfortunately, an unusually dry summer seems to have permanently _stunted_ the tree
 	Injuries ravage the team again and *stunt* the growth of rookies.
+
+##### Stupendous (adjective)
+*stu̇-ˈpen-dəs*
+- **causing astonishment or wonder: awesome, marvelous**
+- **implies a power to stun or astound, usually because of size, numbers, complexity, or greatness beyond description**
+	a person with _stupendous_ wealth
+	the _stupendous_ engineering feats achieved by the ancient Romans
 
 ##### Stupor (noun)
 *ˈstü-pər*

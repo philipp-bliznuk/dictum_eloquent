@@ -359,6 +359,12 @@ _ˈāl_
 	He stood _aloof_ from his coworkers.
 	trying to keep failure *aloof*
 
+##### Alpenglow (noun)
+*ˈal-pən-ˌglō*
+- **a reddish glow seen near sunset or sunrise on the summits of mountains**
+	At Steamboat, guests can relax at sunset, enjoying the _alpenglow_ while listening to live music at the top of the Steamboat Gondola while dining.
+	What's better than dinner while watching the _alpenglow_ on the peaks around you?
+
 ##### Altercation (noun)
 *ˌȯl-tər-ˈkā-shən*
 - **a noisy, heated, angry dispute**
@@ -481,6 +487,13 @@ _ˈāl_
 - **implies a manifest self-possession in trying or challenging situations**
 	She played several roles with equal *aplomb*.
 	handled the reporters with great _aplomb_
+
+##### Apostolate (noun)
+*ə-ˈpä-stə-ˌlāt*
+- **the office or mission of an apostle**
+- **an association of persons dedicated to the propagation of a religion or a doctrine**
+	Many new _apostolates_ were born from the visit of Pope John Paul II.
+	Auer was appointed director of the Spanish _apostolate_ soon after returning from Latin America, according to the Archdiocese’s obituary.
 
 ##### Apotheosis (noun)
 *ə-ˌpä-thē-ˈō-səs*

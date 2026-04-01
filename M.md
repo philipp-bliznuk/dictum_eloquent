@@ -168,6 +168,13 @@
 	The tragedy of Orestes in Greek mythology is perhaps the most famous depiction of *matricide*, as he is driven by duty to avenge his father but haunted by the Furies for the death of his mother.
 	The forensic psychiatrist testified that the defendant’s long history of isolation and resentment toward his primary caregiver eventually culminated in an impulsive act of *matricide*.
 
+##### Mauve (noun / adjective)
+*ˈmȯv*
+- **a moderate purple, violet, or lilac color**
+- **a dyestuff that produces a mauve color**
+	Flowers are not spectacular but attractive enough with pale _mauve_ and tan petals.
+	her makeup featured sparkly eye shadow and a _mauve_ lip
+
 ##### Mawkish (adjective)
 *ˈmȯ-kish*
 - **lacking flavor or having an unpleasant taste: gooey, mushy**
