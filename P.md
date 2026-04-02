@@ -604,6 +604,12 @@ Peruke (noun)
 	a single _ply_ of fabric
 	she _plied_ all of her charm and intelligence to convince everyone to volunteer as tutors
 
+##### Pogonip (noun)
+*ˈpä-gə-ˌnip*
+- **a dense winter fog containing frozen particles that is formed in deep mountain valleys of the western U.S.**
+	The valley was swallowed by a thick *pogonip*, leaving every pine needle and fence wire coated in a delicate, crystalline layer of silver.
+	The old miners warned the newcomers not to breathe too deeply during a *pogonip*, fearing the icy crystals would damage their lungs.
+
 ##### Poignant (adjective)
 *ˈpȯi-nyənt*
 - **painfully affecting the feelings: piercing**
@@ -998,6 +1004,13 @@ Peruke (noun)
 - **may also apply to beginnings but often implies a continuing favorable condition**
 	Now is a _propitious_ time to start a business.
 	the success of the first big movie in May was a _propitious_ start for the summer season of blockbusters
+
+##### Prosaic (adjective)
+*prō-ˈzā-ik*
+- **characteristic of prose as distinguished from poetry: factual**
+- **everyday, ordinary**
+	the _prosaic_ life of a hardworking farmer
+	She believes the noises are made by ghosts, but I think there's a more _prosaic_ explanation.
 
 ##### Proscribe (verb)
 *prō-ˈskrīb*

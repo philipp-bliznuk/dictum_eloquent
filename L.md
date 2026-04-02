@@ -244,6 +244,13 @@
 	*In lieu of* flowers, donations can be made to the American Cancer Society.
 	I have decided that *in lieu of* a going-away shower, those who wish to go in on a nice gift for her can see me after church.
 
+##### Limpid (adjective)
+*ˈlim-pəd*
+- **suggests the soft clearness of pure water: pellucid**
+- **absolutely serene and untroubled**
+	her eyes were _limpid_ pools of blue
+	the benign effects of a *limpid* childhood
+
 ##### Liquescent (adjective)
 *li-ˈkwe-sᵊnt*
 - **being or tending to become liquid: melting**

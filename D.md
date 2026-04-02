@@ -166,6 +166,13 @@
 	to the ancient Greeks, Zeus was the _deity_ who ruled over the sky and weather, and Poseidon was god of the sea
 	we prayed to the _Deity_ for guidance
 
+##### Dejected (adjective)
+*di-ˈjek-təd*
+- **low in spirits: depressed**
+- **thrown down: downcast**
+	The team was *dejected* after the loss.
+	her eyes *dejected* and her hair unbound
+
 ##### Delectable (adjective / noun)
 *di-ˈlek-tə-bəl*
 - **highly pleasing: delightful**
@@ -282,6 +289,13 @@
 - **to drain of emotional or intellectual vitality**
 	add a cup of _desiccated_ coconut to the mix
 	that historian's dryasdust prose _desiccates_ what is actually an exciting period in European history
+
+##### Despondent (adjective)
+*di-ˈspän-dənt*
+- **feeling or showing extreme discouragement, dejection, or depression**
+- **implies a deep dejection arising from a conviction of the uselessness of further effort**
+	_despondent_ about yet another rejection
+	I had never seen them looking so _despondent_.
 
 ##### Desultory (adjective)
 *ˈde-səl-ˌtȯr-ē*

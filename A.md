@@ -474,6 +474,13 @@ _ˈāl_
 	we'll have no more of your _antics_, so just settle down
 	Like most sitcom material, the _antic_ is borrowed from real life.
 
+##### Antithesis (noun)
+*an-ˈti-thə-səs*
+- **the direct opposite**
+- **the second of two opposing words, clauses, or sentences that are being rhetorically contrasted**
+	Her temperament is the very *antithesis* of mine.
+	true love for another is the _antithesis_ of the desire to control that person's life
+
 ##### Aperture (noun)
 *ˈa-pər-ˌchu̇r*
 - **an opening or open space: hole**

@@ -598,6 +598,13 @@
 - **an indirect, usually subtle suggestion, indication, or hint**
 	the newscaster could not resist giving a slight _intimation_ that the voting was going contrary to predictions
 
+##### Intone (verb)
+*in-ˈtōn*
+- **to utter in musical or prolonged tones: recite in singing tones or in a monotone**
+- **chant, sing**
+	“Coming soon to a theater near you,” the announcer _intoned_.
+	“The day is begun,” the narrator _intoned_
+
 ##### Intractable (adjective)
 *(ˌ)in-ˈtrak-tə-bəl*
 - **suggests stubborn resistance to guidance or control**

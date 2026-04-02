@@ -810,6 +810,13 @@
 	The trainer applied a thumb *spica* splint to the athlete's hand to prevent the ligament from stretching further during the game.
 	Navigators have used *Spica* for centuries to find their way, as its brilliant blue-white light is easily spotted near the celestial equator.
 
+##### Spinney (noun)
+*ˈspi-nē*
+- **a small wood with undergrowth**
+- **a small grove with planted or preserved thickets**
+	The fox vanished into the dark shadows of the *spinney*, easily losing the hounds in the dense tangle of blackthorn and hazel.
+	At the edge of the estate, a small *spinney* of silver birch had been planted to shield the manor house from the biting north wind.
+
 ##### Spittle (noun)
 *ˈspi-tᵊl*
 - **saliva**

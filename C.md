@@ -160,6 +160,13 @@
 	She fell and damaged some _cartilage_ in her knee.
 	In the video, Jackson used her phone’s flashlight to better highlight the hole in the _cartilage_ between her nostrils.
 
+##### Casement (noun)
+*ˈkās-mənt*
+- **a window sash that opens on hinges at the side**
+- **a window with such a sash**
+	Original features were preserved where possible, while new steel _casement_ doors and windows strengthen the connection to the outdoors.
+	She threw open the iron *casement* to let the scent of the rain-washed garden fill the bedroom.
+
 ##### Caste (noun)
 *ˈkast*
 - **one of the hereditary social classes in Hinduism that restrict the occupation of their members and their association with the members of other castes**

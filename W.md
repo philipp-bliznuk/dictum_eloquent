@@ -192,6 +192,13 @@
 	The hot weather _wilted_ the plants.
 	He _wilted_ under the pressure.
 
+##### Wily (adjective)
+*ˈwī-lē*
+- **full of wiles: crafty**
+- **implies skill and deception in maneuvering**
+	She turned out to be a _wily_ negotiator.
+	a _wily_ judge of character, she takes advantage of car buyers' insecurities to sell them a bigger machine than they really need
+
 ##### Wing (verb)
 *ˈwiŋ*
 - **to do or perform without preparation or guidelines: improvise**

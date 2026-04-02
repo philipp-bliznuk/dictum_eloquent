@@ -254,6 +254,13 @@
 - **lightness, cheerfulness, frivolity**
 	no one appreciates your _flippancy_ during our religious services
 
+##### Floe (noun)
+*ˈflō*
+- **floating ice formed in a large sheet on the surface of a body of water**
+- **a usually large flat free mass of floating sea ice: ice floe**
+	Local news outlets showed _floes_ of ice floating along the city’s waterways after the winter storm.
+	The bears travel around the ocean looking for a safe place to land as their ice *floe* gets smaller and smaller.
+
 ##### Flog (verb)
 *ˈfläg*
 - **to beat with or as if with a rod or whip**

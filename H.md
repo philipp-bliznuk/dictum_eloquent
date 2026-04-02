@@ -276,6 +276,13 @@
 	All the _hubbub_ in the airport made it hard to hear the flight announcements.
 	We went to the country to escape the _hubbub_ of the city.
 
+##### Huff (verb / noun)
+*ˈhəf*
+- **to emit puffs (as of breath or steam)**
+- **implies a peevish short-lived spell of anger usually at a petty cause: bluster**
+	demanding to speak to the manager, he _huffed_ about the rudeness of the sales assistant
+	was in a _huff_ because everyone was running late and the school bus would stop to pick them up in a matter of minutes
+
 ##### Hunks (noun)
 *ˈhəŋ(k)s*
 - **a surly ill-natured person**
