@@ -57,6 +57,13 @@
 	a story about a _callow_ youth who learns the value of hard work and self-reliance
 	But obviously, these days, that’s a feeling that isn’t exclusive to just _callow_ indie kids.
 
+##### Calve (verb)
+*ˈkav*
+- **to give birth to a calf**
+- **of an ice mass: to separate or break so that a part becomes detached**
+	The cow _calved_ in the barn.
+	The approach was tested using real satellite observations of icebergs _calved_ from Petermann Glacier and other locations in north-west Greenland.
+
 ##### Canaille (noun)
 *kə-ˈnī*
 - **rabble, riffraff**

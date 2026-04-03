@@ -214,6 +214,13 @@ _bi-ˈreft_
 	The soil would have had to be removed from the site and not be used in the *berm*.
 	Most of the roads have a bike lane, ‘sharrows,’ or wide *berm*.
 
+##### Besagew / Besague (noun)
+*ˈbɛs.ə.ɡju*
+- **a circular (or at least vaguely circular) piece of plate armour that fitted onto the upper chest area of a breastplate or cuirass to protect the shoulder-joint from the front by covering the gap between breastplate and pauldron**
+- **a small, circular plate of metal classified as a type of rondel, specifically designed to protect the armpit in a harness of plate armor**
+	The knight’s *besagew* dangled from a leather thong, swaying slightly as he raised his lance to challenge his opponent.
+	While the heavy breastplate protected his chest, it was the small, fluted *besagews* that saved him from a narrow thrust aimed at his underarm.
+
 ##### Besmirch (verb)
 *bi-ˈsmərch*
 - **to cause harm or damage to the purity, luster, or beauty of (something): sully, soil**
@@ -240,6 +247,12 @@ _bi-ˈsä-təd_
 - **to give evidence of: show**
 	the humor in his writing is never cruel, and _betokens_ a warm and compassionate heart
 	Those acts _betoken_ a more significant change.
+
+##### Bevor (noun)
+*bē′vər*
+- **A portion of plate armour to protect the lower face and the neck, typically in two parts, called upper bevor and lower bevor**
+	The knight tilted his head back slightly, allowing the rim of his helmet to lock firmly against the steel edge of his *bevor*.
+	During the heat of the summer march, he unstrapped his *bevor* to breathe more freely, exposing his throat to the dust of the road.
 
 ##### Bevy (noun)
 *ˈbe-vē*
@@ -278,6 +291,13 @@ _bi-ˈsä-təd_
 	found a _billet_ at one of the leading brokerage houses in New York
 	a lucrative *billet*
 	a stack of gold _billets_ in the vault
+
+##### Billow (noun / verb)
+*ˈbi-(ˌ)lō*
+- **a great wave or surge of water**
+- **a rolling mass (as of flame or smoke) that resembles a high wave**
+	_Billows_ of smoke poured out of the burning building.
+	the curtains in the open windows _billowed_ in the summer wind
 
 ##### Birth (noun / verb)
 *ˈbərth*

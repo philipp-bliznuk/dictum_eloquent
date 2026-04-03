@@ -155,6 +155,13 @@
 	Our office has also filed 1,709 cases under Prop. 36’s _recidivist_ theft statute.
 	As a *recidivist* the penalty likely would be more severe.
 
+##### Recognizance (noun)
+*ri-ˈkäg-nə-zən(t)s*
+- **an obligation of record entered into before a court or magistrate requiring the performance of an act (such as appearance in court) usually under penalty of a money forfeiture**
+- **token, pledge**
+	The judge released the defendant on his own *recognizance*, trusting that his deep ties to the community would ensure his return for the trial.
+	Having been involved in a heated tavern brawl, the brothers were bound over in a *recognizance* of twenty pounds to keep the peace for one year.
+
 ##### Recompense (verb / noun)
 *ˈre-kəm-ˌpen(t)s*
 - **to give something to by way of compensation (as for a service rendered or damage incurred)**
@@ -202,6 +209,13 @@
 - **a secure retreat: stronghold**
 	The refugees gathered in a hilly _redoubt_ several miles outside the city.
 	a massive stone _redoubt_ at the entrance of the bay guarded the city
+
+##### Redux (adjective)
+*(ˌ)rē-ˈdəks*
+- **brought back -> used postpositively, placed after the noun it describes to indicate that a specific theme, style, or person has made a comeback**
+- **restored, returned**
+	Fans of the director were thrilled to see the Apocalypse Now *Redux*, which added forty-nine minutes of previously cut footage to the original masterpiece.
+	The city's revitalization project was hailed as a 'Renaissance *redux*,' turning abandoned industrial zones into thriving centers of art and culture.
 
 ##### Reedy (adjective)
 *ˈrē-dē*

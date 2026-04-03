@@ -220,6 +220,12 @@
 - **a lofty, extravagantly colourful, pompous, or bombastic style, manner, or quality especially in language**
 	was urged to follow up his *grandiloquence* with positive action
 
+##### Graupel (noun)
+*ˈgrau̇-pəl*
+- **granular snow pellets -> called also soft hail**
+	The hikers were startled when the sky turned grey and began pelting them with *graupel*, the white pellets bouncing off their jackets like tiny pieces of popcorn.
+	While it looked like a light dusting of snow from a distance, a closer look at the driveway revealed a thick layer of crunchy, spherical *graupel*.
+
 ##### Graze (verb / noun)
 *ˈgrāz*
 - **to eat small portions of food throughout the day**
@@ -266,6 +272,13 @@
 - **cave**
 - **an artificial recess or structure made to resemble a natural cave**
 	at the heart of the shrine is a small rocky _grotto_ into which pilgrims can descend
+
+##### Grouse (noun / verb)
+*ˈgrau̇s*
+- **any of various chiefly ground-dwelling birds (family Tetraonidae) that are usually of reddish-brown or other protective color and have feathered legs and that include many important game birds**
+- **complain, grumble**
+	She's been _grousing_ to her boss about the working conditions.
+	a forum in which employees can air their _grouses_
 
 ##### Grovel (verb)
 *ˈgrä-vᵊl*

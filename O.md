@@ -200,6 +200,12 @@
 	_Ostracism_ of political opponents was a common practice in ancient Athens.
 	For years she suffered *ostracism* from the scientific community.
 
+##### Oubliette (noun)
+*ˌü-blē-ˈet*
+- **a dungeon with an opening only at the top**
+	The castle’s floor contained a hidden iron grate, beneath which lay a dark, damp *oubliette* carved directly into the limestone bedrock.
+	Legends say the king would drop his most troublesome enemies into the *oubliette*, where the only light they ever saw was the flicker of a guard’s torch during the rare delivery of bread.
+
 ##### Oust (verb)
 *ˈau̇st*
 - **implies removal or dispossession by power of the law or by force or compulsion**

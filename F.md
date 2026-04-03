@@ -20,6 +20,12 @@
 	a house with brick _facing_
 	a suit with red _facings_ at the collar and the cuffs
 
+##### Falcate (adjective)
+*ˈfal-ˌkāt*
+- **hooked or curved like a sickle**
+	The biologist noted the shark’s *falcate* dorsal fin, which curved sharply toward its tail, helping it cut through the water with minimal drag.
+	Gardeners often prize the Epimedium plant for its *falcate* leaves, which resemble tiny, elegant scimitars hanging from delicate stems.
+
 ##### Familicide (noun)
 *fəˈmɪlɪˌsaɪd*
 - **the murder of an entire family by a family member.**
@@ -142,6 +148,13 @@
 - **an object of irrational reverence or obsessive devotion: prepossession**
 	He has a _fetish_ for secrecy.
 	He wore a _fetish_ to ward off evil spirits.
+
+##### Fetter (noun / verb)
+*ˈfe-tər*
+- **a chain or shackle for the feet**
+- **suggests a restraining so severe that freedom to move or progress is almost lost**
+	claims that government regulations are unnecessary _fetters_ that keep him from achieving his business goals
+	He found himself _fettered_ by responsibilities.
 
 ##### Feverish (adjective)
 *ˈfe-vər-ish*

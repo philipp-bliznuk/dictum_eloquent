@@ -267,6 +267,13 @@ _parā bellum_
 	a word with _pejorative_ connotations
 	the reviewer used the _pejorative_ word “versifier” to refer to the writer, whose poems had struck a responsive chord with the general public
 
+##### Pelagic (adjective)
+*pə-ˈla-jik*
+- **of, relating to, or living or occurring in the open sea: oceanic**
+- **marine**
+	among _pelagic_ animals the undisputed king is the blue whale, the largest creature currently roaming the face of the earth
+	at one time _pelagic_ whaling was the cornerstone of the island's economy
+
 ##### Pellucid (adjective)
 *pə-ˈlü-səd*
 - **admitting maximum passage of light without diffusion or distortion: clear, transparent**
@@ -616,6 +623,12 @@ Peruke (noun)
 - **pleasurably stimulating**
 	a _poignant_ documentary on the homeless
 	The photograph was a _poignant_ reminder of her childhood.
+
+##### Poleyn (noun)
+*ˈpōˌlān*
+- **a piece of defensive armor usually covering the knee**
+	The knight’s *poleyn* was equipped with a large side-wing, or fan, designed to deflect a sword blow away from the vulnerable tendons behind his knee.
+	During the 15th century, the *poleyn* became increasingly articulated, using multiple overlapping plates to allow the wearer to kneel or mount a horse without restriction.
 
 ##### Pollen (noun)
 *ˈpä-lən*
@@ -1071,6 +1084,13 @@ Peruke (noun)
 - **plump, fat**
 	The baby wrapped her _pudgy_ little hand around my finger.
 	Coach recalled first meeting him as a _pudgy_ eighth grader.
+
+##### Pugnacious (adjective)
+*ˌpəg-ˈnā-shəs*
+- **having a quarrelsome or combative nature: truculent**
+- **suggests a disposition that takes pleasure in personal combat**
+	There's one _pugnacious_ member on the committee who won't agree to anything.
+	a movie reviewer who is spirited, even _pugnacious_, when defending her opinions
 
 ##### Punctilious (adjective)
 *ˌpəŋk-ˈti-lē-əs*

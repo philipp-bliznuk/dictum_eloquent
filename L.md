@@ -1,3 +1,10 @@
+##### Lacerate (verb / adjective)
+*ˈla-sə-ˌrāt*
+- **to tear or rend roughly: wound jaggedly**
+- **to cause sharp mental or emotional pain to: distress**
+	The broken glass _lacerated_ his feet.
+	The patient's hand was severely _lacerated_.
+
 ##### Lacquer (noun / verb)
 *ˈla-kər*
 - **a spirit varnish (such as shellac)**
@@ -306,6 +313,13 @@
 - **verbal diarea**
 	the article suffers from the _logorrhea_ that infects so much academic writing
 	Their presence dramatized his absence, their _logorrhea_ his silence.
+
+##### Loll (verb / noun)
+*ˈläl*
+- **to hang loosely or laxly: droop**
+- **carries an implication of a posture similar to that of _lounge_, but places greater stress upon an indolent or relaxed attitude**
+	a dog with its tongue _lolling_ out
+	He _lolled_ about in his pajamas all day.
 
 ##### Loogie (noun)
 *ˈlü-gē*

@@ -629,6 +629,13 @@ _ə-ˈper-əl_
 	Many people believe the _ark_ and flood are a fairytale, but there is someone who disagrees.
 	Josh just found a way to tell the story of Passover to the children and somehow bring it around to referencing the *ark* of the covenant from Raiders of the Lost Ark.
 
+##### Arraign (verb)
+*ə-ˈrān*
+- **to call (a defendant) before a court to answer to an indictment: charge**
+- **to accuse of wrong, inadequacy, or imperfection**
+	The suspect was taken to the courthouse to be *arraigned* on three counts of grand larceny, where he calmly entered a plea of not guilty.
+	Legal analysts spent the morning debating how the high-profile CEO would be *arraigned*, given the complexity of the white-collar charges brought by the grand jury.
+
 ##### Arrest (verb)
 *ə-ˈrest*
 - **to bring to a stop**
@@ -750,6 +757,12 @@ _ə-ˈskan(t)s_
 - **recurrence in an organism of a trait or character typical of an ancestral form and usually due to genetic recombination**
 - **an individual or character that manifests atavism: throwback**
 	He was a magnificent *atavism*, a man so purely primitive that he was of the type that came into the world before the development of the moral nature.
+
+##### Atoll (noun)
+*ˈa-ˌtȯl*
+- **a coral island consisting of a reef surrounding a lagoon**
+	From the air, the *atoll* appeared as a brilliant turquoise circle of water framed by a thin, white ribbon of coral sand.
+	The scientists set up a research station on the remote *atoll* to study how rising sea levels affect the nesting habits of green sea turtles.
 
 ##### Attenuated (adjective)
 *ə-ˈten-yə-ˌwā-təd*

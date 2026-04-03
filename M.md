@@ -343,6 +343,13 @@
 - **a great personage: magnate**
 	The media industry has its share of scions turned *moguls*.
 
+##### Molar (noun / verb)
+*ˈmō-lər*
+- **a tooth with a rounded or flattened surface adapted for grinding**
+- **pulverizing by friction: grinding**
+	The dentist noted that the patient's wisdom tooth, which is technically a third *molar*, was beginning to impact the adjacent teeth.
+	Unlike the sharp incisors used for biting, the broad surface of a *molar* is perfectly designed for the heavy-duty grinding of tough fibers.
+
 ##### Mollify (verb)
 *ˈmä-lə-ˌfī*
 - **to soothe in temper or disposition: appease**
