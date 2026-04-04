@@ -617,6 +617,13 @@
 - **occurring in the course of a single day**
 	the market showed wide *intraday* fluctuations
 
+##### Intravenous (adjective)
+*ˌin-trə-ˈvē-nəs*
+- **situated, performed, or occurring within or entering by way of a vein**
+- **used in or using intravenous procedures**
+	an *intravenous* injection
+	an *intravenous* solution
+
 ##### Intrepid (adjective)
 *in-ˈtre-pəd*
 - **characterized by resolute fearlessness, fortitude, and endurance**

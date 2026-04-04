@@ -467,6 +467,13 @@ Peruke (noun)
 	Dreher knelt in one of the _pews_ and prayed.
 	The person sat in the last *pew* on the left side of the church.
 
+##### Pharmacopoeia (noun)
+*ˌfär-mə-kə-ˈpē-ə*
+- **a book describing drugs, chemicals, and medicinal preparations**
+- **a collection or stock of drugs**
+	Before the digital age, every apothecary kept a leather-bound *pharmacopoeia* on the counter to verify the correct proportions for mixing herbal tinctures.
+	The latest edition of the British *Pharmacopoeia* includes updated standards for the manufacturing of synthetic insulin and biological medicines.
+
 ##### Phlegmatic (adjective)
 *fleg-ˈma-tik*
 - **resembling, consisting of, or producing the humor phlegm**

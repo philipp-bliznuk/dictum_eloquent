@@ -880,6 +880,13 @@
 	a snow _squall_ is expected tonight
 	the baby _squalled_ in pain
 
+##### Squeamish (adjective)
+*ˈskwē-mish*
+- **easily nauseated: queasy**
+- **excessively fastidious or scrupulous in conduct or belief**
+	I used to be _squeamish_ about eating raw fish.
+	I'm very fond of money and am not particularly *squeamish*. I would do anything that a man can do to secure it.
+
 ##### Squirm (verb)
 *ˈskwərm*
 - **to twist about like a worm: fidget**

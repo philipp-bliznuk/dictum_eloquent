@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O.md",
+                "file": "A.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "O"
+              "title": "A"
             }
           },
           {
@@ -188,22 +188,22 @@
   },
   "active": "1620b4a07baff240",
   "lastOpenFiles": [
-    "O.md",
-    "_Inbox.md",
-    "R.md",
     "A.md",
-    "C.md",
+    "I.md",
+    "_Inbox.md",
     "P.md",
+    "S.md",
+    "B.md",
+    "O.md",
+    "H.md",
+    "R.md",
+    "C.md",
     "M.md",
     "F.md",
-    "I.md",
-    "B.md",
     "G.md",
     "L.md",
     "D.md",
-    "H.md",
     "W.md",
-    "S.md",
     "J.md",
     "E.md",
     "N.md",

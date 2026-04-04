@@ -481,6 +481,13 @@ _ˈāl_
 	Her temperament is the very *antithesis* of mine.
 	true love for another is the _antithesis_ of the desire to control that person's life
 
+##### Antivenin (noun)
+*ˌan-tē-ˈve-nən*
+- **an antitoxin to a venom**
+- **an antiserum containing such antitoxin**
+	The hospital rushed to airlift the rare *antivenin* from a neighboring state after the hiker was bitten by a Mojave rattlesnake.
+	Because the child was allergic to horse serum, the doctors had to administer the *antivenin* with extreme caution to avoid an anaphylactic reaction.
+
 ##### Aperture (noun)
 *ˈa-pər-ˌchu̇r*
 - **an opening or open space: hole**
