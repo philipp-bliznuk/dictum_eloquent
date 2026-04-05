@@ -392,6 +392,12 @@
 	Then he was moved to the second unit, which seemed to _dint_ his confidence.
 	succeeded *by dint of* hard work
 
+##### Diocese (noun)
+*ˈdī-ə-səs*
+- **the territorial jurisdiction of a bishop**
+	The *diocese* covers three counties, encompassing over fifty individual parishes and several parochial schools.
+	After the bishop retired, the Vatican spent several months searching for a successor to lead the *diocese* during its period of restructuring.
+
 ##### Dirigible (adjective / noun)
 *ˈdir-ə-jə-bəl*
 - **capable of being steered**
@@ -475,6 +481,13 @@
 - **the female branch or side of a family**
 	*distaff* executives
 	And behind the camera, Scherfig has created something of a _distaff_ utopia: both the book and the screenplay were written by women.
+
+##### Distemper (noun / verb)
+*dis-ˈtem-pər*
+- **bad humor or temper**
+- **ailment, disorder**
+	despite his career success, he has been _distempered_ by nagging feelings of inadequacy his whole life
+	Vice and folly are situated not in human nature, but in *distempers* of intellect.
 
 ##### Distended (adjective)
 *di-ˈsten-dəd*
@@ -650,6 +663,13 @@
 	coffee *dregs* at the bottom of the cup
 	the *dregs* of society
 	the last *dregs* of fuel
+
+##### Dungaree (noun)
+*ˌdəŋ-gə-ˈrē*
+- **a heavy coarse durable cotton twill woven from colored yarns / blue denim**
+- **plural: clothes made usually of blue denim**
+	Other fans discuss what Styles might wear, from _dungarees_ to an elegant jacket.
+	As a girl, Mitchell was a debutante, diver, and champion figure skater who loved _dungarees_ and mannish shirts.
 
 ##### Duplicitous (adjective)
 *du̇-ˈpli-sə-təs*

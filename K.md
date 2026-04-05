@@ -1,3 +1,9 @@
+##### Karst (noun)
+*ˈkärst*
+- **an irregular limestone region with sinkholes, underground streams, and caverns**
+	The region is famous for its *karst* topography, where deep sinkholes and jagged limestone pillars dominate the horizon.
+	Hydrologists must be careful when building near *karst* terrain, as pollutants can travel rapidly through the porous underground channels.
+
 ##### Keen (verb)
 *ˈkēn*
 - **to make a sound suggestive of a loud cry of sorrow**

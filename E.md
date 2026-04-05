@@ -140,6 +140,13 @@
 	When asked for details, he declined to _elucidate_ further.
 	colored charts that really help to _elucidate_ the points made in the text
 
+##### Eluviation (noun)
+*(ˌ)ē-ˌlü-vē-ˈā-shən*
+- **the transportation of dissolved or suspended material within the soil by the movement of water when rainfall exceeds evaporation**
+- **a process where water "washes out" nutrients, minerals, and fine particles (like clay) from the upper layers of soil and carries them deeper down**
+	The heavy rainfall in the tropical rainforest accelerates *eluviation*, leaving the topsoil nutrient-poor and sandy.
+	Soil scientists identified a distinct, pale 'E horizon' in the pit, which had been stripped of its iron and clay through centuries of *eluviation*.
+
 ##### Emaciated (adjective)
 *i-ˈmā-shē-ˌā-təd*
 - **very thin and feeble especially from lack of nutrition or illness**
@@ -214,6 +221,13 @@
 - **the highest heaven or heavenly sphere in ancient and medieval cosmology usually consisting of fire or light / an ideal place or state**
 	movie scenes set in heaven often suggest that harps are the favored instruments for _empyrean_ music
 	ascended into the _empyrean_ after a life filled with good deeds
+
+##### Enamel (noun / verb)
+*i-ˈna-məl*
+- **a usually opaque vitreous composition applied by fusion to the surface of metal, glass, or pottery**
+- **a hard calcareous substance that forms a thin layer capping the teeth**
+	The tea set is decorated with _enamel_.
+	The premium *enameled* cast-iron construction ensures that your recipes cook evenly, and the pan is easy to clean.
 
 ##### Encumber (verb)
 *in-ˈkəm-bər*
@@ -584,6 +598,13 @@
 - **to undergo diffusion**
 	Pine trees _exude_ a sticky substance.
 	The flowers _exuded_ a sweet fragrance.
+
+##### Eyelet (noun)
+*ˈī-lət*
+- **a small hole designed to receive a cord or used for decoration (as in embroidery)**
+- **peephole, loophole**
+	The sailor struggled to thread the heavy canvas line through the rusted brass *eyelet* as the storm began to pick up.
+	For her summer dress, she chose a delicate *eyelet* fabric, characterized by hundreds of tiny embroidered cutouts that allowed the breeze to pass through.
 
 ##### Eyrie / Aerie (noun)
 *ˈir-ē*

@@ -424,6 +424,13 @@
 	Speculation about who would be fired _ran rife_ for weeks.
 	a city government that is _rife_ with malfeasance and corruption
 
+##### Rill / Rille (noun / verb)
+*ˈril*
+- **a very small brook**
+- **any of several long narrow valleys on the moon's surface**
+	there are a few tiny fish in the _rill_
+	Earthbound telescopes saw _rills_ or gullies that later proved to be collapsed lava tubes.
+
 ##### Rime (noun / verb)
 *ˈrīm*
 - **an accumulation of granular ice tufts on the windward sides of exposed objects that is formed from supercooled fog or cloud and built out directly against the wind: frost**

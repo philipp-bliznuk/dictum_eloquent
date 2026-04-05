@@ -19,6 +19,14 @@
 	Embrace the rich hues of brown, black, copper, and _umber_ for unique seasonal charm.
 	Grab them in this tan shade or opt for the _umber_ hue to best match your wild, wild wardrobe.
 
+##### Umbilical (cord) (adjective / noun)
+*ˌəm-ˈbi-li-kəl*
+- **of or relating to the central region of the abdomen**
+- **being a necessary or nurturing link or connection**
+- **a tethering or supply line (as for an astronaut outside a spacecraft or a diver underwater)**
+	Seconds before the countdown reached zero, the massive *umbilical* arms swung away from the side of the rocket, disconnecting the fuel lines and power cables just as the engines ignited for liftoff.
+	After the birth, the father was invited to cut the *umbilical cord*, symbolically separating the newborn from the mother's circulatory system and marking the start of the infant's independent life.
+
 ##### Unabated (adjective)
 *ˌən-ə-ˈbā-təd*
 - **not abated: being at full strength or force**

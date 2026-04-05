@@ -645,6 +645,13 @@
 	hurled curses and _invective_ at the driver who heedlessly cut them off in traffic
 	an overbearing, bullying boss who is fond of sending _invective_ e-mails to long-suffering assistants
 
+##### Inviable (adjective)
+*(ˌ)in-ˈvī-ə-bəl*
+- **incapable of surviving especially because of a deleterious genetic constitution**
+- **plans or ideas that are simply not "workable" or sustainable**
+	The seeds were stored in a damp environment for too long, rendering them *inviable* for the upcoming planting season.
+	Without a significant increase in funding, the board decided that the proposed expansion was financially *inviable*.
+
 ##### Iota (noun)
 *ī-ˈō-tə*
 - **an infinitesimal amount: jot**

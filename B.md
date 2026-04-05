@@ -292,6 +292,13 @@ _bi-ˈsä-təd_
 	a lucrative *billet*
 	a stack of gold _billets_ in the vault
 
+##### Bill (noun)
+*ˈbil*
+- **the jaws of a bird together with their horny covering**
+- **the visor of a cap or hood**
+	The pelican used its massive, pouch-like *bill* to scoop a fish directly out of the water.
+	He tugged on the *bill* of his baseball hat to shield his eyes from the afternoon sun.
+
 ##### Billow (noun / verb)
 *ˈbi-(ˌ)lō*
 - **a great wave or surge of water**
@@ -410,6 +417,13 @@ _bi-ˈsä-təd_
 - **suggests a noisiness and turbulence due to high spirits**
 	a _boisterous_ crowd of party goers
 	The crowd was young and *boisterous*, the cheeseburgers were juicy and perfectly charred, and the place was always packed.
+
+##### Bolide (noun)
+*ˈbō-ˌlīd*
+- **a large meteor: fireball**
+- **especially: one that explodes**
+	The silent night was suddenly shattered by a brilliant *bolide* that streaked across the horizon, turning the sky a vivid electric blue before vanishing in a silent flash.
+	Dashcam footage from across the state captured the moment the *bolide* entered the atmosphere, showing the massive rock breaking into several glowing fragments.
 
 ##### Bonnet (noun / verb)
 *ˈbä-nət*

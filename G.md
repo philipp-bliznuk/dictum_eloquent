@@ -287,6 +287,13 @@
 	The peasants *groveled* before the king.
 	He had to _grovel_ to get her to accept his apology.
 
+##### Grubby (adjective)
+*ˈgrə-bē*
+- **dirty, grimy**
+- **worthy of contempt: base**
+	clean off those _grubby_ hands before you touch anything
+	became involved in *grubby* squabbles over money
+
 ##### Grunt (noun)
 *ˈgrənt*
 - **a U.S. army or marine foot soldier especially in the Vietnam War**

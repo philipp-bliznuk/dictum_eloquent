@@ -209,6 +209,13 @@
 	a city ravaged by the _scourge_ of unemployment
 	a neighborhood _scourged_ by crime
 
+##### Scrape (noun)
+*ˈskrāp*
+- **a distressing encounter**
+- **altercation, fight**
+	She got into a few _scrapes_ with the police when she was younger.
+	a *scrape* with death
+
 ##### Scrawny (adjective)
 *ˈskrȯ-nē*
 - **exceptionally thin and slight or meager in body or size**
@@ -1136,6 +1143,7 @@
 *ˈstə-bəl*
 - **the basal part of herbaceous plants and especially cereal grasses remaining attached to the soil after harvest**
 - **a rough surface or growth resembling stubble**
+- **a short growth of beard**
 	He ran his hand over his _stubble_.
 	Government satellite data showed a rise in crop _stubble_ fires, used by farmers to clear land before the next planting, since the start of November.
 
@@ -1395,6 +1403,13 @@
 - **may suggest a physical, mental, or moral turning away from a given course, often with abruptness**
 	He lost control of the car and _swerved_ toward a tree.
 	_swerved_ to avoid hitting the dog
+
+##### Swish (noun / verb / adjective)
+*ˈswish*
+- **a prolonged hissing sound (as of a whip cutting the air)**
+- **smart, fashionable**
+	the mare brushed away the flies with a sweeping _swish_ of her tail
+	a trendy boutique filled with _swish_ accessories for the urban fashionista
 
 ##### Sycophant (noun)
 *ˈsi-kə-fənt*

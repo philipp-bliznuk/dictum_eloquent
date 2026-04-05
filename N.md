@@ -111,6 +111,13 @@
 	the arctic circle is a _nonentity_ - you won't see it on the way to the north pole
 	was so quiet he was almost a _nonentity_ at the meeting
 
+##### Nous (noun)
+*ˈnüs* / *ˈnau̇s*
+- **an intelligent purposive principle of the world: prudence, wisdom**
+- **common sense, alertness**
+	In Aristotle's ethics, *nous* is the faculty that apprehends fundamental principles that cannot be proven by logic alone.
+	He’s got plenty of academic qualifications, but he hasn't got the *nous* to change a lightbulb without a manual.
+
 ##### Novena (noun)
 *nō-ˈvē-nə*
 - **a Roman Catholic period of prayer lasting nine consecutive days**

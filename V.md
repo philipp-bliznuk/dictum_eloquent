@@ -12,6 +12,13 @@
 	We tired of the _vacuity_ of their conversation.
 	the seemingly endless _vacuity_ between settlements in the desert
 
+##### Vagary (noun)
+*ˈvā-gə-rē* / *və-ˈger-ē* / *ˈva-gə-rē*
+- **an erratic, unpredictable, or extravagant manifestation, action, or notion**
+- **stresses the erratic, irresponsible character of the notion or desire.**
+	the _vagaries_ of a rather eccentric, elderly lady
+	he had been prone to strange _vagaries_
+
 ##### Vainglory (noun)
 *ˈvān-ˌglȯr-ē*
 - **excessive or ostentatious pride especially in one's achievements**

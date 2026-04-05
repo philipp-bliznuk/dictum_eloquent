@@ -95,6 +95,13 @@
 	her father's successful job interview was seen as a _harbinger_ of better times to come
 	the hope that the housing slump does not _harbinger_ a general economic recession
 
+##### Hardpan (noun)
+*ˈhärd-ˌpan*
+- **a cemented or compacted and often clayey layer in soil that is impenetrable by roots**
+- **a fundamental part: bedrock**
+	After weeks of heavy rain, the backyard became a swamp because the thick *hardpan* beneath the grass wouldn't let the water soak into the water table.
+	The pioneer farmers struggled to break through the *hardpan* with their wooden plows, eventually requiring heavy steel blades to reach the fertile soil underneath.
+
 ##### Harridan (noun)
 *ˈher-ə-dən*
 - **an ill-tempered scolding woman**
