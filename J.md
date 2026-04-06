@@ -83,6 +83,13 @@
 	the engine began to _judder_ alarmingly just a few miles outside of Brighton
 	But the vast majority of viewers seem to be totally fine with _judder_.
 
+##### Jumble (noun / verb)
+*ˈjəm-bəl*
+- **a mass of things mingled together without order or plan: hodgepodge**
+- **to move in a confused or disordered manner**
+	a _jumble_ of rubber bands, batteries, and pencil stubs all stuffed into that drawer
+	the contest editor has _jumbled_ the letters of some common words
+
 ##### Junket (noun / verb)
 *ˈjəŋ-kət*
 - **a trip made by an official at public expense**

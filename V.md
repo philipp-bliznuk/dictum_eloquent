@@ -242,6 +242,13 @@ Vermilion (noun)
 	The sun, _vermilion_ like molten glass, rose through a mist
 	Its exterior walls, once white, were repainted at the end of World War II to *vermilion*, the color of blood.
 
+##### Visceral (adjective)
+*ˈvi-sə-rəl*
+- **felt in or as if in the internal organs of the body: deep**
+- **coming from strong emotions and not from logic or reason: instinctive**
+	Vertical drops offer a *visceral* thrill that surprises newbies and roller-coaster aficionados alike.
+	Her _visceral_ reaction was to curse at the other driver.
+
 ##### Viscid (adjective)
 *ˈvi-səd*
 - **having an adhesive quality: sticky**

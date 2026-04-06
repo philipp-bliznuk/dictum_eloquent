@@ -360,6 +360,13 @@
 	foreign coins are not acceptable _lucre_ in most vending machines in this country
 	But these efforts and many others take time, and don’t rake in the *lucre*.
 
+##### Lucullan (adjective)
+*lü-ˈkə-lən*
+- **lavish, luxurious**
+- **deluxe**
+	a *Lucullan* feast
+	a _Lucullan_ lifestyle that included the requisite mansion and yacht
+
 ##### Lug (verb / noun)
 *ˈləg*
 - **to carry laboriously; to drag / pull**

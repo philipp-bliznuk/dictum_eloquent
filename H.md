@@ -243,6 +243,13 @@
 	*hock* a loogie
 	*hock* a wad of tobacco
 
+##### Hodgepodge (noun)
+*ˈhäj-ˌpäj*
+- **a heterogeneous mixture: jumble**
+- **medley, assortment, mishmash**
+	a *hodgepodge* of styles
+	the exhibit was a _hodgepodge_ of mediocre art, bad art, and really bad art
+
 ##### Holdall (noun)
 *ˈhōld-ˌȯl*
 - **an often cloth traveling case or bag**
@@ -263,6 +270,20 @@
 - **belonging to or constituting a class of grammatical forms used in speaking to or about a social superior**
 	*honorific* titles
 	Male physicians are more frequently introduced with the *honorific* Doctor so and so.
+
+##### Hoodwink (verb)
+*ˈhu̇d-ˌwiŋk*
+- **to deceive by false appearance: dupe**
+- **deceive, trick**
+	Don't let yourself be _hoodwinked_ into buying things you don't need.
+	Tom Sawyer famously _hoodwinked_ the other boys into thinking there was nothing more enjoyable than whitewashing a fence.
+
+##### Hopper (noun)
+*ˈhä-pər*
+- **a usually funnel-shaped receptacle for delivering material (such as grain or coal)**
+- **any of various other receptacles for the temporary storage of material**
+	The farmer filled the *hopper* of the grain drill with seeds before heading out to plant the north field.
+	Raw plastic pellets are poured into the *hopper* at the top of the injection molding machine to be melted down.
 
 ##### Hostelry (noun)
 *ˈhä-stᵊl-rē*

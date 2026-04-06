@@ -18,6 +18,13 @@
 	a forest that was vibrant with the _dappled_ foliage of autumn
 	This hardy perennial grows in _dappled_ light or full shade.
 
+##### Darn (verb / noun)
+*ˈdärn*
+- **to mend with interlacing stitches**
+- **to embroider by filling in with long running or interlacing stitches**
+	in the old days, holes in socks had to be _darned_ by hand
+	a sweater full of *darns*
+
 ##### Daub (verb / noun)
 *ˈdȯb*
 - **to cover or coat with soft adhesive matter: plaster**
@@ -433,6 +440,12 @@
 	We watched the airplane _disgorging_ its passengers at the gate.
 	The damaged ship _disgorged_ thousands of gallons of oil into the bay.
 
+##### Disincentive (noun)
+*ˌdis-in-ˈsen-tiv*
+- **deterrent**
+	We considered volunteering, but the complicated application process was a _disincentive_.
+	Szulewski said the park’s current use is a _disincentive_ for further development.
+
 ##### Disperate (adjective)
 *ˈdi-sp(ə-)rət*
 - **markedly distinct in quality or character**
@@ -578,6 +591,13 @@
 - **of or relating to Doppler radar**
 	The doctor performed a *Doppler* ultrasound to listen to the fetal heartbeat and ensure the blood was flowing correctly through the umbilical cord.
 	The meteorologist used *Doppler* radar to track the rotating winds of the storm, allowing the town to receive a tornado warning ten minutes early.
+
+##### Doric (adjective / noun)
+*ˈdȯr-ik*
+- **belonging to the oldest and simplest Greek architectural order (characterized by heavy, sturdy columns with plain, circular capitals (tops) and no base)**
+- **a dialect of ancient Greek spoken especially in the Peloponnisos, Crete, Sicily, and southern Italy**
+	The Parthenon in Athens is the most famous example of the *Doric* order, showcasing massive columns that convey a sense of strength and stability.
+	Unlike the ornate flourishes of the later styles, the *Doric* pillars of the courthouse gave the building a clean, austere appearance.
 
 ##### Dorsal (noun / verb)
 *ˈdȯr-səl*

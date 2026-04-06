@@ -419,6 +419,13 @@ _ˈāl_
 	Visitors typically find ancient shark’s teeth and internal molds of _ammonites_ and oyster shells.
 	The biggest of these whale-like creatures were apex predators, hunting ancient fish, _ammonites_, and even their smaller reptile relatives.
 
+##### Anal (adjective)
+*ˈā-nᵊl*
+- **of, relating to, characterized by, or being personality traits (such as parsimony, meticulousness, and ill humor) considered typical of fixation at the anal stage of development: anal-retentive**
+- **often used in nontechnical contexts to describe someone as extremely or excessively neat, careful, or precise**
+	an *anal* disposition
+	I have a mania for neatness in some matters that is almost *anal*.
+
 ##### Anchorite (noun)
 *ˈaŋ-kə-ˌrīt*
 - **a person who lives in seclusion usually for religious reasons**

@@ -161,6 +161,13 @@
 	a whoring, drunken _scapegrace_ who was blackening the family's name
 	That young *scapegrace* has been caught climbing the neighbor's orchard walls for the third time this week, yet he always manages to charm his way out of a scolding.
 
+##### Scare Up (verb)
+*ˈsker ˈəp*
+- **to find or get together with considerable labor or difficulty : scrape up**
+- **find, learn, discover**
+	I can probably _scare up_ my old textbooks if you need them.
+	The animatronic horror sequel _scared up_ $19.5 million domestically in its second week of release, and $38.6 million globally.
+
 ##### Scatty (adjective)
 *ˈska-tē*
 - **eccentric, odd**
@@ -511,6 +518,13 @@
 	He _sidled_ up to me and slipped me a note.
 	She _sidled_ through the narrow opening.
 
+##### Sieve (noun / verb)
+*ˈsiv*
+- **a device with meshes or perforations through which finer particles of a mixture (as of ashes, flour, or sand) of various sizes may be passed to separate them from coarser ones, through which the liquid may be drained from liquid-containing material, or through which soft materials may be forced for reduction to fine particles**
+- **to sift**
+	Strain sauce through a fine-mesh _sieve_ into a heatproof measuring glass; spoon fat from surface and discard.
+	The mixture is then _sieved_ to produce a smooth, drinkable liquid.
+
 ##### Signal (adjective)
 *ˈsig-nᵊl*
 - **distinguished from the ordinary: notable**
@@ -564,6 +578,13 @@
 - **a cavity in the substance of a bone of the skull that usually communicates with the nostrils and contains air**
 	Each *sinus* has an opening that connects it to your nose.
 	The leaves can be used to brew a soothing tea for *sinus* problems.
+
+##### Skedaddle (verb)
+*ski-ˈda-dᵊl*
+- **to leave immediately: run away, scram**
+- **to flee in a panic**
+	I've got to _skedaddle_ or I'll be late.
+	we _skedaddled_ as soon as we saw the snake entering our campsite
 
 ##### Skein (noun / verb)
 *ˈskān*
@@ -1226,6 +1247,13 @@
 - **aid, help**
 - **something that furnishes relief**
 	We see it as our duty to give *succor* to those in need.
+
+##### Sucker (noun / verb)
+*ˈsə-kər*
+- **a person easily cheated or deceived: dupe**
+- **to deceive by false appearance: dupe, hoodwink**
+	He's just a con artist looking for another _sucker_.
+	_suckered_ millions of desperate dieters with their grossly inflated claims of successful weight loss
 
 ##### Sudsy (adjective)
 *ˈsəd-zē*

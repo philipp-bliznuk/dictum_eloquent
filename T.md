@@ -252,6 +252,13 @@
 - **from that place**
 	Their travels took them to the Bahamas, _thence_ south to Venezuela.
 
+##### Thimble (noun)
+*ˈthim-bəl*
+- **a pitted cap or cover worn on the finger to push the needle in sewing**
+- **a grooved ring of thin metal used to fit in a spliced loop in a rope as protection from chafing**
+	She inherited her grandmother's silver *thimble*, which was worn smooth from decades of stitching quilts.
+	The sailor ensured the steel cable was looped tightly around the *thimble* to prevent the rope from fraying under heavy tension.
+
 ##### Thorax (noun)
 *ˈthȯr-ˌaks*
 - **the part of the vertebrate body between the neck and the abdomen: ribcage**
@@ -436,6 +443,13 @@
 - **labor, childbirth**
 	no greater _travail_ than that of parents who have suffered the death of a child
 	Labor Day is the day on which we recognise those men and women who daily _travail_ with little appreciation or compensation.
+
+##### Travertine (noun)
+*ˈtra-vər-ˌtēn*
+- **A dense, banded rock composed of calcium carbonate, formed by the rapid precipitation of calcium carbonate from solution in surface and ground waters.**
+- **A popular building material used since antiquity for facades, wall cladding, and flooring, prized for its aesthetic "pitted" texture and durability.**
+	The architect chose honed *travertine* tiles for the lobby floor to give the modern building a warm, classical elegance.
+	Visitors to Yellowstone National Park often marvel at the massive *travertine* terraces formed over centuries by the flowing hot springs.
 
 ##### Trek (noun / verb)
 *ˈtrek*

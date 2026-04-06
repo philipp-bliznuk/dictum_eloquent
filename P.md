@@ -1046,6 +1046,13 @@ Peruke (noun)
 	The police found the body in a _prostrate_ position.
 	the huge increase in gas prices really _prostrated_ the nation's economic engine
 
+##### Prothyron (noun)
+*ˈproʊ.θɪ.rɒn*
+- **A small area or porch in front of the entrance of a building, typically situated between the street and the front door.**
+- **An outer hall or entranceway that serves as a transitional space before entering the main interior of a residence.**
+	The archeologist pointed out the remains of the *prothyron*, noting how it would have protected visitors from the rain before they were admitted into the home.
+	Often adorned with simple pillars, the *prothyron* served as a formal boundary between the public life of the city and the private life of the family.
+
 ##### Provenance (noun)
 *ˈpräv-nən(t)s*
 - **origin, source**

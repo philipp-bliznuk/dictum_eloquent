@@ -889,6 +889,13 @@
 	Join a nunnery, there'll always be a place for you in the *convent*.
 	Of course, the parents had to pay less to a *convent* than to a bridegroom.
 
+##### Convex (adjective)
+*kän-ˈveks* / *ˈkän-ˌveks*
+- **curved or rounded outward like the exterior of a sphere or circle**
+- **of a set of points: containing all points in a line joining any two constituent points**
+	Many security mirrors in parking garages use a *convex* shape to provide a wider field of vision for drivers.
+	The architect designed the courtyard as a *conve** polygon to ensure there were no hidden corners or alcoves.
+
 ##### Convivial (adjective)
 *kən-ˈvi-vē-əl*
 - **relating to, occupied with, or fond of feasting, drinking, and good company**

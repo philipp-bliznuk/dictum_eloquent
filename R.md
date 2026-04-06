@@ -103,6 +103,13 @@
 	We listened with _rapture_ as the orchestra played.
 	He listened to the wind in the trees, his eyes closed _in rapture_.
 
+##### Raspberry (noun)
+*ˈraz-ˌber-ē*
+- **rhyming slang for fart: a sound of contempt made by protruding the tongue between the lips and expelling air forcibly to produce a vibration**
+- **an expression of disapproval or contempt**
+	One of the children made a _raspberry_ at him.
+	there were _raspberries_ from the audience when the hapless actress kept forgetting her lines
+
 ##### Rattling (adjective / adverb)
 *ˈrat-liŋ*
 - **lively, brisk**
