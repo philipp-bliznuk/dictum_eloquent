@@ -738,6 +738,14 @@ _ə-ˈskan(t)s_
 	There are sherbets and _aspics_ aplenty, pound cakes and green beans galore.
 	As chefs once again embrace _aspics_ in fine-dining kitchens, Jell-O salads are also making a comeback with home cooks.
 
+##### Assay (verb / noun)
+*a-ˈsā*
+- **to analyze (something, such as an ore) for one or more specific components**
+- **to judge the worth of: estimate**
+- **try, attempt**
+	They _assayed_ the gold to determine its purity.
+	a metallurgist did an _assay_ on the metal and determined it contained nickel
+
 ##### Assent (noun / verb)
 *ə-ˈsent*
 - **an act of agreeing to something especially after thoughtful consideration: agreement**

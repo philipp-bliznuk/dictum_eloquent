@@ -261,6 +261,20 @@
 	The _fleur-de-lis_ has long been associated with the French royalty, its origins going back almost 1,000 years.
 	The pieces are adorned with cotton _fleur-de-lis_ prints, a symbol that represents the city’s French roots.
 
+##### Flibbertigibbet (noun / verb)
+*ˌfli-bər-tē-ˈji-bət*
+- **a silly flighty person**
+- **to gossip of chatter**
+	forced to endure a long flight with a _flibbertigibbet_ as a seat companion
+	Instead of acting cool and sophisticated our narrator prattled like a _flibbertigibbet_.
+
+##### Flinty (adjective)
+*ˈflin-tē*
+- **composed of or covered with flint**
+- **stern, unyielding**
+	a _flinty_ and determined hero
+	a _flinty_ warrior hardened by years of battle
+
 ##### Flippancy (noun)
 *ˈfli-pən(t)-sē*
 - **unbecoming levity or pertness especially in respect to grave or sacred matters**
@@ -289,6 +303,12 @@
 - **stresses contempt shown by refusal to heed**
 	Despite repeated warnings, they have continued to _flout_ the law.
 	an able-bodied motorist openly _flouting_ the law and parking in a space reserved for the disabled
+
+##### Flowstone (noun)
+*ˈflō-ˌstōn*
+- **calcite deposited by a thin sheet of flowing water usually along the walls or floor of a cave**
+	The park is best known for its extensive limestone cave system with stalactites, stalagmites and *flowstones*.
+	Here, too, flowing water had deposited a _flowstone_ over the layer of sediment in which these shells were found.
 
 ##### Flue (noun)
 *ˈflü*
@@ -465,6 +485,13 @@
 - **readily changeable to adapt to new situations: flexible**
 	since fruits and vegetables are regarded as _fungible_ in this diet, you are allowed a total of five servings of either or both
 	Some of those figures seemed *fungible* because there were no price tags.
+
+##### Funicular (adjective / noun)
+*fyu̇-ˈni-kyə-lər*
+- **having the form of or associated with a cord usually under tension**
+- **a cable railway ascending a mountain**
+	Federal analysts averaged data from hundreds of different transit agencies around the country using a variety of modes, including on-demand ride services, van pools, monorails, heavy rail and _funicular_ rail cars that climb steep slopes.
+	The _funicular_ ensures any and everyone can reach Niri Beach Club, although the stairs thereafter make the beach less accessible.
 
 ##### Furlough (noun / verb)
 *ˈfər-(ˌ)lō*

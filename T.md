@@ -409,6 +409,13 @@
 	The child _tottered_ across the room.
 	He _tottered_ away to bed.
 
+##### Tousle (verb / noun)
+*ˈtau̇-zəl*
+- **dishevel, rumple**
+- **a tangled mass (as of hair)**
+	She _tousled_ the little boy's hair.
+	his grandfather would always _tousle_ the boy's neatly combed hair
+
 ##### Tout (verb)
 *ˈtau̇t*
 - **to make much of: promote, talk up**

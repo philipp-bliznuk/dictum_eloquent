@@ -441,6 +441,13 @@ Peruke (noun)
 	The sash accentuates her *petite* waist.
 	The dress comes in lots of sizes and is stretchy enough to flatter both curvy and *petite* women.
 
+##### Petrography (noun)
+*pə-ˈträ-grə-fē*
+- **the description and systematic classification of rocks**
+- **the art of writing on stone**
+	She works in the Department of Mineralogy and *Petrography* at the Natural History Museum.
+	*Petrography* usually involves looking at thin slices of rock under a microscope.
+
 ##### Pettish (adjective)
 *ˈpe-tish*
 - **fretful, peevish**

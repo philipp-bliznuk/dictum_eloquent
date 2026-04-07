@@ -684,6 +684,13 @@
 	the *dregs* of society
 	the last *dregs* of fuel
 
+##### Druse (noun)
+*droo͞z*
+- **an inner surface with a crust of tiny crystals / crystallized piece of ore**
+- **an aggregation of calcium oxalate crystals found in certain plants**
+	This precious stone was doubtless nothing else than a *druse* of this shining but valueless mineral.
+	The walls of the cave were covered with scintillating *druse*.
+
 ##### Dungaree (noun)
 *ˌdəŋ-gə-ˈrē*
 - **a heavy coarse durable cotton twill woven from colored yarns / blue denim**

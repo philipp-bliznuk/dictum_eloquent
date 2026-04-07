@@ -1,3 +1,8 @@
+##### Nape (noun)
+*ˈnāp* / *ˈnap*
+- **the back of the neck**
+	Her hair was tied back at the _nape_ of her neck.
+
 ##### Nascent (adjective)
 *ˈna-sᵊnt*
 - **coming or having recently come into existence**

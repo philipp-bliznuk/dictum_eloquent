@@ -37,6 +37,13 @@
 - **nervous, tense, or excited**
 	was too *keyed up* to sleep
 
+##### Kinesthesia / Kinaesthesia (noun)
+*ˌki-nəs-ˈthē-zh(ē-)ə*
+- **a sense mediated by receptors located in muscles, tendons, and joints and stimulated by bodily movements and tensions**
+- **sensory experience derived from this sense**
+	The sensation is entirely distinct from touch, yet _kinesthesia_ is equally if not more important for complex motor tasks.
+	This sense of body position, known as _kinesthesia_, has proved tricky to build into prosthetic arms.
+
 ##### Klaxon (noun)
 *ˈklak-sən*
 - **an electrically operated horn or warning signal**

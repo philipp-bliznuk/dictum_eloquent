@@ -274,6 +274,13 @@
 	The answer to both questions lies in the *cerebellum's* ability to make connections between the active tickling motion and the sensation of tickling.
 	Chronic exposure to alcohol can damage a part of the brain called the _cerebellum_, which can lead to a tremor.
 
+##### Cerebrate (verb)
+*ˈser-ə-ˌbrāt*
+- **to use the mind: think**
+- **to use the power of reason**
+	It is one thing to *cerebrate;* to narrate is quite another.
+	To *cerebrate* means to think, to reason, and to reach conclusions; it means to concentrate and to work hard.
+
 ##### Cerise (noun)
 *sə-ˈrēs*
 - **a moderate red**
@@ -501,6 +508,13 @@
 	The noisy buggers will sound their *clarion* call for three to five minutes.
 	This case presents us with a *clarion* call to love both mother and child.
 
+##### Clastic (adjective)
+*ˈkla-stik*
+- **made up of fragments of preexisting rocks**
+- **relating to what may be taken to pieces**
+	a *clastic* sediment
+	*clastic* structure
+
 ##### Clemency (noun)
 *ˈkle-mən(t)-sē*
 - **pleasant mildness of weather**
@@ -585,6 +599,13 @@
 	put the money in the *coffer*
 	public *coffers* running dry in a bleak economy
 	ceiling *coffers*
+
+##### Cogitate (verb)
+*ˈkä-jə-ˌtāt*
+- **to ponder or meditate on usually intently**
+- **implies deep or intent thinking**
+	I was _cogitating_ about my chances of failing.
+	by the time he finishes _cogitating_ what to do with his life, it'll be almost over
 
 ##### Cognizant (adjective)
 *ˈkäg-nə-zənt*
@@ -967,6 +988,13 @@ _ˈküt_
 - **suggests the strengthening of what is already partly established**
 	the witnesses _corroborated_ the policeman's testimony
 	my personal experience does not _corroborate_ your faith in the essential goodness of people
+
+##### Corrugate (verb)
+*ˈkȯr-ə-ˌgāt*
+- **to form or shape into wrinkles or folds or into alternating ridges and grooves: furrow**
+- **to become corrugated**
+	Its surface is _corrugated_ to improve air circulation for more even baking.
+	The inner liner of the tank will consist of a thin layer of *corrugated* steel.
 
 ##### Cortex (noun)
 *ˈkȯr-ˌteks*

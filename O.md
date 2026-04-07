@@ -100,6 +100,13 @@
 	hoping to avoid the _onus_ of failure by lowering expectations ahead of time
 	he perpetually tries to shift the _onus_ for any mistakes onto other team members
 
+##### Oolite (noun)
+*ˈō-ə-ˌlīt*
+- **a rock consisting of small round grains usually of calcium carbonate cemented together**
+- **a rock consisting of spherical grains within a mineral cortex accreted around a nucleus, often of quartz grains**
+	The tests indicated that it consisted of shale of the lower *oolite*, and the works were let accordingly.
+	the building material consists of the *oolite* and calcareous stone
+
 ##### Opalescent (adjective)
 *ˌō-pə-ˈle-sᵊnt*
 - **reflecting an iridescent light**

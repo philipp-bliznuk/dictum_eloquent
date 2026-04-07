@@ -390,6 +390,13 @@ _bi-ˈsä-təd_
 	a *blithe* disregard for the rights of others
 	arrived late in his usual _blithe_ way
 
+##### Bloviate (verb)
+*ˈblō-vē-ˌāt*
+- **to speak or write verbosely and windily**
+- **to discourse at length in a pompous or boastful manner**
+	Most women agree with this, but they don't feel the need to *bloviate* about it on the internet.
+	When we *bloviate* or scold, it also undercuts what little authority we have.
+
 ##### Bludgeon (noun / verb)
 *ˈblə-jən*
 - **a short stick that usually has one thick or loaded end and is used as a weapon**

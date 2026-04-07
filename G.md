@@ -260,6 +260,13 @@
 	He had thinning hair and a _grizzled_ beard.
 	a *grizzled* veteran
 
+##### Groin (noun / verb)
+*ˈgrȯin*
+- **the fold or depression marking the juncture of the lower abdomen and the inner part of the thigh**
+- **a rigid structure built out from a shore to protect the shore from erosion, to trap sand, or to direct a current for scouring a channel**
+	The guard has been dealing with a left *groin* strain and has missed the past three games.
+	In most cases, there is a painful swelling of the lymph node in the *groin*, armpit or neck areas.
+
 ##### Grok (verb)
 *ˈgräk*
 - **to understand profoundly and intuitively**

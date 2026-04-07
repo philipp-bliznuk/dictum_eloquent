@@ -278,6 +278,13 @@
 	the _lithe_ body of a dancer
 	the _lithe_ blade of a fencing foil
 
+##### Lithic (adjective)
+*ˈli-thik*
+- **abounding in or having the nature of stone: rocky**
+- **of, relating to, or being a stone tool**
+	The first communities to use jewellery were still small, and dependent on a *lithic* technology.
+	The mountains are so stunning that there's nothing left for a painter to do amid this *lithic* beauty.
+
 ##### Livery (noun)
 *ˈli-və-rē*
 - **a concern offering vehicles (such as boats) for rent**
