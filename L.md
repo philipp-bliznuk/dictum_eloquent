@@ -74,6 +74,12 @@
 	right after a shower, her _lank_ hair hung down to her shoulders
 	the _lank_ legs of the heron
 
+##### Lapillus / plural: Lapilli (noun)
+*lə-ˈpi-ləs* / *lə-ˈpi-ˌlī*
+- **a small stony or glassy fragment of lava ejected in a volcanic eruption**
+	During the eruption, a thick layer of *lapillus* rained down on the surrounding forest, covering the ground in small, porous stones.
+	The geologist examined a single *lapillus*, noting its vesicular texture which indicated that gas bubbles had been trapped as the lava cooled mid-air.
+
 ##### Lap up (transitive verb)
 *ˈlap ˈəp*
 - **to take in (food or drink) with the tongue**

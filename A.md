@@ -345,6 +345,13 @@ _ˈāl_
 	Nakayama and his team searched for the _alga_ by scooping seawater samples from the Pacific Ocean using a fine-mesh net.
 	In the intertidal zone limpets and other mollusks graze on *algae* in the rocks.
 
+##### Alkaline (adjective)
+*ˈal-kə-lən* / *ˈal-kə-ˌlīn*
+- **of, relating to, containing, or having the properties of an alkali or alkali metal: basic**
+- **having a pH of more than 7**
+	Because the soil in the region is naturally *alkaline*, gardeners often add sulfur to lower the pH for acid-loving plants like blueberries.
+	I need to buy a fresh pack of *alkaline* batteries for the flashlight before we go camping this weekend.
+
 ##### Allay (verb)
 *a-ˈlā*
 - **to subdue or reduce in intensity or severity: alleviate**
@@ -766,6 +773,12 @@ _ə-ˈskan(t)s_
 - **to put an end to by satisfying: appease, quench**
 	He couldn't _assuage_ his guilt over the divorce.
 	a mother cooing to her toddler and _assuaging_ his fear of the dark
+
+##### Asthenosphere (noun)
+*as-ˈthe-nə-ˌsfir*
+- **a zone of a celestial body (such as the earth) which lies beneath the lithosphere and within which the material is believed to yield readily to persistent stresses**
+	When continents stretch and split, space opens beneath the breaking point and is rapidly filled with semi-molten _asthenosphere_.
+	This layer is a part of the _asthenosphere_, which sits beneath the tectonic plates.
 
 ##### Astute (adjective)
 *ə-ˈstüt*

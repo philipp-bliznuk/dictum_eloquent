@@ -88,6 +88,12 @@
 	The new *quilt* and throw blanket come just in time to snuggle up on chilly fall nights.
 	The cotton fabric is *quilted* in channels, giving it the striped look with varying textures and prints.
 
+##### Quincentennial / Quincentenary (adjective / noun)
+*ˌkwin-sen-ˈte-nē-əl* / *ˌkwin-sen-ˈte-nə-rē*
+- **a 500th anniversary or its celebration**
+	Then, the painting will return to the Salle des États in time for a landmark exhibition celebrating the _quincentennial_ of da Vinci’s death.
+	Leonardo’s _quincentenary_ isn't just an opportunity to reassess his genius but, with the 500th anniversary of Raphael’s death in 2020, the start of two years in which to ponder the Renaissance.
+
 ##### Quincunx (noun)
 *ˈkwin-ˌkəŋ(k)s*
 - **an arrangement of five things in a square or rectangle with one at each corner and one in the middle**

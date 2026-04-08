@@ -377,6 +377,13 @@
 	He was a *chauffeur* of a well known millionaire.
 	He _chauffeured_ his client to the hotel.
 
+##### Chert (noun)
+*ˈchərt*
+- **a rock resembling flint and consisting essentially of a large amount of fibrous chalcedony with smaller amounts of cryptocrystalline quartz and amorphous silica**
+- **a mineral form of silicon dioxide known for its durability and its ability to fracture into very sharp edges**
+	While hiking through the canyon, the geologist pointed out nodules of dark *chert* embedded within the lighter limestone layers.
+	Archaeologists discovered a cache of spear points at the site, expertly knapped from a colorful variety of local *chert*.
+
 ##### Chide (verb)
 *ˈchīd*
 - **to speak out in angry or displeased rebuke**

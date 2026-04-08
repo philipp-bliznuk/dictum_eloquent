@@ -82,6 +82,13 @@
 	the *nexus* between teachers and students
 	a *nexus* of theories
 
+##### Nodule (noun)
+*ˈnä-(ˌ)jül*
+- **a small mass of rounded or irregular shape**
+- **swelling, lump, tumor**
+	The examination revealed a _nodule_ on his lung.
+	a _nodule_ on the leaf indicated that a worm had laid eggs there
+
 ##### Noisome (adjective)
 *ˈnȯi-səm*
 - **offensive to the senses and especially to the sense of smell**

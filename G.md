@@ -102,6 +102,13 @@
 	a person of _genteel_ upbringing
 	the _genteel_ manners of an old southern gentleman
 
+##### Geode (noun)
+*ˈjē-ˌōd*
+- **a nodule of stone having a cavity lined with crystals or mineral matter**
+- **the cavity in a geode**
+	This cement planter is adorned with green stones and gold trim to give the appearance of a _geode_.
+	The geologist explained that the *geode*'s rough exterior was composed of weather-resistant chalcedony, which protected the delicate amethyst crystals inside for millions of years.
+
 ##### Giddy (adjective)
 *ˈgi-dē*
 - **lightheartedly silly: frivolous**

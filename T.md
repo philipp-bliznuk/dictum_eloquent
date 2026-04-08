@@ -187,6 +187,13 @@
 	During his _tenure_ as head coach, the team won the championship twice.
 	His _tenure_ in office will end with the next election.
 
+##### Tephra (noun)
+*ˈte-frə*
+- **solid material ejected into the air during a volcanic eruption**
+- **fine particles of mineral matter from a volcanic vent**
+	This _tephra_ fell not just over the volcano’s slopes, but over a nearby highway and residential areas.
+	The National Park Service has closed Kīlauea’s summit, citing danger from glassy volcanic fragments known as _tephra_.
+
 ##### Tepid (adjective)
 *ˈte-pəd*
 - **moderately warm: lukewarm**
@@ -520,6 +527,13 @@
 - **consisting of three parts, members, or aspects**
 	But there’s no issue as to who’s finally the boss… or the _triune_ bosses, in the case of this sisterhood.
 	In the mid-1900s, Paul MacLean, a neuroscientist at Yale and then the National Institute of Mental Health, began developing the _triune_ brain hypothesis.
+
+##### Troglodyte (noun)
+*ˈträ-glə-ˌdīt*
+- **a member of any of various peoples (as in antiquity) who lived or were reputed to live chiefly in caves**
+- **a person characterized by reclusive habits or outmoded or reactionary attitudes: barbarian**
+	a political _troglodyte_ who didn't have a grasp of the concerns of young voters
+	Among the highlights is a chance to set foot on the coral island of Rurutu, with _troglodyte_ caves and hiking routes.
 
 ##### Troth (noun)
 *ˈtrōth*

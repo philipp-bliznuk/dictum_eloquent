@@ -12,6 +12,12 @@
 	trying to explain a mix-up in my mail order to a clearly _raddled_ clerk in customer service
 	That time, she also had to look *raddled*, wrecked by life, desperate and unlovable, whereas this time, she only has to look pregnant.
 
+##### Radon (noun)
+*ˈrā-ˌdän*
+- **a heavy radioactive gaseous element formed by the decay of radium**
+	Before closing on the new house, the buyers hired an inspector to perform a *radon* test to ensure the basement levels were within safe limits.
+	Because *radon* has a relatively short half-life of about 3.8 days, it is often used in geologic research to track the movement of groundwater.
+
 ##### Raffia (noun)
 *ˈra-fē-ə*
 - **the fiber of the raffia palm used especially as cord for tying and weaving**

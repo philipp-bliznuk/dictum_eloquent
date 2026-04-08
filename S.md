@@ -134,6 +134,13 @@
 	The steam _scalded_ his skin.
 	Place one-half cup cream in a sauce pot and bring up to a _scald_.
 
+##### Scallop (noun / verb)
+*ˈskä-ləp*
+- **any of numerous marine bivalve lamellibranch mollusks (family Pectinidae) that have a radially ribbed shell with the edge undulated and that swim by opening and closing the valves**
+- **to shape, cut, or finish in scallops**
+	The institute also is exploring ways to use hatchery byproducts like fish waste to grow things such as abalone, _scallops_, kelp and sea cucumbers.
+	At Dayboat Seafood, diners will be able to order oysters on the half shell, seafood salads, _scallop_ dishes and other seafood classics.
+
 ##### Scallywag / Scalawag (noun)
 *ˈska-li-ˌwag*
 - **scamp, reprobate**

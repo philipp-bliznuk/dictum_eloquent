@@ -81,6 +81,12 @@
 	Today, the _basilica_ remains a sought-after wedding venue, with the parish hosting as many as eight ceremonies a day, according to the church's priest.
 	The earth beneath my feet shook as the bells of the ancient *basilica* tolled.
 
+##### Batholith (noun)
+*ˈba-thə-ˌlith*
+- **a great mass of intruded igneous rock that for the most part stopped in its rise a considerable distance below the surface**
+	This granite discovery, known as a _batholith_, seems to be further proof that researchers are on the right track there.
+	Enchanted Rock in Texas is a visible portion of a massive underground *batholith* that has been exposed as the softer surrounding soil washed away.
+
 ##### Bauble (noun)
 *ˈbȯ-bəl*
 - **trinket, ornament**
@@ -452,6 +458,15 @@ _bi-ˈsä-təd_
 - **a rich gain or prize**
 	no one knows where Captain Kidd hid his _booty_, but that hasn't deterred hopeful adventurers from looking for it for the last 300 years
 	thieves dividing up their _booty_
+
+##### Boss (noun / verb / adjective)
+*ˈbȯs*
+- **a raised ornamentation (as on a belt or shield): stud**
+- **to embellish (something, such as a belt or shield) with a raised decoration: to ornament with bosses: emboss**
+- **excellent, first-rate**
+	that's a really _boss_ stereo you've got
+	a *boss* on an animal's horn
+	a *bossed* book cover
 
 ##### Bothy (noun)
 *ˈbä-thē*

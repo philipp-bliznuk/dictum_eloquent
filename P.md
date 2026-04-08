@@ -825,6 +825,13 @@ Peruke (noun)
 	a young lad with a _predilection_ for telling tall tales
 	a *predilection* for spicy food
 
+##### Prediluvian (adjective / noun)
+*ˌpridəˈluviən*
+- **of or relating to the period before the flood described in the Bible: antediluvian**
+- **extremely old-fashioned, primitive, or antiquated**
+	Some early naturalists attempted to explain fossil discoveries as the remains of *prediluvian* creatures that perished in the rising waters.
+	My grandfather still refuses to get a smartphone, insisting that his *prediluvian* rotary phone works just fine.
+
 ##### Preen (verb)
 *ˈprēn*
 - **to dress or smooth (oneself) up: primp**
@@ -906,6 +913,13 @@ Peruke (noun)
 - **neat, trim**
 	He has _prim_ views on religion.
 	Her aunts were very _prim and proper_.
+
+##### Primordial (adjective)
+*prī-ˈmȯr-dē-əl*
+- **first created or developed: primeval**
+- **fundamental, primary**
+	all life on Earth supposedly came from a _primordial_ ooze in existence many millions of years ago
+	*primordial* human joys
 
 ##### Princeps (noun)
 *ˈprinˌseps*
