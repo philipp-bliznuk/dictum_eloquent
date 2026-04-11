@@ -68,6 +68,12 @@
 	a rich and *decadent* dessert
 	an increasingly *decadent* society
 
+##### Decahedron (noun)
+*ˌde-kə-ˈhē-drən*
+- **a polyhedron of 10 faces**
+	The student was tasked with calculating the total surface area of an irregular *decahedron* by adding the areas of its ten individual triangular faces.
+	To determine the damage dealt by the spell, the player rolled a translucent blue *decahedron* and cheered when it landed on a ten.
+
 ##### Decamp (verb)
 *di-ˈkamp*
 - **to break up a camp**

@@ -894,6 +894,13 @@
 	a _sprightly_ child who often claims to be too tired to move when it's time to do chores
 	a *sprightly* salsa
 
+##### Spume (noun / verb)
+*ˈspyüm*
+- **frothy matter on liquids: foam, scum**
+- **to froth, foam**
+	_spume_ floating on the ocean
+	Standing on these beaches creates a sense of natural infinity – of white sand, of frothy _spume_, of blue-green water.
+
 ##### Spurn (verb / noun)
 *ˈspərn*
 - **to tread sharply or heavily upon: trample**

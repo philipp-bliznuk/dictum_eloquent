@@ -1127,6 +1127,13 @@ Peruke (noun)
 	There's one _pugnacious_ member on the committee who won't agree to anything.
 	a movie reviewer who is spirited, even _pugnacious_, when defending her opinions
 
+##### Pulpit (noun)
+*ˈpu̇l-ˌpit*
+- **an elevated platform or high reading desk used in preaching or conducting a worship service**
+- **the preaching profession**
+	Faith leaders must speak out from their _pulpits_.
+	The preacher took a deep breath and leaned forward in the *pulpit*.
+
 ##### Punctilious (adjective)
 *ˌpəŋk-ˈti-lē-əs*
 - **marked by or concerned about precise accordance with the details of codes or conventions**
@@ -1202,6 +1209,12 @@ Peruke (noun)
 ##### Put paid to (phrase)
 - **to finish off: bring an end to**
 	We must *put a paid to* that farce.
+
+##### Pyroclastic (adjective)
+*ˌpī-rō-ˈkla-stik*
+- **formed by or involving fragmentation as a result of volcanic or igneous action**
+	The city of Pompeii was covered by ash, then later solidified by _pyroclastic_ flows.
+	These kinds of _pyroclastic_ volcanic eruptions could have conceivably cloaked and preserved ancient organics as well.
 
 ##### Pyrrhic (adjective)
 *ˈpir-ik*

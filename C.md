@@ -452,6 +452,13 @@
 	It would be _churlish_ not to congratulate him.
 	outrage is among your more *churlish* emotions
 
+##### Cilium / Cilia (noun)
+*ˈsi-lē-əm* / *ˈsi-lē-ə*
+- **a minute short hairlike process often forming part of a fringe, especially one on a cell that is capable of lashing movement and serves especially in free unicellular organisms to produce locomotion or in higher forms a current of fluid**
+- **eyelash**
+	Cilia are found throughout our bodies, but only a small number of kinds of cells have more than one _cilium_ apiece.
+	When those _cilia_ become paralyzed, they are rendered unable to do their job protecting the lungs, and this increases your risk of infection, like pneumonia.
+
 ##### Cinder (noun)
 *ˈsin-dər*
 - **a partly burned combustible in which fire is extinct**

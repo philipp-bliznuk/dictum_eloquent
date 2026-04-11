@@ -94,6 +94,12 @@
 	The joke about her family _rankled_ her.
 	that kind of rude treatment from a young person makes me _rankle_
 
+##### Rappel (verb)
+*rə-ˈpel*
+- **to descend (as from a cliff) by sliding down a rope passed under one thigh, across the body, and over the opposite shoulder or through a special friction device**
+	The crew relied on an expert climbing team to _rappel_ down steep walls, scale rocks, and navigate treacherous terrain.
+	Finally, climbers must _rappel_ from the tree toward a specific target on the ground.
+
 ##### Rapport (noun)
 *ra-ˈpȯr*
 - **a friendly, harmonious relationship characterized especially by agreement, mutual understanding, or empathy that makes communication possible or easy**
