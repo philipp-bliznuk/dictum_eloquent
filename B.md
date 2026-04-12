@@ -333,6 +333,13 @@ _bi-ˈsä-təd_
 	soldiers setting up a _bivouac_ by the stream
 	survivors of the tornado were _bivouacked_ in the church basement
 
+##### Blanch (verb)
+*ˈblanch*
+- **to take the color out of**
+- **to become white or pale (as from shock or fear)**
+	Age had *blanched* his hair.
+	His face *blanched* with horror.
+
 ##### Blandishment (noun)
 *ˈblan-dish-mənt*
 - **something that tends to coax or cajole: allurement -> often used in plural**

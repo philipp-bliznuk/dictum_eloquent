@@ -10,6 +10,13 @@
 - **an individualising characteristic or quality**
 	The current system has a few *idiosyncrasies*.
 
+##### Idolater (noun)
+*ī-ˈdä-lə-tər*
+- **a worshipper of idols**
+- **a person that admires intensely and often blindly one that is not usually a subject of worship**
+	an ancient civilization of pantheists and _idolaters_
+	His Wagner book, which placed its subject in the larger intellectual context of his times, infuriated _idolaters_, for whom the master could do no wrong.
+
 ##### Igneous (adjective)
 *ˈig-nē-əs*
 - **formed by solidification of magma**

@@ -586,6 +586,14 @@
 	Each *sinus* has an opening that connects it to your nose.
 	The leaves can be used to brew a soothing tea for *sinus* problems.
 
+##### Sire (noun / verb)
+*ˈsī(-ə)r*
+- **father / forefather**
+- **author, originator**
+- **to bring into being: originate**
+	his _sire_ had been a renowned Wall Street lawyer
+	the champion racehorse went on to _sire_ a long line of winners
+
 ##### Skedaddle (verb)
 *ski-ˈda-dᵊl*
 - **to leave immediately: run away, scram**

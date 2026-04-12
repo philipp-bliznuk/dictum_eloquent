@@ -31,6 +31,13 @@
 	_abridge_ a dictionary by omitting rare words
 	the library's hours have been drastically _abridged_ to cut costs
 
+##### Abrogate (verb)
+*ˈa-brə-ˌgāt*
+- **to abolish by authoritative action: annul, nullify**
+- **to treat as nonexistent: to fail to do what is required by (something, such as a responsibility)**
+	*abrogate* a treaty
+	The company's directors are accused of _abrogating_ their responsibilities.
+
 ##### Abscond (verb)
 *ab-ˈskänd*
 - **to depart secretly and hide oneself**

@@ -188,6 +188,12 @@
 	that company still needs to _recompense_ the work that the contractor finished last month
 	He received $10,000 _in recompense_ for his injuries.
 
+##### Recondite (adjective)
+*ˈre-kən-ˌdīt*
+- **difficult or impossible for one of ordinary understanding or knowledge to comprehend: deep**
+- **of, relating to, or dealing with something little known or obscure**
+	geochemistry is a _recondite_ subject
+	He mentioned some more or less *recondite* fact about the origin of the holiday.
 ##### Reconnoiter (verb)
 *ˌrē-kə-ˈnȯi-tər*
 - **to make a reconnaissance of**
@@ -584,3 +590,11 @@
 - **an inhabitant of a rural area**
 	The inn has a _rustic_ atmosphere.
 	a _rustic_ who was awed by the prices that city dwellers had to pay
+
+##### Rut (noun / verb)
+*ˈrət*
+- **a periodic and often annually recurring state of certain male animals (such as deer or elk) during which behavior associated with the urge to breed is displayed**
+- **a track worn by a wheel or by habitual passage**
+- **to be in or enter into a state of rut**
+	I've fallen into a _rut_, watching television and then going to bed every night
+	Curtain calls In 1999, a male hippo in _rut_ apparently mistook a passing tractor at a French zoo for a rival and smashed through his enclosure fencing.

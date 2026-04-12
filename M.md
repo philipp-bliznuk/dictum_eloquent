@@ -241,6 +241,12 @@
 - **any of the solid intervals between crenellations of a battlement**
 	Conversely, an arresting-looking romaine salad, dressed with za'atar yogurt and served in a bowl with Parmesan crisps lining the edge like _merlons_ atop a castle wall, is oddly underseasoned.
 
+##### Methinks (impersonal verb)
+*mi-ˈthiŋ(k)s*
+- **it seems to me**
+	"The lady doth protest too much, *methinks*," is one of the most famous lines from Shakespeare's Hamlet.
+	Looking at the dark clouds gathering on the horizon, he remarked, "*Methinks* a storm is brewing, and we should probably head inside."
+
 ##### Mewl (verb)
 *ˈmyül*
 - **to cry weakly: whimper**
@@ -294,6 +300,13 @@
 - **Small in quantity; meager**
 	a _mingy_ portion of food
 	the company's *mingy* Christmas bonuses haven't exactly helped sagging employee morale
+
+##### Minister (noun / verb)
+*ˈmi-nə-stər*
+- **agent**
+- **to give aid or service**
+	The angels are *ministers* of the divine will.
+	*minister* to the sick
 
 ##### Minster (noun)
 *ˈmin(t)-stər*
