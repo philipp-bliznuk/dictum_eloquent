@@ -1190,6 +1190,13 @@
 	He ran his hand over his _stubble_.
 	Government satellite data showed a rise in crop _stubble_ fires, used by farmers to clear land before the next planting, since the start of November.
 
+##### Stub (noun / verb)
+*ˈstəb*
+- **something made or worn to a short or blunt shape**
+- **to extinguish (something, such as a cigarette) by crushing**
+	an ashtray full of cigarette _stubs_
+	Lewis has had a gun pointed at him three times and a cigarette *stubbed* out on his forehead once.
+
 ##### Stunt (verb / noun)
 *ˈstənt*
 - **to hinder the normal growth, development, or progress of**

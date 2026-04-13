@@ -37,6 +37,13 @@
 - **nervous, tense, or excited**
 	was too *keyed up* to sleep
 
+##### Kibitzer (noun)
+*ˈki-bət-sər*
+- **one who looks on and often offers unwanted advice or comment**
+- **one who offers opinions: meddler**
+	a nosy _kibitzer_ who always knows who is dating whom
+	a *kibitzer* at a card game
+
 ##### Kinesthesia / Kinaesthesia (noun)
 *ˌki-nəs-ˈthē-zh(ē-)ə*
 - **a sense mediated by receptors located in muscles, tendons, and joints and stimulated by bodily movements and tensions**

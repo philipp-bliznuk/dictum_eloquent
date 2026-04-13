@@ -320,6 +320,13 @@
 	Indeed, in 1993, gold was produced at around 200 _lode_ mines in the United States.
 	This bargain market lives up to its billing with the mother *lode* of wine deals.
 
+##### Lodestone (noun)
+*ˈlōd-ˌstōn*
+- **magnetite possessing polarity**
+- **something that strongly attracts**
+	the young woman's wealth unfortunately made her a _lodestone_ for fortune hunters
+	Davies has basically just tapped into my intellectual _lodestone_ here.
+
 ##### Logorrhea (noun)
 *ˌlȯ-gə-ˈrē-ə*
 - **excessive and often incoherent talkativeness or wordiness**

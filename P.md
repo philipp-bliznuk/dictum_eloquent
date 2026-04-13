@@ -227,6 +227,13 @@ _parā bellum_
 	The kitchen maid spent the afternoon sitting on the porch, splitting each *peascod* with her thumb to release the bright green pearls inside.
 	The Duke strutted through the court, his *peascod* doublet so heavily stuffed with horsehair that he could barely lean forward to bow to the Queen.
 
+##### Peat (noun)
+*ˈpēt*
+- **a dark brown fibrous material that is formed primarily by the partial decomposition of organic matter and especially plants (such as sphagnum moss) in wet, oxygen-deficient areas (such as bogs or swamps) and that is harvested especially for use as a fuel for heating or cooking or as a soil amendment**
+- **a section or piece of dried peat for use as fuel: turf**
+	Soil should be light and loamy, such as a mix of sand, compost, and _peat_-free potting mix.
+	Previously, common people had shared the right to plow open fields, gather firewood, graze animals and cut _peat_ from nearby bogs.
+
 ##### Pecking order (noun)
 - **a social hierarchy**
 - **the basic pattern of social organization within a flock of poultry in which each bird pecks another lower in the scale without fear of retaliation and submits to pecking by one of higher rank**

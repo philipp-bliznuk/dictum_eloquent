@@ -212,6 +212,13 @@
 	She was proud to show off her new evening _finery_.
 	the guests arrived at the wedding in all their _finery_
 
+##### Finesse (noun / verb)
+*fə-ˈnes*
+- **skillful handling of a situation: adroit maneuvering**
+- **evade, skirt**
+	maneuvered his opponent into checkmate with his customary _finesse_
+	She is just trying to _finesse_ the issue.
+
 ##### Finial (noun)
 *ˈfi-nē-əl*
 - **a usually foliated ornament forming an upper extremity especially in Gothic architecture**
