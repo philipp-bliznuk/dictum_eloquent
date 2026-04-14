@@ -1090,6 +1090,13 @@
 	That outfit makes you look _stocky_.
 	the _stocky_ boxer's strength and speed more than make up for his opponent's longer reach
 
+##### Stole (noun)
+*ˈstōl*
+- **a long loose garment: robe**
+- **an ecclesiastical vestment consisting of a long usually silk band worn traditionally around the neck by bishops and priests and over the left shoulder by deacons**
+	During the Advent season, the priest wore a purple *stole* over his white alb to symbolize a time of penance and preparation.
+	She proudly wore a gold *stole* over her graduation gown to signify her membership in the university’s honor society.
+
 ##### Stolid (adjective)
 *ˈstä-ləd*
 - **having or expressing little or no sensibility: unemotional**

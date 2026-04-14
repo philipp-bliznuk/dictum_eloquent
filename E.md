@@ -5,6 +5,13 @@
 	The project uses funds that had been _earmarked_ for education.
 	all the *earmarks* of poverty
 
+##### Eave (noun)
+*ˈēv*
+- **the lower border of a roof that overhangs the wall -> usually used in plural**
+- **a projecting edge (as of a hill) -> usually used in plural**
+	Remove cobwebs from _eaves_ and corners.
+	Focus on spots where wasps tend to cluster — under _eaves_, near outdoor dining areas and around garden structures.
+
 ##### Ebb (noun / verb)
 *ˈeb*
 - **a point or condition of decline**
@@ -263,6 +270,13 @@
 - **interesting, intriguing**
 	an _engrossing_ lecture on Native American culture before the arrival of Europeans
 	At first, the scene feels like an _engrossing_, elevating prelude.
+
+##### Enjoin (verb)
+*in-ˈjȯin*
+- **forbid, prohibit**
+- **implies giving an order or direction authoritatively and urgently and often with admonition or solicitude**
+	He was _enjoined_ by his conscience _from_ telling a lie.
+	a sign _enjoining_ patrons to be quiet
 
 ##### En masse (adverb)
 *äⁿ(n)-ˈmas*

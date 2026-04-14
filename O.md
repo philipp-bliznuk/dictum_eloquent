@@ -53,6 +53,13 @@
 	_occulted_ their house from prying eyes by planting large trees around it
 	He began to believe he had _occult_ powers.
 
+##### Ocher / Ochre (noun)
+*ˈō-kər*
+- **an earthy usually red or yellow and often impure iron ore used as a pigment**
+- **the color of ocher**
+	The ancient artists used *ocher* mixed with animal fat to create the vivid, enduring depictions of bison found on the cave walls.
+	To create a warm, Mediterranean feel in the kitchen, she painted the walls a soft shade of golden *ocher*.
+
 ##### Octahedron (noun)
 *ˌäk-tə-ˈhē-drən*
 - **a solid bounded by eight plane faces**

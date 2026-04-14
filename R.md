@@ -498,6 +498,13 @@
 	Financial markets have been _roiled_ by the banking crisis.
 	the waters of the gulf tossed and _roiled_ as the hurricane surged toward the shore
 
+##### Rood (noun)
+*ˈrüd*
+- **a cross or crucifix symbolizing the cross on which Jesus Christ died**
+- **an old British unit of land area equal to one-quarter of an acre**
+	The village church is famous for its remarkably preserved 15th-century *rood* screen, featuring intricate carvings of the apostles beneath the central cross.
+	The old deed described the property boundary as extending three *roods* past the stone wall and toward the creek.
+
 ##### Rosary (noun)
 *ˈrō-zə-rē*
 - **a traditional Catholic devotion involving the recitation of a series of prayers while meditating on key events in the lives of Jesus Christ and his mother, Mary**

@@ -557,6 +557,13 @@ _bi-ˈsä-təd_
 	I enjoy the author's _breezy_ style.
 	She listened to their complaints with _breezy_ indifference.
 
+##### Breviary (noun)
+*ˈbrē-və-rē*
+- **capitalized: a book of the prayers, hymns, psalms, and readings for the canonical hours**
+- **(Latin breviarium): a brief summary**
+	a speech that could serve as a _breviary_ for impeachment
+	Books of Hours are _breviaries_, or a selection of prayers and psalms taken from long prayer books used by monks.
+
 ##### Brevity (noun)
 *ˈbre-və-tē*
 - **shortness of duration**

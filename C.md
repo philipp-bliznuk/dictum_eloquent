@@ -97,6 +97,13 @@
 	carefully _canted_ the ladder against the wall
 	the *cant* of thieves
 
+##### Cantor (noun)
+*ˈkan-tər*
+- **a choir leader: precentor**
+- **a synagogue official who sings or chants liturgical music and leads the congregation in prayer**
+	During the High Holy Days, the *cantor*’s powerful and emotive chanting filled the synagogue, moving many in the congregation to tears.
+	In the 18th century, Johann Sebastian Bach served as the *cantor* at St. Thomas Church in Leipzig, where he was responsible for composing new music for every Sunday service.
+
 ##### Caper (noun / verb)
 *ˈkā-pər*
 - **an illegal or questionable act or escapade / prank**
@@ -180,6 +187,13 @@
 - **a division of society based on differences of wealth, inherited rank or privilege, profession, occupation, or race**
 	He was from a higher _caste_.
 	a member of the upper _caste_
+
+##### Castigate (verb)
+*ˈka-stə-ˌgāt*
+- **to subject to severe punishment, reproof, or criticism**
+- **usually implies a severe, typically public censure**
+	The author _castigated_ the prime minister as an ineffective leader.
+	_castigated_ him for his constant tardiness
 
 ##### Casus Belli
 *ˈkä-səs-ˈbe-ˌlē*
@@ -430,6 +444,12 @@
 - **eat -> often used with _down_**
 	that evening's _chow_ was pretty basic because we were in a hurry
 	*chowing* down on pizza
+
+##### Chrism (noun)
+*ˈkri-zəm*
+- **consecrated oil used in Greek and Latin churches especially in baptism, chrismation, confirmation, and ordination**
+	During the confirmation ceremony, the bishop traced a cross on the teenager's forehead with *chrism*, welcoming them fully into the church community.
+	The coronation of the monarch reached its most sacred moment when the Archbishop applied the holy *chrism* to the new king's hands and head.
 
 ##### Chronicle (noun / verb)
 *ˈkrä-ni-kəl*
@@ -784,6 +804,13 @@
 - **one having a recognized social status in a household below that of a wife: lover**
 	the offspring of one of the monarch's _concubines_
 	Among the 20 _concubines_ was the woman who would became known as Malinche.
+
+##### Concupiscence (noun)
+*kän-ˈkyü-pə-sən(t)s*
+- **sexual desire: lust**
+- **strong desire, usually of something forbidden**
+	the Puritans did not condemn _concupiscence_ but rather the satisfaction of it in ways they deemed illicit
+	The protagonist’s tragic downfall was fueled by a relentless *concupiscence* for power, which blinded him to the needs of his people and the loyalty of his friends.
 
 ##### Confectionary / Confectionery (noun)
 *kən-ˈfek-shə-ˌner-ē* / *kən-ˈfek-shə-ˌner-ē*

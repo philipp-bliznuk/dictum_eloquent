@@ -233,6 +233,13 @@
 	The hikers were startled when the sky turned grey and began pelting them with *graupel*, the white pellets bouncing off their jackets like tiny pieces of popcorn.
 	While it looked like a light dusting of snow from a distance, a closer look at the driveway revealed a thick layer of crunchy, spherical *graupel*.
 
+##### Grave (verb)
+*ˈgrāv*
+- **to carve or cut (something, such as letters or figures) into a hard surface: engrave**
+- **to impress or fix (a thought, a memory, etc.) deeply**
+	_graved_ the dates of his birth and death on the headstone
+	the doomed climber _graved_ his initials into the rock face
+
 ##### Graze (verb / noun)
 *ˈgrāz*
 - **to eat small portions of food throughout the day**

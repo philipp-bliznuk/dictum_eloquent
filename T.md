@@ -294,6 +294,13 @@
 	collapsed in the _throes_ of agony
 	that third-world country is caught up in the _throes_ of a democratic revolution
 
+##### Thrum (noun / verb)
+*ˈthrəm*
+- **to sound with a monotonous hum**
+- **to play or pluck a stringed instrument idly: strum**
+	the steady _thrum_ of the turbines in the power plant
+	The library is now a buzzy and vibrant cultural center *thrumming* with life.
+
 ##### Thunderhead (noun)
 *ˈthən-dər-ˌhed*
 - **a rounded mass of cumulus or cumulonimbus cloud often appearing before a thunderstorm**
@@ -464,6 +471,13 @@
 - **A popular building material used since antiquity for facades, wall cladding, and flooring, prized for its aesthetic "pitted" texture and durability.**
 	The architect chose honed *travertine* tiles for the lobby floor to give the modern building a warm, classical elegance.
 	Visitors to Yellowstone National Park often marvel at the massive *travertine* terraces formed over centuries by the flowing hot springs.
+
+##### Treacle (noun)
+*ˈtrē-kəl*
+- **the thick dark to light brown syrup that is separated from raw sugar in sugar manufacture: molasses**
+- **something (such as a tone of voice) heavily sweet and cloying**
+	The book is ruined by all the _treacle_ about his childhood.
+	For a truly authentic sponge pudding, you must pour a generous amount of golden *treacle* into the bottom of the tin before steaming.
 
 ##### Trek (noun / verb)
 *ˈtrek*

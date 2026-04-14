@@ -20,6 +20,13 @@
 	a house with brick _facing_
 	a suit with red _facings_ at the collar and the cuffs
 
+##### Facsimile (noun)
+*fak-ˈsi-mə-lē*
+- **an exact copy**
+- **suggests a close reproduction often of graphic matter that may differ in scale**
+	A _facsimile_ of the world's first computer was exhibited in the museum.
+	the family resemblance is so strong that the boy is virtually a pint-size _facsimile_ of his father
+
 ##### Falcate (adjective)
 *ˈfal-ˌkāt*
 - **hooked or curved like a sickle**
@@ -377,6 +384,15 @@
 - **an initial and often tentative attempt to do something in a new or different field or area of activity**
 	a *foray* into enemy territory
 	the novelist's *foray* into nonfiction
+
+##### Forswear / Foreswear (verb)
+*fȯr-ˈswer*
+- **to make a liar of (oneself) under or as if under oath**
+- **to reject or renounce under oath**
+- **may add an implication of perjury or betrayal**
+	I cannot _forswear_ my principles
+	She _forswore_ her allegiance to the old regime.
+	He _foreswore_ cigarettes as his New Year's resolution.
 
 ##### Forte (noun)
 *ˈfȯrt* / *ˈfȯr-ˌtā*

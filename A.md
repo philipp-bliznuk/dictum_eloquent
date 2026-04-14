@@ -366,6 +366,13 @@ _ˈāl_
 	a gentle breeze would _allay_ the heat
 	The new advertising campaign is an attempt to _allay_ the public's concerns about the safety of the company's products.
 
+##### Alms (noun)
+*ˈä(l)mz*
+- **something (such as money or food) given freely to relieve the poor**
+- **charity, donation**
+	distributing *alms* to the needy
+	believes that giving _alms_ to the poor is a moral duty
+
 ##### Aloof (adjective / adverb)
 *ə-ˈlüf*
 - **suggests a cool reserve arising from a sense of superiority or disdain for inferiors or from shyness**
@@ -914,6 +921,12 @@ _ə-ˈskan(t)s_
 - **to verify or prove to be true in pleading a cause**
 	He _averred_ that he was innocent.
 	Plenty of Trump’s most senior appointees have _averred_ that COVID started in a lab.
+
+##### Aviary (noun)
+*ˈā-vē-ˌer-ē*
+- **a place for keeping birds confined**
+	The zoo has a new outdoor _aviary_.
+	She turned her flat into a poopy _aviary_.
 
 ##### Avunculicide (noun)
 *ə-ˈvəŋ-kyə-lə-ˌsīd*
