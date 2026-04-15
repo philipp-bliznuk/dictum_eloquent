@@ -53,6 +53,12 @@
 	a hunter relentlessly tracking his _quarry_
 	an area where workers are _quarrying_ for limestone
 
+##### Quarterstaff (noun)
+*ˈkwȯ(r)-tər-ˌstaf*
+- **a long stout staff formerly used as a weapon and wielded with one hand in the middle and the other between the middle and the end**
+	In the tales of Robin Hood, Little John famously defeats Robin in a duel on a log bridge using nothing but a sturdy *quarterstaff*.
+	While swords were expensive status symbols, the *quarterstaff* was the practical weapon of choice for travelers and peasants because it was cheap to make and highly effective.
+
 ##### Queasy (adjective)
 *ˈkwē-zē*
 - **causing nausea**

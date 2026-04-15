@@ -269,6 +269,13 @@
 	_refuse_ had littered the playground until our volunteer group cleaned it up
 	As workers separated the burning _refuse_ and doused the items with water, a 911 call was made.
 
+##### Refute (verb)
+*ri-ˈfyüt*
+- **to prove wrong by argument or evidence: show to be false or erroneous**
+- **to deny the truth or accuracy of: reject**
+	The lawyer _refuted_ the testimony of the witness.
+	He _refutes_ the notion that he's planning to retire soon.
+
 ##### Regal (adjective)
 *ˈrē-gəl*
 - **of, relating to, or suitable for a king: royal**

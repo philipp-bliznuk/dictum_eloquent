@@ -110,6 +110,13 @@ _parā bellum_
 	her absurd explanation for the collision was a _parcel_ of lies
 	_parceled out_ the assignments for work on the parish fair
 
+##### Pardoner (noun)
+*ˈpärd-nər*
+- **a medieval preacher delegated to raise money for religious works by soliciting offerings and granting indulgences**
+- **one that pardons**
+	In Geoffrey Chaucer's The Canterbury Tales, the *Pardoner* is a complex villain who openly admits that his relics are fakes and his sermons are designed only to loosen people's purse strings.
+	By the late Middle Ages, the blatant abuses of the *pardoner* system became a major point of contention, eventually helping to fuel the fires of the Protestant Reformation.
+
 ##### Pariah (noun)
 *pə-ˈrī-ə*
 - **one that is despised or rejected: outcast**
@@ -625,6 +632,13 @@ Peruke (noun)
 	We _plodded_ through mud that came up past our ankles.
 	He _plodded_ through his work.
 
+##### Ploy (noun)
+*ˈplȯi*
+- **escapade, frolic**
+- **a tactic intended to embarrass or frustrate an opponent: stratagem**
+	Her story about being sick is only a _ploy_ to get you to give her money.
+	asking me to take her shopping turned out to be a _ploy_ to get me to the surprise party
+
 ##### Ply (noun / verb)
 *ˈplī*
 - **one of several layers (as of cloth) usually sewn or laminated together**
@@ -704,6 +718,13 @@ Peruke (noun)
 - **a grating of iron hung over the gateway of a fortified place and lowered between grooves to prevent passage**
 	The entrance to the car park even passes under a _portcullis_ and guests’ bags go through an X-ray machine hidden in the rock-face.
 	The prior owner went all out on building a Medieval-style castle, with a moat, a drawbridge and a _portcullis_.
+
+##### Portent (noun)
+*ˈpȯr-ˌtent*
+- **something that foreshadows a coming event: omen, sign**
+- **marvel, prodigy**
+	a red sky in the morning can be a _portent_ of a coming storm
+	a scout was sent to have a look at this teenage pitcher who was supposed to be the latest _portent_ of the baseball world
 
 ##### Portico (noun)
 *ˈpȯr-ti-ˌkō*

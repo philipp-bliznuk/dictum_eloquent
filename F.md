@@ -122,6 +122,13 @@
 	She made her son's costume from scraps of _felt_.
 	Picking up embroidery, crochet, sewing, _felting_, or knitting is a fun way to expand your home’s decor by making something meaningful.
 
+##### Feretory (noun)
+*ˈferəˌtōrē*
+- **an ornate often portable bier for the relics of a saint**
+- **a narrow space behind the high altar of a medieval cathedral or large church**
+	During the festival, the monks carried the ornate *feretory* through the streets so the townspeople could catch a glimpse of the holy relics.
+	In Westminster Abbey, the *feretory* of St. Edward the Confessor remains a site of pilgrimage, situated in a quiet space behind the main altar.
+
 ##### Fervor (noun)
 *ˈfər-vər*
 - **intensity of feeling or expression**

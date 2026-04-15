@@ -869,6 +869,13 @@
 	The town is a _congenial_ place for raising children.
 	She was _congenial_ and easygoing.
 
+##### Conifer (noun)
+*ˈkä-nə-fər*
+- **a bush or tree (such as a pine) that produces cones and that usually has leaves that are green all year**
+- **literally means "cone-bearer," referring to the characteristic way these plants reproduce using cones rather than flowers**
+	The hiking trail wound through a dense forest of *conifers*, where the scent of pine and spruce needles filled the cool mountain air.
+	When landscaping the backyard, she chose dwarf *conifers* because they maintain their green foliage and structure throughout the harsh winter months.
+
 ##### Conjecture (noun / verb)
 *kən-ˈjek-chər*
 - **inference formed without proof or sufficient evidence**

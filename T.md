@@ -621,3 +621,10 @@
 - **one that twaddles: twaddler**
 	We don't believe that _twaddle_ anymore.
 	the novel's elaborate theory detailing a supposed 2,000-year-old conspiracy is mostly tiresome _twaddle_
+
+##### Twill (noun)
+*ˈtwil*
+- **a textile weave in which the filling threads pass over one and under two or more warp threads to give an appearance of diagonal lines**
+- **a fabric with a twill weave**
+	Most blue jeans are made from a rugged cotton *twill* called denim, which gives them their iconic diagonal texture and long-lasting strength.
+	The upholstery was finished in a heavy silk *twill*, chosen specifically because the diagonal weave makes the fabric more resistant to wrinkling and wear.

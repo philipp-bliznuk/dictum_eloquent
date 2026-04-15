@@ -339,6 +339,13 @@
 	The admiral’s gold *epaulets* caught the sunlight, their long silk fringes swaying with every step he took across the deck.
 	For the gala, the designer added faux-pearl *epaulets* to the blazer, giving the structured shoulders a regal, avant-garde flair.
 
+##### Epistle (noun)
+*i-ˈpi-səl*
+- **capitalized: one of the letters adopted as books of the New Testament**
+- **a formal or elegant letter**
+	St. Paul's _Epistle_ to the Romans.
+	He penned lengthy _epistles_ to her.
+
 ##### Epithet (noun)
 *ˈe-pə-ˌthet*
 - **a characterizing word or phrase accompanying or occurring in place of the name of a person or thing**
