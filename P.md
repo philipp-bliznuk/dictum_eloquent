@@ -1109,6 +1109,13 @@ Peruke (noun)
 	Has anyone traced the _provenances_ of these paintings?
 	The artifact is of unknown _provenance_.
 
+##### Proverbial (adjective)
+*prə-ˈvər-bē-əl*
+- **of, relating to, or resembling a proverb**
+- **that has become a proverb or byword: commonly spoken of**
+	the *proverbial* smoking gun
+	In general, investors have reason to be enthusiastic about getting in on the _proverbial_ ground floor of a newly public company.
+
 ##### Providence (noun)
 *ˈprä-və-dən(t)s*
 - **capitalized: divine guidance or care**

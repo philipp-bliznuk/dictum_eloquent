@@ -473,6 +473,13 @@
 	I waited an _inordinate_ amount of time.
 	They have had an _inordinate_ number of problems with the schedule.
 
+##### Inquest (noun)
+*ˈin-ˌkwest*
+- **a judicial or official inquiry or examination especially before a jury**
+- **inquiry, investigation**
+	The court has ordered an _inquest_ into his death.
+	the police conducted an _inquest_ into the case
+
 ##### Inroad (noun)
 *ˈin-ˌrōd*
 - **an advance or penetration often at the expense of someone or something -> usually used in plural**

@@ -109,6 +109,13 @@
 	This cement planter is adorned with green stones and gold trim to give the appearance of a _geode_.
 	The geologist explained that the *geode*'s rough exterior was composed of weather-resistant chalcedony, which protected the delicate amethyst crystals inside for millions of years.
 
+##### Gibbet (noun / verb)
+*ˈji-bət*
+- **a frame usually of two upright posts and a transverse beam from which a noose is suspended and that is used for executions by hanging: gallows**
+- **to expose to infamy or public scorn**
+	In the 18th century, the highwayman’s body was placed in a *gibbet* at the crossroads where he committed his crimes, left to rot as a deterrent to other outlaws.
+	The wind whistled through the rusted chains of the *gibbet*, a lonely and macabre landmark on the edge of the moor.
+
 ##### Giddy (adjective)
 *ˈgi-dē*
 - **lightheartedly silly: frivolous**

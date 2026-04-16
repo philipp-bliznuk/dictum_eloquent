@@ -546,6 +546,13 @@ _bi-ˈsä-təd_
 	The need to placate a _braying_ mob of X posters desperate to see Lemon in chains does not constitute an emergency.
 	_bray_ the seeds using a mortar and pestle
 
+##### Brazen (adjective / verb)
+*ˈbrā-zᵊn*
+- **marked by shameless or disrespectful boldness**
+- **sounding harsh and loud like struck brass**
+	a _brazen_ demand for special treatment just because she's rich
+	a filmmaker willing to _brazen_ the criticism that such a violent film was sure to provoke
+
 ##### Break fast (idiom)
 - **to have the first meal after fast**
 - **to have breakfast**

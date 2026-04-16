@@ -442,6 +442,13 @@
 	_rhapsodised_ about the food so as not to hurt their host's feelings
 	King Charles has _rhapsodised_ about the charms of Romania for decades.
 
+##### Rheum (noun)
+*ˈrüm*
+- **a watery discharge from the mucous membranes especially of the eyes or nose**
+- **a cold or "catarrh" (a buildup of mucus), or more broadly, the tears associated with sorrow or old age: tears**
+	He rubbed the *rheum* from his eyes and blinked at the bright morning sun streaming through the window.
+	The old man’s eyes were clouded with *rheum* and age, yet they still sparked with a sharp, lingering intelligence.
+
 ##### Rictus (noun)
 *ˈrik-təs*
 - **the opening or gape of a mouth**

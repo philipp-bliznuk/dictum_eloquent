@@ -327,6 +327,14 @@
 	the young woman's wealth unfortunately made her a _lodestone_ for fortune hunters
 	Davies has basically just tapped into my intellectual _lodestone_ here.
 
+##### Loggerhead (noun)
+*ˈlȯ-gər-ˌhed*
+- **blockhead / a disproportionately large head**
+- **moron, idiot, stupid**
+- **at loggerheads: in or into a state of quarrelsome disagreement**
+	that _loggerhead_ couldn't find the business end of a cow even if his life depended on it
+	But the two sides were soon at _loggerheads_.
+
 ##### Logorrhea (noun)
 *ˌlȯ-gə-ˈrē-ə*
 - **excessive and often incoherent talkativeness or wordiness**

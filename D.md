@@ -172,6 +172,13 @@
 	The photographer is known for her _deft_ use of lighting.
 	a luthier whose _deft_ craftsmanship is prized by violinists the world over
 
+##### Deign (verb)
+*ˈdān*
+- **to condescend reluctantly and with a strong sense of the affront to one's superiority that is involved: stoop**
+- **to condescend to give or offer**
+	I wouldn't _deign_ to answer that absurd accusation.
+	never so much as *deigning* a glance
+
 ##### Deity (noun)
 *ˈdē-ə-tē*
 - **the rank or essential nature of a god or goddess: divinity**
