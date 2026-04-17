@@ -233,6 +233,13 @@
 - **the mouth of a drain or sewer**
 	The drifters were used to track the path of micro currents near the site of a break in a sewer *outfall* pipe.
 
+##### Outset (noun)
+*ˈau̇t-ˌset*
+- **beginning, start**
+- **inception, commencement**
+	_From its very outset_, the company has produced the highest quality products.
+	She set high goals for herself _at the outset_ of her career.
+
 ##### Overt (adjective)
 *ō-ˈvərt*
 - **open to view: manifest**

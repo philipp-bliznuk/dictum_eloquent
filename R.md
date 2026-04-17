@@ -139,6 +139,14 @@
 	the rat _ravened_ the poisoned bait just as we had hoped
 	they *ravened* the earth, destroying its resources
 
+##### Raving (adjective / noun)
+*ˈrā-viŋ*
+- **talking wildly or irrationally**
+- **irrational, incoherent, wild, or extravagant utterance or declamation -> usually used in plural**
+- **ravishing**
+	a *raving* lunatic
+	a *raving* beauty
+
 ##### Ravishing (adjective)
 *ˈra-vi-shiŋ*
 - **unusually attractive, pleasing, or striking**
