@@ -403,6 +403,13 @@ _bi-ˈsä-təd_
 	a *blithe* disregard for the rights of others
 	arrived late in his usual _blithe_ way
 
+##### Blotter (noun)
+*ˈblä-tər*
+- **a piece of blotting paper / blotting device: material used to absorb excess liquid, typically ink or oil**
+- **a book in which entries (as of transactions or occurrences) are made temporarily pending their transfer to permanent record books: draft**
+	The police _blotter_ reports in 2026 show no abatement.
+	After signing the treaty, the diplomat carefully pressed the silver-handled *blotter* onto the parchment to ensure the signature didn't smudge.
+
 ##### Bloviate (verb)
 *ˈblō-vē-ˌāt*
 - **to speak or write verbosely and windily**
@@ -430,6 +437,13 @@ _bi-ˈsä-təd_
 - **to blow in stormy noisy gusts**
 	He brags and _blusters_, but he never really does what he says he'll do.
 	all the _bluster_ in the campaign speech was intended to hide a lack of specifics
+
+##### Bohemian (noun)
+*bō-ˈhē-mē-ən*
+- **a native or inhabitant of Bohemia (region of western Czech Republic)**
+- **a person (such as a writer or an artist) living an unconventional life usually in a colony with others: vagabond, wanderer**
+	The *Bohemian* glassmakers of the 18th century were world-renowned for their intricate crystal and vibrant stained glass.
+	After graduating, he moved to a small attic apartment in Paris to lead a *bohemian* existence, spending his days painting and his nights discussing philosophy in cafes.
 
 ##### Boisterous (adjective)
 *ˈbȯi-st(ə-)rəs*

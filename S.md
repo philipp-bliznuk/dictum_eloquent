@@ -635,6 +635,18 @@
 - **half-assed**
 	the police department's investigation of the charges against the mayor was _slapdash_ and not very thorough
 
+##### Slate (noun / verb)
+*ˈslāt*
+- **a dense fine-grained metamorphic rock produced by the compression of various sediments (such as clay or shale) so as to develop a characteristic cleavage**
+- **a written or unwritten record (as of deeds)**
+- **a dark purplish gray**
+- **to designate (someone or something) for a specified purpose or action occurring especially at a fixed time**
+- **to thrash or pummel severely / to criticize or censure severely**
+	The house has a _slate_ roof.
+	started with a clean *slate*
+	you've been _slated_ for a three o'clock interview
+	ready to _slate_ anyone who disagreed
+
 ##### Slat (noun)
 *ˈslat*
 - **a thin narrow flat strip especially of wood or metal**

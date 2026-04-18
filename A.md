@@ -73,6 +73,13 @@
 	He likes to wear clothes that _accentuate_ his muscular build.
 	let's _accentuate_ the saxophones during this piece by having the sax players stand up
 
+##### Acclaim (noun / verb)
+*ə-ˈklām*
+- **applaud, praise**
+- **to declare by acclamation**
+	Critics *acclaimed* her performance.
+	was *acclaimed* president of the society
+
 ##### Accolade (noun)
 *ˈa-kə-ˌlād*
 - **a mark of acknowledgment: award**

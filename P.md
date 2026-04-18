@@ -81,6 +81,13 @@
 	the tension in the air was almost _palpable_
 	The attraction between them was *palpable*.
 
+##### Palpitate (verb)
+*ˈpal-pə-ˌtāt*
+- **to beat rapidly and strongly: throb**
+- **vibrate, pulse**
+	My heart began to _palpitate_ when I was announced as the winner.
+	the man's heart began to _palpitate_, and he feared another attack was coming on
+
 ##### Pang (noun / verb)
 *ˈpaŋ*
 - **a brief piercing spasm of pain**

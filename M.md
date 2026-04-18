@@ -134,6 +134,13 @@
 	The country's _maritime_ industry is an important part of its economy.
 	She's an expert in _maritime_ law.
 
+##### Marque (noun)
+*ˈmärk*
+- **a brand or make of a product (such as a sports car)**
+- **written authority granted to a private person by a government to seize the subjects of a foreign state or their goods: letters of marque**
+	To compete, the German *marque* had to build and sell at least 500 examples.
+	Earlier this year, my Utah senator Mike Lee proposed that Congress bring back _letters of marque_ and reprisal.
+
 ##### Masticate (verb)
 *ˈma-stə-ˌkāt*
 - **to grind or crush (food) with or as if with the teeth: chew**

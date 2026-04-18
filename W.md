@@ -240,6 +240,14 @@
 	a face *wizened* by age
 	_wizened_ old women
 
+##### Wrack (noun / verb)
+*ˈrak*
+- **a wrecked ship: wreckage**
+- **marine vegetation: kelp**
+- **a remnant of something destroyed**
+	it's amazing how a raging sea can _wrack_ a seemingly sturdy beachfront home
+	After the chaos that _wracked_ Minnesota this year, music can be a solace.
+
 ##### Writhe (verb)
 *ˈrīt͟h*
 - **to twist into coils or folds**

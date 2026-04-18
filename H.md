@@ -102,6 +102,12 @@
 	After weeks of heavy rain, the backyard became a swamp because the thick *hardpan* beneath the grass wouldn't let the water soak into the water table.
 	The pioneer farmers struggled to break through the *hardpan* with their wooden plows, eventually requiring heavy steel blades to reach the fertile soil underneath.
 
+##### Harpsichord (noun)
+*ˈhärp-si-ˌkȯrd*
+- **a stringed instrument resembling a grand piano but usually having two keyboards and two or more strings for each note and producing tones by the plucking of strings with plectra**
+	The _harpsichord_ was also a victim of the orchestral era.
+	The production will feature professional opera singers, including a countertenor, accompanied by dancers and live _harpsichord_ music.
+
 ##### Harridan (noun)
 *ˈher-ə-dən*
 - **an ill-tempered scolding woman**
@@ -290,6 +296,13 @@
 - **inn, hotel**
 	the grande dame of the city's _hostelries_, it has played host to presidents, kings, and Hollywood royalty
 	In light of the city’s new broader appeal, local *hostelry* has upped its game considerably.
+
+##### Hostler / Ostler (noun)
+*ˈhä-slər* / *ˈä-slər*
+- **one who takes care of horses or mules**
+- **one who moves locomotives in and out of a roundhouse**
+	As the stagecoach pulled into the courtyard, the *ostler* rushed out to unhitch the weary team and lead them toward the hay and water.
+	The *hostler* carefully maneuvered the diesel engine onto the turntable, ensuring it was fueled and ready for the morning freight run.
 
 ##### Howdah (noun)
 *ˈhau̇-də*

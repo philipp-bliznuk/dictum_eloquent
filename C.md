@@ -97,6 +97,13 @@
 	carefully _canted_ the ladder against the wall
 	the *cant* of thieves
 
+##### Canton (noun)
+*ˈkan-tᵊn*
+- **a small territorial division of a country: such as one of the states of the Swiss confederation**
+- **division, section**
+	Proposals need a majority of both voters and _cantons_ to pass.
+	Tankers from other cities and _cantons_ have joined the efforts to aid and assist citizens.
+
 ##### Cantor (noun)
 *ˈkan-tər*
 - **a choir leader: precentor**
@@ -653,6 +660,15 @@
 - **a style or manner of arranging the hair**
 - **hairdresser**
 	I love his eerily perfect *coiffure* and his … impish smile …
+
+##### Coif (noun / verb)
+*ˈkȯif* / *ˈkwäf*
+- **a close-fitting cap: a hoodlike cap worn under a veil by nuns or a protective usually metal skullcap formerly worn under a hood of mail**
+- **coiffure**
+- **to cover or dress with or as if with a coif**
+- **to arrange (hair) by brushing, combing, or curling**
+	The Irish actress is crazed as Mary, demure as Ida and a force of nature as the Bride, rocking a bright orange dress and a black veil in her white _coif_.
+	Her long blonde hair was nicely *coifed*.
 
 ##### Coin (verb)
 *ˈkȯin*
