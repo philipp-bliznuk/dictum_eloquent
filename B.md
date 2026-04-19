@@ -567,6 +567,13 @@ _bi-ˈsä-təd_
 	a _brazen_ demand for special treatment just because she's rich
 	a filmmaker willing to _brazen_ the criticism that such a violent film was sure to provoke
 
+##### Brazier (noun)
+*ˈbrā-zhər*
+- **a pan for holding burning coals**
+- **a utensil in which food is exposed to heat through a wire grill**
+	The guards huddled around a rusted iron *brazier* in the courtyard, rubbing their hands together against the bitter winter night.
+	Excavators found a bronze *brazier* in the ruins of the Roman villa, suggesting the room served as a private study during the colder months.
+
 ##### Break fast (idiom)
 - **to have the first meal after fast**
 - **to have breakfast**
@@ -666,6 +673,13 @@ _bi-ˈsä-təd_
 *ˈbəm(p)-kən*
 - **an awkward and unsophisticated rustic**
 	the _bumpkin_ was overwhelmed by the city's confusing subway system
+
+##### Bunting (noun)
+*ˈbən-tiŋ*
+- **a lightweight loosely woven fabric used chiefly for flags and festive decorations**
+- **decorations especially in the colors of the national flag**
+	The entire village was draped in red, white, and blue *bunting* to celebrate the anniversary of the town's founding.
+	Whole streets have sprouted canopies of banners and *bunting*.
 
 ##### Bureau (noun)
 *ˈbyu̇r-(ˌ)ō*

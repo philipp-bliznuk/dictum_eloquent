@@ -19,6 +19,13 @@
 	She found a _lacuna_ in the historical record.
 	attributes many of the nation's problems to a _lacuna_ of leadership at the top
 
+##### Ladder-back (adjective)
+*ˈla-dər-ˌbak*
+- **having a back consisting of two upright posts connected by horizontal slats**
+- **furniture design, especially chair**
+	The farmhouse kitchen was anchored by a heavy oak table surrounded by six mismatched *ladder-back* chairs.
+	The collector identified the piece as an authentic 18th-century *ladder-back* by the hand-turned finials on the upright posts.
+
 ##### Lambaste (verb)
 *(ˌ)lam-ˈbāst*
 - **to assault violently: beat, whip**
@@ -207,6 +214,13 @@
 - **of, relating to, suggestive of, or resembling a lion**
 	a _leonine_ mane of hair
 	Both young and old, Douglass had magnificent, _leonine_ looks.
+
+##### Lesion (noun)
+*ˈlē-zhən*
+- **injury, harm**
+- **an abnormal change in structure of an organ or part due to injury or disease**
+	The gardener noticed brown *lesions* on the tomato leaves, a tell-tale sign of a fungal infection spreading through the crop.
+	During the annual check-up, the doctor noted a small, pigmented *lesion* on the patient's shoulder and recommended a biopsy to rule out malignancy.
 
 ##### Levity (noun)
 *ˈle-və-tē*

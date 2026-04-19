@@ -5,6 +5,13 @@
 	The ship's captain ordered the crew to the _yawl_ boat.
 	Prior to the incident, Wilson had been aboard a 52-foot _yawl_ named the Emerald with friends Oster and Colleen McGovern.
 
+##### Yew (noun)
+*ˈyü*
+- **any of a genus of evergreen gymnospermous trees and shrubs with stiff linear leaves and seeds surrounded by a fleshy red aril**
+- **an archery bow made of yew**
+	a bow made of _yew_
+	The old *yew* at the edge of the estate cast a deep, permanent shadow, its twisted trunk looking like a sculpture carved by centuries of wind.
+
 ##### Yokel (noun)
 *ˈyō-kəl*
 - **a naive or gullible inhabitant of a rural area or small town**

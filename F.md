@@ -184,6 +184,13 @@
 	I have to admit that I told a _fib_ when I said I enjoyed the movie.
 	_fibbed_ and said that he had remembered to water her plants while she was away
 
+##### Fiduciary (adjective / noun)
+*fə-ˈdü-shē-ˌer-ē*
+- **of, relating to, or involving a confidence or trust**
+- **one that holds a fiduciary relation or acts in a fiduciary capacity (puts another's interests above their own)**
+	As the executor of the estate, she had a *fiduciary* duty to manage the inheritance fairly for all the siblings, regardless of her personal feelings.
+	The board of directors has a *fiduciary* responsibility to the shareholders to make decisions that protect the company's long-term value.
+
 ##### Fiefdom (noun)
 *ˈfēf-dəm*
 - **an area over which someone exercises control as or in the manner of a feudal lord**
@@ -317,6 +324,13 @@
 - **to sell (something, such as stolen goods) illegally / steal**
 	The sailors were _flogged_ for attempting a mutiny.
 	He was _flogged_ in the press for failing to take action.
+
+##### Floss (noun)
+*ˈfläs*
+- **soft thread of silk or mercerized cotton for embroidery**
+- **fluffy fibrous material**
+	used cotton _floss_ to simulate Santa's beard
+	A smell of burning caramel filled the air around the *floss*-maker stands on the local fete.
 
 ##### Flout (verb)
 *ˈflau̇t*
@@ -496,6 +510,13 @@
 - **characterised by or reflecting economy the use of resources**
 - **implies absence of luxury and simplicity of lifestyle**
 	ran a *frugal* household
+
+##### Fulminous (adjective)
+*ˈfu̇lmənəs*
+- **of, relating to, or resembling thunder and lightning**
+- **an action or speech that is sudden, loud, and violently expressive**
+	The hikers hurried down the mountain as the *fulminous* clouds gathered, crackling with the static of an impending storm.
+	The CEO's *fulminous* entrance into the boardroom silenced the chatter instantly; everyone knew a verbal lightning strike was coming.
 
 ##### Fumarole (noun)
 *ˈfyü-mə-ˌrōl*

@@ -370,6 +370,13 @@
 	an impressively _sedulous_ suitor, he was constantly sending her flowers and other tokens of his affection
 	a _sedulous_ investigation of the murder
 
+##### Seething (adjective)
+*ˈsē-ṯẖiŋ*
+- **intensely hot: boiling**
+- **constantly moving or active: agitated**
+	The harbor was a *seething* hive of activity as hundreds of fishermen scrambled to prepare their boats before the storm arrived.
+	Even though she spoke in a calm, measured voice, I could tell she was *seething* with fury at the unexpected betrayal.
+
 ##### Segue / Segway (noun / verb)
 *ˈse-(ˌ)gwā*
 - **a transition made without pause or interruption: the act or an instance of segueing**
@@ -390,6 +397,13 @@
 - **the entire sensory apparatus**
 	This collective _sensorium_ is deeply shared.
 	At times, this disorientation recreates the _sensorium_ of misinformation that has defined this conflict.
+
+##### Sepia (noun / adjective)
+*ˈsē-pē-ə*
+- **a brown melanin-containing pigment from the ink of cuttlefishes**
+- **a brownish-gray to dark olive-brown color**
+	The attic was filled with dusty boxes of *sepia*-toned portraits of ancestors I had never met.
+	The illustrator chose to work in *sepia* ink rather than black to give the sketches a softer, more antique feel.
 
 ##### Sequester (verb)
 *si-ˈkwe-stər*
@@ -546,6 +560,12 @@
 	The ring features a _signet_ design, with the oval plate at the top depicting a married couple, and flutes (raised parallel grooves) on each side.
 	That is our _signet_, which makes a clean impression in sealing wax.
 
+##### Silage (noun)
+*ˈsī-lij*
+- **fodder (such as hay or corn) converted into succulent feed for livestock through processes of anaerobic bacterial fermentation (as in a silo)**
+	After the rainy week, the farmer spent the entire weekend harvesting the corn to ensure the *silage* was stored before the first frost.
+	As we drove past the dairy farm, the air was filled with the distinct, slightly sweet and vinegary scent of fermenting *silage*.
+
 ##### Silo (noun / verb)
 *ˈsī-(ˌ)lō*
 - **a trench, pit, or especially a tall cylinder (as of wood or concrete) usually sealed to exclude air and used for making and storing silage**
@@ -660,6 +680,13 @@
 - **saliva dribbling from the mouth**
 	a dog _slavering_ over a bone
 	_slaver_ dripped from the snarling dog's jaws
+
+##### Slave (verb / noun)
+*ˈslāv*
+- **to work very hard for long hours or under difficult conditions: drudge**
+- **someone or something that is completely subservient to a dominating person or influence**
+	I _slaved_ all morning to get the work done on time.
+	He's a _slave_ to fashion trends.
 
 ##### Slew (noun / verb)
 *ˈslü*
@@ -960,6 +987,13 @@
 *ˈskwər(-ə)l ə-ˈwā*
 - **to put (something) in a safe or secret place especially so that it can be kept for future use**
 	Most of his money is _squirreled away_ somewhere.
+
+##### Stalk (noun / verb)
+*ˈstȯk*
+- **a slender upright object or supporting or connecting part: peduncle**
+- **to walk stiffly or haughtily**
+	She angrily _stalked_ out of the room.
+	Foeniculum vulgare produces a useful and tasty bulb, as well as edible fronds, _stalks_, and seeds.
 
 ##### Stalwart (adjective / noun)
 *ˈstȯl-wərt*

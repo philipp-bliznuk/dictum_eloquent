@@ -267,6 +267,20 @@ _parā bellum_
 	a _pedagogue_ whose classroom lessons consisted entirely of reading directly from the textbook in a monotone
 	They are attracted to personalities that feel to them more like friends than _pedagogues_.
 
+##### Pedicel (noun)
+*ˈpe-də-ˌsel*
+- **a slender basal part of an organism or one of its parts**
+- **the smaller stalks branching off the peduncle to hold individual flowers**
+	On a stalk of lily of the valley, each tiny white bell hangs from its own delicate **pedicel**.
+	When picking a pear, you want to ensure the **pedicel** stays attached to the fruit to help it stay fresh longer during storage.
+
+##### Peduncle (noun)
+*ˈpē-ˌdəŋ-kəl* / *pi-ˈdəŋ-kəl*
+- **a stalk bearing a flower or flower cluster or a fructification**
+- **a narrow part by which some larger part or the whole body of an organism is attached: stalk, pedicel**
+	When harvesting grapes, you should cut at the **peduncle** to ensure the entire cluster remains intact for transport.
+	The MRI showed a minor lesion near the **cerebellar peduncle**, which explained the patient's sudden issues with balance and coordination.
+
 ##### Peerless (adjective)
 *ˈpir-ləs*
 - **matchless, incomparable**

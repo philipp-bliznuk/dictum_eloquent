@@ -51,6 +51,13 @@
 	The sensation is entirely distinct from touch, yet _kinesthesia_ is equally if not more important for complex motor tasks.
 	This sense of body position, known as _kinesthesia_, has proved tricky to build into prosthetic arms.
 
+##### Kirk (noun)
+*ˈkərk*
+- **church**
+- **capitalized: the national church of Scotland as distinguished from the Church of England or the Episcopal Church in Scotland**
+	an elder of _the Kirk_
+	left Edinburgh early in the morning for St. John's _Kirk_ in Perth
+
 ##### Klaxon (noun)
 *ˈklak-sən*
 - **an electrically operated horn or warning signal**

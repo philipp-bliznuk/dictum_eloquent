@@ -1156,6 +1156,13 @@ _ˈkau̇n-tᵊn-ən(t)s_
 	a menacing _crag_ overhangs the hiking trail
 	Her travels are usually inspired by mountain bike trails, classic _crags_, and whatever is happening in the sky.
 
+##### Crake (noun)
+*ˈkrāk*
+- **a short-billed rail (such as the corncrake)**
+- **the corncrake's cry**
+	The corn _crake_ is considered a species at risk of extinction by the Royal Society for the Protection of Birds.
+	On the trail, Holt describes the nearby corn _crake_ to Kevin, who can’t see through his swollen eyes.
+
 ##### Crass (adjective)
 *ˈkras*
 - **guided by or indicative of base or materialistic values**

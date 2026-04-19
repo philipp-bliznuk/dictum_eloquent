@@ -278,6 +278,13 @@
 	he is _affluent_ and can afford to send his children to the best schools
 	The *affluent* who hold financial assets have done very well as stock prices have climbed.
 
+##### Affray (noun / verb)
+*ə-ˈfrā*
+- **a fight in a public place that disturbs the peace: fray, brawl**
+- **startle, frighten**
+	the police had to break up an _affray_ that started between fans of the opposing teams
+	He emerged from the *affray* with a torn coat and a bruised ego, though he was fortunately spared any lasting injury.
+
 ##### Affront (verb / noun)
 *ə-ˈfrənt*
 - **a deliberate offense: insult**

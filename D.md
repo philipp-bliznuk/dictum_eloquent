@@ -95,6 +95,13 @@
 	The bottles were uncorked and the wine was _decanted_ an hour before the meal.
 	Unused guest toiletries are _decanted_ for use in staff changing rooms.
 
+##### Deciduous (adjective)
+*di-ˈsi-jə-wəs*
+- **falling off or shed seasonally or at a certain stage of development in the life cycle: seasonal**
+- **ephemeral**
+	the bare branches of a _deciduous_ tree in winter
+	he chose not to fret about the _deciduous_ discomforts of his existence
+
 ##### Declaim (verb)
 *di-ˈklām*
 - **to speak rhetorically**
@@ -558,6 +565,19 @@
 	on the Broadway _docket_ for the early part of this season
 	The court has not _docketed_ the request as of Monday afternoon.
 
+##### Dog-eared (adjective)
+*ˈdȯg-ˌird*
+- **having dog-ears**
+- **shabby, timeworn, dilapidated**
+	an old _dog-eared_ copy of a beloved book
+	a *dog-eared* resort
+
+##### Dog-ear (noun)
+*ˈdȯg-ˌir*
+- **the turned-down corner of a page especially of a book**
+	The cop _dog-ears_ the page and asks to use your landline.
+	Romance readers are known to highlight, _dog-ear_ and annotate their favorite romantic or erotic scenes.
+
 ##### Dogged (adjective)
 *ˈdȯ-gəd*
 - **marked by stubborn determination**
@@ -638,6 +658,13 @@
 	She had a _dour_ expression on her face.
 	the _dour_ mood of the crowd
 
+##### Douse / Dowse (noun / verb)
+*ˈdau̇s* / *ˈdau̇z*
+- **to plunge into water / to throw a liquid on: drench**
+- **blow, stroke**
+	The books were _doused_ in gasoline and set ablaze.
+	those soccer hooligans need a sound _douse_ or two from a police officer's club
+
 ##### Dowager (noun)
 *ˈdau̇-i-jər*
 - **a widow holding property or a title from her deceased husband**
@@ -696,6 +723,13 @@
 	coffee *dregs* at the bottom of the cup
 	the *dregs* of society
 	the last *dregs* of fuel
+
+##### Drop cloth (noun)
+*ˈdräp ˈklȯth*
+- **a protective sheet (such as of cloth or plastic) used especially by painters to cover floors and furniture**
+- **a large piece of fabric used as a backdrop in stagecraft**
+	Before we started sanding the ceiling, we draped a heavy-duty *drop cloth* over the sofa and taped another one down across the hardwood floor.
+	The studio floor was a patchwork of old *drop cloths*, each one stained with years of colorful oil paint splatters.
 
 ##### Druse (noun)
 *droo͞z*

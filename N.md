@@ -143,6 +143,13 @@
 	mixing bleach and ammonia can cause _noxious_ fumes that can seriously harm you
 	_noxious_ smog that for years has been encrusting the historic cathedral with soot
 
+##### Nugatory (adjective)
+*ˈnü-gə-ˌtȯr-ē*
+- **of little or no consequence: trifling, inconsequential**
+- **having no force: inoperative**
+	comments too *nugatory* to merit attention
+	The law was unenforced and thus rendered *nugatory*.
+
 ##### Numinous (adjective)
 *ˈnü-mə-nəs*
 - **supernatural, mysterious, spiritual**

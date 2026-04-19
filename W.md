@@ -150,6 +150,13 @@
 - **a diminutive, insignificant, or presumptuous person**
 	some young _whippersnapper_ piped up with a pointless comment
 
+##### Whirligig (noun)
+*ˈ(h)wər-li-ˌgig*
+- **a child's toy having a whirling motion**
+- **merry-go-round**
+	The old man spent his retirement carving intricate wooden *whirligigs* shaped like sailors rowing boats to place along his fence.
+	In Shakespeare’s "Twelfth Night", the character Feste remarks, "And thus the *whirligig* of time brings in his revenges," suggesting that life's cycles eventually bring justice.
+
 ##### Whittle (verb)
 *ˈ(h)wi-tᵊl*
 - **to pare or cut off chips from the surface of (wood) with a knife**

@@ -266,6 +266,13 @@
 	She inherited her grandmother's silver *thimble*, which was worn smooth from decades of stitching quilts.
 	The sailor ensured the steel cable was looped tightly around the *thimble* to prevent the rope from fraying under heavy tension.
 
+##### Thistle (noun)
+*ˈthi-səl*
+- **any of various composite flowering plants that have prickles on their leaves and sometimes on their stems and often have showy heads of tubular, usually purple flowers**
+- **any of various other prickly plants**
+	While walking through the overgrown pasture, he had to be careful not to let the sharp spines of the *thistle* snag his wool trousers.
+	Farmers often view the bull *thistle* as a stubborn weed because its deep taproot and prickly exterior make it difficult to clear from grazing land.
+
 ##### Thorax (noun)
 *ˈthȯr-ˌaks*
 - **the part of the vertebrate body between the neck and the abdomen: ribcage**
@@ -600,6 +607,13 @@
 - **one who performs tumbling feats: acrobat**
 	She drank a _tumbler_ of water.
 	a gymnast who's a skillful _tumbler_
+
+##### Tuppence / Twopence (noun)
+*ˈtə-pən(t)s* / *ˈtü-ˌpen(t)s*
+- **the sum of two pennies**
+- **a coin worth twopence**
+	"Feed the birds, *tuppence* a bag," sang the bird woman in "Mary Poppins", inviting passersby to buy a small portion of seed for a tiny price.
+	"If you'll let me put in my *tuppence* worth, I think the blue paint would look much better than the grey."
 
 ##### Tureen (noun)
 *tə-ˈrēn*
