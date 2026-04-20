@@ -145,6 +145,13 @@
 	There's plenty of luxury to go around, as backseat passengers can _while_ away the miles with a massage.
 	The activity is in the Art Lab, which is brimming with other projects that will _while_ away the time.
 
+##### Whinny (noun / verb)
+*ˈ(h)wi-nē*
+- **the neigh of a horse especially when low or gentle**
+- **a sound resembling a neigh**
+	I heard the horse _whinnying_.
+	the father _whinnied_ and reared as his young daughter pretended to ride him
+
 ##### Whippersnapper (noun)
 *ˈ(h)wi-pər-ˌsna-pər*
 - **a diminutive, insignificant, or presumptuous person**

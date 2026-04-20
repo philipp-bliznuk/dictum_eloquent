@@ -598,6 +598,13 @@
 	After a while, the softness of his voice becomes _cloying_.
 	the _cloying_ sentiments of so many Mother's Day cards
 
+##### Cluck (noun / verb)
+*ˈklək*
+- **the characteristic sound made by a hen especially in calling her chicks**
+- **a stupid or naive person**
+	stuck with a bunch of _clucks_ on an extended bus tour
+	Commentators have been _clucking_ over his lack of experience.
+
 ##### Coalesce (verb)
 *ˌkō-ə-ˈles*
 - **to grow together**
@@ -718,6 +725,7 @@
 *kə-ˈmen-də-bəl*
 - **to recommend as worthy of confidence or notice**
 - **to mention with approbation: praise**
+- **to entrust for care or preservation**
 	His poetry is highly _commended_ by other writers.
 	I _commend_ this book to anyone interested in learning more about American history.
 

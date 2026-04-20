@@ -102,6 +102,13 @@
 	a person of _genteel_ upbringing
 	the _genteel_ manners of an old southern gentleman
 
+##### Gentry (noun)
+*ˈjen-trē*
+- **upper or ruling class: aristocracy**
+- **people of a specified class or kind: folks**
+	poor tenant farmers working for landed _gentry_
+	the old-line yachting _gentry_ frowns on vulgar displays of wealth
+
 ##### Geode (noun)
 *ˈjē-ˌōd*
 - **a nodule of stone having a cavity lined with crystals or mineral matter**

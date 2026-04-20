@@ -123,6 +123,13 @@
 	the arctic circle is a _nonentity_ - you won't see it on the way to the north pole
 	was so quiet he was almost a _nonentity_ at the meeting
 
+##### Nones (noun)
+*ˈnōnz*
+- **the ninth day before the ides according to ancient Roman reckoning**
+- **the fifth of the Catholic/Orthodox canonical hours (ninth hour of the day - approximately 3:00 PM)**
+	In the Roman calendar, the *Nones* of January fell on the fifth day, marking the transition from the start of the month toward the Ides.
+	As the clock struck three, the monks gathered in the chapel for *Nones*, the afternoon prayer that commemorates the hour of Christ's death.
+
 ##### Nous (noun)
 *ˈnüs* / *ˈnau̇s*
 - **an intelligent purposive principle of the world: prudence, wisdom**

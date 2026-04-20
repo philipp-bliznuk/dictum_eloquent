@@ -465,6 +465,13 @@
 	the house was once again _tranquil_ after the kids moved outside to play
 	though she should have been upset, she felt oddly _tranquil_ upon learning that she would not be receiving the scholarship
 
+##### Trattoria (noun)
+*ˌträ-tə-ˈrē-ə*
+- **restaurant**
+- **a usually small Italian restaurant**
+	We bypassed the tourist traps in the main square and found a tiny *trattoria* tucked down an alleyway, where the grandmother was still hand-rolling the gnocchi.
+	It’s a classic *trattoria*: the house wine is served in carafes, the bread is free, and the atmosphere is wonderfully loud.
+
 ##### Travail (noun / verb)
 *trə-ˈvāl*
 - **work especially of a painful or laborious nature: toil**

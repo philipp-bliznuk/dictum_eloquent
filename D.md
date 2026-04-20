@@ -738,6 +738,13 @@
 	This precious stone was doubtless nothing else than a *druse* of this shining but valueless mineral.
 	The walls of the cave were covered with scintillating *druse*.
 
+##### Duffer (noun)
+*ˈdə-fər*
+- **a peddler especially of cheap flashy articles**
+- **an incompetent, ineffectual, or clumsy person / a mediocre golfer**
+	We joined the other _duffers_ at the course.
+	He's a lovable old _duffer_.
+
 ##### Dungaree (noun)
 *ˌdəŋ-gə-ˈrē*
 - **a heavy coarse durable cotton twill woven from colored yarns / blue denim**
