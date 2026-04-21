@@ -579,6 +579,13 @@
 	After the scribe finished copying the gospel, the manuscript was sent to a monk who would *rubricate* the initial capitals and the feast days in the calendar.
 	The legal document was so complex that the clerk had to *rubricate* the key clauses to ensure they wouldn't be overlooked by the judge.
 
+##### Rudder (noun)
+*ˈrə-dər*
+- **an underwater blade that is positioned at the stern of a boat or ship and controlled by its helm and that when turned causes the vessel's head to turn in the same direction**
+- **a guiding force or strategy**
+	The captain ordered 'hard to port,' and the helmsman swung the wheel, causing the massive *rudder* to bite into the current and turn the tanker.
+	Without a clear plan, the committee was like a ship without a *rudder*, drifting aimlessly through hours of circular debate.
+
 ##### Rugose (adjective)
 *ˈrü-ˌgōs*
 - **full of wrinkles**

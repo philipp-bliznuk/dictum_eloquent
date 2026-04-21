@@ -227,6 +227,13 @@
 	The toad has _terrestrial_ habits, spending most of its time on shore.
 	scientists haven't even found all the _terrestrial_ life on our planet
 
+##### Terrine (noun)
+*tə-ˈrēn*
+- **a deep and usually covered bowl from which foods (such as soup) are served: tureen**
+- **a mixture of chopped meat, fish, or vegetables cooked and served in a terrine**
+	The menu features family recipes for dishes like _terrine_ de lambi.
+	After hours, food can be ordered in-room, and ranges from quiches to _terrines_ to comforting stews.
+
 ##### Terse (adjective)
 *ˈtərs*
 - **short**

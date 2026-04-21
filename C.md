@@ -1218,6 +1218,13 @@ _ˈkau̇n-tᵊn-ən(t)s_
 - **any of the embrasures alternating with merlons in a battlement**
 	Each receptor, ingenious in its design, recognised some characteristic microbial or viral signature—a kink in a virus’s RNA, a _crenellation_ in a microbial cell wall.
 
+##### Creole (adjective / noun)
+*ˈkrē-ˌōl*
+- **relating to or being highly seasoned food typically prepared with rice, okra, tomatoes, and peppers**
+- **a person of mixed French or Spanish and Black descent speaking a dialect of French or Spanish**
+	shrimp *creole*
+	Some people in Louisiana speak _Creole_.
+
 ##### Crepe (noun)
 *ˈkrāp*
 - **a light crinkled fabric woven of any of various fibers**

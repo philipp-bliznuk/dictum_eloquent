@@ -234,6 +234,13 @@ _parā bellum_
 - **the murder of one's own father**
 	The movie includes intense domestic abuse (verbal, physical and emotional), gun violence, death and descriptions of *patricide*.
 
+##### Pauper (noun)
+*ˈpȯ-pər*
+- **a person destitute of means except such as are derived from charity**
+- **a very poor person**
+	The sudden collapse of the local industry turned many of the town's hardworking families into *paupers* overnight.
+	you'll wind up a *pauper* on skid row
+
 ##### Peascod (noun)
 *ˈpēz-ˌkäd*
 - **a pea pod**
@@ -949,6 +956,13 @@ Peruke (noun)
 - **an aspiration or intention that may or may not reach fulfillment**
 	He spoke about his achievements without _pretension_.
 	I admire his honesty and lack of _pretension_.
+
+##### Prevail (verb)
+*pri-ˈvāl*
+- **to use persuasion successfully**
+- **to be frequent: predominate**
+	*prevailed* on him to sing
+	the west winds that *prevail* in the mountains
 
 ##### Prig (noun)
 *ˈprig*

@@ -667,6 +667,14 @@
 	you've been _slated_ for a three o'clock interview
 	ready to _slate_ anyone who disagreed
 
+##### Slather (noun / verb)
+*ˈsla-t͟hər*
+- **a great quantity -> often used in plural**
+- **to use or spend in a wasteful or lavish manner: squander**
+- **to spread thickly or lavishly**
+	We ate lobster _slathered_ with butter.
+	*slathered* sunscreen on her skin
+
 ##### Slat (noun)
 *ˈslat*
 - **a thin narrow flat strip especially of wood or metal**
@@ -940,6 +948,13 @@
 - **having a distinctively piquant taste: zesty**
 	a _sprightly_ child who often claims to be too tired to move when it's time to do chores
 	a *sprightly* salsa
+
+##### Spry (adjective)
+*ˈsprī*
+- **able to move quickly, easily, and lightly: nimble**
+- **graceful, agile**
+	an older woman who's still surprisingly _spry_
+	Then there's his trumpet playing, which he still does *spryly* at the age of 82, with its dusty allure intact.
 
 ##### Spume (noun / verb)
 *ˈspyüm*
