@@ -79,6 +79,12 @@
 	he plays the role of the duplicitous _knave_ who tries to foil the play's hero
 	How does history distinguish _knaves_ from legendary figures?
 
+##### Kohl (noun)
+*ˈkōl*
+- **a preparation used especially in Arabia and Egypt to darken the edges of the eyelids**
+	The queen sat before her bronze mirror, carefully applying a line of *kohl* to her eyes with a polished ivory stick."
+	To achieve that classic rock-and-roll look, use a *kohl* pencil and smudge the edges with your fingertip.
+
 ##### Kowtow (verb / noun)
 *ˈkau̇-ˌtau̇*
 - **to show obsequious deference: fawn**

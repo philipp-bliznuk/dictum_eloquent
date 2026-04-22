@@ -186,6 +186,12 @@
 - **an aircraft designed to derive its chief support and propulsion from flapping wings**
 	Paul and Jessica fly off in an _ornithopter_ and evade their pursuers by flying into a storm.
 
+##### Orrery (noun)
+*ˈȯr-ər-ē*
+- **an apparatus showing the relative positions and motions of bodies in the solar system by balls moved by a clockwork**
+	In the 1700s, the _orrery_, a clockwork model of the Solar System, was developed.
+	The discovery underscored how Earth was not the center of the universe, but a small player in an _orrery_ of smaller orbs spinning around greater ones.
+
 ##### Ossify (verb)
 *ˈä-sə-ˌfī*
 - **to change into bone: calcify**

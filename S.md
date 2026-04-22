@@ -412,6 +412,13 @@
 	The jury was _sequestered_ until a verdict was reached.
 	He was _sequestered_ in his room.
 
+##### Sequin (noun)
+*ˈsē-kwən*
+- **an old gold coin of Italy and Turkey**
+- **a small plate of shining metal or plastic used for ornamentation especially on clothing**
+	The singer stepped onto the stage in a jumpsuit covered in thousands of silver *sequins*, reflecting the spotlights like a human disco ball.
+	In the 16th century, a Venetian *sequin* was one of the most stable and widely accepted gold coins in international trade.
+
 ##### Sere (adjective)
 *ˈsir*
 - **being dried and withered**
@@ -1002,6 +1009,13 @@
 *ˈskwər(-ə)l ə-ˈwā*
 - **to put (something) in a safe or secret place especially so that it can be kept for future use**
 	Most of his money is _squirreled away_ somewhere.
+
+##### Staffer (noun)
+*ˈsta-fər*
+- **a member of a staff (as of a newspaper)**
+- **employee**
+	A junior *staffer* was tasked with summarizing the 500-page bill before the Senator’s briefing at noon.
+	After the conference ended, the *staffers* stayed late to dismantle the booths and organize the feedback forms.
 
 ##### Stalk (noun / verb)
 *ˈstȯk*

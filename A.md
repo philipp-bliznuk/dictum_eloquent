@@ -537,6 +537,12 @@ _ˈāl_
 	We entered the cave through a narrow _aperture_.
 	The photograph was taken using a fast shutter speed and a large _aperture_.
 
+##### Aphasia (noun)
+*ə-ˈfā-zh(ē-)ə*
+- **loss or impairment of the power to use or comprehend words usually resulting from brain damage (as from a stroke, head injury, or infection)**
+	After his stroke, the patient developed *aphasia*, making it difficult for him to name common objects like a 'pen' or 'watch' even though he knew what they were.
+	Communicating with someone who has *aphasia* requires patience; you have to remember that their mind is still sharp, even if their words are scrambled.
+
 ##### Aplomb (noun)
 *ə-ˈpläm*
 - **complete and confident composure or self-assurance: poise**

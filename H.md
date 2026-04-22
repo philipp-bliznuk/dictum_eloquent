@@ -232,6 +232,13 @@
 	We felt like a bunch of _hicks_ when we went to the city for the first time.
 	city dwellers who looked down on their cousins from northern Maine as _hicks_
 
+##### Hinterland (noun)
+*ˈhin-tər-ˌland*
+- **a region lying inland from a coast**
+- **a region remote from urban areas: countryside**
+	the colonies hugged the coastline, while the _hinterland_ remained largely unexplored
+	Trade with the _hinterland_ stopped as these coastal centers now preferred to trade with the Europeans.
+
 ##### Hither and Thither (idiom)
 - **in various and usually random directions: here and there**
 	traveling/wandering *hither and thither*
