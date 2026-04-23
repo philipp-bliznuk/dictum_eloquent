@@ -254,6 +254,14 @@
 	meteors flashing across the _firmament_
 	She's a rising star in the city's artistic *firmament*.
 
+##### Fission (noun / verb)
+*ˈfi-shᵊn*
+- **a splitting or breaking up into parts**
+- **reproduction by spontaneous division of the body into two or more parts each of which grows into a complete organism**
+- **the splitting of an atomic nucleus resulting in the release of large amounts of energy**
+	The power plant uses controlled nuclear *fission* to boil water, creating steam that spins turbines to generate electricity.
+	Under the microscope, we watched the amoeba begin the process of *fission*, slowly stretching until it snapped into two distinct organisms.
+
 ##### Fitful (adjective)
 *ˈfit-fəl*
 - **characterized by fits or paroxysms: sporadic**

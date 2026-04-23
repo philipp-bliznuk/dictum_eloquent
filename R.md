@@ -154,6 +154,13 @@
 	She is a _ravishing_ beauty.
 	a _ravishing_ view of the ocean
 
+##### Raze (verb)
+*ˈrāz*
+- **to destroy to the ground: demolish**
+- **to scrape, cut, or shave off: erase**
+	an entire city block _razed_ by a terrible fire
+	the developer _razed_ the old school building and built a high-rise condominium complex
+
 ##### Recalcitrant (adjective)
 *ri-ˈkal-sə-trənt*
 - **difficult to manage or operate**
@@ -357,6 +364,14 @@
 *(ˌ)rē-ˈpā-trē-ˌāt*
 - **to restore or return to the country of origin, allegiance, or citizenship**
 	Countries are required to _repatriate_ prisoners of war when conflict has ended.
+
+##### Repose (noun / verb)
+*ri-ˈpōz*
+- **a state of resting after exertion or strain**
+- **peace, tranquility**
+- **to place (confidence, trust, etc.) in someone or something**
+	enjoyed the _repose_ of a serene summer evening	
+	the Constitution _reposes_ the power to declare war to Congress, and to that body alone
 
 ##### Reprobate (noun / adjective / verb)
 *ˈre-prə-ˌbāt*

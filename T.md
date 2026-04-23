@@ -395,6 +395,12 @@
 	His Semitic features suggested intelligence, but his shambling gait and inattention to his _tonsure_ and sartorial presence suggested a man under extraordinary stress.
 	his head was crowned with a friar’s _tonsure_
 
+##### Torc (noun)
+*ˈtȯrk*
+- **a usually metal collar or neck chain worn by the ancient Gauls, Germans, and Britons**
+	The chieftain stood tall, the sunlight glinting off the heavy gold *torc* that circled his neck, marking him as the leader of the tribe.
+	The 'Snettisham Hoard' contains some of the most famous Iron Age *torcs* ever found, showcasing incredible craftsmanship in braided gold wire.
+
 ##### Torpid (adjective)
 *ˈtȯr-pəd*
 - **sluggish in functioning or acting**
@@ -408,6 +414,13 @@
 - **implies a state of suspended animation as of hibernating animals but may suggest merely extreme sluggishness**
 	The news aroused him from his _torpor_.
 	after a lifetime of setbacks, defeats, and failures, he could only greet the latest bad news with a resigned fatalism and dull _torpor_
+
+##### Torque (noun / verb)
+*ˈtȯrk*
+- **a force that produces or tends to produce rotation or torsion**
+- **to impart torque to: cause to twist (as about an axis)**
+	an automobile engine delivers *torque* to the drive shaft
+	The sculptures, rather than resisting the opulent glamour of their original luxury retail settings, _torqued_ it in a macabre direction.
 
 ##### Torrid (adjective)
 *ˈtȯr-əd*
@@ -471,6 +484,12 @@
 - **suggests a very deep quietude or composure**
 	the house was once again _tranquil_ after the kids moved outside to play
 	though she should have been upset, she felt oddly _tranquil_ upon learning that she would not be receiving the scholarship
+
+##### Trapezius (noun)
+*trə-ˈpē-zē-əs*
+- **a large flat triangular superficial muscle of each side of the upper back**
+	And your lower _trapezius_ muscles weaken and strain against the upward pull, leading to backaches and pain around the scapulae.
+	Shrugs, while often associated with the _trapezius_ muscles, can also indirectly support shoulder development by strengthening the muscles that stabilize the shoulder girdle.
 
 ##### Trattoria (noun)
 *ˌträ-tə-ˈrē-ə*

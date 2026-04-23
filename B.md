@@ -312,6 +312,12 @@ _bi-ˈsä-təd_
 	_Billows_ of smoke poured out of the burning building.
 	the curtains in the open windows _billowed_ in the summer wind
 
+##### Biped (noun)
+*ˈbī-ˌped*
+- **a two-footed animal**
+	Australopithecines were *bipeds*.
+	The abdominal muscles in _bipeds_ are used to stabilize the body for upright mobility — sitting up, bending, etc.
+
 ##### Birth (noun / verb)
 *ˈbərth*
 - **sufficient distance for maneuvering a ship**
@@ -402,6 +408,13 @@ _bi-ˈsä-təd_
 - **of a happy lighthearted character or disposition**
 	a *blithe* disregard for the rights of others
 	arrived late in his usual _blithe_ way
+
+##### Blitz (noun)
+*ˈblits*
+- **war conducted with great speed and force: blitzkrieg**
+- **a fast intensive nonmilitary campaign or attack**
+	The company is planning an advertising _blitz_ for the new product.
+	a multimedia _blitz_ of advertisements for the summer blockbuster
 
 ##### Blotter (noun)
 *ˈblä-tər*
