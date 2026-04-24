@@ -157,6 +157,13 @@
 	One of the men was *belated* and did not join us at all.
 	She received *belated* recognition for her work.
 
+##### Belay (verb / noun)
+*bi-ˈlā*
+- **to secure (a rope or cable) by turns around a cleat, pin, or bitt**
+- **stop, cancel**
+	The climber _belayed_ the rope.
+	*belay* that last order
+
 ##### Belch (verb)
 *ˈbelch*
 - **to erupt, explode, or detonate violently**

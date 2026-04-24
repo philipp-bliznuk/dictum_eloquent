@@ -556,6 +556,14 @@
 	a *clastic* sediment
 	*clastic* structure
 
+##### Cleat (noun / verb)
+*ˈklēt*
+- **a wedge-shaped piece fastened to or projecting from something and serving as a support or check**
+- **a strip fastened across something to give strength or hold in position**
+- **plural: shoes equipped with cleats**
+	As the boat approached the pier, the deckhand tossed the line to the dockmaster, who quickly secured it to a heavy iron *cleat*.
+	The referee checked the player's *cleats* before the match to ensure the metal studs weren't sharp enough to cause injury.
+
 ##### Clemency (noun)
 *ˈkle-mən(t)-sē*
 - **pleasant mildness of weather**
@@ -956,6 +964,13 @@
 - **streaks of condensed water vapour created in the air by an airplane or rocket at high altitudes**
 	Just 3% of flights create 80% of the impact, and _contrails_ only form in certain areas of the atmosphere.
 
+##### Contusion (noun)
+*kən-ˈtü-zhən*
+- **injury to tissue usually without laceration**
+- **bruise**
+	He suffered multiple _contusions_ of the leg.
+	suffered multiple _contusions_ as a result of a car accident
+
 ##### Conurbation (noun)
 *ˌkä-(ˌ)nər-ˈbā-shən*
 - **an aggregation or continuous network of urban communities**
@@ -1286,6 +1301,13 @@ _ˈkau̇n-tᵊn-ən(t)s_
 - **a cramped space**
 	The car has lots of _cubbyholes_ for small items.
 	He worked in a _cubbyhole_ under the stairs.
+
+##### Cudgel (noun / verb)
+*ˈkə-jəl*
+- **a short heavy club: baton**
+- **to beat with or as if with a cudgel**
+	a farmer armed with a _cudgel_ drove us off his land
+	Bruce Springsteen was standing up to the president, while universities and law firms were being _cudgeled_ and cowed.
 
 ##### Cul-de-sac (noun)
 *ˈkəl-di-ˌsak*
