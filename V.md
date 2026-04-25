@@ -275,6 +275,13 @@ Vermilion (noun)
 - **to convert into glass or a glassy substance by heat and fusion**
 	The lightning’s electrical discharge had _vitrified_ the nearby sand into a rock called fulgurite, prized by crystal healers as an extremely high-energy stone.
 
+##### Vitriol (noun)
+*ˈvi-trē-əl*
+- **bitterly harsh or caustic language or criticism**
+- **a sulfate of any of various metals (such as copper, iron, or zinc)**
+	His speech was full of political _vitriol_.
+	a film critic noted for the _vitriol_ and sometimes outright cruelty of his pronouncements
+
 ##### Vituperation (noun)
 *(ˌ)vī-ˌtü-pə-ˈrā-shən*
 - **sustained and bitter railing and condemnation: vituperative utterance**
@@ -328,3 +335,10 @@ Vermilion (noun)
 - **a short thick candle used especially as a prayer offering or for decoration: votive candle**
 	There’s no limit to the number of candle holders a _votive_-loving household can have.
 	Elegant *votives* scattered amongst a faux boxwood garland make the whole arrangement feel homey and cozy.
+
+##### Vouchsafe (verb)
+*vau̇ch-ˈsāf*
+- **implies granting something as a courtesy or an act of gracious condescension**
+- **to grant as a privilege or special favor**
+	He _vouchsafed_ the secret to only a few chosen disciples.
+	refused to *vouchsafe* an explanation

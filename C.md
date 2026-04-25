@@ -751,6 +751,12 @@
 	a _commodious_ and airy penthouse apartment
 	a house with exceptionally _commodious_ closets
 
+##### Compact (noun)
+*ˈkäm-ˌpakt*
+- **an agreement or covenant between two or more parties**
+	a five-nation _compact_ to control drug traffic
+	the two made a _compact_ never to artificially prolong the other's life in the event of incapacitating illness or injury
+
 ##### Compatriot (noun)
 *kəm-ˈpā-trē-ət*
 - **a person born, residing, or holding citizenship in the same country as another**

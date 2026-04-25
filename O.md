@@ -73,6 +73,13 @@
 	And also a few tips on avoiding being the _odiferous_ traveler yourself.
 	In Paris, the _odoriferous_ Éppoisses is banned on public transit because of its fumes.
 
+##### Odious (adjective)
+*ˈō-dē-əs*
+- **arousing or deserving hatred or repugnance: hateful**
+- **dreadful, disgraceful**
+	It was one of the most _odious_ crimes of recent history.
+	an _odious_ and unforgivable insult
+
 ##### Offal (noun)
 *ˈȯ-fəl*
 - **the viscera and trimmings of a butchered animal removed in preparing it for market or for consumption: variety meat**
