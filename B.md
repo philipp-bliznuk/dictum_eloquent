@@ -479,6 +479,13 @@ _bi-ˈsä-təd_
 	The silent night was suddenly shattered by a brilliant *bolide* that streaked across the horizon, turning the sky a vivid electric blue before vanishing in a silent flash.
 	Dashcam footage from across the state captured the moment the *bolide* entered the atmosphere, showing the massive rock breaking into several glowing fragments.
 
+##### Bonhomie (noun)
+*ˌbä-nə-ˈmē*
+- **good-natured easy friendliness**
+- **the kind of warmth that makes people feel instantly comfortable and welcome in a social setting**
+	The holiday dinner was filled with *bonhomie*, as old friends swapped stories and laughed until the early hours of the morning.
+	The mayor was famous for his natural *bonhomie*, often stopping to chat with locals and remembering everyone’s name.
+
 ##### Bonnet (noun / verb)
 *ˈbä-nət*
 - **an automobile hood**

@@ -353,6 +353,13 @@
 	His charitable works have earned him the _epithet_ “Mr. Philanthropy.”
 	Many were offended by her use of racial _epithets_.
 
+##### Epitome (noun)
+*i-ˈpi-tə-mē*
+- **an example that represents or expresses something very well: embodiment**
+- **a summary of a written work**
+	the golden rule is often cited as the _epitome_ of moral conduct: “Do unto others as you would have them do unto you”
+	the prestigious prep school prides itself on being widely regarded as the _epitome_ of tradition and old-fashioned values
+
 ##### Eponymous (adjective)
 *i-ˈpä-nə-məs*
 - **of, relating to, or being the person or thing for whom or which something is named: of, relating to, or being an eponym**
@@ -418,6 +425,13 @@
 - **inaccurate, false**
 	a poorly researched news article about the new virus that was filled with much _erroneous_ information
 	gave an *erroneous* impression
+
+##### Err (verb)
+*ˈer* / *ˈər*
+- **to make a mistake**
+- **to stray, wander**
+	I may have _erred_ in my calculations.
+	The court _erred_ in refusing to allow bail.
 
 ##### Erstwhile (adjective / adverb)
 *ˈərst-ˌ(h)wī(-ə)l*

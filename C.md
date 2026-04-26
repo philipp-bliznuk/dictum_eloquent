@@ -69,6 +69,13 @@
 - **rabble, riffraff**
 	God would be *canaille* too in Boston in Massachusetts.
 
+##### Canine (noun / adjective)
+*ˈkā-ˌnīn*
+- **a conical pointed tooth, situated between the lateral incisor and the first premolar**
+- **any of a family (Canidae) of carnivorous mammals that includes the wolves, jackals, foxes, coyotes, and the domestic dog: canid, dog**
+	Because the *canine* teeth have the longest roots in the human mouth, they provide a critical foundation for the structure of the dental arch.
+	in the minds of some, the winner of this prestigious dog show has a fair claim to the title of King of the _Canines_
+
 ##### Cannery (noun)
 *ˈka-nə-rē*
 - **a factory for the canning of foods**
@@ -849,6 +856,13 @@
 - **strong desire, usually of something forbidden**
 	the Puritans did not condemn _concupiscence_ but rather the satisfaction of it in ways they deemed illicit
 	The protagonist’s tragic downfall was fueled by a relentless *concupiscence* for power, which blinded him to the needs of his people and the loyalty of his friends.
+
+##### Conducive {to} (adjective)
+*kən-ˈdü-siv*
+- **tending to promote or assist**
+- **helpful, beneficial**
+	the claim that the state's long-standing antitax attitude is _conducive_ to entrepreneurship
+	the noisy environment of the dorms was not very _conducive_ to studying
 
 ##### Confectionary / Confectionery (noun)
 *kən-ˈfek-shə-ˌner-ē* / *kən-ˈfek-shə-ˌner-ē*

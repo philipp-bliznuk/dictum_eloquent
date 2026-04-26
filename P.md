@@ -1197,6 +1197,13 @@ Peruke (noun)
 	There's one _pugnacious_ member on the committee who won't agree to anything.
 	a movie reviewer who is spirited, even _pugnacious_, when defending her opinions
 
+##### Pulchritude (noun)
+*ˈpəl-krə-ˌtüd*
+- **physical comeliness**
+- **beauty, attractiveness**
+	The poet spent stanzas praising the *pulchritude* of the valley, comparing the mist on the mountains to a veil of silk.
+	In Victorian novels, a heroine's *pulchritude* was often used as a shorthand for her virtuous character.
+
 ##### Pulpit (noun)
 *ˈpu̇l-ˌpit*
 - **an elevated platform or high reading desk used in preaching or conducting a worship service**
