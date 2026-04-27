@@ -122,6 +122,13 @@
 	She made her son's costume from scraps of _felt_.
 	Picking up embroidery, crochet, sewing, _felting_, or knitting is a fun way to expand your home’s decor by making something meaningful.
 
+##### Femur (noun)
+*ˈfē-mər*
+- **the proximal bone of the hind or lower limb that extends from the hip to the knee, called also thigh bone**
+- **the segment of an insect's leg that is third from the body**
+	The soccer player suffered a mid-shaft *femur* fracture after a high-speed collision, requiring a titanium rod to be inserted for stability.
+	By measuring the length of the *femur*, the anthropologist was able to estimate the height of the individual with remarkable accuracy.
+
 ##### Feretory (noun)
 *ˈferəˌtōrē*
 - **an ornate often portable bier for the relics of a saint**

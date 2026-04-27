@@ -403,6 +403,13 @@
 	an _infinitesimal_ moment in time
 	a soft drink with only an _infinitesimal_ amount of caffeine
 
+##### Infirm (adjective)
+*in-ˈfərm*
+- **of poor or deteriorated vitality**
+- **weak of mind, will, or character: irresolute, vacillating**
+	The clinic provides free care for elderly and _infirm_ people who lack health insurance.
+	the elderly and _infirm_ have to be especially careful during the winter months
+
 ##### Infirmity (noun)
 *in-ˈfər-mə-tē*
 - **the quality or state of being infirm**

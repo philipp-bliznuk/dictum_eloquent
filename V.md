@@ -221,6 +221,13 @@
 	fairy tales that typically portray stepmothers as _viragoes_
 	Meredith is a stereotypical _virago_ updated with modern libertarian notions.
 
+##### Virile (adjective)
+*ˈvir-əl* / *ˈvir-ˌī(-ə)l*
+- **having traditionally masculine traits especially to a marked degree: masculine**
+- **energetic, vigorous**
+	men were once expected to be interested only in such _virile_ activities as hunting
+	It’s derived from the ancient myth of Narcissus: a story about a _virile_ young man who falls in love with his own reflection.
+
 ##### Virility (noun)
 *və-ˈri-lə-tē*
 - **the quality or state of being virile: masculinity**

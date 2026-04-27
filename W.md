@@ -178,6 +178,13 @@
 	the _whorls_ and eddies of the river
 	the _whorl_ of a fingerprint
 
+##### Wicker (noun)
+*ˈwi-kər*
+- **a small pliant twig or branch (as of osier): withe**
+- **something made of wicker: wickerwork**
+	She placed a large *wicker* hamper in the corner of the nursery to hold the baby’s blankets.
+	We spent the afternoon lounging in *wicker* armchairs on the veranda, sipping iced tea and watching the sunset.
+
 ##### Wile (verb / noun)
 *ˈwī(-ə)l*
 - **suggests an attempt to entrap or deceive with false allurements**

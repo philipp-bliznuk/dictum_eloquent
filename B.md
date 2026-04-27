@@ -493,6 +493,13 @@ _bi-ˈsä-təd_
 	He lifted the car's _bonnet_ to check the engine.
 	The _bonnet_-and-cloak outfit was largely inspired by a can of Old Dutch cleaning solution.
 
+##### Boondoggle (noun)
+*ˈbün-ˌdä-gəl*
+- **a braided cord worn by Boy Scouts as a neckerchief slide, hatband, or ornament**
+- **a wasteful or impractical project or activity often involving graft**
+	The multi-billion dollar high-speed rail project was labeled a *boondoggle* by critics who argued it would never be finished and served no real transportation need.
+	The kids at summer camp spent the rainy afternoon weaving *boondoggles* out of neon-colored plastic lace.
+
 ##### Boon (noun / adjective)
 *ˈbün*
 - **a timely benefit: blessing**
