@@ -129,6 +129,13 @@
 	her new _beau_ brought flowers when he picked her up for their first date
 	She introduced us to her latest _beau_.
 
+##### Beech (noun)
+*ˈbēch*
+- **any of a genus (Fagus of the family Fagaceae, the beech family) of hardwood trees with smooth gray bark and small edible nuts**
+- **its wood**
+	The Scandinavian-style kitchen featured a solid *beech* countertop, prized for its pale color and incredible hardness.
+	The sunlight struggled to penetrate the dense canopy of the *beech* forest, leaving the floor carpeted in a thick layer of copper-colored leaves.
+
 ##### Befuddle / Befuddled (verb / adjective)
 *bi-ˈfə-dᵊl* / *bi-ˈfə-dᵊld*
 - **to muddle or stupefy with or as if with drink**

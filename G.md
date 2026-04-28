@@ -215,6 +215,13 @@
 - **lacking intelligence: stupid**
 	a comedy show that invariably portrays the British aristocracy as a bunch of *gormless* twits
 
+##### Gorse (noun)
+*ˈgȯrs*
+- **a spiny yellow-flowered European shrub (Ulex europaeus) of the legume family**
+- **any of several related plants (genera Ulex and Genista)**
+	There wasn’t an inch of grass or _gorse_ to be seen beyond the wall of people lining the fairways.
+	The _gorse_ is reestablishing itself after the blaze that cut it back a few seasons ago.
+
 ##### Gossamer (noun / adjective)
 *ˈgä-sə-mər*
 - **a film of cobwebs floating in air in calm clear weather**

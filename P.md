@@ -999,6 +999,13 @@ Peruke (noun)
 	The country has suffered through long periods of economic _privation_.
 	the constant _privation_ of sleep was starting to affect my work
 
+##### Privet (noun)
+*ˈpri-vət*
+- **a Eurasian deciduous shrub (Ligustrum vulgare) of the olive family with semievergreen leaves and small white flowers that is widely used for hedges**
+- **any of various shrubs of the same genus**
+	We planted a row of *privet* along the property line to block the view of the neighbor’s driveway.
+	Fans of Harry Potter will recognize the name from *Privet Drive*, the suburban street where Harry lives with the Dursleys. The name was chosen by J.K. Rowling to evoke a sense of "suburban tidiness and enclosure."
+
 ##### Privy (adjective / noun)
 *ˈpri-vē*
 - **private, secret, confidential**
