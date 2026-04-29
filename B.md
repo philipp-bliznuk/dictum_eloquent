@@ -479,6 +479,12 @@ _bi-ˈsä-təd_
 	a _boisterous_ crowd of party goers
 	The crowd was young and *boisterous*, the cheeseburgers were juicy and perfectly charred, and the place was always packed.
 
+##### Bole (noun)
+*ˈbōl*
+- **the main stem of a tree apart from limbs and roots**
+	In a few yards the dark line of dog tracks led around the _bole_ of a great pine tree that grew on the very edge of the amphitheater.
+	In the 1990s, a forest ecologist created a mathematical formula for estimating a sequoia’s age based on the volume of its _bole_, or the trunk below the crown.
+
 ##### Bolide (noun)
 *ˈbō-ˌlīd*
 - **a large meteor: fireball**

@@ -384,6 +384,13 @@
 	He earned the _moniker_ “Gator” from his days wrestling alligators in Florida.
 	I think “Happy” is an appropriate _moniker_ for someone who smiles so much.
 
+##### Monocoque (noun)
+*ˈmä-nə-ˌkōk*
+- **a type of construction (as of a fuselage) in which the outer skin carries all or a major part of the stresses**
+- **a type of vehicle construction (as of an automobile) in which the body is integral with the chassis**
+	Tekton bonds the body together into a seamless, self-supporting _monocoque_ optimized for thermal and leakproof integrity.
+	The structures are bonded onto to the _monocoque_ during the rebuild phase of the restoration and help increase torsional rigidity by 175 percent.
+
 ##### Moon (verb)
 *ˈmün*
 - **to spend in idle reverie: dream -> used with _away_**

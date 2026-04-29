@@ -32,6 +32,13 @@
 	The collection includes an _eclectic_ mix of historical artifacts.
 	the museum's _eclectic_ collection has everything from a giraffe skeleton to medieval musical instruments
 
+##### Eddy (noun / verb)
+*ˈe-dē*
+- **a current of water or air running contrary to the main current: whirlpool**
+- **a contrary or circular current (as of thought or policy)**
+	The boat was caught in a powerful _eddy_.
+	The waves swirled and _eddied_ against the pier.
+
 ##### Edifice (noun)
 *ˈe-də-fəs*
 - **building**
@@ -540,6 +547,13 @@
 - **a disfiguring, extraneous, or unwanted mark or part: blot**
 	concerned about the weird _excrescence_ that seemed to be developing on his hand
 	local residents regard the hulking apartment building as a hideous _excrescence_ on their once-lovely street
+
+##### Exfoliate (verb)
+*(ˌ)eks-ˈfō-lē-ˌāt*
+- **to cast off in scales, laminae, or splinters: shed, peel**
+- **to spread or extend by or as if by opening out leaves**
+	a soap that promises to help me _exfoliate_ all that dry, flaky skin I've apparently been carrying around
+	Native to southeastern woodlands, oakleaf hydrangeas have vibrant fall color and attractive, _exfoliating_ bark.
 
 ##### Exonerate (verb)
 *ig-ˈzä-nə-ˌrāt*

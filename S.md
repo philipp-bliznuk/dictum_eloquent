@@ -175,6 +175,13 @@
 	I can probably _scare up_ my old textbooks if you need them.
 	The animatronic horror sequel _scared up_ $19.5 million domestically in its second week of release, and $38.6 million globally.
 
+##### Scarp (noun)
+*ˈskärp*
+- **the inner side of a ditch below the parapet of a fortification: escarpment**
+- **a line of cliffs produced by faulting or erosion**
+	years of violent ocean storms had heavily eroded the beach, creating a _scarp_ along one end of it
+	That is a clear fingerprint of an earthquake, one that, according to the rounding and wear and sloping of the _scarp_, occurred about 2.6 million years ago.
+
 ##### Scatty (adjective)
 *ˈska-tē*
 - **eccentric, odd**
@@ -885,6 +892,13 @@
 - **very softly -> used as a direction in music**
 	The salesman informed me, _sotto voce_, that this guitar was a special order, crafted from aged wood, for Paul Simon.
 	The f-word is uttered twice, once _sotto voce_ and once quite loudly and clearly.
+
+##### Spall (noun / verb)
+*ˈspȯl*
+- **a small fragment or chip especially of stone: sliver**
+- **to break off chips, scales, or slabs: exfoliate**
+	found a variety of uses for the _spalls_ left over from their stonecutting operations
+	When _spalling_ occurs on the exterior of the concrete, material can break off and fall onto the road below.
 
 ##### Spanner (noun)
 *ˈspa-nər*

@@ -358,6 +358,12 @@
 	*chalybeate* springs
 	He offered me a glass of *chalybeate* water.
 
+##### Chancel (noun)
+*ˈchan(t)-səl*
+- **the part of a church containing the altar and seats for the clergy and choir**
+	The choir was in the _chancel_ right next to the Communion rail, and a lady knelt for Communion, then couldn’t get back up.
+	At the front of the sanctuary, towering pipes flank the _chancel_, and at the back, hundreds of pipes form a 3D sculpture worthy of Marcel Duchamp.
+
 ##### Charcuterie (noun)
 *(ˌ)shär-ˌkü-tə-ˈrē*
 - **cooked or cured meat products (such as salami or prosciutto) that are usually served cold**
