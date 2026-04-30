@@ -728,6 +728,13 @@ _bi-ˈsä-təd_
 	The entire village was draped in red, white, and blue *bunting* to celebrate the anniversary of the town's founding.
 	Whole streets have sprouted canopies of banners and *bunting*.
 
+##### Burble (noun / verb)
+*ˈbər-bəl*
+- **babble, prattle**
+- **to make a bubbling sound**
+	The baby _burbled_ happily in her crib.
+	the _burble_ of babies can be so endearing
+
 ##### Bureau (noun)
 *ˈbyu̇r-(ˌ)ō*
 - **a writing desk, especially one having drawers and a slant top**

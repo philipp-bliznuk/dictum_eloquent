@@ -17,6 +17,13 @@
 	one of the changes in American society that remains a particular _abhorrence_ of social conservatives
 	my firm _abhorrence_ of all forms of hypocrisy
 
+##### Ablative (noun / adjective)
+*ˈa-blə-tiv* / *a-ˈblā-tiv*
+- **of, relating to, or being a grammatical case that typically marks a person, place, or thing from which someone or something else is separated or the source from which someone or something comes, and is also frequently used to indicate the cause of an event or condition or the instrument by which an action is accomplished**
+- **tending to ablate**
+	At its base is a heat shield made of an _ablative_ mixture called Avcoat, reformulated from the Apollo era.
+	The _ablative_ thermal barrier burned away unevenly as the craft reentered the atmosphere, but Orion still made it to a safe, on-target splashdown.
+
 ##### Abolition (noun)
 *ˌa-bə-ˈli-shᵊn*
 - **the act of officially ending or stopping something: the act of abolishing something**

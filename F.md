@@ -494,6 +494,13 @@
 	The celebration was noisy and _frenetic_.
 	the _frenetic_ rush to get every member of the cast in place before the curtain went up
 
+##### Fresco (noun)
+*ˈfre-(ˌ)skō*
+- **the art of painting on freshly spread moist lime plaster with water-based pigments**
+- **a painting executed in fresco**
+	The show’s marquee attraction is a *fresco* of the myth of Leda and the swan.
+	In the bedroom is a *fresco* of the Madonna and Child - thought to have been painted by a teenage Raphael.
+
 ##### Frigid (adjective)
 *ˈfri-jəd*
 - **intensely cold**

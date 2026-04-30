@@ -1535,6 +1535,13 @@
 	She has a _svelte_ figure.
 	the _svelte_ dancer seemed to float across the stage
 
+##### Swab (noun / verb)
+*ˈswäb*
+- **mop**
+- **a useless or contemptible person**
+	Use a cotton _swab_ dipped in alcohol to disinfect the area.
+	The nurse _swabbed_ the cut with a disinfectant.
+
 ##### Swaddle (verb)
 *ˈswä-dᵊl*
 - **to wrap (an infant) with swaddling clothes: envelop, swathe**
