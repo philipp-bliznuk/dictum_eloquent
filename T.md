@@ -634,6 +634,13 @@
 	A _tuft_ of hair stuck out from under his hat.
 	The mattresses are hand-_tufted_ and made in California.
 
+##### Tulle (noun)
+*ˈtül*
+- **a sheer often stiffened silk, rayon, or nylon net used chiefly for veils or ballet costumes**
+- **a versatile fabric used to create volume without adding significant weight, or to provide a sheer, ethereal covering**
+	The gown featured a bodice of hand-stitched lace that transitioned into a voluminous skirt made of forty yards of pleated *tulle*.
+	In the mid-19th century, Queen Victoria helped popularize the *tulle* wedding veil, a trend that remains the standard today.
+
 ##### Tumbler (noun)
 *ˈtəm-blər*
 - **a drinking glass without foot or stem and originally with pointed or convex base**

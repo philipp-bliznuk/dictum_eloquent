@@ -1387,6 +1387,13 @@
 	came out of the bathroom with her hair all _sudsy_ because someone had turned off the water
 	Fill it with hot water and some dish soap and simply submerge it in the _sudsy_ water.
 
+##### Suede (noun / verb)
+*ˈswād*
+- **leather with a napped surface**
+- **a fabric finished with a nap to simulate suede**
+	He brushed his *suede* Chelsea boots with a special brass-bristled brush to restore the nap.
+	The accent wall was covered in a *suede*-effect paint, giving the room a soft, matte depth that absorbed the light.
+
 ##### Suffer (verb)
 *ˈsə-fər*
 - **to put up with especially as inevitable or unavoidable**

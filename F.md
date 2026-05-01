@@ -421,6 +421,13 @@
 	a *foray* into enemy territory
 	the novelist's *foray* into nonfiction
 
+##### Forbearance (noun)
+*fȯr-ˈber-ən(t)s*
+- **a refraining from the enforcement of something (such as a debt, right, or obligation) that is due: patience**
+- **the quality of being forbearing: leniency**
+	He showed great _forbearance_ in his dealings with them.
+	we thank you for your _forbearance_ while we attend to the technical difficulties interrupting the TV program
+
 ##### Forswear / Foreswear (verb)
 *fȯr-ˈswer*
 - **to make a liar of (oneself) under or as if under oath**

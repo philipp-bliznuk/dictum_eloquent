@@ -19,6 +19,13 @@
 	Sealing up door _jambs_, window seals and other entry points, as well as placing screens on windows and doors, can also be effective.
 	If the weather is too cold, the water risks getting into the door _jambs_ or handles, leaving you unable to open your doors until the car is defrosted.
 
+##### Janissary (noun)
+*ˈja-nə-ˌser-ē*
+- **a soldier of an elite corps of Turkish troops organized in the 14th century and abolished in 1826**
+- **a member of a group of loyal or subservient troops, officials, or supporters**
+	The Sultan relied on the discipline of his *Janissaries* to break the enemy line during the Siege of Constantinople.
+	The CEO surrounded himself with a group of corporate *janissaries* who enforced his policies across every branch of the company.
+
 ##### Jar (verb)
 *ˈjär*
 - **to have a harshly disagreeable or disconcerting effect**
