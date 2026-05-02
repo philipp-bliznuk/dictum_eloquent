@@ -152,6 +152,13 @@
 	I heard the horse _whinnying_.
 	the father _whinnied_ and reared as his young daughter pretended to ride him
 
+##### Whipcord (noun)
+*ˈ(h)wip-ˌkȯrd*
+- **a thin tough cord made of braided or twisted hemp or catgut**
+- **a cloth that is made of hard-twisted yarns and has fine diagonal cords or ribs**
+	The cavalry officer’s trousers were tailored from olive-drab *whipcord*, designed to survive months in the field without fraying.
+	His arms were lean and hard, the muscles standing out like *whipcords* as he hauled the heavy crates onto the dock.
+
 ##### Whippersnapper (noun)
 *ˈ(h)wi-pər-ˌsna-pər*
 - **a diminutive, insignificant, or presumptuous person**

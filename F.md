@@ -540,6 +540,13 @@
 - **implies absence of luxury and simplicity of lifestyle**
 	ran a *frugal* household
 
+##### Fugue (noun)
+*ˈfyüg*
+- **a musical composition in which one or two themes are repeated or imitated by successively entering voices and contrapuntally developed in a continuous interweaving of the voice parts**
+- **a disturbed state of consciousness in which the one affected seems to perform acts in full awareness but upon recovery cannot recollect the acts performed**
+	Johann Sebastian Bach is considered the ultimate master of the *fugue*; his "Art of Fugue" explores every possible way a single theme can be woven into a complex tapestry.
+	After the trauma of the accident, he entered a *fugue state*, disappearing for three weeks before being found working at a diner two states away under a different name.
+
 ##### Fulminous (adjective)
 *ˈfu̇lmənəs*
 - **of, relating to, or resembling thunder and lightning**
