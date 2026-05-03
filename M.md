@@ -254,6 +254,13 @@
 	"The lady doth protest too much, *methinks*," is one of the most famous lines from Shakespeare's Hamlet.
 	Looking at the dark clouds gathering on the horizon, he remarked, "*Methinks* a storm is brewing, and we should probably head inside."
 
+##### Metier / Métier (noun)
+*ˈme-ˌtyā*
+- **an area of activity in which one excels: forte**
+- **implies a calling or pursuit for which one believes oneself to be especially fitted**
+	After trying several careers, she found her true _métier_ in computer science.
+	public speaking is not my _métier_, as others can attest
+
 ##### Mewl (verb)
 *ˈmyül*
 - **to cry weakly: whimper**

@@ -635,6 +635,13 @@
 	By the flickering glow of a single *rushlight*, the weaver continued his work long after the sun had dipped below the horizon.
 	The cottage was dim and smoky, smelling faintly of the mutton fat used to coat the *rushlights* propped in their iron holders.
 
+##### Russet (noun / adjective)
+*ˈrə-sət*
+- **coarse homespun usually reddish-brown cloth**
+- **a reddish brown**
+	As October progressed, the vibrant greens of the forest faded into a deep *russet* and gold.
+	The autumn collection featured a stunning *russet* leather jacket that perfectly complemented the seasonal palette.
+
 ##### Rustic (adjective / noun)
 *ˈrə-stik*
 - **characteristic of or resembling country people**

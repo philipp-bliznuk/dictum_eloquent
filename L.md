@@ -320,6 +320,13 @@
 	the boss was _livid_ when yet another deadline was missed
 	her face was _livid_ with fear
 
+##### Lividity (noun)
+*li-ˈvi-də-tē*
+- **the quality or state of being livid**
+- **reddish- to bluish-purple discoloration of the skin due to the settling and pooling of blood following death**
+	the level of the boss's _lividity_ was something I'd never seen outside of cartoons - I almost expected steam to rise out of his head
+	If her body was contorted for four to five hours after death, Lee should have displayed some *lividity* on her side.
+
 ##### Loam (noun)
 *ˈlōm*
 - **a mixture (as for plastering) composed chiefly of moistened clay**

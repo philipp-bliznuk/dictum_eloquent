@@ -851,6 +851,13 @@
 	On summer _solstice_ day in late June, the sun’s most direct rays shine over the Earth’s northern hemisphere.
 	Equinoxes happen in the fall and spring, while _solstices_ occur in winter and summer.
 
+##### Sophomore (noun / adjective)
+*ˈsäf-ˌmȯr*
+- **a student in the second year at college or a 4-year secondary school**
+- **being or associated with the second in a series**
+	She's a _sophomore_ in high school.
+	their *sophomore* album
+
 ##### Soporific (adjective / noun)
 *ˌsä-pə-ˈri-fik*
 - **causing or tending to cause sleep**

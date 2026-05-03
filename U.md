@@ -5,6 +5,13 @@
 	The company's ads are *ubiquitous*.
 	From the sky to the water, blue is one of the most *ubiquitous* colors in nature.
 
+##### Ultramarine (noun / adjective)
+*ˌəl-trə-mə-ˈrēn*
+- **a vivid blue**
+- **situated beyond the sea**
+	Vermeer’s "Girl with a Pearl Earring" is famous for the artist's lavish use of natural *ultramarine* in the girl's headscarf.
+	The sky at twilight deepened into a rich *ultramarine*, silhouetting the city skyline against the coming night.
+
 ##### Ululate (verb)
 *ˈəl-yə-ˌlāt*
 - **to utter a loud, usually protracted, high-pitched, rhythmical sound especially as an expression of sorrow, joy, celebration, or reverence: howl**
