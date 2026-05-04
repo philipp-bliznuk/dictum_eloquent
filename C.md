@@ -139,6 +139,12 @@
 	The trumpets sounded, and the knights charged each other in full *career*.
 	a car *careered* off the road
 
+##### Careworn (adjective)
+*ˈker-ˌwȯrn*
+- **showing the effect of grief or anxiety**
+	He has a _careworn_ face.
+	He looks tired and _careworn_.
+
 ##### Carmine (noun)
 *ˈkär-mən*
 - **a rich red to crimson pigment made from cochineal**

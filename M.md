@@ -141,6 +141,13 @@
 	To compete, the German *marque* had to build and sell at least 500 examples.
 	Earlier this year, my Utah senator Mike Lee proposed that Congress bring back _letters of marque_ and reprisal.
 
+##### Massif (noun)
+*ma-ˈsēf*
+- **a principal mountain mass**
+- **a block of the earth's crust bounded by faults or flexures and displaced as a unit without internal change**
+	Eventually the entire _massif_ stands exposed: a solitary block of limestone rising 1,800 feet above the Mojave floor.
+	Currently there are two gaps, one of five miles on the northeast aspect of the Pikes Peak _massif_, another of eight miles on its southwest aspect near Cripple Creek.
+
 ##### Masticate (verb)
 *ˈma-stə-ˌkāt*
 - **to grind or crush (food) with or as if with the teeth: chew**

@@ -512,6 +512,13 @@
 	The architect chose honed *travertine* tiles for the lobby floor to give the modern building a warm, classical elegance.
 	Visitors to Yellowstone National Park often marvel at the massive *travertine* terraces formed over centuries by the flowing hot springs.
 
+##### Trawl (noun / verb)
+*ˈtrȯl*
+- **a large conical net dragged along the sea bottom in gathering fish or other marine life: setline**
+- **to make a search as if by trawling**
+	a fishing boat _trawling_ the ocean floor
+	She was _trawling_ through old letters for information about her family.
+
 ##### Treacle (noun)
 *ˈtrē-kəl*
 - **the thick dark to light brown syrup that is separated from raw sugar in sugar manufacture: molasses**

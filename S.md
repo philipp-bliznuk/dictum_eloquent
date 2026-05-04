@@ -1321,6 +1321,13 @@
 	He fell into a drunken _stupor_.
 	in a _stupor_ of fatigue
 
+##### Styrene (noun)
+*ˈstī-ˌrēn*
+- **a fragrant liquid unsaturated hydrocarbon C8H8 used chiefly in making synthetic rubber, resins, and plastics and in improving drying oils**
+- **any of various synthetic plastics made from styrene by polymerization or copolymerization**
+	The shelves and interior of the refrigerator and freezer generally consist of acrylonitrile butadiene _styrene_ or polypropylene, which are durable polymers.
+	Most off-the-shelf keyboard cases will be made from either ABS or AES (acrylonitrile ethylene _styrene_) plastic.
+
 ##### Suave (adjective)
 *ˈswäv*
 - **smoothly though often superficially gracious and sophisticated**

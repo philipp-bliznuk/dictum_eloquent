@@ -3,6 +3,13 @@
 - **the back of the neck**
 	Her hair was tied back at the _nape_ of her neck.
 
+##### Narthex (noun)
+*ˈnär-ˌtheks*
+- **the portico of an ancient church**
+- **a vestibule leading to the nave of a church**
+	The processional from the _narthex_ down the nave to the altar has been compressed into a passage of just a few steps.
+	There is a _narthex_, or entrance hall, brightly lit and full of movement in and out.
+
 ##### Nascent (adjective)
 *ˈna-sᵊnt*
 - **coming or having recently come into existence**
