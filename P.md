@@ -144,6 +144,13 @@ _parā bellum_
 	The _parish_ will be getting a new priest soon.
 	The _parish_ has grown significantly in the last three years.
 
+##### Parlance (noun)
+*ˈpär-lən(t)s*
+- **formal debate or parley: speech**
+- **manner or mode of speech: idiom**
+	battle and not *parlance* should determine his right and title.
+	The company's computer system had, in computer *parlance*, "crashed."
+
 ##### Parochial (adjective)
 *pə-ˈrō-kē-əl*
 - **of or relating to a church parish**
@@ -646,6 +653,13 @@ Peruke (noun)
 	His speech was filled with familiar _platitudes_ about the value of hard work and dedication.
 	“blondes have more fun” is a silly _platitude_
 
+##### Pleat (noun / verb)
+*ˈplēt*
+- **a fold in cloth made by doubling material over on itself**
+- **to arrange in pleats: fold, braid**
+	_pleat_ ribbons
+	Her skirt has _pleats_ at the waist.
+
 ##### Plinth (noun)
 *ˈplin(t)th*
 - **a usually square block serving as a base**
@@ -802,6 +816,13 @@ Peruke (noun)
 - **an alcoholic beverage**
 	around here, the only _potable_ water comes from wells
 	keeps the wet bar stocked with an array of top-shelf liquors, mixers, and other fine _potables_
+
+##### Potage (noun)
+*pȯ-ˈtäzh*
+- **a thick soup**
+- **a thick porridge or pottage that served as a primary meal**
+	For the first course, the chef prepared a delicate *potage* of roasted leeks and fingerling potatoes, finished with a swirl of truffle oil.
+	The tavern smelled of woodsmoke and the rich, earthy scent of a root vegetable *potage* bubbling in a cast-iron cauldron.
 
 ##### Potshot (noun / verb)
 *ˈpät-ˌshät*

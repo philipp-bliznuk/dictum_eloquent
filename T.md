@@ -526,6 +526,13 @@
 	The book is ruined by all the _treacle_ about his childhood.
 	For a truly authentic sponge pudding, you must pour a generous amount of golden *treacle* into the bottom of the tin before steaming.
 
+##### Treatise (noun)
+*ˈtrē-təs*
+- **a systematic exposition or argument in writing including a methodical discussion of the facts and principles involved and conclusions reached**
+- **account, tale**
+	a treatise on higher education
+	On another level, the novel almost resembles a philosophical _treatise_ celebrating the power of human reason.
+
 ##### Trek (noun / verb)
 *ˈtrek*
 - **a trip or movement especially when involving difficulties or complex organization: an arduous journey**

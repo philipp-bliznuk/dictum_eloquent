@@ -677,6 +677,13 @@ _ə-ˈper-əl_
 	He went through a long and _arduous_ training program.
 	an _arduous_ journey across miles of desert
 
+##### Argot (noun)
+*ˈär-(ˌ)gō* / *ˈär-gət*
+- **the language used by a particular type or group of people: an often more or less secret vocabulary and idiom peculiar to a particular group**
+- **slang, dialect**
+	groups communicating in their own secret _argots_
+	used the _argot_ of figure skaters
+
 ##### Arid (adjective)
 *ˈa-rəd*
 - **excessively dry, specifically: having insufficient rainfall to support agriculture**
@@ -820,6 +827,15 @@ _ə-ˈskan(t)s_
 - **a zone of a celestial body (such as the earth) which lies beneath the lithosphere and within which the material is believed to yield readily to persistent stresses**
 	When continents stretch and split, space opens beneath the breaking point and is rapidly filled with semi-molten _asthenosphere_.
 	This layer is a part of the _asthenosphere_, which sits beneath the tectonic plates.
+
+##### Astringent (noun / adjective)
+*ə-ˈstrin-jənt*
+- **a liquid cosmetic for cleansing the skin and contracting the pores**
+- **causing a tightening of soft organic tissues: styptic**
+- **suggestive of an astringent effect upon tissue: rigidly severe, austere**
+	dry *astringent* comments
+	an _astringent_ critic of modern movies
+	Tannins, which are compounds in wine present in grape seeds, grape skins, and oak barrels offer a drying or _astringent_ quality on the tongue and gums.
 
 ##### Astute (adjective)
 *ə-ˈstüt*

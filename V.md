@@ -33,6 +33,14 @@
 	this *vale* of tears
 	settled in a lush _vale_ in the shadow of the mountains
 
+##### Vantage (noun)
+*ˈvan-tij*
+- **a position giving a strategic advantage, commanding perspective, or comprehensive view**
+- **superiority in a contest**
+- **benefit, gain**
+	the _vantage_ had all been ours for the first half of the contest
+	The new series, created by Bruce Miller and adapted from Margaret Atwood’s novel of the same name, depicts Gilead from a different _vantage_.
+
 ##### Vapid (adjective)
 *ˈva-pəd*
 - **lacking flavour, zest, interest, animation, or spirit: flat, dull**
@@ -60,6 +68,13 @@
 - **intensely emotional: impassioned, fervid**
 	He issued a _vehement_ denial of the accusation.
 	She was _vehement_ about the need for new safety measures.
+
+##### Velour (noun)
+*və-ˈlu̇r*
+- **any of various fabrics with a pile or napped surface resembling velvet used in heavy weights for upholstery and curtains and in lighter weights for clothing**
+- **a fur felt (as of rabbit or nutria) finished with a long velvety nap and used especially for hats**
+	She lounged on the sofa in a matching navy *velour* tracksuit, the quintessential uniform of early 2000s celebrity culture.
+	Many vintage luxury cars featured *velour* upholstery, which was prized for being warmer in the winter and cooler in the summer than leather.
 
 ##### Veneer (noun / verb)
 *və-ˈnir*

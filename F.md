@@ -394,6 +394,13 @@
 	people who try to _fob off_ to charities broken-down furniture that is fit only for the junkyard
 	Your potential clients are terrified of being sold the dream then _fobbed off_ to a junior team member.
 
+##### Fold (noun)
+*ˈfōld*
+- **a group of people or institutions that share a common faith, belief, activity, or enthusiasm**
+- **a flock of sheep / an enclosure for sheep**
+	His former colleagues would be glad to welcome him back into the *fold*.
+	He's been serving in my *fold* for 16 years.
+
 ##### Follicle (noun)
 *ˈfä-li-kəl*
 - **a small, anatomical cavity, sac, or gland**

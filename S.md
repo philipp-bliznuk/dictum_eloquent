@@ -928,6 +928,13 @@
 	The trainer applied a thumb *spica* splint to the athlete's hand to prevent the ligament from stretching further during the game.
 	Navigators have used *Spica* for centuries to find their way, as its brilliant blue-white light is easily spotted near the celestial equator.
 
+##### Spinet (noun)
+*ˈspi-nət*
+- **an early harpsichord having a single keyboard and only one string for each note**
+- **a compactly built small upright piano**
+	In the 18th century, a young lady of means was often expected to be proficient at the *spinet*, providing entertainment for guests in the drawing room.
+	We found a beautiful 1940s *spinet* at the estate sale; it needs a tuning, but the mahogany casing is in perfect condition.
+
 ##### Spinney (noun)
 *ˈspi-nē*
 - **a small wood with undergrowth**

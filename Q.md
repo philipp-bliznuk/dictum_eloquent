@@ -87,6 +87,13 @@
 	don't _quibble_ over who gets to sit in front
 	Our only _quibble_ about the trip was that it rained a lot.
 
+##### Quick (noun)
+*ˈkwik*
+- **a painfully sensitive spot or area of flesh (such as that underlying a fingernail or toenail)**
+- **the very center of something: heart**
+	hurt to the *quick* by the remark
+	that nasty comment cut me to the _quick_
+
 ##### Quilt (noun / verb)
 *ˈkwilt*
 - **a bed coverlet of two layers of cloth filled with padding (such as down or batting) held in place by ties or stitched designs: blanket**

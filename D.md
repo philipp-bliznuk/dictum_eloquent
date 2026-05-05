@@ -377,6 +377,13 @@
 	She was _diffident_ about stating her opinion.
 	for someone who makes a living performing for other people, the actress is remarkably _diffident_ in real life
 
+##### Digestif (noun)
+*ˌdē-zhes-ˈtēf*
+- **an alcoholic drink (such as brandy or a liqueur) usually taken after a meal**
+- **a drink taken after a meal, typically higher in alcohol content than an apéritif, and often served neat (without mixers)**
+	After the seven-course tasting menu, the host offered us a choice of *digestifs*, ranging from a 20-year-old Port to a medicinal-tasting Amaro.
+	In Italy, it is customary to finish a long lunch with a small chilled glass of Limoncello as a *digestif*.
+
 ##### Digit (noun)
 *ˈdi-jət*
 - **any of the divisions in which the limbs of most vertebrates terminate, which are typically five in number but may be reduced (as in the horse), and which typically have a series of phalanges bearing a nail, claw, or hoof at the tip**

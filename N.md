@@ -3,6 +3,13 @@
 - **the back of the neck**
 	Her hair was tied back at the _nape_ of her neck.
 
+##### Nap (noun / verb)
+*ˈnap*
+- **a hairy, fuzzy, or downy surface (as on a fabric)**
+- **to raise a nap on (fabric or leather)**
+	Use a specialized brush to lift the *nap* of your suede shoes after they’ve been flattened by rain.
+	The factory *naps* the inner lining of the hoodies to make them feel extra soft against the skin.
+
 ##### Narthex (noun)
 *ˈnär-ˌtheks*
 - **the portico of an ancient church**
