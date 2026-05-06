@@ -78,6 +78,13 @@
 	a horse with _tan_ markings
 	a time when children were routinely _tanned_ for misbehavior
 
+##### Tannoy (noun)
+*ˈtæn.ɔɪ*
+- **British brand producing loudspeakers**
+- **loudspeakers produced by that brand**
+	The station *tannoy* announced the platform change for the delayed 14:20 express to Edinburgh.
+	The supervisor *tannoyed* the evacuation alert to all workers when the fire alarm was triggered.
+
 ##### Tantamount (adjective)
 *ˈtan-tə-ˌmau̇nt*
 - **equivalent in value, significance, or effect**
@@ -463,6 +470,13 @@
 - **to solicit, peddle, or persuade importunately**
 	The company's stock is being _touted_ by many financial advisers.
 	People were _touting_ tickets outside the stadium.
+
+##### Tract (noun)
+*ˈtrakt*
+- **a system of body parts or organs that act together to perform some function**
+- **an indefinite stretch of land / a defined area of land**
+	the digestive *tract*
+	the town had planned on turning that _tract_ of meadow into a park
 
 ##### Traipse (verb)
 *ˈtrāps*

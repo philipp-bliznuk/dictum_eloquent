@@ -1,28 +1,28 @@
 {
   "main": {
-    "id": "d30cce4e74c195fe",
+    "id": "1d42da754eb0fb39",
     "type": "split",
     "children": [
       {
-        "id": "4f92b89ed330cbc9",
+        "id": "6ab02cae899adeaf",
         "type": "tabs",
         "children": [
           {
-            "id": "022f09e956846e38",
+            "id": "806ab347ca4155b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "F.md",
+                "file": "C.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "F"
+              "title": "C"
             }
           },
           {
-            "id": "1620b4a07baff240",
+            "id": "0ee9c01c14402ef6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,15 +42,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "46ddf7c9cef91f7e",
+    "id": "1930c46089ff580f",
     "type": "split",
     "children": [
       {
-        "id": "68b4750b1845fbb1",
+        "id": "e3288f259d72adad",
         "type": "tabs",
         "children": [
           {
-            "id": "78f1a0d3c5a3292f",
+            "id": "03ef94a16cccfa74",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,7 +63,7 @@
             }
           },
           {
-            "id": "521a90579401fb29",
+            "id": "575c8ec2a990f2c1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -80,7 +80,7 @@
             }
           },
           {
-            "id": "d1439cdb2291d495",
+            "id": "68e9d46dcb2aab15",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -97,20 +97,20 @@
     "width": 300
   },
   "right": {
-    "id": "2b2c432d8638e342",
+    "id": "398ce95cf6c2b5b6",
     "type": "split",
     "children": [
       {
-        "id": "70b92866f8270108",
+        "id": "5e3d80446a3ab8ec",
         "type": "tabs",
         "children": [
           {
-            "id": "af6b0c3d1d875ecd",
+            "id": "60ab8e33c2361fb4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "E.md",
+                "file": "_Inbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,25 +120,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for E"
+              "title": "Backlinks for _Inbox"
             }
           },
           {
-            "id": "7d1df2c4a6bdf1d6",
+            "id": "a67a7737a20516b3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "E.md",
+                "file": "_Inbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from E"
+              "title": "Outgoing links from _Inbox"
             }
           },
           {
-            "id": "e8c3e913c3bc35e4",
+            "id": "683cc0430f4deaf6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -153,26 +153,36 @@
             }
           },
           {
-            "id": "53121db18cc724fa",
+            "id": "00fddf5203869d34",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "E.md",
+                "file": "_Inbox.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of E"
+              "title": "Outline of _Inbox"
+            }
+          },
+          {
+            "id": "ab9dc757aee38e6c",
+            "type": "leaf",
+            "state": {
+              "type": "opencode-view",
+              "state": {},
+              "icon": "opencode-logo",
+              "title": "OpenCode"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 661
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,37 +193,22 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian42-brat:BRAT": false,
+      "opencode-obsidian:OpenCode": false
     }
   },
-  "active": "1620b4a07baff240",
+  "active": "0ee9c01c14402ef6",
   "lastOpenFiles": [
-    "F.md",
-    "Q.md",
-    "_Inbox.md",
-    "A.md",
-    "P.md",
-    "D.md",
-    "T.md",
-    "S.md",
-    "ty.md",
-    "N.md",
-    "V.md",
     "C.md",
-    "M.md",
-    "L.md",
-    "U.md",
-    "R.md",
-    "W.md",
-    "B.md",
     "J.md",
-    "G.md",
-    "E.md",
+    "_Inbox.md",
+    "L.md",
+    "T.md",
+    "V.md",
+    "R.md",
     "I.md",
-    "O.md",
-    "H.md",
-    "K.md",
-    "Y.md",
-    "Untitled.base"
+    "W.md",
+    "B.md"
   ]
 }

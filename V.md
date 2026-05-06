@@ -222,6 +222,13 @@
 	a candlelight *vigil*
 	kept _vigil_ at their ailing son's bedside the entire time he was in the hospital
 
+##### Villainy (noun)
+*ˈvi-lə-nē*
+- **a villainous conduct / act**
+- **the quality or state of being villainous: depravity**
+	a story of _villainy_ and betrayal
+	the gruesome _villainies_ of war
+
 ##### Villanous (adjective)
 *ˈvi-lə-nəs*
 - **befitting a villain (as in evil or depraved character)**

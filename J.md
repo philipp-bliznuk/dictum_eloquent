@@ -76,6 +76,13 @@
 	computer *jocks*
 	Sports *jocks* and computer nerds spent a lifetime at odds with each other.
 
+##### Jocular (adjective)
+*ˈjä-kyə-lər*
+- **said or done as a joke: characterized by jesting: playful**
+- **given to jesting: habitually jolly or jocund**
+	a _jocular_ man who could make the most serious people smile
+	made the _jocular_ observation that the best way to make a small fortune in the wine business is to start off with a large fortune
+
 ##### Jodhpur (noun)
 *ˈjäd-(ˌ)pər*
 - **an ankle-high boot fastened with a strap that is buckled at the side -> called also jodhpur boot**

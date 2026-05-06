@@ -465,6 +465,13 @@ _bi-ˈsä-təd_
 	He brags and _blusters_, but he never really does what he says he'll do.
 	all the _bluster_ in the campaign speech was intended to hide a lack of specifics
 
+##### Bogey (noun)
+*ˈbu̇-gē*
+- **a low strongly built cart**
+- **a swiveling railway truck**
+	The maintenance crew loaded replacement parts onto the *bogey* to transport them along the narrow-gauge track.
+	A derelict mineral *bogey* rested on the unused siding, its wheels caked in dried mud.
+
 ##### Bohemian (noun)
 *bō-ˈhē-mē-ən*
 - **a native or inhabitant of Bohemia (region of western Czech Republic)**

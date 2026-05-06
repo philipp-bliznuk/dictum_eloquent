@@ -240,6 +240,13 @@
 - **a very short light nap**
 	a _catnap_ left me refreshed enough to face the rest of the day
 
+##### Caucus (noun / verb)
+*ˈkȯ-kəs*
+- **a closed meeting of a group of persons belonging to the same political party or faction usually to select candidates or to decide on policy**
+- **to meet in or hold a caucus**
+	the National Women's Political _Caucus_
+	Democrats _caucused_ last week to choose their candidates.
+
 ##### Causeway (noun)
 *ˈkȯz-ˌwā*
 - **a raised way across wet ground or water**
@@ -1340,6 +1347,13 @@ _ˈkau̇n-tᵊn-ən(t)s_
 - **to beat with or as if with a cudgel**
 	a farmer armed with a _cudgel_ drove us off his land
 	Bruce Springsteen was standing up to the president, while universities and law firms were being _cudgeled_ and cowed.
+
+##### Cue (noun / verb)
+*ˈkyü*
+- **a signal (such as a word, phrase, or bit of stage business) to a performer to begin a specific speech or action: hint**
+- **to give a cue to: prompt**
+	I'll take that yawn as my *cue* to leave.
+	_cued_ the band to begin
 
 ##### Cul-de-sac (noun)
 *ˈkəl-di-ˌsak*

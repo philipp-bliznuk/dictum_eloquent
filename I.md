@@ -17,6 +17,13 @@
 	an ancient civilization of pantheists and _idolaters_
 	His Wagner book, which placed its subject in the larger intellectual context of his times, infuriated _idolaters_, for whom the master could do no wrong.
 
+##### Idolatry (noun)
+*ī-ˈdä-lə-trē*
+- **the worship of a physical object as a god**
+- **immoderate attachment or devotion to something**
+	fans of the team are well known for their _idolatry_ of the quarterback
+	To love things is a kind of *idolatry*; to use people is to place ourselves at the center of the universe.
+
 ##### Igneous (adjective)
 *ˈig-nē-əs*
 - **formed by solidification of magma**

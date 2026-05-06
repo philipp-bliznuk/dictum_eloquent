@@ -81,6 +81,13 @@
 	right after a shower, her _lank_ hair hung down to her shoulders
 	the _lank_ legs of the heron
 
+##### Lapel (noun)
+*lə-ˈpel*
+- **the part of a garment that is turned back**
+- **the fold of the front of a coat that is usually a continuation of the collar**
+	He wore a carnation in his _lapel_.
+	At the church wedding, Mazur wore a dark suit with a red rose in his *lapel*.
+
 ##### Lapillus / plural: Lapilli (noun)
 *lə-ˈpi-ləs* / *lə-ˈpi-ˌlī*
 - **a small stony or glassy fragment of lava ejected in a volcanic eruption**

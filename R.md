@@ -122,6 +122,13 @@
 	One of the children made a _raspberry_ at him.
 	there were _raspberries_ from the audience when the hapless actress kept forgetting her lines
 
+##### Ratchet (noun / verb)
+*ˈra-chət*
+- **a mechanism that consists of a bar or wheel having inclined teeth into which a pawl drops so that motion can be imparted to the wheel or bar, governed, or prevented and that is used in a hand tool (such as a wrench or screwdriver) to allow effective motion in one direction only**
+- **to cause to move by steps or degrees -> usually used with 'up' or 'down'**
+	news stories about the kidnapping will _ratchet down_ as the weeks go by
+	Tensions over slavery were then _ratcheting_ up everywhere.
+
 ##### Rattling (adjective / adverb)
 *ˈrat-liŋ*
 - **lively, brisk**

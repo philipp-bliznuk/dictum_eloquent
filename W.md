@@ -227,6 +227,13 @@
 	She turned out to be a _wily_ negotiator.
 	a _wily_ judge of character, she takes advantage of car buyers' insecurities to sell them a bigger machine than they really need
 
+##### Winch (noun / verb)
+*ˈwinch*
+- **a powerful machine with one or more drums on which to coil a rope, cable, or chain for hauling or hoisting: windlass**
+- **a crank with a handle for giving motion to a machine (such as a grindstone)**
+	The offshore rig workers used a hydraulic *winch* to lower the drilling equipment into the ocean.
+	We had to *winch* the stuck ATV out of the deep sand using a portable hand-cranked *winch*.
+
 ##### Wing (verb)
 *ˈwiŋ*
 - **to do or perform without preparation or guidelines: improvise**
