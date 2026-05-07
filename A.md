@@ -5,6 +5,13 @@
 	with reckless *abandon*
 	added spices to the stew with complete _abandon_
 
+##### Abate (verb)
+*ə-ˈbāt*
+- **to become defeated or become null or void (as of a writ or appeal)**
+- **stresses the idea of progressive diminishing**
+	We waited for the wind to _abate_.
+	interest in the author's home _abated_ as her novels waned in popularity
+
 ##### Abbot (noun)
 *ˈa-bət*
 - **the superior of a monastery for men**
@@ -814,6 +821,13 @@ _ə-ˈskan(t)s_
 - **stresses careful and unremitting application: diligent**
 	They were _assiduous_ in their search for all the latest facts and figures.
 	The project required some _assiduous_ planning.
+
+##### Assignation (noun)
+*ˌa-sig-ˈnā-shən*
+- **the act of assigning or the assignment made**
+- **an appointment of time and place for a meeting: tryst**
+	a midnight _assignation_ between adulterers at a downtown hotel
+	returned from an *assignation* with his mistress
 
 ##### Assuage (verb)
 *ə-ˈswāj*

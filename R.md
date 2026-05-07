@@ -514,6 +514,13 @@
 	the _rind_ of a watermelon
 	the _rind_ of a cheese
 
+##### Rink (noun)
+*ˈriŋk*
+- **a surface or building of ice for ice-skating**
+- **a lane for lawn bowling**
+	The hockey team is practicing at the _rink_.
+	In case of rain, the concert will move to the turf inside the ice *rink* building.
+
 ##### Riotous (adjective)
 *ˈrī-ə-təs*
 - **of the nature of a riot: turbulent**
@@ -587,6 +594,13 @@
 	in the mad _rout_ from the school shooter, it was every person for himself
 	as expected, the professional team had no trouble _routing_ the amateurs
 
+##### Rowdy (adjective / noun)
+*ˈrau̇-dē*
+- **coarse or boisterous in behavior: rough**
+- **a rowdy person: tough, thug**
+	a _rowdy_ game of basketball
+	_rowdies_ had overtaken the neighborhood and were threatening people on the street
+	
 ##### Rubicon (noun)
 *ˈrü-bi-ˌkän*
 - **a bounding or limiting line**

@@ -463,6 +463,13 @@
 	the police broke up the _fracas_ in the bar and threw both combatants in the lockup
 	police preparing for any _fracas_ that might follow the soccer game
 
+##### Fractious (adjective)
+*ˈfrak-shəs*
+- **tending to be troublesome: unruly**
+- **quarrelsome, irritable**
+	The _fractious_ crowd grew violent.
+	a *fractious* political campaign
+
 ##### Fraternize (verb)
 *ˈfra-tər-ˌnīz*
 - **to associate or mingle as brothers or on fraternal terms**

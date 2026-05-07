@@ -650,6 +650,13 @@
 	She _trundled_ her suitcase into the room.
 	The children _trundled_ off to bed.
 
+##### Tryst (noun / verb)
+*ˈtrist*
+- **an agreement (as between lovers) to meet**
+- **an appointed meeting or meeting place: rendezvous**
+	both lovers had to hurry to keep their noontime _tryst_ in the park
+	This, of course, was not the first time Simpson had a *tryst* with the law.
+
 ##### Tuber (noun)
 *ˈtü-bər*
 - **a short fleshy usually underground stem bearing minute scale leaves each of which bears a bud in its axil and is potentially able to produce a new plant**

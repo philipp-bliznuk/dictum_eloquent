@@ -247,6 +247,13 @@
 	The least qualified applicants were _winnowed_ out of the initial pool.
 	Harvesters _winnowed_ the chaff from the wheat.
 
+##### Winsome (adjective)
+*ˈwin(t)-səm*
+- **generally pleasing and engaging often because of a childlike charm and innocence**
+- **cheerful, lighthearted**
+	He had a _winsome_, boyish smile.
+	she was a bright, _winsome_ gamine who could draw a smile out of anyone
+
 ##### Wiry (adjective)
 *ˈwī(-ə)r-ē*
 - **resembling wire especially in form and flexibility**

@@ -211,6 +211,13 @@
 	Remember that iconic image of Washington crossing the Delaware to make a surprise attack on the _Hessians_?
 	A gust of wind lifted a roadside _hessian_ screen, revealing Hitler’s army, mustered for the invasion.
 
+##### Heterodox (adjective)
+*ˈhe-tə-rə-ˌdäks*
+- **contrary to or different from an acknowledged standard, a traditional form, or an established religion: unorthodox, unconventional**
+- **holding unorthodox opinions or doctrines**
+	a Christian clergyman with a very _heterodox_ opinion on the divinity of Jesus
+	her _heterodox_ approach to teaching science initially met with some resistance from her peers
+
 ##### Heterogenous / Heterogeneous (adjective)
 *ˌhe-tə-ˈrä-jə-nəs* / *ˌhe-tə-rə-ˈjēn-yəs*
 - **consisting of dissimilar or diverse ingredients or constituents: mixed**

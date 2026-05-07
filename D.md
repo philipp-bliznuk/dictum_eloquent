@@ -745,6 +745,13 @@
 	This precious stone was doubtless nothing else than a *druse* of this shining but valueless mineral.
 	The walls of the cave were covered with scintillating *druse*.
 
+##### Dudgeon (noun)
+*ˈdə-jən*
+- **a fit or state of indignation -> often used in the phrase 'in high dudgeon'**
+- **a wood used especially for dagger hilts**
+	stomped off in high _dudgeon_ after having his honor questioned
+	stormed out of the meeting in high _dudgeon_
+
 ##### Duffer (noun)
 *ˈdə-fər*
 - **a peddler especially of cheap flashy articles**
