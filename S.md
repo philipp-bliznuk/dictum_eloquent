@@ -196,6 +196,13 @@
 	a _schism_ between leading members of the party
 	The church was divided by _schism_.
 
+##### Schooner (noun)
+*ˈskü-nər*
+- **a typically 2-masted fore-and-aft rigged vessel with a foremast and a mainmast stepped nearly amidships**
+- **a larger-than-usual drinking glass (as for beer)**
+	Unable to get down, Thompson remained in the tower until a Navy _schooner_ attracted by the blaze came to shore and rescued him.
+	The frosty *schooners* of cold beer will be back, too, just in time for summer.
+
 ##### Scintillate (verb)
 *ˈsin-tə-ˌlāt*
 - **to emit sparks: spark**

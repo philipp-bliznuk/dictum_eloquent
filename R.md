@@ -367,6 +367,13 @@
 	He got angry when I politely _remonstrated_ with him about littering.
 	Members of the public _remonstrating_ against it had $1 million homes, hardly in the affordable housing range.
 
+##### Remunerate (verb)
+*ri-ˈmyü-nə-ˌrāt*
+- **to pay an equivalent to for a service, loss, or expense: recompense**
+- **clearly suggests paying for services rendered and may extend to payment that is generous or not contracted for**
+	promptly _remunerated_ the repair company for fixing the dryer
+	the negligent landlord must _remunerate_ those made homeless by the fire by finding new housing for them at his own expense
+
 ##### Repatriate (verb)
 *(ˌ)rē-ˈpā-trē-ˌāt*
 - **to restore or return to the country of origin, allegiance, or citizenship**

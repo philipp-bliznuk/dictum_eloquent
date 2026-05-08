@@ -57,6 +57,13 @@
 	a story about a _callow_ youth who learns the value of hard work and self-reliance
 	But obviously, these days, that’s a feeling that isn’t exclusive to just _callow_ indie kids.
 
+##### Calotte (noun)
+*kə-ˈlät*
+- **a light brimless cap for indoor wear: skullcap**
+- **a small round skullcap worn by Roman Catholic ecclesiastics in colors that vary according to the rank of the wearer: zucchetto**
+	The bishop adjusted his purple *calotte* before stepping out to greet the morning congregation.
+	The telescope’s protective *calotte* retracted automatically as the astronomers prepared to observe the nebula.
+
 ##### Calve (verb)
 *ˈkav*
 - **to give birth to a calf**

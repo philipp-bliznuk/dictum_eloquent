@@ -745,6 +745,14 @@
 	This precious stone was doubtless nothing else than a *druse* of this shining but valueless mineral.
 	The walls of the cave were covered with scintillating *druse*.
 
+##### Ductile (adjective)
+*ˈdək-tᵊl*
+- **capable of being fashioned into a new form**
+- **easily led or influenced**
+- **applies to what can be drawn out or extended with ease**
+	_ductile_ metals such as copper
+	a vast portion of the public feels rather than thinks, a *ductile* multitude drawn easily by the arts of the demagogue
+
 ##### Dudgeon (noun)
 *ˈdə-jən*
 - **a fit or state of indignation -> often used in the phrase 'in high dudgeon'**
