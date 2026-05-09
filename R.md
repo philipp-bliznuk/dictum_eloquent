@@ -643,6 +643,13 @@
 	The question got us _ruminating_ on the real value of wealth.
 	He _ruminated_ over the implications of their decision.
 
+##### Rumple (noun / verb)
+*ˈrəm-pəl*
+- **fold, wrinkle**
+- **to make unkempt: tousle**
+	He _rumpled_ her hair affectionately.
+	the guest _rumpled_ the antique bedspread by lying down on it
+
 ##### Runnel (noun)
 *ˈrə-nᵊl*
 - **rivulet, streamlet**

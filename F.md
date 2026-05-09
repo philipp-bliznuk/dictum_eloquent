@@ -561,6 +561,13 @@
 	Johann Sebastian Bach is considered the ultimate master of the *fugue*; his "Art of Fugue" explores every possible way a single theme can be woven into a complex tapestry.
 	After the trauma of the accident, he entered a *fugue state*, disappearing for three weeks before being found working at a diner two states away under a different name.
 
+##### Fulcrum (noun)
+*ˈfu̇l-krəm*
+- **the support about which a lever turns: prop**
+- **a part of an animal that serves as a hinge or support**
+	the camera moves on a fixed *fulcrum*, either horizontally (panning) or vertically (tilting)
+	In zoology, _fulcrum_ refers to a part of an animal that serves as a hinge or support, such as the joint supporting a bird's wing.
+
 ##### Fulminous (adjective)
 *ˈfu̇lmənəs*
 - **of, relating to, or resembling thunder and lightning**
