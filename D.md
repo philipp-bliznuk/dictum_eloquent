@@ -363,6 +363,13 @@
 	It is his _devout_ wish to help people in need.
 	_devout_ Red Sox fans never lost faith during the long World Series drought
 
+##### Diaphanous (adjective)
+*dī-ˈa-fə-nəs*
+- **characterized by such fineness of texture as to permit seeing through: gossamer**
+- **insubstantial, vague**
+	the bride wore a _diaphanous_ veil
+	had only a *diaphanous* hope of success
+
 ##### Dictum / Dicta (noun)
 *ˈdik-təm* / *ˈdik-tə*
 - **a formal pronouncement of a principle, proposition, or opinion**

@@ -250,6 +250,13 @@
 	At its peak, about 80 breweries operated in this _mercantile_ hot spot.
 	The young man was a quick study, learning the ins and outs of the _mercantile_ and cigar trade and showing a keen business sense.
 
+##### Mercurial (adjective)
+*(ˌ)mər-ˈkyu̇r-ē-əl*
+- **characterized by rapid and unpredictable changeableness of mood**
+- **having qualities (as of eloquence, ingenuity, or thievishness) attributed to the god Mercury or in astrology to the influence of the planet Mercury**
+	he has a *mercurial* personality, a quality that leaves him hard to predict
+	innovative *mercurial* cunning that can shift genes and outwit germs
+
 ##### Merlon (noun)
 *ˈmər-lən*
 - **any of the solid intervals between crenellations of a battlement**

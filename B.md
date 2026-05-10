@@ -101,6 +101,13 @@
 	“Get in the car!” he _bawled_.
 	he _bawled_ for days after his dog died
 
+##### Bayou (noun)
+*ˈbī-(ˌ)ü*
+- **a creek, secondary watercourse, or minor river that is tributary to another body of water**
+- **any of various usually marshy or sluggish bodies of water**
+	a small creek that is the _bayou_ of a larger stream
+	Here the lodge’s rangers transport us on boats, searching for hippos who give themselves away by clusters of bubbles rising to the surface of the _bayou_.
+
 ##### Bay (verb)
 *ˈbā*
 - **to cry out: shout**
