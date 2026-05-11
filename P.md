@@ -88,6 +88,14 @@
 	My heart began to _palpitate_ when I was announced as the winner.
 	the man's heart began to _palpitate_, and he feared another attack was coming on
 
+##### Palsy (noun / verb / adjective)
+*ˈpȯl-zē*
+- **paralysis -> used chiefly in combination**
+- **a condition that is marked by uncontrollable tremor and quivering of the body or one or more of its parts**
+- **being or appearing to be very intimate: palsy-walsy (slang)**
+	_palsy_ can sometimes be caused by a brain injury
+	the salesman changed his _palsy_ attitude when he realized that I wasn't buying
+
 ##### Pang (noun / verb)
 *ˈpaŋ*
 - **a brief piercing spasm of pain**

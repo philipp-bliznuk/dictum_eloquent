@@ -74,6 +74,12 @@
 	a farm in Yorkshire that seemed to be run by a _barmy_ old man
 	he is now likely to feel that a rather large part of the country has gone slightly *barmy*
 
+##### Barque, Barquentine (noun)
+*ˈbärk*
+- **a small sailing ship**
+- **a craft propelled by sails or oars**
+	The weathered *barque* sailed gracefully across the moonlit Mediterranean, its three masts catching the evening breeze.
+	Maritime painters of the nineteenth century often featured *barques* in their works, capturing the romance of sail-powered commerce.
 ##### Basilica (noun)
 *bə-ˈsi-li-kə*
 - **an oblong building ending in a semicircular apse used in ancient Rome especially for a court of justice and place of public assembly**

@@ -69,6 +69,14 @@
 	He issued a _vehement_ denial of the accusation.
 	She was _vehement_ about the need for new safety measures.
 
+##### Vellum (noun / adjective)
+*ˈve-ləm*
+- **a fine-grained unsplit lambskin, kidskin, or calfskin prepared especially for writing on or for binding books**
+- **a strong cream-colored paper**
+- **slightly rough**
+	For something unexpected, Stroud suggests making DIY envelopes from vintage book pages or sewn _vellum_ papers.
+	But its closest real-life approximation is the 1511 Westminster Tournament, immortalized on a _vellum_ roll.
+
 ##### Velour (noun)
 *və-ˈlu̇r*
 - **any of various fabrics with a pile or napped surface resembling velvet used in heavy weights for upholstery and curtains and in lighter weights for clothing**
