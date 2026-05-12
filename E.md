@@ -378,7 +378,7 @@
 - **feasting, banqueting**
 	After the coronation, the halls rang with the sounds of *epulation* as the nobility indulged in a three-day banquet of roasted meats and fine wines.
 	The Victorian novelist described the wedding as a scene of grand *epulation*, where every guest was treated to a dizzying array of exotic delicacies.
-****
+
 ##### Equable (adjective)
 *ˈe-kwə-bəl*
 - **marked by lack of variation or change: uniform**

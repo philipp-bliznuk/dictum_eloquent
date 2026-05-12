@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "P.md",
+                "file": "A.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "P"
+              "title": "A"
             }
           },
           {
@@ -182,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 661
+    "width": 661,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,21 +201,24 @@
   },
   "active": "0ee9c01c14402ef6",
   "lastOpenFiles": [
+    "A.md",
+    "R.md",
+    "_Inbox.md",
+    "K.md",
+    "Q.md",
+    "E.md",
+    "H.md",
     "P.md",
     "V.md",
-    "_Inbox.md",
     "B.md",
     "vv.md",
     "M.md",
     "D.md",
     "F.md",
-    "R.md",
     "T.md",
     "S.md",
     "C.md",
     "W.md",
-    "A.md",
-    "H.md",
     "J.md",
     "L.md",
     "I.md"

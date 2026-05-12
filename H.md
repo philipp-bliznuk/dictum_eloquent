@@ -246,6 +246,13 @@
 	the colonies hugged the coastline, while the _hinterland_ remained largely unexplored
 	Trade with the _hinterland_ stopped as these coastal centers now preferred to trade with the Europeans.
 
+##### Hirsute (adjective)
+*ˈhər-ˌsüt*
+- **covered with hair or hairlike material: hairy**
+- **covered with coarse stiff hairs**
+	a *hirsute* leaf
+	wore a _hirsute_ mask as part of his werewolf costume
+
 ##### Hither and Thither (idiom)
 - **in various and usually random directions: here and there**
 	traveling/wandering *hither and thither*

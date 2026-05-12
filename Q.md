@@ -113,6 +113,15 @@
 	At the same time, Saturn continues its tense square to Uranus while making a *quincunx* to the full moon.
 	We may be tempted to push ourselves to extremes on Tuesday, as the Sun creates a *quincunx* with optimistic Jupiter.
 
+##### Quip (noun / verb)
+*ˈkwip*
+- **a clever usually taunting remark: gibe**
+- **quibble, equivocation**
+- **something strange, droll, curious, or eccentric: oddity**
+	They _traded quips_ over a beer.
+	has his share of the _quips_ that seem to come with a title of nobility
+	she rolled her eyes at her brother's bragging and _quipped_, “You're a legend in your own mind, all right”
+
 ##### Quorum (noun)
 *ˈkwȯr-əm*
 - **the minimum number of officers or members of a body that is required to be present at a given meeting (as to transact business)**

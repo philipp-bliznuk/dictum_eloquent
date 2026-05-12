@@ -403,6 +403,13 @@
 	The bad weather has continued without _respite_.
 	The story Mike tells is emotional _respite_ for the Hawkins kids.
 
+##### Resplendent (adjective)
+*ri-ˈsplen-dənt*
+- **shining brilliantly: characterized by a glowing splendor**
+- **suggests a glowing or blazing splendor**
+	The fields were _resplendent_ with flowers.
+	She looked _resplendent_ in her green evening gown.
+
 ##### Restive (adjective)
 *ˈre-stiv*
 - **marked by impatience or uneasiness: fidgety**

@@ -58,6 +58,13 @@
 	an elder of _the Kirk_
 	left Edinburgh early in the morning for St. John's _Kirk_ in Perth
 
+##### Kitty-corner / Catty-corner / Catercorner (adverb / adjective)
+*ˈki-tē-ˌkȯr-nər* / *ˈka-tē-ˌkȯr-nər*
+- **in a diagonal or oblique position**
+- **across**
+	the house stood *kitty-corner* across the square
+	walked _kitty-corner_ across the quadrangle to the registration booth
+
 ##### Klaxon (noun)
 *ˈklak-sən*
 - **an electrically operated horn or warning signal**

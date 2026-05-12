@@ -211,6 +211,13 @@
 	He's *adept* at fixing computers.
 	_adept_ at doing long division
 
+##### Adipose (adjective)
+*ˈa-də-ˌpōs*
+- **of or relating to animal fat**
+- **fat, fatty**
+	seals have a thick layer of _adipose_ tissue, which acts as insulation against the cold and contributes to buoyancy as well
+	Our fat tissue could be used to make our bones regrow, with scientists successfully using _adipose_ cells to repair spinal compression fractures.
+
 ##### Admonish (verb)
 *ad-ˈmä-nish*
 - **to indicate duties or obligations to**
