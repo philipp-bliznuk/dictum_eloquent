@@ -24,6 +24,13 @@
 	one of the changes in American society that remains a particular _abhorrence_ of social conservatives
 	my firm _abhorrence_ of all forms of hypocrisy
 
+##### Ablate (verb)
+*a-ˈblāt*
+- **to remove or destroy especially by cutting, abrading, or evaporating**
+- **to convert (as by the application of heat or by spraying) into vapor: vaporize**
+	The thermal barrier is designed to _ablate_, or erode, during reentry, but the shield cracked and chipped away in an unexpected manner on the Artemis I mission in 2022.
+	This energy _ablates_ sympathetic nerve fibers without compromising arterial integrity, reducing nerve activity and allowing the body to naturally regulate blood pressure.
+
 ##### Ablative (noun / adjective)
 *ˈa-blə-tiv* / *a-ˈblā-tiv*
 - **of, relating to, or being a grammatical case that typically marks a person, place, or thing from which someone or something else is separated or the source from which someone or something comes, and is also frequently used to indicate the cause of an event or condition or the instrument by which an action is accomplished**
@@ -787,6 +794,15 @@ _ə-ˈskan(t)s_
 - **with a side-glance**
 	They eyed the stranger *askance*.
 	Many critics have looked *askance* at the proposal.
+
+##### Aspect (noun)
+*ˈa-ˌspekt*
+- **appearance to the eye or mind**
+- **a particular appearance of the face: mien**
+- **a position facing a particular direction: exposure**
+	the threatening *aspect* of the dark sky
+	he has the _aspect_ of a man used to giving orders and seeing them obeyed
+	a house with a southern *aspect*
 
 ##### Asperity (noun)
 *ə-ˈsper-ə-tē*

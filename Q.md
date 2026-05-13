@@ -101,6 +101,13 @@
 	The new *quilt* and throw blanket come just in time to snuggle up on chilly fall nights.
 	The cotton fabric is *quilted* in channels, giving it the striped look with varying textures and prints.
 
+##### Quince (noun)
+*ˈkwin(t)s*
+- **the fruit of a central Asian tree (Cydonia oblonga) of the rose family that resembles a hard-fleshed yellow apple and is used especially in preserves**
+- **a tree that bears quinces**
+	Same goes for mock orange, flowering _quince_, and deutzia.
+	Despite its noteworthy cold tolerance, the flowering _quince_ has a decidedly tropical look with big and showy flowers that come in vivid shades of pink, red, and orange, or brilliant white.
+
 ##### Quincentennial / Quincentenary (adjective / noun)
 *ˌkwin-sen-ˈte-nē-əl* / *ˌkwin-sen-ˈte-nə-rē*
 - **a 500th anniversary or its celebration**

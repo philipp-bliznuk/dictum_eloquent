@@ -377,6 +377,13 @@
 	a dog with its tongue _lolling_ out
 	He _lolled_ about in his pajamas all day.
 
+##### Longitudinal (adjective)
+*ˌlän-jə-ˈtüd-nəl*
+- **placed or running lengthwise**
+- **involving the repeated observation or examination of a set of subjects over time with respect to one or more study variables**
+	The insect's body is black with yellow _longitudinal_ stripes.
+	a _longitudinal_ study of career aspirations among girls from 5 to 17
+
 ##### Loogie (noun)
 *ˈlü-gē*
 - **a mass of saliva and phlegm hawked up from the throat**
