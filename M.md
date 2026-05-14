@@ -189,6 +189,13 @@
 	Flowers are not spectacular but attractive enough with pale _mauve_ and tan petals.
 	her makeup featured sparkly eye shadow and a _mauve_ lip
 
+##### Maverick (noun / adjective)
+*ˈmav-rik*
+- **an unbranded range animal / motherless calf**
+- **an independent individual who does not go along with a group or party**
+	there's always one _maverick_ who has to go his own way
+	Occasionally nerves and veins take *maverick* pathways and show up in unexpected places.
+
 ##### Mawkish (adjective)
 *ˈmȯ-kish*
 - **lacking flavor or having an unpleasant taste: gooey, mushy**

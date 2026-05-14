@@ -445,6 +445,12 @@
 	I hate drinking _lukewarm_ coffee.
 	Our plan got a _lukewarm_ reception.
 
+##### Lumbar (adjective)
+*ˈləm-bər* / *ˈləm-ˌbär*
+- **of, relating to, or constituting the loins or the vertebrae between the thoracic vertebrae and sacrum**
+	*lumbar* region
+	This seat provides good _lumbar_ support.
+
 ##### Luminary (noun)
 *ˈlü-mə-ˌner-ē*
 - **a person of prominence or brilliant achievement**

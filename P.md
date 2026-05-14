@@ -531,6 +531,13 @@ Peruke (noun)
 	Dreher knelt in one of the _pews_ and prayed.
 	The person sat in the last *pew* on the left side of the church.
 
+##### Phalanx (noun)
+*ˈfā-ˌlaŋ(k)s* / *ˈfa-ˌlaŋ(k)s*
+- **plural: phalanges - one of the digital bones of the hand or foot of a vertebrate**
+- **a body of heavily armed infantry in ancient Greece formed in close deep ranks and files**
+	A solid _phalanx_ of armed guards stood in front of the castle.
+	She had to go through a _phalanx_ of television cameras.
+
 ##### Pharmacopoeia (noun)
 *ˌfär-mə-kə-ˈpē-ə*
 - **a book describing drugs, chemicals, and medicinal preparations**

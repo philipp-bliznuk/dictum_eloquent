@@ -46,6 +46,13 @@
 	*imbricate* scales
 	But in reality, the poet’s life is also her work, or the two are _imbricated_ in a frightening way.
 
+##### Imbroglio (noun)
+*im-ˈbrōl-(ˌ)yō*
+- **an acutely painful or embarrassing misunderstanding: scandal**
+- **a violently confused or bitterly complicated altercation: embroilment, dispute, controversy**
+	a celebrated _imbroglio_ involving some big names in the New York literary scene
+	survived the political *imbroglio*
+
 ##### Immolate (verb)
 *ˈi-mə-ˌlāt*
 - **to kill or destroy especially by fire**
