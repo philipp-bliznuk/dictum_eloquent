@@ -89,6 +89,13 @@
 - **a traveler especially on foot**
 	one of the great _wayfarers_ of American folklore, Johnny Appleseed wandered across the country, always planting apple seeds
 
+##### Weal (noun)
+*ˈwēl*
+- **a sound, healthy, or prosperous state: well-being**
+- **a doubled edge, strip, insert, or seam (as on a garment) for ornament or reinforcement: welt**
+	the belief that somehow it is the nation's president who is responsible for the _weal_ or woe of the people
+	Some people develop pin-sized, raised bumps (_weals_) when sweating—this condition is called cholinergic urticaria.
+
 ##### Welter (verb / noun)
 *ˈwel-tər*
 - **writhe, toss, wallow**

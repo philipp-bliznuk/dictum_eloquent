@@ -517,6 +517,14 @@ _ˈāl_
 	approved the *annex* in the treaty
 	Historical photographs were on view in the library's *annex*.
 
+##### Annul (verb)
+*ə-ˈnəl*
+- **to declare or make legally invalid or void**
+- **to reduce to nothing: obliterate**
+- **to make ineffective or inoperative: neutralize**
+	unfortunately, his arrogant attitude _annuls_ the many generous favors he does for people
+	plans to _annul_ their short-lived, ill-advised marriage
+
 ##### Anoint (verb)
 *ə-ˈnȯint*
 - to smear or rub with oil or an oily substance
