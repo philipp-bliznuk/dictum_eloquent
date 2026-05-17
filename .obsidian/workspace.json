@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "affab",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -199,7 +199,7 @@
       "opencode-obsidian:OpenCode": false
     }
   },
-  "active": "0ee9c01c14402ef6",
+  "active": "575c8ec2a990f2c1",
   "lastOpenFiles": [
     "A.md",
     "W.md",
