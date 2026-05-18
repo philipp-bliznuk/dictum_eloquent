@@ -158,6 +158,13 @@
 	*unstopper* a flask
 	The good news is that a few nuanced regulatory tweaks could _unstopper_ a wave of rehabs.
 
+##### Unto (preposition)
+*ˈən-(ˌ)tü*
+- **to**
+- **used as a function word to indicate reference or concern**
+	they became a world *unto* themselves
+	In other words, the United States is not an energy island _unto_ itself.
+
 ##### Untoward (adjective)
 *ˌən-ˈtō-ərd*
 - **difficult to guide, manage, or work with: unruly, intractable**

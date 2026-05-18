@@ -31,6 +31,13 @@
 	a _ragtag_ group of musicians
 	the team was a _ragtag_ bunch who had only one thing in common: a lack of skill
 
+##### Raiment (noun)
+*ˈrā-mənt*
+- **clothing, garments**
+- **plural: an article of clothing: garment**
+	the prince exchanged his silken _raiment_ for the pauper's humble homespun
+	I tell thee, holy man, thy *raiments* and thy ebony cross affright me!
+
 ##### Rake (noun)
 *ˈrāk*
 - **inclination from the perpendicular / the overhang of a ship's bow or stern**

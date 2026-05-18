@@ -131,6 +131,21 @@
 	They returned to the land _whence_ they came.
 	no one could tell me _from whence_ the gold had come
 
+##### Whereat (conjunction)
+*(h)wer-ˈat*
+- **at or toward which**
+- **in consequence of which: whereupon**
+	He paused at the crossroads *whereat* the ancient signpost pointed in three different directions.
+    The treaty was signed *whereat* both nations agreed to cease hostilities.
+
+##### Wherefore (adverb / noun)
+*ˈ(h)wer-ˌfȯr*
+- **for what reason or purpose: why**
+- **therefore**
+- **an answer or statement giving an explanation: reason**
+	it was getting late, and _wherefore_ we decided to move on
+	demanded to know the whys and _wherefores_ for the decision
+
 ##### Wherewithal (noun)
 *ˈ(h)wer-wi-ˌt͟hȯl*
 - **money, finances, resources**

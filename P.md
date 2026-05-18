@@ -1152,6 +1152,13 @@ Peruke (noun)
 	Now is a _propitious_ time to start a business.
 	the success of the first big movie in May was a _propitious_ start for the summer season of blockbusters
 
+##### Propound (verb)
+*prə-ˈpau̇nd*
+- **to offer for discussion or consideration**
+- **propose, suggest**
+	Her new book expands upon the theory _propounded_ in her first book.
+	let us _propound_ the question whether mercy killing should ever be an option
+
 ##### Prosaic (adjective)
 *prō-ˈzā-ik*
 - **characteristic of prose as distinguished from poetry: factual**
@@ -1342,10 +1349,3 @@ Peruke (noun)
 - **costly to the point of negating or outweighing expected benefits**
 	a *Pyrrhic* victory
 	a great but *Pyrrhic* act of ingenuity
-
-##### Propound (verb)
-*prə-ˈpau̇nd*
-- **to offer for discussion or consideration**
-- **propose, suggest**
-	Her new book expands upon the theory _propounded_ in her first book.
-	let us _propound_ the question whether mercy killing should ever be an option
