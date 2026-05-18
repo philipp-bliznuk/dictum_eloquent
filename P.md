@@ -1342,3 +1342,10 @@ Peruke (noun)
 - **costly to the point of negating or outweighing expected benefits**
 	a *Pyrrhic* victory
 	a great but *Pyrrhic* act of ingenuity
+
+##### Propound (verb)
+*prə-ˈpau̇nd*
+- **to offer for discussion or consideration**
+- **propose, suggest**
+	Her new book expands upon the theory _propounded_ in her first book.
+	let us _propound_ the question whether mercy killing should ever be an option
