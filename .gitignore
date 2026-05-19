@@ -2,6 +2,13 @@ _Inbox.md
 
 .trash/
 
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+
+.obsidian/plugins/
+.obsidian/themes/
+
 # Apple metadata
 ._*
 .DS_Store
