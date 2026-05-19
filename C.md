@@ -680,6 +680,13 @@
 	The convention _codified_ the rules of war.
 	The author tries to _codify_ important ideas about language.
 
+##### Coeval (adjective)
+*kō-ˈē-vəl*
+- **of the same or equal age, antiquity, or duration**
+- **refers usually to periods, ages, eras, eons.**
+	two stars thought to be _coeval_ because they have nearly the same mass and brightness
+	The geologist argued that the volcanic rock layer was *coeval* with the extinction of the ancient marine reptiles.
+
 ##### Coffer (noun / verb)
 *ˈkȯ-fər*
 - **chest, strongbox**

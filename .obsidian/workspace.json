@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R.md",
+                "file": "C.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "R"
+              "title": "C"
             }
           },
           {
@@ -166,23 +166,14 @@
               "icon": "lucide-list",
               "title": "Outline of _Inbox"
             }
-          },
-          {
-            "id": "ab9dc757aee38e6c",
-            "type": "leaf",
-            "state": {
-              "type": "opencode-view",
-              "state": {},
-              "icon": "opencode-logo",
-              "title": "OpenCode"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 661
+    "width": 661,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,26 +191,26 @@
   },
   "active": "0ee9c01c14402ef6",
   "lastOpenFiles": [
+    "C.md",
+    "_Inbox.md",
+    "E.md",
+    "F.md",
     "R.md",
     "W.md",
-    "_Inbox.md",
     "U.md",
     "P.md",
     "A.md",
     "T.md",
     "M.md",
-    "C.md",
     "L.md",
     "I.md",
     "Q.md",
     "K.md",
-    "E.md",
     "H.md",
     "V.md",
     "B.md",
     "vv.md",
     "D.md",
-    "F.md",
     "S.md",
     "J.md"
   ]

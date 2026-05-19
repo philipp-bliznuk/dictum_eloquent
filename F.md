@@ -261,6 +261,13 @@
 	meteors flashing across the _firmament_
 	She's a rising star in the city's artistic *firmament*.
 
+##### Firth (noun)
+*ˈfərth*
+- **a water passage where the tide meets a river current: estuary**
+- **bay**
+	The historic castle sits on a cliff overlooking the *Firth* of Forth, offering stunning views of the North Sea.
+	Heavy fog rolled in across the *firth*, completely obscuring the fishing boats from the shoreline.
+
 ##### Fission (noun / verb)
 *ˈfi-shᵊn*
 - **a splitting or breaking up into parts**

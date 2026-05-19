@@ -488,6 +488,13 @@
 	While the Pharisees and Sadducees were often embroiled in the politics of Jerusalem, the *Essene* community preferred the isolation of the desert to maintain their spiritual purity.
 	Some historians suggest that the communal lifestyle of the early Christians closely mirrored the social structures found within the *Essene* sect at Qumran.
 
+##### Estuary (noun)
+*ˈes-chə-ˌwer-ē*
+- **a water passage where the tide meets a river current**
+- **an arm of the sea at the lower end of a river**
+	the city sits on the shores of a deep _estuary_ where the Hudson River meets the Atlantic Ocean
+	From the _estuary_ of the River Plate, the city looks mysterious, almost smudged, its lines seeming less refined than those of Paris but more modern than Warsaw’s.
+
 ##### Eupepsia (noun)
 *yu̇-ˈpep-shə*
 - **good digestion**
