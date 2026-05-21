@@ -202,6 +202,13 @@
 	a *vicarious* thrill
 	*vicarious* authority
 
+##### Vicegerent (noun)
+*ˈvīs-ˈjir-ənt*
+- **an administrative deputy of a king or magistrate**
+- **a person appointed by a ruler or higher authority to act as an administrative deputy or representative, exercising fully delegated power**
+	The king appointed his most trusted duke as *vicegerent* to govern the distant province while he was away at war.
+	In some ancient empires, the emperor was revered not just as a political leader, but as a divine *vicegerent* tasked with maintaining cosmic order.
+
 ##### Vicissitude (noun)
 *və-ˈsi-sə-ˌtüd*
 - **the quality or state of being changeable: mutability**

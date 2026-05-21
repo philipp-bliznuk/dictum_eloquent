@@ -264,6 +264,14 @@
 	The refugees gathered in a hilly _redoubt_ several miles outside the city.
 	a massive stone _redoubt_ at the entrance of the bay guarded the city
 
+##### Redound (verb)
+*ri-ˈdau̇nd*
+- **to become swollen: overflow**
+- **to have an effect for good or ill**
+- **to become transferred or added: accrue**
+	The charity's massive fundraising success will *redound* to the credit of the entire volunteer team.
+	Though he meant well, the manager's poorly timed comments could *redound* to the disadvantage of the company during negotiations.
+
 ##### Redux (adjective)
 *(ˌ)rē-ˈdəks*
 - **brought back -> used postpositively, placed after the noun it describes to indicate that a specific theme, style, or person has made a comeback**

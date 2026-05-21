@@ -331,6 +331,13 @@
 	The Maharaja waved to the gathered crowds from the gold-encrusted *howdah*, which was draped in heavy crimson silks.
 	Archaeologists discovered a miniature ivory carving of a war elephant, complete with a tiny, detailed *howdah* mounted on its back.
 
+##### Howsoever (adverb)
+*ˌhau̇-sə-ˈwe-vər*
+- **in whatever manner**
+- **to whatever degree or extent**
+	The company is determined to resolve the customer's complaint, *howsoever* difficult or costly it may prove to be.
+	*Howsoever* you choose to look at the data, the conclusion remains exactly the same: the climate is changing rapidly.
+
 ##### Hubbub (noun)
 *ˈhə-ˌbəb*
 - **noise, uproar**
