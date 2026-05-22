@@ -111,6 +111,12 @@
 	I'll hand ye a few _welts_ with me stick and then we'll see how ye feel!
 	Temperature swings, from a hot shower or very cold air, may intensify or cause the formation of new _welts_.
 
+##### Wert (verb)
+*ˈwərt*
+- **archaic past tense second-person singular of be**
+	I knew from the moment we met that thou *wert* a man of great honor and integrity.
+	Would that thou *wert* here with me now, for I sorely miss your company.
+
 ##### Wheatear (noun)
 *ˈ(h)wēt-ˌir*
 - **any of various small Old World flycatchers (genus Oenanthe) (bird)**
@@ -303,6 +309,13 @@
 - **that is wizened**
 	a face *wizened* by age
 	_wizened_ old women
+
+##### Wouldst (verb)
+*ˈwu̇dst*
+- **archaic past tense second-person singular of will**
+- **paired with the pronoun thou (meaning "you"), it is used to express a hypothetical situation, a polite request, a past habit, or a strong wish/desire**
+	If thou couldst travel anywhere in the world, where *wouldst* thou go?
+	I knew that thou *wouldst* keep my secret, for thou hast always been a loyal friend.
 
 ##### Wrack (noun / verb)
 *ˈrak*

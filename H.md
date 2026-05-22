@@ -20,6 +20,13 @@
 	If the past is a predictor, that one will raise *hackles*.
 	Another speech, in October of that same year, raised more *hackles*.
 
+##### Hadst (verb)
+*ˈhadst*
+- **archaic past tense second-person singular of have**
+- **exclusively used with the pronoun thou**
+	If thou *hadst* listened to my warning, thou wouldst not be in this predicament today.
+	Thou *hadst* a beautiful home in the countryside before the war forced thee to flee.
+
 ##### Haggard (adjective)
 *ˈha-gərd*
 - **having a worn or emaciated appearance: gaunt**
@@ -120,6 +127,13 @@
 - **to force to move along by harassing**
 	*harrying* them to work faster
 	the strikers had been _harried_ by thugs
+
+##### Hath (verb)
+*ˈhath*
+- **archaic present tense third-person singular of have**
+- **used when the subject of the sentence is a singular person or thing (he, she, it) other than "I" or "you."**
+	He that *hath* ears to hear, let him hear.
+	The autumn wind *hath* blown the last remaining leaves from the old oak tree.
 
 ##### Haunch (noun)
 *ˈhȯnch*

@@ -1150,6 +1150,13 @@ _ˈküt_
 	a classic car from the 1950s, replete with yards of _coruscating_ chrome
 	With his new book, Pan, Clune has turned his cockeyed sensibility and _coruscating_ intellect to fiction.
 
+##### Couldst (verb)
+*ˈku̇dst*
+- **archaic past tense second-person singular of can**
+- **paired with the pronoun thou (meaning "you"), it is used to express ability, possibility, or a polite request in the past or conditional tense**
+	If thou *couldst* see the future, wouldst thou change thy current path?
+	Thou *couldst* always make me laugh, even on the darkest of winter days.
+
 ##### Countenance (noun)
 _ˈkau̇n-tᵊn-ən(t)s_
 - **the face as an indication of mood, emotion, or character**

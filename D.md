@@ -653,6 +653,13 @@
 	The brain’s _dorsal_ attention network and ventral attention network are activated next.
 	If the leaves were shifted to the _dorsal_ side of the stem, the smiley-face pattern emerged.
 
+##### Dost (verb)
+*ˈdəst*
+- **archaic present tense second-person singular of do**
+- **always paired with the pronoun thou**
+	Why *dost* thou look so pale and troubled, my dear friend?
+	If thou *dost* intend to leave before dawn, you must pack your bags tonight.
+
 ##### Dotard (noun)
 *ˈdō-tərd*
 - **old person in a state on mental decline**

@@ -5,6 +5,15 @@
 	The ship's captain ordered the crew to the _yawl_ boat.
 	Prior to the incident, Wilson had been aboard a 52-foot _yawl_ named the Emerald with friends Oster and Colleen McGovern.
 
+##### Ye (pronoun / definite article)
+*ˈyē*
+- **archaic, second-person plural pronoun meaning "you"**
+- **used to address a group of people or a formal, respectful way to address a single person of higher social standing**
+- **a historical mistake for "The." The old letter 'thorn' (þ), which made the "th" sound, looked a lot like a "Y" in early printing presses**
+	Gather *ye* rosebuds while *ye* may, for time is still a-flying.
+	Hear *ye*, hear *ye*! The town crier announced that the king would arrive by sunset.
+	*Ye* Olde Antique Shop
+
 ##### Yew (noun)
 *ˈyü*
 - **any of a genus of evergreen gymnospermous trees and shrubs with stiff linear leaves and seeds surrounded by a fleshy red aril**

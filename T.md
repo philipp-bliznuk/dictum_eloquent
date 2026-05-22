@@ -1,3 +1,10 @@
+#### Thy (adjective)
+*ˈt͟hī*
+- **of or relating to thee or thyself especially as possessor or agent or as object of an action: your**
+- **used before words that begin with a consonant sound, before a vowel or a silent "h" it changes to "thine"**
+	Honor *thy* father and *thy* mother, for their wisdom has guided thee well.
+	To thine own self be true, and it must follow, as the night the day, thou canst not then be false to *thy* fellow man.
+
 ##### Tabard (noun)
 *ˈta-bərd*
 - **a short loose-fitting sleeveless or short-sleeved coat or cape**
@@ -273,6 +280,13 @@
 - **from that place**
 	Their travels took them to the Bahamas, _thence_ south to Venezuela.
 
+##### Therewith (adverb)
+*t͟her-ˈwit͟h*
+- **with that**
+- **thereupon, forthwith**
+	The contract was signed by the CEO, and the official company seal was stamped *therewith*.
+	The king issued the royal decree, and *therewith* ended a decades-long feud between the two families.
+
 ##### Thimble (noun)
 *ˈthim-bəl*
 - **a pitted cap or cover worn on the finger to push the needle in sewing**
@@ -293,6 +307,13 @@
 - **the middle of the three chief divisions of the body of an insect**
 	The *thorax* is evaluated for fluid at the flanks and for pneumothorax anteriorly.
 	This haunting pitch issues from drum tissue stretched over the *thorax* of the male annual cicada.
+
+##### Thou (pronoun)
+*ˈt͟hau̇*
+- **the one addressed: you**
+- **serves as the subject of a sentence, meaning it is the person performing the action**
+	Where *thou* goest, I will go; and where thou lodgest, I will lodge.
+	Fear not the storm, for *thou* art safe within these castle walls.
 
 ##### Threnody (noun)
 *ˈthre-nə-dē*
