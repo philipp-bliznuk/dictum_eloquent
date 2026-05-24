@@ -377,6 +377,13 @@
 	a dog with its tongue _lolling_ out
 	He _lolled_ about in his pajamas all day.
 
+##### Longeval / Longaeval (adjective)
+*länˈjēvəl*
+- **long lasting**
+- **long lived**
+	The bristlecone pine is a remarkably *longeval* tree species, with some individual specimens surviving for over 4,000 years.
+	Anthropologists are studying the remote mountain village to discover why its population is so unusually *longeval*.
+
 ##### Longitudinal (adjective)
 *ˌlän-jə-ˈtüd-nəl*
 - **placed or running lengthwise**
