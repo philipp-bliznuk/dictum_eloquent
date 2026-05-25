@@ -734,6 +734,17 @@ _ə-ˈper-əl_
 	The suspect was taken to the courthouse to be *arraigned* on three counts of grand larceny, where he calmly entered a plea of not guilty.
 	Legal analysts spent the morning debating how the high-profile CEO would be *arraigned*, given the complexity of the white-collar charges brought by the grand jury.
 
+##### Array (noun / verb)
+*ə-ˈrā*
+- **rich or beautiful apparel: finery**
+- **to dress or decorate especially in splendid or impressive attire: adorn**
+- **a body of soldiers: militia**
+- **to set or place in order: draw up, marshal**
+	She _arrayed_ herself in rich velvets and satins.
+	a door _arrayed_ for the holidays with a beautiful evergreen wreath
+	the forces *arrayed* against us
+	the baron and his feudal *array*
+
 ##### Arrest (verb)
 *ə-ˈrest*
 - **to bring to a stop**

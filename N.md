@@ -96,6 +96,13 @@
 	the *nexus* between teachers and students
 	a *nexus* of theories
 
+##### Nightingale (noun)
+*ˈnī-tᵊn-ˌgāl*
+- **an Old World flycatcher that has a brown back, a reddish tail, and cream or white underparts and that is noted for the sweet usually nocturnal song of the male**
+- **any of various other birds noted for their sweet song or for singing at night**
+	As the sun dipped below the horizon, the sweet, melodic song of a *nightingale* filled the quiet woods.
+	The opera singer's voice was so pure and effortless that the critics quickly dubbed her the '*nightingale* of the stage.'
+
 ##### Nodule (noun)
 *ˈnä-(ˌ)jül*
 - **a small mass of rounded or irregular shape**

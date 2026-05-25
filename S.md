@@ -24,6 +24,13 @@
 	our choir robes were stored in the _sacristy_
 	The walls of the _sacristy_ still have chipped paint and water damage.
 
+##### Sacrosanct (adjective)
+*ˈsa-krō-ˌsaŋ(k)t*
+- **most sacred or holy: inviolable**
+- **treated as if holy: immune from criticism or violation**
+	the government's most _sacrosanct_ institutions
+	The tradition is regarded as _sacrosanct_.
+
 ##### Sagacious (adjective)
 *sə-ˈgā-shəs*
 - **having or showing an ability to understand difficult ideas and situations and to make good decisions: marked by keen and farsighted understanding and judgment: discerning, wise**
@@ -1115,6 +1122,16 @@
 - **suggests fortitude and resolution in adherence and imperviousness to influences that would weaken it**
 	He's a _staunch_ believer in the value of regular exercise.
 	I'm one of his _staunchest_ supporters.
+
+##### Stay (noun, verb)
+*ˈstā*
+- **a large strong rope usually of wire used to support a mast**
+- **one that serves as a support**
+- **to allay, to pacify**
+- **to temporarily suspend or prevent by judicial or executive order**
+	beams being used to _stay_ the bridge while it is undergoing repairs
+	a free press is one of the principal _stays_ of a democratic society
+	_stay_ the trial until this new evidence has been processed
 
 ##### Steeple (noun)
 *ˈstē-pəl*

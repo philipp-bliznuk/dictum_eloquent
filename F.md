@@ -27,6 +27,16 @@
 	A _facsimile_ of the world's first computer was exhibited in the museum.
 	the family resemblance is so strong that the boy is virtually a pint-size _facsimile_ of his father
 
+##### Fain (adjective / adverb)
+*ˈfān*
+- **willing**
+- **being obliged or constrained: compelled**
+- **happy, pleased**
+- **inclined, desirous**
+- **rather, willingly**
+	during the Renaissance most men of science and the arts were _fain_ to express their noblest thoughts in Latin, the lingua franca of the learned
+	“I would _fain_ not marry that suitor, my lord,” the princess pleaded
+
 ##### Falcate (adjective)
 *ˈfal-ˌkāt*
 - **hooked or curved like a sickle**
