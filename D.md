@@ -795,6 +795,13 @@
 	warned her not to trust the _duplicitous_ art dealer
 	he decided to employ *duplicitous* tactics
 
+##### Duress (noun)
+*du̇-ˈres*
+- **forcible restraint or restriction**
+- **compulsion by threat / unlawful constraint**
+	He gave the information _under duress_.
+	complied with the order only under _duress_
+
 ##### Dyspepsia (noun)
 *dis-ˈpep-shə*
 - **indigestion**

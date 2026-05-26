@@ -5,6 +5,13 @@
 	with reckless *abandon*
 	added spices to the stew with complete _abandon_
 
+##### Abase (verb)
+*ə-ˈbās*
+- **to lower in rank, office, prestige, or esteem: degrade**
+- **to lower physically**
+	The proud general refused to *abase himself* by begging his captors for mercy.
+	A true leader inspires their team rather than using insults to *abase* and discourage them.
+
 ##### Abate (verb)
 *ə-ˈbāt*
 - **to become defeated or become null or void (as of a writ or appeal)**

@@ -274,6 +274,13 @@ _bi-ˈsä-təd_
 	Then one of them, the boy’s trim and _bespectacled_ father, spoke.
 	On the very top of the pile was a black-and-white mug shot of a bearded, *bespectacled* man.
 
+##### Bethink (verb)
+*bi-ˈthiŋk*
+- **to cause (oneself) to be reminded: remember, recall**
+- **to cause (oneself) to consider**
+	Before taking another step into the dark cavern, the traveler paused to *bethink himself* of the hidden traps the villagers had warned him about.
+	I must *bethink myself* of a way to resolve this misunderstanding before the king returns tomorrow morning.
+
 ##### Betoken (verb)
 *bi-ˈtō-kən*
 - **to typify beforehand: presage**
