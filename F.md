@@ -452,6 +452,13 @@
 	He showed great _forbearance_ in his dealings with them.
 	we thank you for your _forbearance_ while we attend to the technical difficulties interrupting the TV program
 
+##### Foreknow (verb)
+*(ˌ)fȯr-ˈnō*
+- **to have previous knowledge of**
+- **usually implies supernatural assistance, as through revelation**
+	if only we could _foreknow_ our own destinies
+	what couple can possibly _foreknow_ the trials and tribulations that marriage will bring?
+
 ##### Forswear / Foreswear (verb)
 *fȯr-ˈswer*
 - **to make a liar of (oneself) under or as if under oath**

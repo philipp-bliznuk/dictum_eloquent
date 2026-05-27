@@ -178,12 +178,6 @@
 	*untrammelled* greed/arrogance
 	She looks back with amazement at the *untrammelled* single life she enjoyed not so long ago.
 
-##### Untrammelled (adjective)
-*ˌən-ˈtra-məld*
-- **not confined, limited, or impeded**
-	*untrammelled* greed/arrogance
-	She looks back with amazement at the *untrammelled* single life she enjoyed not so long ago.
-
 ##### Unvarnished (adjective)
 *ˌən-ˈvär-nisht*
 - **not adorned or glossed: plain, straightforward**

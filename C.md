@@ -96,6 +96,13 @@
 	She was made a *canoness* of the aristocratic order of St. Theresa, of which the Queen was the head.
 	He was educated in France by a sister of his mother, the Countess of Grandnesnil, an ancient *canoness*, a noble lady, who was a second mother to the young Marquis after death had borne away his own.
 
+##### Canst (verb)
+*ˈkan(t)st*
+- **archaic present tense second-person singular of can**
+- **paired exclusively with the pronoun "thou" (meaning "you"), it is used to express ability, power, or permission**
+	Thou *canst* achieve great things if thou art willing to work hard and stay focused.
+	If thou *canst* hear my voice through the heavy storm, call out so I may find thee.
+
 ##### Canting (adjective)
 *ˈkan-tiŋ*
 - **affectedly or hypocritically pious or righteous.**

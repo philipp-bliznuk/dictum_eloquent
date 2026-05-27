@@ -779,6 +779,13 @@ _ə-ˈper-əl_
 	They sell rugs made by local _artisans_.
 	*artisan* breads
 
+##### Art (verb)
+*ˈärt*
+- **archaic present tense second-person singular of be**
+- **paired exclusively with the pronoun "thou" (meaning "you"), it is the historical equivalent of the modern phrase "you are."**
+	The traveler looked up at the night sky and whispered, 'How beautiful thou *art*, O moon.'
+	Fear not, my child, for thou *art* safe from the storm within these stone walls.
+
 ##### Ascertain (verb)
 *ˌa-sər-ˈtān*
 - **to find out or learn with certainty**

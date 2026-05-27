@@ -651,6 +651,13 @@
 	The captain ordered 'hard to port,' and the helmsman swung the wheel, causing the massive *rudder* to bite into the current and turn the tanker.
 	Without a clear plan, the committee was like a ship without a *rudder*, drifting aimlessly through hours of circular debate.
 
+##### Rue (noun / verb)
+*ˈrü*
+- **regret, sorrow**
+- **to feel penitence, remorse, or regret for**
+	a soul filled with pain and _rue_
+	I _rue_ the day I agreed to this stupid plan.
+
 ##### Rugose (adjective)
 *ˈrü-ˌgōs*
 - **full of wrinkles**

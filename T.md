@@ -513,6 +513,13 @@
 	_traipsed_ over to the restaurant
 	_traipsed_ all over town looking for the right dress
 
+##### Trammel (noun / verb)
+*ˈtra-məl*
+- **a net for catching birds or fish**
+- **something impeding activity, progress, or freedom: restraint -> usually used in plural**
+	laws that _trammel_ our rights as citizens
+	students and parents who want to throw off the _trammels_ of outdated school policies
+
 ##### Tranche (noun)
 *ˈträⁿsh*
 - **a division or portion of a pool or whole**
