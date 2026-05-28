@@ -5,6 +5,13 @@
 	The ship's captain ordered the crew to the _yawl_ boat.
 	Prior to the incident, Wilson had been aboard a 52-foot _yawl_ named the Emerald with friends Oster and Colleen McGovern.
 
+##### Yea (adverb / noun)
+*ˈyā*
+- **an affirmative vote: assent, affirmation**
+- **more than this: not only so but -> used to introduce a more explicit or emphatic phrase**
+	I vote _yea_ on the proposed increase in the school budget.
+	Yet the impression, *yea* the evidence, is inescapable.
+
 ##### Ye (pronoun / definite article)
 *ˈyē*
 - **archaic, second-person plural pronoun meaning "you"**

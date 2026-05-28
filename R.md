@@ -203,6 +203,13 @@
 	Our office has also filed 1,709 cases under Prop. 36’s _recidivist_ theft statute.
 	As a *recidivist* the penalty likely would be more severe.
 
+##### Reck (verb)
+*ˈrek*
+- **worry, care**
+- **to be of account or interest: matter**
+	The brave knight declared that he did not *reck* of the danger, for his cause was entirely just.
+	They danced and feasted late into the night, little *recking* that a fierce winter storm was brewing just outside the castle gates.
+
 ##### Recognizance (noun)
 *ri-ˈkäg-nə-zən(t)s*
 - **an obligation of record entered into before a court or magistrate requiring the performance of an act (such as appearance in court) usually under penalty of a money forfeiture**

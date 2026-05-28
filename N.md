@@ -51,6 +51,13 @@
 	The marsh was _navigable_ only by canoe.
 	this map shows which rivers are _navigable_ and which aren't
 
+##### Nay (adverb, noun)
+*ˈnā*
+- **a negative reply or vote: denial, refusal**
+- **used to correct what has just been said by replacing a word with one that is more accurate or appropriate**
+	_Nay_, I do not wish to go.
+	gave a resounding _nay_ to the request for a mixed-company camping trip
+
 ##### Nebulous
 *ˈne-byə-ləs*
 - **of, relating to, or resembling a nebula**

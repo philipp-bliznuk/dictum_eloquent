@@ -199,6 +199,13 @@
 	The old man spent his retirement carving intricate wooden *whirligigs* shaped like sailors rowing boats to place along his fence.
 	In Shakespeare’s "Twelfth Night", the character Feste remarks, "And thus the *whirligig* of time brings in his revenges," suggesting that life's cycles eventually bring justice.
 
+##### Whither (adverb / conjunction)
+*ˈ(h)wi-t͟hər*
+- **to what place: where**
+- **to what situation, position, degree, or end**
+	_whither_ are you going, my lady?
+	He grew up in New York City _whither_ his family had immigrated in the early 1920s.
+
 ##### Whittle (verb)
 *ˈ(h)wi-tᵊl*
 - **to pare or cut off chips from the surface of (wood) with a knife**

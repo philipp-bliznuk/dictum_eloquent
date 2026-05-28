@@ -479,6 +479,13 @@
 	Higher fuel prices are beneficial for _shale_ refiners.
 	In the Permian basin of New Mexico and west Texas, for example, producers can more quickly and economically ramp up extraction of light crude oil trapped in _shale_ rock.
 
+##### Shalt (verb)
+*ˈshalt*
+- **archaic present tense second-person singular of shall**
+- **paired exclusively with the pronoun "thou" (meaning "you"), it is the historical equivalent of the modern phrase "you shall" or "you will," and it is frequently used to express a command, a promise, or an inevitable future event**
+	Thou *shalt* not steal, for it is a violation of both moral law and community trust.
+	Keep pushing forward, and the day will come when thou *shalt* see all thy hard work rewarded.
+
 ##### Shambolic (adjective)
 *sham-ˈbä-lik*
 - **obviously disorganized or confused**

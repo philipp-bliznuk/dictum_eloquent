@@ -167,6 +167,13 @@
 	a few strange words carved on a tree were the only _vestige_ of the lost colony of Roanoke
 	the fossilized _vestige_ of a dinosaur that traversed that muddy landscape millions of years ago
 
+##### Vesture (noun / verb)
+*ˈves-chər*
+- **a covering garment (such as a robe or vestment): apparel**
+- **something that covers like a garment**
+	the man's sober _vesture_ contrasted sharply with his companion's festive finery
+	_vestured_ like a queen for her grand birthday party
+
 ##### Vexation (noun)
 *vek-ˈsā-shən*
 - **the quality or state of being vexed: irritation**
