@@ -291,6 +291,13 @@
 	Her supporters arrived _en masse_ for the rally.
 	moved the inmates _en masse_ to the new prison
 
+##### Enmesh / Immesh (verb)
+*in-ˈmesh* / *i(m)-ˈmesh*
+- **to catch or entangle in or as if in meshes**
+- **entrap, ensnare**
+	deeply *enmeshed* in the plot
+	soon after Eli Whitney had invented it, others copied his cotton gin, and he spent the rest of his life _enmeshed_ in lawsuits trying to protect his invention
+
 ##### Enmity (noun)
 *ˈen-mə-tē*
 - **positive, active, and typically mutual hatred or ill will**

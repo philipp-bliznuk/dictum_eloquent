@@ -220,6 +220,13 @@
 	the _whorls_ and eddies of the river
 	the _whorl_ of a fingerprint
 
+##### Whoso (pronoun)
+*ˈhü-(ˌ)sō*
+- **whoever**
+- **shortened form of "whosoever"**
+	*Whoso* sheddeth man's blood, by man shall his blood be shed.
+	The inscription on the stone decreed that *whoso* could pull the sword from the anvil would be the rightful king.
+
 ##### Wicker (noun)
 *ˈwi-kər*
 - **a small pliant twig or branch (as of osier): withe**
@@ -247,6 +254,13 @@
 - **gracefully tall and slender**
 	a *willowy* actress
 	the *willowy* curve of her neck
+
+##### Wilt (verb)
+*ˈwilt*
+- **archaic present tense second-person singular of will**
+- **paired exclusively with the pronoun "thou" (meaning "you"), it is the historical equivalent of the modern phrase "you will," and it is used to express future tense, a strong intention, or a question about someone's willingness to do something**
+	If thou *wilt* help me finish this task, I shall gladly reward thee for thy time.
+	*Wilt* thou accompany me to the marketplace tomorrow morning, or must I go alone?
 
 ##### Wilt (verb / noun)
 *ˈwilt*

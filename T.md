@@ -301,6 +301,14 @@
 	While walking through the overgrown pasture, he had to be careful not to let the sharp spines of the *thistle* snag his wool trousers.
 	Farmers often view the bull *thistle* as a stubborn weed because its deep taproot and prickly exterior make it difficult to clear from grazing land.
 
+##### Thong (noun)
+*ˈthȯŋ*
+- **narrow strip of material, typically leather, fabric, or plastic, used for fastening, binding, or securement**
+- **a sandal held on the foot by a thong fitting between the toes and connected to a strap across the top or around the sides of the foot**
+- **an article of swimwear or underwear with the back portion consisting of a narrow strip of cloth that passes between the buttocks and connects with a waistband**
+	The ancient sandals were secured to the traveler's feet by a thick leather *thong* wrapped around the ankles.
+	She packed a pair of rubber *thongs* to wear while walking across the hot sand at the beach.
+
 ##### Thorax (noun)
 *ˈthȯr-ˌaks*
 - **the part of the vertebrate body between the neck and the abdomen: ribcage**

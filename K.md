@@ -86,6 +86,13 @@
 	he plays the role of the duplicitous _knave_ who tries to foil the play's hero
 	How does history distinguish _knaves_ from legendary figures?
 
+##### Knowest (verb)
+*know-est*
+- **archaic, second-person singular present-tense form of the verb "know."**
+- **paired exclusively with the pronoun "thou" (meaning "you"), it is the historical equivalent of the modern phrase "you know."**
+	Thou *knowest* my heart better than anyone else, for we have been friends since childhood.
+	Thou *knowest* not what thous sayest!
+
 ##### Kohl (noun)
 *ˈkōl*
 - **a preparation used especially in Arabia and Egypt to darken the edges of the eyelids**

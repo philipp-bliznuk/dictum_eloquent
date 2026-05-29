@@ -161,6 +161,13 @@
 	The plane soared to _heady_ heights.
 	They were _heady_ with their newfound success.
 
+##### Hearest (verb)
+*hear-est*
+- **second-person singular present-tense form of the verb "hear."**
+- **paired exclusively with the pronoun "thou" (meaning "you"), it is the historical equivalent of the modern phrase "you hear."**
+	If thou *hearest* a strange tapping at thy window tonight, do not be afraid; it is only the wind.
+	Thou *hearest* the sweet melody of the nightingale, yet thy heart remains heavy with sorrow.
+
 ##### Hearken (verb)
 *ˈhär-kən*
 - **to give respectful attention**

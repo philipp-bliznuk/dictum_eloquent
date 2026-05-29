@@ -543,6 +543,13 @@
 	bees with abdomens _distended_ with honey are less apt to sting
 	Pre-Columbian jewelry worn in a large hole made in a greatly *distended* earlobe.
 
+##### Distraught (adjective)
+*di-ˈstrȯt*
+- **agitated with doubt or mental conflict or pain**
+- **exhibiting a severely disordered state of mind: not mentally sound**
+	_Distraught_ relatives are waiting for news of the missing children.
+	She was _distraught_ over the death of her partner.
+
 ##### Dither (verb / noun)
 *ˈdi-t͟hər*
 - **to act nervously or indecisively: vacillate**

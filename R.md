@@ -101,6 +101,13 @@
 	The joke about her family _rankled_ her.
 	that kind of rude treatment from a young person makes me _rankle_
 
+##### Rape (verb)
+*ˈrāp*
+- **an act or instance of robbing or despoiling or carrying away a person by force**
+- **to seize and take away by force: despoil**
+	The history book detailed the Viking invasion and the subsequent *rape* and pillage of the coastal monasteries.
+	Alexander Pope’s famous satirical poem, _The Rape of the Lock_, comically elevates the theft of a young lady's hair to the level of an epic tragedy.
+
 ##### Rappel (verb)
 *rə-ˈpel*
 - **to descend (as from a cliff) by sliding down a rope passed under one thigh, across the body, and over the opposite shoulder or through a special friction device**

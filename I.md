@@ -473,6 +473,13 @@
 	the use of illegal narcotics is not only a destroyer of personal health but also an _iniquity_ that undermines our society
 	a nation still struggling with the aftereffects of the _iniquity_ of slavery
 
+##### Injunction (noun)
+*in-ˈjəŋ(k)-shən*
+- **the act or an instance of enjoining: order, admonition**
+- **a writ granted by a court of equity whereby one is required to do or to refrain from doing a specified act: decree, edict**
+	The group has obtained an _injunction_ to prevent the demolition of the building.
+	in the cult there were _injunctions_ for and against everything, as nothing was a matter of personal choice
+
 ##### Inkling (noun)
 *ˈiŋ-kliŋ*
 - **a slight knowledge or vague notion**
