@@ -286,6 +286,14 @@
 	The charity's massive fundraising success will *redound* to the credit of the entire volunteer team.
 	Though he meant well, the manager's poorly timed comments could *redound* to the disadvantage of the company during negotiations.
 
+##### Redress (verb / noun)
+*ri-ˈdres*
+- **to requite (a person) for a wrong or loss**
+- **heal / remedy**
+- **implies making compensation or reparation for an unfairness, injustice, or imbalance**
+	It is time to _redress_ the injustices of the past.
+	the new skis were certainly an adequate _redress_ for the lost snowboard
+
 ##### Redux (adjective)
 *(ˌ)rē-ˈdəks*
 - **brought back -> used postpositively, placed after the noun it describes to indicate that a specific theme, style, or person has made a comeback**

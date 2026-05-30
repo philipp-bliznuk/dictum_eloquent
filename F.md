@@ -194,6 +194,18 @@
 	She was feeling tired and _feverish_.
 	He had a _feverish_ appearance.
 
+##### Fey (adjective)
+*ˈfā*
+- **able to see into the future: visionary**
+- **marked by an otherworldly air or attitude**
+- **not mentally sound: touched**
+- **excessively refined: precious**
+- **quaintly unconventional: campy**
+	Not being *fey*, he never suspected what it would lead to.
+	She had that half shy, half *fey* smile and that birdlike perkiness
+	a *fey*, self-indulgent dandy
+	audiences howl at her off-center delivery of *fey* folk songs and quaint special material
+
 ##### Fib (noun / verb)
 *ˈfib*
 - **a trivial or childish lie**

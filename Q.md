@@ -59,6 +59,13 @@
 	In the tales of Robin Hood, Little John famously defeats Robin in a duel on a log bridge using nothing but a sturdy *quarterstaff*.
 	While swords were expensive status symbols, the *quarterstaff* was the practical weapon of choice for travelers and peasants because it was cheap to make and highly effective.
 
+##### Quay (noun)
+*ˈkē* / *ˈkā* / *ˈkwā*
+- **a structure built parallel to the bank of a waterway for use as a landing place**
+- **wharf, dock, pier**
+	docked the ferry at the _quay_ to let the passengers off
+	Waiting at the _quay_ were water taxis for hotel guests.
+
 ##### Queasy (adjective)
 *ˈkwē-zē*
 - **causing nausea**

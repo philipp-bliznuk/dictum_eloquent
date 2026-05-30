@@ -275,6 +275,14 @@
 	He has a _cavalier_ disregard for the rights of others.
 	a novel about the dashing _cavaliers_ and gracious ladies of the South before the Civil War
 
+##### Caviar (noun)
+*ˈka-vē-ˌär*
+- **processed salted roe of large fish (such as sturgeon)**
+- **something considered the best of its kind**
+- **something considered too delicate or lofty for mass appreciation -> usually used in the phrase "caviar to the general"**
+	For their anniversary, they splurged on a chilled platter of premium Beluga *caviar* served on mother-of-pearl spoons.
+	The independent art film was brilliant, but its abstract style proved to be *caviar* to the general audience, who preferred blockbuster action movies.
+
 ##### Cavil (verb)
 *ˈka-vəl*
 - **to raise trivial and frivolous objection**

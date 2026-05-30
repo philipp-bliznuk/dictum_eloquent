@@ -487,6 +487,13 @@
 	_disparate_ notions among adults and adolescents about when middle age begins
 	In the 1990s astronomers came up with a brilliant idea to unify these _disparate_ characteristics
 
+##### Dispossess (verb)
+*ˌdis-pə-ˈzes*
+- **to put out of possession or occupancy**
+- **evict, deprive**
+	The land was settled by _dispossessing_ the native people who lived here.
+	opponents of gentrification claim that the process unfairly _dispossesses_ poorer residents of their long-established homes
+
 ##### Dissemble (verb)
 *di-ˈsem-bəl*
 - **to hide under a false appearance: pretend**
