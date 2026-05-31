@@ -308,6 +308,13 @@
 	Granite is a natural stone composed primarily of silicates, such as quartz, feldspar, and _mica_.
 	Its sparkle comes from the *mica* exposed by a carver’s chisel.
 
+##### Mickle / Mickel (adjective)
+*ˈmi-kəl*
+- **great, much**
+- **a great quantity or amount of**
+	The traveler had a *mickle* journey ahead of him, spanning across miles of treacherous mountain terrain.
+	After decades of careful saving, her small weekly investments grew into a *mickle* fortune.
+
 ##### Midden (noun)
 *ˈmi-dᵊn*
 - **dunghill**

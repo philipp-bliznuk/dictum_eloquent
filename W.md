@@ -159,6 +159,14 @@
 	it was getting late, and _wherefore_ we decided to move on
 	demanded to know the whys and _wherefores_ for the decision
 
+##### Wherein (adverb / conjunction)
+*(h)wer-ˈin*
+- **in what: in what particular or respect**
+- **in which: where**
+- **in what way: how**
+	_Wherein_ lies the secret to the company's success?
+	There was a period in her life _wherein_ she took no active part in politics.
+
 ##### Wherewithal (noun)
 *ˈ(h)wer-wi-ˌt͟hȯl*
 - **money, finances, resources**

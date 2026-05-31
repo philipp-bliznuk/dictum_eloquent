@@ -606,6 +606,13 @@ _bi-ˈsä-təd_
 	Temporary steel *braces* were installed to hold the ancient stone wall in place during the foundation repairs.
 	He opted for a pair of silk *braces* instead of a belt to ensure his tuxedo trousers draped perfectly during the gala.
 
+##### Brackish (adjective)
+*ˈbra-kish*
+- **somewhat salty**
+- **not appealing to the taste: repulsive**
+	the office coffee is often some _brackish_ brew that's been sitting around for a couple of hours
+	the river becomes _brackish_ as we approach the tidemark
+
 ##### Braise (noun / verb)
 *ˈbrāz*
 - **to cook slowly in fat and a small amount of liquid in a closed pot**

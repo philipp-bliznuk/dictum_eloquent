@@ -1405,6 +1405,13 @@ _ˈkau̇n-tᵊn-ən(t)s_
 	The river and *culvert* were about 20 feet down from the road.
 	Rivers were put in *culverts* partly to contain the smell.
 
+##### Cumbrous (adjective)
+*ˈkəm-b(ə-)rəs*
+- **cumbersome**
+- **imply heaviness and bulkiness that make for difficulty in grasping, moving, carrying, or manipulating**
+	wrestled with the _cumbrous_ furniture
+	it took two people to haul the _cumbrous_ machine into the garage
+
 ##### Curia (noun)
 *ˈkyu̇r-ē-ə*
 - **the court of a medieval king**
