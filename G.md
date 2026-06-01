@@ -309,8 +309,8 @@
 	the eternal struggle of the human race to _grok_ its place in the grand scheme of the universe
 	If there was any ironic intent behind the question, he didn’t seem to _grok_ it.
 
-##### Grotto (noun)
-*ˈgrä-(ˌ)tō*
+##### Grotto / Grot (noun)
+*ˈgrä-(ˌ)tō* / *ˈgrät*
 - **cave**
 - **an artificial recess or structure made to resemble a natural cave**
 	at the heart of the shrine is a small rocky _grotto_ into which pilgrims can descend

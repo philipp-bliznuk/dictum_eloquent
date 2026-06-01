@@ -962,6 +962,13 @@
 	a happy _confluence_ of beautiful weather and spectacular scenery during our vacation
 	the Mississippi River's _confluence_ with the Missouri River
 
+##### Confound (verb)
+*kən-ˈfau̇nd*
+- **to throw (a person) into confusion or perplexity**
+- **implies temporary mental paralysis caused by astonishment or profound abasement**
+	The strategy _confounded_ our opponents.
+	The school's team _confounded_ all predictions and won the game.
+
 ##### Congenial (adjective)
 *kən-ˈjē-nē-əl*
 - **agreeably suited to one's nature, tastes, or outlook: pleasant**

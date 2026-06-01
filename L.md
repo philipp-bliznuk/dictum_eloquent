@@ -190,6 +190,14 @@
 	He's an important _layman_ in his church.
 	For a _layman_, he knows a lot about the law.
 
+##### Leaguer (noun / verb)
+*ˈlē-gər*
+- **a military camp**
+- **siege**
+- **to beleaguer**
+	an impregnable fortress that not even the mightiest army on earth would venture to *leaguer*
+	The king’s army pitched their *leaguer* outside the city walls, preparing for a siege that would last through the winter.
+
 ##### Leave (noun)
 *ˈlēv*
 - **permission to do something**
