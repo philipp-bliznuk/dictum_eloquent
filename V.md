@@ -48,6 +48,13 @@
 	a gossipy, *vapid* woman, obsessed by her own elegance
 	an exciting story given a _vapid_ treatment
 
+##### Variance (noun)
+*ˈver-ē-ən(t)s*
+- **the fact, quality, or state of being variable or variant: difference, variation**
+- **implies a clash between persons or things owing to a difference in nature, opinion, or interest: dissension, dispute**
+	We noticed a slight _variance_ between the quality of the samples.
+	cultural _variances_ that work against a national identity
+
 ##### Variegated (adjective)
 *ˈver-ē-ə-ˌgā-təd*
 - **having discrete markings of different colours**

@@ -140,6 +140,15 @@
 	The _teak_ shade exudes quiet luxury, though there are plenty of gorgeous hues to choose from.
 	Midcentury purists will rejoice in this true vintage FBJ Mobler piece, made from _teak_ in a classic Danish silhouette.
 
+##### Teem (verb)
+*ˈtēm*
+- **to become pregnant: conceive**
+- **give birth to: bring forth, produce**
+- **to become filled to overflowing: abound**
+- **empty, pour**
+	the area _teems_ with entrepreneurs hoping to hit upon the next big thing
+	*teem* molten metal into a mold
+
 ##### Temerity (noun)
 *tə-ˈmer-ə-tē*
 - **unreasonable or foolhardy contempt of danger or opposition: rashness, recklessness**

@@ -1377,6 +1377,13 @@ _ˈkau̇n-tᵊn-ən(t)s_
 	After evolving in the sea about 500 million years ago, _crustaceans_ expanded into a huge range of undersea niches.
 	The nearby bay was full of the _crustaceans_, but back in 1921, nobody was eating them.
 
+##### Crux (noun)
+*ˈkrəks* / *ˈkru̇ks*
+- **a puzzling or difficult problem: an unsolved question**
+- **a main or central feature (as of an argument)**
+	the _crux_ of the problem is that the school's current budget is totally inadequate
+	The origin of the word is a scholarly *crux*.
+
 ##### Cubbyhole (noun)
 *ˈkə-bē-ˌhōl*
 - **a small snug place (as for hiding or storage)**
