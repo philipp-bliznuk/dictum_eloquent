@@ -12,6 +12,13 @@
 	scandal caused tongues to *wag*
 	She _wagged_ her finger at the children as she scolded them.
 
+##### Waive (verb)
+*ˈwāv*
+- **to relinquish (something, such as a legal right) voluntarily**
+- **to put off from immediate consideration: postpone**
+	She _waived_ her right to a lawyer.
+	The university _waives_ the application fee for low-income students.
+
 ##### Wallow (verb / noun)
 *ˈwä-(ˌ)lō*
 - **to roll oneself about in a lazy, relaxed, or ungainly manner**
