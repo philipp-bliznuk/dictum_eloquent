@@ -103,7 +103,7 @@
 	the belief that somehow it is the nation's president who is responsible for the _weal_ or woe of the people
 	Some people develop pin-sized, raised bumps (_weals_) when sweating—this condition is called cholinergic urticaria.
 
-##### Well-nigh (adverb)
+##### Well-nigh / Wellnigh (adverb)
 *ˈwel-ˈnī*
 - **almost, nearly**
 - **practically**

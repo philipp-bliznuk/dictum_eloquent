@@ -146,6 +146,12 @@
 	an utterly _capricious_ critic
 	the *capricious* nature of the stock market
 
+##### Carcanet (noun)
+*ˈkär-kə-nət*
+- **an ornamental necklace, chain, collar, or headband**
+	The duchess entered the ballroom wearing a stunning *carcanet* of rubies and pearls that caught the candlelight with every step.
+	In his chest of treasures, the pirate kept a gold *carcanet* stolen from a royal galleon centuries ago.
+
 ##### Career (noun / verb)
 *kə-ˈrir*
 - **speed in a course -> used especially in the phrases in full career or at full career**

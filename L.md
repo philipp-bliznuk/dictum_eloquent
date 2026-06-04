@@ -190,6 +190,13 @@
 	He's an important _layman_ in his church.
 	For a _layman_, he knows a lot about the law.
 
+##### League (noun / verb)
+*ˈlēg*
+- **an association of persons or groups united by common interests or goals**
+- **class, category**
+	When I played chess with George, I knew I was out of my *league*.
+	the whole block _leagued_ together to keep a liquor store from opening in their neighborhood
+
 ##### Leaguer (noun / verb)
 *ˈlē-gər*
 - **a military camp**

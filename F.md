@@ -319,6 +319,13 @@
 	a restaurant with a European _flair_
 	a person with a _flair_ for making friends quickly
 
+##### Flax (noun)
+*ˈflaks*
+- **a slender erect annual plant with blue flowers commonly cultivated for its bast fiber and seed, also known as linen**
+- **the fiber of the flax plant especially when prepared for spinning**
+	The ancient Egyptians wrapped mummies in sheets of fine linen woven entirely from *flax* fibers.
+	She adds a tablespoon of ground *flax* to her morning smoothie for an extra boost of healthy omega-3s.
+
 ##### Fleece (noun / verb)
 *ˈflēs*
 - **any of various soft or woolly coverings**
