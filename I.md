@@ -588,6 +588,13 @@
 	Moscow is not involved in those talks, but Turkey has been a key _interlocutor_ between the two.
 	When drafting your next email, be sure to check in on your *interlocutor* first and then get down to business.
 
+##### Interloper (noun)
+*ˌin-tər-ˈlō-pər*
+- **one that intrudes in a place or sphere of activity: intruder**
+- **an illegal or unlicensed trader**
+	I had hoped to help my neighbors, but they regarded me as an _interloper_.
+	summer residents were regarded as _interlopers_ who had no deep commitment to the town's welfare
+
 ##### Interminable (adjective)
 *(ˌ)in-ˈtər-mə-nə-bəl*
 - **having or seeming to have no end**

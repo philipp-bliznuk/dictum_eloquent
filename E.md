@@ -147,6 +147,13 @@
 	unfortunately, when the book was condensed, some of the _elisions_ rendered major plot developments incomprehensible
 	Still, her assumptions and *elisions* are striking, if predictable.
 
+##### Elope (verb)
+*i-ˈlōp*
+- **to run away secretly with the intention of getting married usually without parental consent**
+- **to slip away: escape**
+	The couple _eloped_ in the middle of the night.
+	scarecrow _eloped_ from a cornfield
+
 ##### Elucidate (verb)
 *i-ˈlü-sə-ˌdāt*
 - **to make lucid especially by explanation or analysis**

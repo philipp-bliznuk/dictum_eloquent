@@ -750,6 +750,13 @@ _bi-ˈsä-təd_
 	Catherine sends the sultan a carriage full of gold *bullion*.
 	The jacket and skirt were also embroidered with gold *bullion* and pearl chains.
 
+##### Bulwark (noun / verb)
+*ˈbu̇l-(ˌ)wərk*
+- **a solid wall-like structure raised for defense: rampart**
+- **a strong support or protection**
+	democratic principles that stand as a _bulwark_ against tyranny
+	vowed to use any means necessary to _bulwark_ the country against a terrorist attack
+
 ##### Bumpkin (noun)
 *ˈbəm(p)-kən*
 - **an awkward and unsophisticated rustic**

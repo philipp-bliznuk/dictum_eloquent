@@ -264,6 +264,11 @@
 	he has a *mercurial* personality, a quality that leaves him hard to predict
 	innovative *mercurial* cunning that can shift genes and outwit germs
 
+##### Mere (noun)
+*ˈmir*
+- **an expanse of standing water: lake, pool**
+	one of the most scenic _meres_ in England's Lake District
+
 ##### Merlon (noun)
 *ˈmər-lən*
 - **any of the solid intervals between crenellations of a battlement**

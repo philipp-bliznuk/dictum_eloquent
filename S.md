@@ -670,6 +670,14 @@
 	The car _skidded_ off the road and into the gully.
 	He slammed on the brakes, and the car _skidded_ to a halt.
 
+##### Slag (noun / verb)
+*ˈslag*
+- **the dross or scoria of a metal: refuse**
+- **a lewd or promiscuous woman**
+- **to criticize harshly**
+	London reviewers _slagged_ off the new play for being another kitchen-sink drama.
+	When the smelters smashed the furnace and the molten *slag* flowed out, what remained were precious lumps of copper.
+
 ##### Slalom (noun / verb)
 *ˈslä-ləm*
 - **skiing in a zigzag or wavy course between upright obstacles (such as flags)**

@@ -1126,6 +1126,13 @@ Peruke (noun)
 	a beautifully landscaped park with a wide _promenade_ along the riverside
 	They _promenaded_ along the beach.
 
+##### Promontory (noun)
+*ˈprä-mən-ˌtȯr-ē*
+- **a high point of land or rock projecting into a body of water: peninsula**
+- **a bodily prominence**
+	stood on the windswept _promontory_ overlooking the bay
+	Cape May is Delaware Bay's largest _promontory_.
+
 ##### Promulgate (verb)
 *ˈprä-məl-ˌgāt*
 - **to make (an idea, belief, etc.) known to many people by open declaration: proclaim**

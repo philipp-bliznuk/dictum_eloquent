@@ -370,6 +370,13 @@
 	the bride wore a _diaphanous_ veil
 	had only a *diaphanous* hope of success
 
+##### Dicker (noun / verb)
+*ˈdi-kər*
+- **bargain, haggle**
+- **barter**
+	I tried to _dicker_ for a discounted price.
+	was hoping to make a _dicker_ with another collector of records from the 1950s
+
 ##### Dictum / Dicta (noun)
 *ˈdik-təm* / *ˈdik-tə*
 - **a formal pronouncement of a principle, proposition, or opinion**

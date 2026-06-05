@@ -105,6 +105,12 @@
 	leaves that _taper_ to a point
 	you'll find the symptoms begin _tapering_ gradually about 24 hours after you take the medicine
 
+##### Tarn (noun)
+*ˈtärn*
+- **a small steep-banked mountain lake or pool**
+	Pass Grant Lake, a deep blue _tarn_ nestled in the sagebrush.
+	Follow the winding trail toward the base of O'Malley Peak to a striking, dark _tarn_ called Deep Lake.
+
 ##### Tarpaulin (noun)
 *tär-ˈpȯ-lən*
 - **a piece of material used especially for protecting exposed objects or areas: tarp**
@@ -445,6 +451,13 @@
 - **a usually metal collar or neck chain worn by the ancient Gauls, Germans, and Britons**
 	The chieftain stood tall, the sunlight glinting off the heavy gold *torc* that circled his neck, marking him as the leader of the tribe.
 	The 'Snettisham Hoard' contains some of the most famous Iron Age *torcs* ever found, showcasing incredible craftsmanship in braided gold wire.
+
+##### Tor (noun)
+*ˈtȯr*
+- **a high craggy hill**
+- **a prominent, free-standing rocky outcrop that rises abruptly from the smooth, rounded summit of a hill or a ridge**
+	The hikers used the massive stone *tor* at the top of the ridge as a landmark to keep from getting lost in the fog.
+	Centuries of harsh weather had carved the granite *tor* into a shape that looked almost like a ruined castle.
 
 ##### Torpid (adjective)
 *ˈtȯr-pəd*
