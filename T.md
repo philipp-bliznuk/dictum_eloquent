@@ -439,6 +439,13 @@
 	after years of _toil_ in a sweatshop, Kim was finally able to start her own dressmaking business
 	They were _toiling_ up a steep hill.
 
+##### Tonsil (noun)
+*ˈtän(t)-səl*
+- **either of a pair of prominent masses of lymphoid tissue that lie one on each side of the throat between two folds of soft tissue that bound the fauces**
+- **any of various masses of lymphoid tissue (such as the adenoids) that are similar to tonsils**
+	The doctor shone a small light down the child's throat and confirmed that her *tonsils* were swollen and covered in white spots.
+	After suffering from strep throat four times in a single year, he finally decided to have his *tonsils* surgically removed.
+
 ##### Tonsure (noun / verb)
 *ˈtän(t)-shər*
 - **the shaven crown or patch worn by monks and other clerics**
