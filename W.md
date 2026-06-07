@@ -137,6 +137,13 @@
 - **a white-rumped one (O. oenanthe) of northern North America and the Old World**
 	The bird of last week was undoubtedly a northern _wheatear_ that spent the better part of late Tuesday afternoon actively foraging in a backyard near a marsh beside Water Street in Yarmouth.
 
+##### Wheedle (verb)
+*ˈ(h)wē-dᵊl*
+- **to influence or entice by soft words or flattery**
+- **suggests more strongly than "cajole" the use of seductive appeal or artful words in persuading**
+	He _wheedled_ quite a bit of money from her.
+	She pleaded and _wheedled_, but I wouldn't be swayed.
+
 ##### Whelp (noun / verb)
 *ˈ(h)welp*
 - **any of the young of various carnivorous mammals and especially of the dog**
@@ -352,6 +359,13 @@
 - **that is wizened**
 	a face *wizened* by age
 	_wizened_ old women
+
+##### Wont (adjective / verb / noun)
+*ˈwȯnt*
+- **accustomed, used**
+- **usually applies to a habitual manner, method, or practice of an individual or group**
+	she paced about the room, as she is _wont_ to do whenever she is agitated
+	he got up early, as is his _wont_
 
 ##### Wouldst (verb)
 *ˈwu̇dst*

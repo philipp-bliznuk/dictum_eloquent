@@ -120,6 +120,14 @@
 	The boxer made a _feint_ with his right, then followed with a left hook.
 	a _feint_ toward the enemy's left flank
 
+##### Fell (adjective)
+*ˈfel*
+- **fierce, cruel, terrible**
+- **sinister, malevolent**
+- **very destructive: deadly**
+	war crimes committed by a _fell_ and barbarous enemy
+	planning for the distribution of resources in case of some _fell_ event
+
 ##### Fellatio (noun)
 *fə-ˈlā-shē-ˌō*
 - **oral stimulation of the penis**
@@ -318,6 +326,13 @@
 - **a uniquely attractive quality: style**
 	a restaurant with a European _flair_
 	a person with a _flair_ for making friends quickly
+
+##### Flaunt (verb)
+*ˈflȯnt*
+- **to wave or flutter showily**
+- **suggests a shameless, boastful, often offensive parading**
+	She liked to _flaunt_ her wealth by wearing furs and jewelry.
+	nouveaux riches _flaunting_ their wealth
 
 ##### Flax (noun)
 *ˈflaks*

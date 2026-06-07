@@ -1616,6 +1616,13 @@
 	He _swaddled_ the baby in a blanket.
 	marriage _swaddled_ him in a domesticity he came to loathe
 
+##### Sward (noun)
+*ˈswȯrd*
+- **a portion of ground covered with grass**
+- **the grassy surface of land**
+	The sheep grazed peacefully across the rolling hills, moving from one rich *sward* of clover to the next.
+	The ancient stone castle looked striking against the manicured, emerald *sward* that surrounded its moat.
+
 ##### Swat (noun / verb)
 *ˈswät*
 - **a powerful or crushing blow**
