@@ -151,6 +151,13 @@
 	The palace guard stood motionless, his polished *glaive* held upright as its long, curved blade glinted in the torchlight.
 	During the chaotic skirmish, the foot soldiers used their *glaives* to keep the charging cavalry at a distance, sweeping the heavy blades in wide, lethal arcs.
 
+##### Glean (verb)
+*ˈglēn*
+- **to gather grain or other produce left by reapers**
+- **to gather information or material bit by bit**
+	She _gleaned_ her data from various studies.
+	He has a collection of antique tools _gleaned_ from flea markets and garage sales.
+
 ##### Glib (adjective)
 *ˈglib*
 - **said or done offhand and especially with inadequate attention or concern: said or done too easily or carelessly**

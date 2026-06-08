@@ -156,6 +156,13 @@
 	most of the applicants were _befuddled_ by the wording of one of the questions on the driving test
 	_befuddled_ with drink all the time
 
+##### Beguile (verb)
+*bi-ˈgī(-ə)l*
+- **to engage the interest of by or as if by guile**
+- **to lead by deception: hoodwink**
+	He _beguiled_ the audience with his smooth and seductive voice.
+	They were _beguiled_ into thinking they'd heard the whole story.
+
 ##### Behest (noun)
 *bi-ˈhest*
 - **an authoritative order: command**
