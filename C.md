@@ -25,6 +25,12 @@
 	a *cadre* of technicians
 	claims that the problem will never be solved within the existing _cadre_ of the state bureaucracy
 
+##### Cairn (noun)
+*ˈkern*
+- **a heap of stones piled up as a memorial or as a landmark**
+	The hikers were relieved to spot a stone *cairn* through the dense fog, confirming they were still on the correct path to the summit.
+	Archaeologists excavating the ancient *cairn* discovered a hidden stone chamber dating back more than three thousand years.
+
 ##### Cajole (verb)
 *kə-ˈjōl*
 - **to persuade with flattery or gentle urging especially in the face of reluctance: coax**

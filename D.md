@@ -310,6 +310,13 @@
 	deeds of *derring-do*
 	There was never a ton of conventional *derring-do* on his resume, even in Ron Howard's rather straightforward fantasy adventure.
 
+##### Descry (verb)
+*di-ˈskrī*
+- **to catch sight of**
+- **to make known: reveal**
+	we couldn't _descry_ the reasons for his sudden departure
+	could just _descry_ the ship coming over the horizon
+
 ##### Desiccate (verb)
 *ˈde-si-ˌkāt*
 - **to preserve (a food) by drying: dehydrate / to dry up**
