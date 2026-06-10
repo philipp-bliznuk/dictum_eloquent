@@ -741,6 +741,13 @@
 	A _tuft_ of hair stuck out from under his hat.
 	The mattresses are hand-_tufted_ and made in California.
 
+##### Tuition (noun)
+*tə-ˈwi-shən*
+- **the price of or payment for instruction**
+- **the act or profession of teaching: instruction**
+	Her uncle agreed to pay part of her _tuition_.
+	Before the company transferred her to Mexico, they offered her private _tuition_ in Spanish.
+
 ##### Tulle (noun)
 *ˈtül*
 - **a sheer often stiffened silk, rayon, or nylon net used chiefly for veils or ballet costumes**

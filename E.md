@@ -488,6 +488,13 @@
 	The condition also affects the _esophagus_, meaning Duglof can only eat soft foods.
 	The tear appeared to be at the lower left end of the *esophagus*, just above the diaphragm.
 
+##### Espy (verb)
+*i-ˈspī*
+- **to catch sight of**
+- **spot, notice**
+	out of the corner of my eye I _espied_ the squirrel making another raid on the bird feeder
+	among the several horses she _espied_ the white mustang
+
 ##### Essay (verb)
 *e-ˈsā*
 - **to put to a test**

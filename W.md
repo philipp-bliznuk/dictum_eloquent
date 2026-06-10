@@ -12,6 +12,14 @@
 	scandal caused tongues to *wag*
 	She _wagged_ her finger at the children as she scolded them.
 
+##### Waif (noun)
+*ˈwāf*
+- **a stray person or animal: vagabond**
+- **something found without an owner and especially by chance**
+- **an extremely thin and usually young woman (high-fashion aesthetic)**
+	The Dickensian novel tells the story of a penniless street *waif* who finds a hidden fortune.
+	The 1990s runway trends shifted sharply away from athletic supermodels toward a fragile, *waif* look.
+
 ##### Waive (verb)
 *ˈwāv*
 - **to relinquish (something, such as a legal right) voluntarily**

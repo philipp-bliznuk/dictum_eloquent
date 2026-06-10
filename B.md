@@ -261,6 +261,13 @@ _bi-ˈreft_
 	The knight’s *besagew* dangled from a leather thong, swaying slightly as he raised his lance to challenge his opponent.
 	While the heavy breastplate protected his chest, it was the small, fluted *besagews* that saved him from a narrow thrust aimed at his underarm.
 
+##### Beseech (verb)
+*bi-ˈsēch*
+- **to beg for urgently or anxiously**
+- **to request earnestly: implore**
+	I _beseech_ you to have mercy
+	parishioners ardently _beseeched_ the local bishop not to close their beloved church
+
 ##### Besmirch (verb)
 *bi-ˈsmərch*
 - **to cause harm or damage to the purity, luster, or beauty of (something): sully, soil**

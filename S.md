@@ -52,6 +52,12 @@
 	For commuters in suburban communities … safety on the city's public transportation network is a uniquely *salient* topic.
 	not on the level ground, but on a *salient* corner
 
+##### Sallow (adjective)
+*ˈsa-(ˌ)lō*
+- **of a grayish greenish yellow color**
+	he was still a bit _sallow_ after a week spent in bed with the flu
+	The cold of winter can leave your complexion dry, _sallow_, and desperate for hydration.
+
 ##### Sally (verb / noun)
 *ˈsa-lē*
 - **an action of rushing or bursting forth**
@@ -1622,6 +1628,13 @@
 - **the grassy surface of land**
 	The sheep grazed peacefully across the rolling hills, moving from one rich *sward* of clover to the next.
 	The ancient stone castle looked striking against the manicured, emerald *sward* that surrounded its moat.
+
+##### Swart (adjective)
+*ˈswȯrt*
+- **of a dark color, complexion, or cast: swarthy**
+- **baneful, malignant**
+	The *swart* smith spent the entire afternoon working at the blazing forge, his skin covered in a thin layer of soot.
+	The portrait depicted a rugged sea captain with a *swart*, weather-beaten face shaped by decades under the tropical sun.
 
 ##### Swat (noun / verb)
 *ˈswät*

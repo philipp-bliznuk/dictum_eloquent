@@ -31,6 +31,15 @@
 	one of the changes in American society that remains a particular _abhorrence_ of social conservatives
 	my firm _abhorrence_ of all forms of hypocrisy
 
+##### Abide (verb)
+*ə-ˈbīd*
+- **to bear patiently: tolerate**
+- **to wait for: await**
+- **remain, stay, dwell**
+	cannot *abide* such hypocrites
+	_abide_ in the house of the Lord
+	a love that _abided_ till the end of their lives
+
 ##### Ablate (verb)
 *a-ˈblāt*
 - **to remove or destroy especially by cutting, abrading, or evaporating**
@@ -326,6 +335,13 @@
 - **implies treating with deliberate rudeness or contemptuous indifference to courtesy**
 	did not mean to _affront_ you when I told you I didn't need your help
 	He regarded her rude behavior as a personal _affront_.
+
+##### Aforetime (adverb / adjective)
+*ə-fȯr-tīm*
+- **formerly**
+- **former**
+	The rich valley, which *aforetime* had been filled with vibrant orchards, now lay barren and abandoned.
+	The elders spoke at length about the laws and traditions established by their ancestors *aforetime*.
 
 ##### Aft (adverb / adjective)
 *ˈaft*
@@ -705,6 +721,14 @@ _ə-ˈper-əl_
 - **extremely**
 	an _archly_ competitive young executive
 	*archly* conservative
+
+##### Ardent (adjective)
+*ˈär-dᵊnt*
+- **characterized by warmth of feeling typically expressed in eager zealous support or activity**
+- **fiery, hot**
+- **shining, glowing**
+	an _ardent_ supporter of human rights
+	an *ardent* sun
 
 ##### Arduous (adjective)
 *ˈär-jə-wəs*
