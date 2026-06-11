@@ -117,6 +117,13 @@
 	The examination revealed a _nodule_ on his lung.
 	a _nodule_ on the leaf indicated that a worm had laid eggs there
 
+##### Noise (verb)
+*ˈnȯiz*
+- **to talk much or loudly**
+- **to spread by rumor or report -> usually used with "about" or "abroad"**
+	the scandal was quickly _noised_ about
+	Keep this information to yourself, for it is a private matter that should not be *noised* about the village.
+
 ##### Noisome (adjective)
 *ˈnȯi-səm*
 - **offensive to the senses and especially to the sense of smell**

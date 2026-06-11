@@ -1658,6 +1658,13 @@
 	the mare brushed away the flies with a sweeping _swish_ of her tail
 	a trendy boutique filled with _swish_ accessories for the urban fashionista
 
+##### Swoon (noun / verb)
+*ˈswün*
+- **a partial or total loss of consciousness: faint**
+- **a state of suspended animation: torpor**
+	easily _swooned_ at the sight of blood
+	fell into a _swoon_ after stepping off of the incredibly fast roller coaster
+
 ##### Sycophant (noun)
 *ˈsi-kə-fənt*
 - **a servile self-seeking flatterer** 

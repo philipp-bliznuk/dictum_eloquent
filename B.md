@@ -295,6 +295,13 @@ _bi-ˈsä-təd_
 	Before taking another step into the dark cavern, the traveler paused to *bethink himself* of the hidden traps the villagers had warned him about.
 	I must *bethink myself* of a way to resolve this misunderstanding before the king returns tomorrow morning.
 
+##### Betide (verb)
+*bi-ˈtīd*
+- **to happen especially as if by fate**
+- **to happen to: befall -> used chiefly in the phrase "woe betide"**
+	we will be happy in our new home, whatever may _betide_
+	woe *betide* our enemies
+
 ##### Betoken (verb)
 *bi-ˈtō-kən*
 - **to typify beforehand: presage**

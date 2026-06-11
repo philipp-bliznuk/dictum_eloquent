@@ -175,6 +175,13 @@
 	*hearkened* without much mental comment
 	the humble folk who *hearkened* to these evangelists
 
+##### Heath (noun)
+*ˈhēth*
+- **an extensive area of rather level open uncultivated land usually with poor coarse soil, inferior drainage, and a surface rich in peat or peaty humus**
+- **any of a family of shrubby dicotyledonous and often evergreen plants that thrive on open barren usually acid and ill-drained soil**
+	not much grows on the _heath_ besides heather
+	drove through a vast, empty _heath_ that seemingly had no end
+
 ##### Hector (noun / verb)
 *ˈhek-tər*
 - **bully, braggart**
