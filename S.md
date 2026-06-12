@@ -114,6 +114,13 @@
 	The model _sashayed_ down the runway.
 	just a little weekend _sashay_ we took to get away from it all
 
+##### Saturnine (adjective)
+*ˈsa-tər-ˌnīn*
+- **cold and steady in mood: slow to act or change**
+- **of a gloomy or surly disposition**
+	a _saturnine_ cynic always finding fault
+	the men awaiting interrogation by the police shared a _saturnine_ silence
+
 ##### Saunter (verb)
 *ˈsȯn-tər*
 - **to walk about in an idle or leisurely manner: stroll**

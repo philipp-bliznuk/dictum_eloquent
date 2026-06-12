@@ -701,6 +701,13 @@
 	The seeds were stored in a damp environment for too long, rendering them *inviable* for the upcoming planting season.
 	Without a significant increase in funding, the board decided that the proposed expansion was financially *inviable*.
 
+##### Inviolate (adjective)
+*(ˌ)in-ˈvī-ə-lət*
+- **not violated or profaned**
+- **pure**
+	These rights must remain _inviolate_.
+	One _inviolate_ rule is that everyone who enters must be weighed.
+
 ##### Iota (noun)
 *ī-ˈō-tə*
 - **an infinitesimal amount: jot**

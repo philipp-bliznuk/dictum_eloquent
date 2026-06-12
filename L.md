@@ -306,6 +306,13 @@
 	As the sun began to set, the harsh desert horizon softened into a *liquescent* glow of violets and deep oranges.
 	The soprano’s voice was truly *liquescent*, flowing over the high notes with a seamless, watery grace that left the audience spellbound.
 
+##### Lissome (adjective)
+*ˈli-səm*
+- **easily flexed: lithe**
+- **nimble, graceful**
+	the _lissome_ actress's dance training is apparent in the way she moves on stage
+	rattan is such a _lissome_ material that it can be used for all manner of furniture and baskets
+
 ##### Listless (adjective)
 *ˈlist-ləs*
 - **characterized by lack of interest, energy, or spirit**

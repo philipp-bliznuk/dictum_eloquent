@@ -71,6 +71,13 @@
 	whistled a cheerful _warble_ as he strolled down the street
 	Birds were _warbling_ in the trees.
 
+##### Ware (adjective / verb)
+*ˈwer*
+- **wary, vigilant**
+- **to beware of: avoid -> used chiefly as a command to hunting animals**
+	he's _ware_ of the dangers that await him in the Antarctic
+	a hunter yelling to his dog, "_Ware_ the porcupine!"
+
 ##### Warren (noun)
 *ˈwȯr-ən*
 - **an area (as of uncultivated ground) where rabbits breed**

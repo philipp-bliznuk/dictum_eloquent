@@ -143,6 +143,13 @@
 	news stories about the kidnapping will _ratchet down_ as the weeks go by
 	Tensions over slavery were then _ratcheting_ up everywhere.
 
+##### Rattan (noun)
+*ra-ˈtan*
+- **a climbing palm with very long tough stems**
+- **cane or switch made of rattan**
+	The woven _rattan_ is weather-resistant, so these chairs are guaranteed to last.
+	Both the table and couch are made from weather-resistant _rattan_, and the cushions are 100 percent machine-washable.
+
 ##### Rattling (adjective / adverb)
 *ˈrat-liŋ*
 - **lively, brisk**
@@ -432,6 +439,13 @@
 	a program for rehabilitating hard-core _reprobates_ and turning them into hard-working, law-abiding citizens
 	a _reprobate_ judge who could be bribed, and often with astonishing ease
 	without hesitation she _reprobated_ such an indecent idea
+
+##### Repudiate (verb)
+*ri-ˈpyü-dē-ˌāt*
+- **implies a casting off or disowning as untrue, unauthorized, or unworthy of acceptance**
+- **to refuse to have anything to do with: disown**
+	a generation that has _repudiated_ the values of the past
+	He has publicly _repudiated_ the government's policies.
 
 ##### Respite (noun / verb / adjective)
 *ˈre-spət*
