@@ -380,6 +380,13 @@
 	demanding to speak to the manager, he _huffed_ about the rudeness of the sales assistant
 	was in a _huff_ because everyone was running late and the school bus would stop to pick them up in a matter of minutes
 
+##### Humdinger (noun)
+*ˈhəm-ˈdiŋ-ər*
+- **a striking or extraordinary person or thing**
+- **phenomenon, marvel, wonder**
+	The last storm was a real _humdinger_!
+	But this $12-a-year deal is a _humdinger_ from Black Friday that's still active.
+
 ##### Hunks (noun)
 *ˈhəŋ(k)s*
 - **a surly ill-natured person**
