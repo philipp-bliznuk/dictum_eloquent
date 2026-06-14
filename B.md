@@ -641,6 +641,13 @@ _bi-ˈsä-təd_
 	He _braised_ the beef in a wine sauce.
 	This is particularly effective in _braises_ and other gentle cooking methods.
 
+##### Brake (noun)
+*ˈbrāk*
+- **the common bracken fern**
+- **rough or marshy land overgrown usually with one kind of plant**
+	cedar *brakes*
+	built a small shelter in the _brake_ to watch for deer
+
 ##### Brash (adjective)
 *ˈbrash*
 - **heedless of the consequences: audacious**

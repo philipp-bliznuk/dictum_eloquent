@@ -760,6 +760,13 @@
 	He has written a _slew of_ books.
 	He _slewed_ the telescope three degrees south.
 
+##### Slink (verb)
+*ˈsliŋk*
+- **to go or move stealthily or furtively (as in fear or shame): lurk**
+- **to move in a sinuous provocative manner**
+	He _slinked_ away in shame.
+	like a thief _slinking_ about in the middle of the night
+
 ##### Sliver (noun)
 *ˈsli-vər*
 - **a small and narrow portion**

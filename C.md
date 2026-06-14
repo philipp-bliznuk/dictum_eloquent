@@ -362,6 +362,13 @@
 	The dial’s vivid color is echoed by ruby root beads in juicy _cerise_ and raspberry tones, interspersed throughout the chain.
 	The power of a red lipstick cannot be understated - a simple swipe of crimson or _cerise_ has the ability to transform any look.
 
+##### Certitude (noun)
+*ˈsər-tə-ˌtüd*
+- **the state of being or feeling certain**
+- **emphasize a faith in something not needing or not capable of proof**
+	believes with _certitude_ that he is the best candidate for the job
+	believes with _certitude_ in an afterlife
+
 ##### Cessation (noun)
 *se-ˈsā-shən*
 - **a temporary or final ceasing (as of action): stop**

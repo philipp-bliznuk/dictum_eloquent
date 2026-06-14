@@ -196,6 +196,13 @@
 	_Wherein_ lies the secret to the company's success?
 	There was a period in her life _wherein_ she took no active part in politics.
 
+##### Whereof (adverb / conjunction)
+*(h)wer-ˈəv*
+- **with or by which**
+- **of what / of which**
+	books *whereof* the best are lost
+	knows *whereof* she speaks
+
 ##### Wherewithal (noun)
 *ˈ(h)wer-wi-ˌt͟hȯl*
 - **money, finances, resources**

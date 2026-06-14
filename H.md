@@ -292,6 +292,20 @@
 	the _hoarfrost_ formed a delicate swirly pattern on the window
 	The cave walls shimmer with _hoarfrost_, delicate ice filaments that resemble an intricate frozen lacework.
 
+##### Hoar (noun / adjective)
+*ˈhȯr*
+- **a covering of minute ice crystals on a cold surface**
+- **ancient, venerable, hoary**
+	the _hoar_-covered meadow gleamed in the early-morning sun
+	the _hoar_ and crumbling stones of ruined temples
+
+##### Hoary (adjective)
+*ˈhȯr-ē*
+- **no longer humorous, interesting, or meaningful due to repetition over time: hackneyed**
+- **gray or white with or as if with age**
+	He bowed his _hoary_ head.
+	a _hoary_ tale of revenge
+
 ##### Hock (verb)
 *ˈhäk*
 - **to forcefully spit out (something, such as phlegm)**
