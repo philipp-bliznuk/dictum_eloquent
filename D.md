@@ -816,6 +816,14 @@
 	Other fans discuss what Styles might wear, from _dungarees_ to an elegant jacket.
 	As a girl, Mitchell was a debutante, diver, and champion figure skater who loved _dungarees_ and mannish shirts.
 
+##### Dun (noun / adjective / verb)
+*ˈdən*
+- **a variable color averaging a nearly neutral slightly brownish dark gray**
+- **marked by dullness and drabness**
+- **to make persistent demands upon for payment**
+	The predator blended perfectly into the landscape thanks to its dull, *dun* fur.
+	it's probably not a good idea to ignore a creditor's _dun_ for repayment
+
 ##### Duplicitous (adjective)
 *du̇-ˈpli-sə-təs*
 - **marked by duplicity: deceptive in words or action**

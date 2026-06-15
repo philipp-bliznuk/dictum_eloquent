@@ -736,6 +736,13 @@ Peruke (noun)
 	The blade itself has a nice activation sound as light extends from the _pommel_ to the tip.
 	There, researchers set out to determine how the hilt and blade were joined, as well as the composition of the materials embedded in the grooves of the _pommel_ and *pommel* plate.
 
+##### Pomp (noun)
+*ˈpämp*
+- **a show of magnificence: splendor**
+- **ostentatious display: vainglory**
+	The new monarch was crowned with immense *pomp* and ceremony, featuring golden carriages and a massive procession through the city.
+	Despite all the official *pomp* surrounding the treaty signing, the actual negotiations behind closed doors had been tense and practical.
+
 ##### Ponderous (adjective)
 *ˈpän-d(ə-)rəs*
 - **unwieldy or clumsy because of weight and size**

@@ -180,6 +180,13 @@
 	He paused at the crossroads *whereat* the ancient signpost pointed in three different directions.
     The treaty was signed *whereat* both nations agreed to cease hostilities.
 
+##### Whereby (adverb / conjunction)
+*(h)wer-ˈbī*
+- **by, through, or in accordance with which**
+- **by what: how**
+	The company introduced a new flexible scheduling system *whereby* employees can choose their own working hours.
+	They signed a peace treaty *whereby* both nations agreed to withdraw their troops from the border.
+
 ##### Wherefore (adverb / noun)
 *ˈ(h)wer-ˌfȯr*
 - **for what reason or purpose: why**
