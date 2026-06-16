@@ -1,4 +1,4 @@
-#### Thy (adjective)
+##### Thy (adjective)
 *ˈt͟hī*
 - **of or relating to thee or thyself especially as possessor or agent or as object of an action: your**
 - **used before words that begin with a consonant sound, before a vowel or a silent "h" it changes to "thine"**
@@ -796,3 +796,10 @@
 - **a fabric with a twill weave**
 	Most blue jeans are made from a rugged cotton *twill* called denim, which gives them their iconic diagonal texture and long-lasting strength.
 	The upholstery was finished in a heavy silk *twill*, chosen specifically because the diagonal weave makes the fabric more resistant to wrinkling and wear.
+
+##### Tangent (noun / adjective)
+*ˈtan-jənt*
+- **an abrupt change of course: digression**
+- **diverging from an original purpose or course: irrelevant**
+	the speaker went off on a *tangent*
+	*tangent* remarks

@@ -424,3 +424,9 @@
 - **made by a deliberate distortion of the facial muscles often to express irony or mockery**
 	His books are noted for their _wry_ humor.
 	When I asked her how she felt after winning the race, she gave me a _wry_ smile and said, “Pretty tired.”
+
+##### Wayworn (adjective)
+*ˈwā-ˌwȯrn*
+- **wearied by traveling**
+	The *wayworn* travelers finally reached the outskirts of the city just as the sun was beginning to set.
+	He collapse into a heavy wooden chair at the tavern, grateful to rest his *wayworn* feet after miles of walking.
