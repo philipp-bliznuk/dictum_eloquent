@@ -1,10 +1,3 @@
-##### Thy (adjective)
-*ˈt͟hī*
-- **of or relating to thee or thyself especially as possessor or agent or as object of an action: your**
-- **used before words that begin with a consonant sound, before a vowel or a silent "h" it changes to "thine"**
-	Honor *thy* father and *thy* mother, for their wisdom has guided thee well.
-	To thine own self be true, and it must follow, as the night the day, thou canst not then be false to *thy* fellow man.
-
 ##### Tabard (noun)
 *ˈta-bərd*
 - **a short loose-fitting sleeveless or short-sleeved coat or cape**
@@ -58,6 +51,13 @@
 - **acting along or lying in a tangent**
 	Their romance is _tangential_ to the book's main plot.
 	*tangential* forces
+
+##### Tangent (noun / adjective)
+*ˈtan-jənt*
+- **an abrupt change of course: digression**
+- **diverging from an original purpose or course: irrelevant**
+	the speaker went off on a *tangent*
+	*tangent* remarks
 
 ##### Tang (noun)
 *ˈtaŋ*
@@ -378,6 +378,13 @@
 - **to pass through or across**
 	She did all she could to _thwart_ his plans.
 	The army _thwarted_ the attempt at a coup.
+
+##### Thy (adjective)
+*ˈt͟hī*
+- **of or relating to thee or thyself especially as possessor or agent or as object of an action: your**
+- **used before words that begin with a consonant sound, before a vowel or a silent "h" it changes to "thine"**
+	Honor *thy* father and *thy* mother, for their wisdom has guided thee well.
+	To thine own self be true, and it must follow, as the night the day, thou canst not then be false to *thy* fellow man.
 
 ##### Tidbit (noun)
 *ˈtid-ˌbit*
@@ -796,10 +803,3 @@
 - **a fabric with a twill weave**
 	Most blue jeans are made from a rugged cotton *twill* called denim, which gives them their iconic diagonal texture and long-lasting strength.
 	The upholstery was finished in a heavy silk *twill*, chosen specifically because the diagonal weave makes the fabric more resistant to wrinkling and wear.
-
-##### Tangent (noun / adjective)
-*ˈtan-jənt*
-- **an abrupt change of course: digression**
-- **diverging from an original purpose or course: irrelevant**
-	the speaker went off on a *tangent*
-	*tangent* remarks

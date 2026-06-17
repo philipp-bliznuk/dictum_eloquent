@@ -275,6 +275,13 @@
 	She was _grazing_ on snacks all afternoon.
 	The car's wheel _grazed_ the curb.
 
+##### Greensward (noun)
+*ˈgrēn-ˌswȯrd*
+- **turf that is green with growing grass**
+- **slightly more poetic and traditional word for a lawn, meadow, or grassy field**
+	The historic manor stood proudly at the end of a long driveway, completely surrounded by an immaculate *greensward*.
+	The children spent the warm afternoon running barefoot across the soft, sunny *greensward* of the village park.
+
 ##### Grimace (noun)
 *gri-ˈmās*
 - **a facial expression usually of disgust, disapproval, or pain**

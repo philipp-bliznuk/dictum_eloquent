@@ -111,6 +111,12 @@
 - **a traveler especially on foot**
 	one of the great _wayfarers_ of American folklore, Johnny Appleseed wandered across the country, always planting apple seeds
 
+##### Wayworn (adjective)
+*ˈwā-ˌwȯrn*
+- **wearied by traveling**
+	The *wayworn* travelers finally reached the outskirts of the city just as the sun was beginning to set.
+	He collapse into a heavy wooden chair at the tavern, grateful to rest his *wayworn* feet after miles of walking.
+
 ##### Weal (noun)
 *ˈwēl*
 - **a sound, healthy, or prosperous state: well-being**
@@ -145,6 +151,13 @@
 - **archaic past tense second-person singular of be**
 	I knew from the moment we met that thou *wert* a man of great honor and integrity.
 	Would that thou *wert* here with me now, for I sorely miss your company.
+
+##### Wester (verb / noun)
+*ˈwe-stər*
+- **to turn or move westward**
+- **a strong wind, gale, or storm that blows directly out of the west**
+	We sat quietly on the porch, watching the *westering* sun slowly dip below the distant mountain range.
+	The old captain battened down the hatches, knowing that a fierce *wester* was blowing in from the sea.
 
 ##### Wheatear (noun)
 *ˈ(h)wēt-ˌir*
@@ -424,9 +437,3 @@
 - **made by a deliberate distortion of the facial muscles often to express irony or mockery**
 	His books are noted for their _wry_ humor.
 	When I asked her how she felt after winning the race, she gave me a _wry_ smile and said, “Pretty tired.”
-
-##### Wayworn (adjective)
-*ˈwā-ˌwȯrn*
-- **wearied by traveling**
-	The *wayworn* travelers finally reached the outskirts of the city just as the sun was beginning to set.
-	He collapse into a heavy wooden chair at the tavern, grateful to rest his *wayworn* feet after miles of walking.
