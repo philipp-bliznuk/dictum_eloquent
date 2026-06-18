@@ -391,6 +391,13 @@
 	awaiting the king's *dictum*
 	must follow the *dictum* "First, do no harm"
 
+##### Didst (verb)
+*ˈdidst*
+- **archaic past tense second-person singular of do**
+- **used exclusively with the pronoun "thou" (the old, informal way of saying "you") when speaking directly to a single person**
+	Why *didst* thou leave the castle gates completely unguarded last night?
+	Thou *didst* promise me that you would return before the first winter snow.
+
 ##### Diffident (adjective)
 *ˈdi-fə-dənt*
 - ***hesitant* in acting or speaking through lack of self-confidence**

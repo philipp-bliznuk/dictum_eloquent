@@ -305,6 +305,13 @@
 	She placed a large *wicker* hamper in the corner of the nursery to hold the baby’s blankets.
 	We spent the afternoon lounging in *wicker* armchairs on the veranda, sipping iced tea and watching the sunset.
 
+##### Wifty (adjective)
+*ˈwif-tē*
+- **eccentrically silly or scatterbrained: ditzy**
+- **a wifty person is generally harmless, well-meaning, and creative, but prone to having their "head in the clouds."**
+	He is incredibly brilliant when it comes to math, but so *wifty* in everyday life that he regularly forgets his own phone number.
+	I had a hard time following the plot of the movie because of its *wifty*, dream-like logic.
+
 ##### Wile (verb / noun)
 *ˈwī(-ə)l*
 - **suggests an attempt to entrap or deceive with false allurements**

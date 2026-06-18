@@ -40,6 +40,14 @@
 	_lambent_ sunlight glinting off the waves
 	a writer known for her _lambent_ wit
 
+##### Lame (adjective / verb / noun)
+*ˈlām*
+- **unable or only partially able to use a body part and especially a limb**
+- **not strong, good, or effective: lacking necessary or desirable substance: weak, ineffectual**
+- **to seriously injure a leg or part of a leg**
+	The accident left him _lame_ for life.
+	we were afraid that the horse would be _lamed_ by its horrible fall
+
 ##### Lamina (noun)
 *ˈla-mə-nə*
 - **a thin plate or scale: layer**
