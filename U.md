@@ -185,6 +185,13 @@
 	If you want my _unvarnished_ opinion, the movie stinks.
 	I'm telling the _unvarnished_ truth.
 
+##### Upbraid (verb)
+*ˌəp-ˈbrād*
+- **to criticize severely: find fault with**
+- **to reproach severely: scold vehemently**
+	_upbraided_ her assistants for poor research
+	his wife _upbraided_ him for his irresponsible handling of the family finances
+
 ##### Upholstery (noun)
 *(ˌ)əp-ˈhōl-st(ə-)rē*
 - **materials (such as fabric, padding, and springs) used to make a soft covering especially for a seat**

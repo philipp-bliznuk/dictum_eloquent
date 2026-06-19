@@ -144,6 +144,13 @@
 	The tower's steel *girders* shivered and, with a mighty screech, bent in two.
 	The bridge’s other *girder* would be a wall between the station and a trail.
 
+##### Girt (verb)
+*ˈgərt*
+- **past tense form of gird: meaning to encircle, bind with a belt, or prepare for action**
+- **to fasten by means of a girth**
+	the EMTs _girted_ his wounded leg with bandages
+	The medieval citadel stood tall on the cliffside, *girt* by massive stone walls and a deep rocky chasm.
+
 ##### Glaive (noun)
 *ˈglāv*
 - **sword**

@@ -295,6 +295,13 @@
 - **from that place**
 	Their travels took them to the Bahamas, _thence_ south to Venezuela.
 
+##### Thereat (adverb)
+*t͟her-ˈat*
+- **at that place**
+- **at that occurrence**
+	The king declared a week of celebration, and the townspeople *thereat* rejoiced openly in the streets.
+	The witness gave her testimony, and *thereat* the court recessed for lunch.
+
 ##### Therewith (adverb)
 *t͟her-ˈwit͟h*
 - **with that**
