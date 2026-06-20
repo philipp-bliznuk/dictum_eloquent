@@ -180,6 +180,13 @@
 	He was caught _embezzling_ money from his clients.
 	He was convicted of _embezzling_.
 
+##### Embitter (verb)
+*im-ˈbi-tər*
+- **to excite bitter feelings in**
+- **to make bitter: infuriate, antagonize**
+	The soldier was _embittered_ by the war.
+	the family refused to let their devastating collision with a drunk driver permanently _embitter_ them
+
 ##### Embolism (noun)
 *ˈem-bə-ˌli-zəm*
 - **the insertion of one or more days in a calendar: intercalation**
