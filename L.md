@@ -421,6 +421,13 @@
 	The insect's body is black with yellow _longitudinal_ stripes.
 	a _longitudinal_ study of career aspirations among girls from 5 to 17
 
+##### Longueur (noun)
+*lȯŋ-ˈgər* / *lōⁿ-ˈgœr*
+- **a dull and tedious portion (as of a book) -> usually used in plural**
+- **slow stretches in a piece of entertainment or art where the momentum stalls and nothing interesting happens.**
+	The director's new three-hour epic is visually breathtaking, but it suffers from several painful *longueurs* in the second act.
+	If you can get past a few inevitable *longueurs* during the dense political explanations, the novel is actually a thrilling read.
+
 ##### Loogie (noun)
 *ˈlü-gē*
 - **a mass of saliva and phlegm hawked up from the throat**

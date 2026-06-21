@@ -1026,6 +1026,14 @@
 	She tripped and _went sprawling_ into the table.
 	The bushes were _sprawling_ along the road.
 
+##### Spray (noun)
+*ˈsprā*
+- **a small, elegant branch, shoot, or stem bearing a cluster of leaves, flowers, or berries**
+- **a decorative flat arrangement of flowers and foliage (as on a coffin)**
+- **something (such as a jeweled pin) resembling a spray**
+	She pinned a beautiful *spray* of white orchids to the lapel of her suit jacket.
+	On the dining room table sat a crystal vase holding a single, elegant *spray* of pink cherry blossoms.
+
 ##### Sprightly (adjective)
 *ˈsprīt-lē*
 - **full of life and vivacity: spirited**

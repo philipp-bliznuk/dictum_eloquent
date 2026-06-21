@@ -131,6 +131,13 @@
 	She was recognised for her _unremitting_ efforts to improve the lives of people in her city.
 	_unremitting_ rain that lasted for six days
 
+##### Unrequited (adjective)
+*ˌən-ri-ˈkwī-təd* / *un·​re·​quit·​ed*
+- **not requited: not reciprocated or returned in kind**
+- **feeling that is not returned, rewarded, or reciprocated by the person it is directed toward**
+	She spent years harboring an *unrequited* crush on her best friend, who only ever saw her as a sister.
+	The tragic novel is a heartbreaking look at the pain of *unrequited* love.
+
 ##### Unruly (adjective)
 *ˌən-ˈrü-lē*
 - **not readily ruled, disciplined, or managed: difficult to control**
