@@ -19,6 +19,13 @@
 	The party had none of the _gaiety_ we've seen in past years.
 	the _gaiety_ of the carnival 
 
+##### Gainsay (verb)
+*ˌgān-ˈsā*
+- **to declare to be untrue or invalid**
+- **contradict, oppose**
+	it can't be _gainsaid_ that most people wish they had more time and money
+	repeatedly tried to _gainsay_ me, though every point I made was backed up by facts
+
 ##### Gait (noun)
 *ˈgāt*
 - **a manner of walking or moving on foot**

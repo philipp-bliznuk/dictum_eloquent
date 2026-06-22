@@ -280,6 +280,13 @@
 	The island is linked by a _causeway_ to the mainland.
 	There are beaches on either side of a *causeway* that leads to a rocky island.
 
+##### Cavalcade (noun)
+*ˌka-vəl-ˈkād*
+- **a procession of riders or carriages**
+- **a dramatic sequence or procession: series**
+	The _cavalcade_ arrived at the hotel.
+	a _cavalcade of_ natural disasters
+
 ##### Cavalier (adjective / noun)
 *ˌka-və-ˈlir*
 - **marked by or given to offhand and often disdainful dismissal of important matters**
