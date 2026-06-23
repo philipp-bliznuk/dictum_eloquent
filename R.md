@@ -418,6 +418,14 @@
 	promptly _remunerated_ the repair company for fixing the dryer
 	the negligent landlord must _remunerate_ those made homeless by the fire by finding new housing for them at his own expense
 
+##### Repair (noun / verb)
+*ri-ˈper*
+- **a popular gathering place**
+- **to betake oneself: go**
+- **to come together: rally**
+	After a long and heavy dinner, the gentlemen *repaired to* the library for cigars and brandy.
+	Exhausted from the trial, the attorney *repaired to* her private office to review the remaining case files.
+
 ##### Repatriate (verb)
 *(ˌ)rē-ˈpā-trē-ˌāt*
 - **to restore or return to the country of origin, allegiance, or citizenship**

@@ -737,6 +737,13 @@ _ə-ˈper-əl_
 	He went through a long and _arduous_ training program.
 	an _arduous_ journey across miles of desert
 
+##### Argent (noun)
+*ˈär-jənt*
+- **the metal silver**
+- **the heraldic color silver or white**
+	The night sky was illuminated by the *argent* glow of a massive, unbroken full moon.
+	The knight's shield was described as a black falcon displayed upon a field of *argent*.
+
 ##### Argot (noun)
 *ˈär-(ˌ)gō* / *ˈär-gət*
 - **the language used by a particular type or group of people: an often more or less secret vocabulary and idiom peculiar to a particular group**

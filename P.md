@@ -1236,6 +1236,13 @@ Peruke (noun)
 	The school's *provost* was abducted about a month ago and released a few days later.
 	Stephens emailed the professor and the university's *provost*.
 
+##### Prow (noun)
+*ˈprau̇*
+- **the bow of a ship: stem**
+- **a pointed projecting front part**
+	The explorer stood proudly at the *prow* of the vessel, scanning the foggy horizon for any sign of land.
+	Heavy ocean waves crashed violently against the ship's *prow*, sending a cold spray of salt water across the deck.
+
 ##### Psoriasis (noun)
 *sə-ˈrī-ə-səs*
 - **a chronic skin disease characterized by circumscribed red patches covered with white scales**
