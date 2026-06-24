@@ -302,6 +302,12 @@
 	The king declared a week of celebration, and the townspeople *thereat* rejoiced openly in the streets.
 	The witness gave her testimony, and *thereat* the court recessed for lunch.
 
+##### Thereto (adverb)
+*t͟her-ˈtü*
+- **to that**
+	a text and the notes *thereto*
+	The bill and amendments _thereto_ are being considered.
+
 ##### Therewith (adverb)
 *t͟her-ˈwit͟h*
 - **with that**
