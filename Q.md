@@ -136,6 +136,15 @@
 	has his share of the _quips_ that seem to come with a title of nobility
 	she rolled her eyes at her brother's bragging and _quipped_, “You're a legend in your own mind, all right”
 
+##### Quixotic (adjective)
+*kwik-ˈsä-tik*
+- **foolishly impractical especially in the pursuit of ideals**
+- **capricious, unpredictable**
+- **implies a devotion to romantic or chivalrous ideals unrestrained by ordinary prudence and common sense.**
+	a _quixotic_ crusade
+	They had _quixotic_ dreams about the future.
+	In this age of giant chain stores, any attempt at operating an independent bookstore must be regarded as _quixotic_.
+
 ##### Quorum (noun)
 *ˈkwȯr-əm*
 - **the minimum number of officers or members of a body that is required to be present at a given meeting (as to transact business)**

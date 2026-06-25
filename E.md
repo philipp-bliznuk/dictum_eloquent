@@ -339,6 +339,13 @@
 	Particularly important has been Hamas’s long-standing _entente_ with Islamic Jihad.
 	Central to this deal is the distinct _entente_ between Putin and Bibi.
 
+##### Enthrone (verb)
+*in-ˈthrōn*
+- **to seat in a place associated with a position of authority or influence**
+- **to assign supreme virtue or value to: exalt**
+	the literary world has _enthroned_ Shakespeare for so long that his preeminence among writers seems unassailable
+	As reason and science were being _enthroned_, the Gothic Romance exploded, full of emotion and thrills.
+
 ##### Entourage (noun)
 *ˌän-tu̇-ˈräzh*
 - **one's attendants or associates**

@@ -33,6 +33,13 @@
 	The noise _jarred_ on her nerves.
 	The earthquake _jarred_ the tiles loose.
 
+##### Jaundice (noun)
+*ˈjȯn-dəs*
+- **a state or attitude characterized by distaste or hostility**
+- **yellowish pigmentation of the skin, tissues, and body fluids caused by the deposition of bile pigments**
+	the _jaundice_ in the eyes of the two feuding neighbors was enough to kill crabgrass
+	By the time a patient experiences signs, such as _jaundice_ – a yellowing of the skin – or abdominal pain, the cancer has often already spread to other organs.
+
 ##### Jaunty (adjective)
 *ˈjȯn-tē*
 - **sprightly in manner or appearance: lively**

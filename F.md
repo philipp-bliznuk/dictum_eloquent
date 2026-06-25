@@ -50,6 +50,13 @@
 	Because of the *familicide* that wiped out his entire family, he will be charged with six counts of murder.
 	The popular professional wrestler became the most notorious *familicide* of 2007.
 
+##### Fane (noun)
+*ˈfān*
+- **temple**
+- **church**
+	The weary pilgrims climbed the hillside at dawn to offer their prayers at the ancient *fane* dedicated to the sun god.
+	In his poem, he described the ruined *fane* overgrown with ivy, its crumbled altars silent witnesses to a forgotten faith.
+
 ##### Fantail (noun)
 *ˈfan-ˌtāl*
 - **a fan-shaped tail or end**

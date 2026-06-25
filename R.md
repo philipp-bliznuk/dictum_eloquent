@@ -189,6 +189,14 @@
 	an entire city block _razed_ by a terrible fire
 	the developer _razed_ the old school building and built a high-rise condominium complex
 
+##### Reave (verb)
+*ˈrēv*
+- **plunder, rob**
+- **to deprive one of: despoil**
+- **to carry or tear away**
+	The Viking raiders would *reave* the coastal villages each summer, carrying off grain, livestock, and anything else of value.
+	He stood hollow-eyed in the smoldering ruins, *reft* of everything he had loved — the war had *reaved* him of home, family, and hope alike.
+
 ##### Recalcitrant (adjective)
 *ri-ˈkal-sə-trənt*
 - **difficult to manage or operate**
