@@ -82,6 +82,13 @@
 	The suspect _absconded_ to Canada.
 	Several prisoners _absconded_ from the jail.
 
+##### Absolve (verb)
+*əb-ˈzälv*
+- **to set (someone) free from an obligation or the consequences of guilt**
+- **to pardon or forgive (a sin): to remit (a sin) by absolution**
+	The jury _absolved_ the defendants of their crimes.
+	asked the priest to *absolve* his sins
+
 ##### Abstemious (adjective)
 *ab-ˈstē-mē-əs*
 - **marked by restraint especially in the eating of food or drinking of alcohol**
@@ -588,6 +595,13 @@ _ˈāl_
 - **an antiserum containing such antitoxin**
 	The hospital rushed to airlift the rare *antivenin* from a neighboring state after the hiker was bitten by a Mojave rattlesnake.
 	Because the child was allergic to horse serum, the doctors had to administer the *antivenin* with extreme caution to avoid an anaphylactic reaction.
+
+##### Apace (adverb)
+*ə-ˈpās*
+- **at a quick pace: swiftly**
+- **abreast -> used with "of" or "with"**
+	Development on the project continued _apace_.
+	trying to keep *apace* with changes in technology
 
 ##### Aperture (noun)
 *ˈa-pər-ˌchu̇r*

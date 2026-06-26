@@ -59,6 +59,13 @@
 	the speaker went off on a *tangent*
 	*tangent* remarks
 
+##### Tangerine (noun)
+*ˈtan-jə-ˌrēn*
+- **any of various mandarin oranges that have usually deep orange skin and pulp**
+- **a moderate to strong reddish orange**
+	For a quick afternoon snack, she peeled a juicy *tangerine* and shared the sweet segments with her coworker.
+	The artist painted the sunset with vibrant strokes of *tangerine* and deep purple.
+
 ##### Tang (noun)
 *ˈtaŋ*
 - **a faint suggestion: trace**

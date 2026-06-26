@@ -500,6 +500,13 @@
 	if only we could _foreknow_ our own destinies
 	what couple can possibly _foreknow_ the trials and tribulations that marriage will bring?
 
+##### Foretaste (noun / verb)
+*ˈfȯr-ˌtāst*
+- **implies an actual though brief or partial experience of something forthcoming**
+- **an advance indication or warning**
+	the frost was a _foretaste_ of winter
+	These layoffs are only a _foretaste_ of what's to come.
+
 ##### Forswear / Foreswear (verb)
 *fȯr-ˈswer*
 - **to make a liar of (oneself) under or as if under oath**
