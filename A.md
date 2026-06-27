@@ -729,6 +729,13 @@ _ə-ˈper-əl_
 	This gorgeous 55x21x100-inch _arbor_ is a West Elm best-seller thanks to its elegant design and sturdy wrought iron frame.
 	In a video shared by a fan account on X, Keery can be standing under a garden _arbor_ in front of the bride and groom.
 
+##### Archipelago (noun)
+*ˌär-kə-ˈpe-lə-ˌgō*
+- **an expanse of water with many scattered islands**
+- **a group of islands**
+	The stocky ferry navigated smoothly through the Stockholm *archipelago*, passing hundreds of small, pine-covered islands.
+	The tech company's headquarters felt less like a unified campus and more like an *archipelago* of isolated office buildings.
+
 ##### Archly (adverb)
 *ˈärch-lē*
 - **in an arch manner**

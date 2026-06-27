@@ -103,6 +103,15 @@
 	the *pangs* of childbirth
 	*pangs* of remorse
 
+##### Panoply (noun)
+*ˈpa-nə-plē*
+- **a magnificent or impressive array**
+- **a full suit of armor**
+- **ceremonial attire**
+	the full *panoply* of rights granted by the Constitution
+	Knights in *panoply* were ready for battle.
+	The nobles were in *panoply* for the coronation.
+
 ##### Pap (noun)
 *ˈpap*
 - **something shaped like a nipple**
@@ -590,6 +599,14 @@ Peruke (noun)
 - **a military attack by two coordinated forces that close in on an enemy position from different directions**
 	Along its _pincers_, the scorpion has sensory hairs known as trichobothria.
 	In a video demo, Alibaba showed a robot with _pincers_ for hands that appeared to be able to count oranges, pick them up and place them in a basket.
+
+##### Pinion (noun / verb)
+*ˈpin-yən*
+- **the terminal section of a bird's wing including the carpus, metacarpus, and phalanges: wing**
+- **feather, quill**
+- **to disable or restrain by binding the arms: shackle**
+	They *pinioned* his arms behind his back.
+	The eagle stretched its powerful *pinions* before launching itself off the rocky cliff.
 
 ##### Pink (noun / verb)
 *ˈpiŋk*

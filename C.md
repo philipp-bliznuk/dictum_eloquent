@@ -247,6 +247,14 @@
 	That is the nature of this latest Israeli *casus belli* too.
 	But what Putin can live with today may become a *casus belli* tomorrow.
 
+##### Cataract (noun)
+*ˈka-tə-ˌrakt*
+- **downpour, flood**
+- **steep rapids in a river**
+- **waterspout, waterfall**
+	*cataracts* of information
+	the roaring _cataract_ is one of the park's most majestic sights
+
 ##### Catatonic (adjective)
 *ˌka-tə-ˈtä-nik*
 - **of, relating to, marked by, or affected with catatonia**
