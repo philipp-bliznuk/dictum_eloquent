@@ -40,6 +40,13 @@
 	_abide_ in the house of the Lord
 	a love that _abided_ till the end of their lives
 
+##### Abjure (verb)
+*ab-ˈju̇r*
+- **to abstain from: avoid**
+- **implies a firm and final rejecting or abandoning often made under oath**
+	_abjured_ some long-held beliefs when she converted to another religion
+	a strict religious sect that _abjures_ the luxuries, comforts, and conveniences of the modern world
+
 ##### Ablate (verb)
 *a-ˈblāt*
 - **to remove or destroy especially by cutting, abrading, or evaporating**

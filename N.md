@@ -165,6 +165,13 @@
 	In the Roman calendar, the *Nones* of January fell on the fifth day, marking the transition from the start of the month toward the Ides.
 	As the clock struck three, the monks gathered in the chapel for *Nones*, the afternoon prayer that commemorates the hour of Christ's death.
 
+##### Noontide (noun)
+*ˈnün-ˌtīd*
+- **noontime: midday**
+- **the culminating point**
+	we like to work off lunch with a *noontide* ramble
+	The weary travelers sought the shade of a massive oak tree to escape the scorching heat of the *noontide* sun.
+
 ##### Nous (noun)
 *ˈnüs* / *ˈnau̇s*
 - **an intelligent purposive principle of the world: prudence, wisdom**
