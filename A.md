@@ -399,6 +399,13 @@ _ˈāl_
 	His back has been *ailing* him.
 	What's *ailing* you?
 
+##### Aisle (noun)
+*ˈī(-ə)l*
+- **a passage (as in a theater or railroad passenger car) separating sections of seats**
+- **the side of a church nave separated by piers from the nave proper**
+	The bride walked down the _aisle_ to the altar.
+	By the end of the concert, the people in the theater were _dancing in the aisles_.
+
 ##### Alacrity (noun)
 *ə-ˈla-krə-tē*
 - **promptness in response: cheerful readiness**

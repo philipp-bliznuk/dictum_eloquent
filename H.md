@@ -217,6 +217,13 @@
 	Sauropods were known to travel in herds, as do many types of large modern _herbivores_.
 	Their spectrum still ranges from pure carnivores to pure _herbivores_, with most bears today being omnivores.
 
+##### Herewith (adverb)
+*hir-ˈwit͟h*
+- **with this communication: enclosed in this**
+- **by this means: hereby**
+	You will find my check _herewith_.
+	I enclose _herewith_ my revisions.
+
 ##### Heroine (noun)
 *ˈher-ə-wən*
 - **the principal female character in a literary or dramatic work**
