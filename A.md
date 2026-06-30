@@ -452,6 +452,13 @@ _ˈāl_
 	a gentle breeze would _allay_ the heat
 	The new advertising campaign is an attempt to _allay_ the public's concerns about the safety of the company's products.
 
+##### Alliteration (noun)
+*ə-ˌli-tə-ˈrā-shən*
+- **the repetition of usually initial consonant sounds in two or more neighboring words or syllables (such as 'w'ild and 'w'oolly, 'thr'ifty and 'thr'iving)**
+- **called also head rhyme, initial rhyme**
+	The English teacher highlighted the line 'Peter Piper picked a peck of pickled peppers' to explain how the author used *alliteration* to create a playful rhythm.
+	Many classic brand names, like Coca-Cola and Dunkin' Donuts, use *alliteration* to make their names catchy and memorable to consumers.
+
 ##### Alms (noun)
 *ˈä(l)mz*
 - **something (such as money or food) given freely to relieve the poor**

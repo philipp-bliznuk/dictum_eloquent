@@ -340,6 +340,13 @@
 	The book is a deeply personal _homage_ to her favorite city.
 	the poem is a moving _homage_ to all who have served in our nation's armed services
 
+##### Homogeneous (adjective)
+*ˌhō-mə-ˈjēn-yəs*
+- **of the same or a similar kind or nature**
+- **of uniform structure or composition throughout**
+	a fairly _homogeneous_ collection of examples
+	a culturally *homogeneous* group
+
 ##### Honorific (adjective)
 *ˌä-nə-ˈri-fik*
 - **conferring or conveying honor**

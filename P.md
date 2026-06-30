@@ -1204,6 +1204,13 @@ Peruke (noun)
 	acts that are _proscribed_ by law
 	regulations _proscribe_ the use of electronic devices on board a plane while it is landing
 
+##### Prosody (noun)
+*ˈprä-sə-dē*
+- **a particular system, theory, or style of versification**
+- **the rhythmic and intonational aspect of language**
+	Even though he spoke the foreign language grammatically, his flat *prosody* made it difficult for native speakers to detect his emotional tone.
+	The professor analyzed the *prosody* of Shakespeare’s sonnets, demonstrating how the strict iambic pentameter created a natural, rhythmic heartbeat.
+
 ##### Prostrate (adjective / verb)
 *ˈprä-ˌstrāt*
 - **implies lying full-length as in submission, defeat, or physical collapse**

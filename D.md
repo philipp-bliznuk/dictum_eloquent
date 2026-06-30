@@ -488,6 +488,13 @@
 	our grandmother seems a bit _discombobulated_ by all of this birthday fuss
 	inventing cool new ways to *discombobulate* the old order
 
+##### Discursive (adjective)
+*di-ˈskər-siv*
+- **moving from topic to topic without order: rambling**
+- **of or relating to discourse**
+	the speaker's _discursive_ style made it difficult to understand his point
+	*discursive* practices
+
 ##### Disgorge (verb)
 *(ˌ)dis-ˈgȯrj*
 - **to discharge by the throat and mouth: vomit**

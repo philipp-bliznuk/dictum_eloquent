@@ -214,6 +214,13 @@
 	His stand on this issue has _embroiled_ him _in_ controversy.
 	They were _embroiled in_ a complicated lawsuit.
 
+##### Emend (verb)
+*ē-ˈmend*
+- **to correct usually by textual alterations**
+- **specifically implies correction of a text or manuscript**
+	the first printout quickly revealed that our computer program needed to be _emended_
+	*emended* the manuscript
+
 ##### Eminence (noun)
 *ˈe-mə-nən(t)s*
 - **a position of prominence or superiority**
