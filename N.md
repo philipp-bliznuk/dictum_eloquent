@@ -1,3 +1,10 @@
+##### Nabob (noun)
+*ˈnā-ˌbäb*
+- **a provincial governor of the Mogul empire in India**
+- **a person of great wealth or prominence: magnate**
+	dressed conservatively so as to make a good impression with the _nabobs_ on the co-op's board
+	Back then, white scholars saw history through the eyes of society’s _nabobs_, kings and presidents.
+
 ##### Nape (noun)
 *ˈnāp* / *ˈnap*
 - **the back of the neck**

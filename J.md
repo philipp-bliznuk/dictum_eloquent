@@ -97,6 +97,13 @@
 	An equestrian silhouette was also presented, with tight _jodhpur_ trousers worn with cropped jackets and long leather boots.
 	Carrington wore corduroy trousers and _jodhpurs_, and styled her hair in a short, blunt bob that threatened to obscure her face.
 
+##### Jotting (noun)
+*ˈjä-tiŋ*
+- **a brief note: memorandum**
+- **note**
+	the judges reviewed their _jottings_ one last time before selecting the pinot noir as the best wine of the tasting overall
+	Teddy would spend a wedding reception _jotting_ game-changing surgical ideas onto a napkin.
+
 ##### Judder (verb / noun)
 *ˈjə-dər*
 - **to vibrate with intensity: shudder**
