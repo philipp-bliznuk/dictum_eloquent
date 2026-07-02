@@ -277,6 +277,11 @@
 	_whither_ are you going, my lady?
 	He grew up in New York City _whither_ his family had immigrated in the early 1920s.
 
+##### Whithersoever (conjunction)
+*ˌ(h)wi-t͟hər-sə-ˈwe-vər*
+- **to whatever place**
+	will go *whithersoever* you lead
+
 ##### Whittle (verb)
 *ˈ(h)wi-tᵊl*
 - **to pare or cut off chips from the surface of (wood) with a knife**

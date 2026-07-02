@@ -108,6 +108,14 @@
 	waiters _fawning_ over a celebrity
 	The dog was *fawning* on its master.
 
+##### Fay (noun / adjective / verb)
+*ˈfā*
+- **fairy, elf**
+- **resembling an elf**
+- **to fit or join closely or tightly**
+	in the tale a _fay_ appears in the form of a beautiful and serene woman with an angelic air and a billowy gown
+	with her slight build and perky manner, the actress was usually cast as the _fay_ young woman who charms all the men in town
+
 ##### Febrile (adjective)
 *ˈfe-ˌbrī(-ə)l*
 - **marked or caused by fever: feverish**
