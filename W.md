@@ -443,6 +443,13 @@
 	She lay on the floor, _writhing_ in pain.
 	a nest of _writhing_ snakes
 
+##### Wroth (adjective)
+*ˈrȯth*
+- **intensely angry: highly incensed: wrathful**
+- **enraged, infuriated**
+	The king was exceedingly *wroth* when he discovered that his trusted advisor had secretly aided the rebellion.
+	The sea grew *wroth* as the storm rolled in, throwing violent waves against the side of the fragile fishing boat.
+
 ##### Wry (adjective / verb)
 *ˈrī*
 - **bent, twisted, or turned usually abnormally to one side**

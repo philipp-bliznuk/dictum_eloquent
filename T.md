@@ -372,6 +372,13 @@
 	_threshing_ and harvesting at the same time
 	the poor dog _threshed_ against his chain
 
+##### Thrift (noun)
+*ˈthrift*
+- **healthy and vigorous growth**
+- **any of a genus ('Armeria') of low-growing perennial evergreen herbs of the plumbago family**
+	The rocky cliffs of the Atlantic coast were covered in vibrant patches of *thrift*, thriving in the salty ocean breeze where few other plants could survive.
+	Because it is incredibly drought-resistant, the landscaper used *thrift* as a colorful ground cover along the edges of the gravel walkway.
+
 ##### Throe (noun)
 *ˈthrō*
 - **pang, spasm**

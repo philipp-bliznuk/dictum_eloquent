@@ -250,6 +250,14 @@
 	you'll have to ask that guy - the project is his _fiefdom_
 	The Seigneur could not sell his *fiefdom* without approval from the Queen.
 
+##### Fief (noun)
+*ˈfēf*
+- **a feudal estate: fee**
+- **something over which one has rights or exercises control**
+- **realm, domain, province**
+	the logistics of the relief effort is the director's _fief_
+	a politician's *fief*
+
 ##### Fiend (noun)
 *ˈfēnd*
 - **demon, devil, a person of great wickedness or maliciousness**

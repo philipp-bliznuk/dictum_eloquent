@@ -678,6 +678,13 @@ Peruke (noun)
 	the _plane_ sides of a crystal
 	_planed_ the wood for the picnic table perfectly smooth so that no one would get splinters
 
+##### Plash (noun / verb)
+*ˈplash*
+- **splash**
+- **to cause a splashing or spattering effect**
+	water _plashed_ down the drain
+	a child happily _plashing_ in the tub
+
 ##### Platitude (noun)
 *ˈpla-tə-ˌtüd*
 - **the quality or state of being dull or insipid**

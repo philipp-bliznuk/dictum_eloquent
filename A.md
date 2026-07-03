@@ -438,6 +438,15 @@ _ˈāl_
 	Nakayama and his team searched for the _alga_ by scooping seawater samples from the Pacific Ocean using a fine-mesh net.
 	In the intertidal zone limpets and other mollusks graze on *algae* in the rocks.
 
+##### Alight (verb / adjective)
+*ə-ˈlīt*
+- **to come down from something (such as a vehicle): dismount, deplane**
+- **to descend from or as if from the air and come to rest: land, settle**
+- **lighted up**
+	A group of tourists _alighted_ from the boat.
+	a flock of eight swans circled above, then _alighted_ on the pond
+	The sky was _alight_ with stars.
+
 ##### Alkaline (adjective)
 *ˈal-kə-lən* / *ˈal-kə-ˌlīn*
 - **of, relating to, containing, or having the properties of an alkali or alkali metal: basic**

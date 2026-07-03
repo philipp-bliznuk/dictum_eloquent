@@ -77,6 +77,13 @@
 	The cow _calved_ in the barn.
 	The approach was tested using real satellite observations of icebergs _calved_ from Petermann Glacier and other locations in north-west Greenland.
 
+##### Campion (noun)
+*ˈkam-pē-ən*
+- **any of various plants (genera 'Lychnis' and 'Silene') of the pink family**
+- **flowering plants known for their distinctively shaped petals and often found in woodlands or meadows**
+	The hiker stopped to admire the delicate pink petals of the red *campion* growing along the shaded woodland path.
+	By early summer, the overgrown meadow was blanketed in a colorful mix of white *campion* and wild buttercups.
+
 ##### Canaille (noun)
 *kə-ˈnī*
 - **rabble, riffraff**

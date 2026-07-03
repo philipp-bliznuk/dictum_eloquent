@@ -879,6 +879,13 @@ _bi-ˈsä-təd_
 	the social outcast got tired of being the _butt_ of everyone's jokes
 	shooting *butts*
 
+##### Bygone (adjective)
+*ˈbī-ˌgȯn*
+- **gone by: past**
+- **outmoded**
+	The stone wall is from a _bygone_ age.
+	*bygone* styles
+
 ##### By my troth! (idiom)
 - **you have my word**
 - **I swear**

@@ -5,6 +5,14 @@
 	heard her parents' guests still _gabbling_ in the living room late into the night
 	during the filming of the party scene the extras were told to just _gabble_ and act like they were having a great time
 
+##### Gable (noun)
+*ˈgā-bəl*
+- **the vertical triangular end of a building from cornice or eaves to ridge**
+- **a triangular part or structure**
+- **the triangular portion of a wall between the edges of intersecting roof pitches**
+	The historic house featured a beautifully decorated front *gable* with intricate woodwork just beneath the roofline.
+	As we drove into the village, we could see the sharp *gables* of the old cottages cutting against the evening sky.
+
 ##### Gaffe (noun)
 *ˈgaf*
 - **a social or diplomatic blunder**
