@@ -58,6 +58,13 @@
 	an elder of _the Kirk_
 	left Edinburgh early in the morning for St. John's _Kirk_ in Perth
 
+##### Kirtle (noun)
+*ˈkər-tᵊl*
+- **a long gown or dress worn by women**
+- **a tunic or coat worn by men especially in the Middle Ages**
+	The medieval maiden wore a simple linen *kirtle* beneath her heavy woolen cloak to stay warm during the winter months.
+	The blacksmith tightened the leather belt over his green *kirtle* before stepping up to the roaring forge.
+
 ##### Kitty-corner / Catty-corner / Catercorner (adverb / adjective)
 *ˈki-tē-ˌkȯr-nər* / *ˈka-tē-ˌkȯr-nər*
 - **in a diagonal or oblique position**

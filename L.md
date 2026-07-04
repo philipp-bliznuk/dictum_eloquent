@@ -102,6 +102,13 @@
 	During the eruption, a thick layer of *lapillus* rained down on the surrounding forest, covering the ground in small, porous stones.
 	The geologist examined a single *lapillus*, noting its vesicular texture which indicated that gas bubbles had been trapped as the lava cooled mid-air.
 
+##### Lappet (noun)
+*ˈla-pət*
+- **a fold or flap on a garment or headdress**
+- **a flat overlapping or hanging piece**
+	The lady's elegant lace cap featured long, embroidered *lappets* that draped gracefully over her shoulders.
+	The Lappet-faced Vulture is easily recognizable by the massive, fleshy pink *lappets* hanging down the sides of its hairless head.
+
 ##### Lap up (transitive verb)
 *ˈlap ˈəp*
 - **to take in (food or drink) with the tongue**

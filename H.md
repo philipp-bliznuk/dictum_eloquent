@@ -421,6 +421,13 @@
 - **miser**
 	a horrible old _hunks_ who refused to lend money to his destitute brother
 
+##### Husband (noun / verb)
+*ˈhəz-bənd*
+- **a frugal manager**
+- **to manage prudently and economically: conserve**
+	The country has _husbanded_ its resources well.
+	must *husband* one's strength
+
 ##### Hymn (noun / verb)
 *ˈhim*
 - **a song of praise to God**

@@ -553,6 +553,13 @@
 	_rhapsodised_ about the food so as not to hurt their host's feelings
 	King Charles has _rhapsodised_ about the charms of Romania for decades.
 
+##### Rhapsody (noun)
+*ˈrap-sə-dē*
+- **a musical composition of irregular form having an improvisatory character**
+- **a highly emotional utterance: rapture, ecstasy**
+	The mayor launched into a long _rhapsody_ about his plans for the city.
+	listening to Mozart always left him in a _rhapsody_ that lingered for the remainder of the evening
+
 ##### Rheum (noun)
 *ˈrüm*
 - **a watery discharge from the mucous membranes especially of the eyes or nose**

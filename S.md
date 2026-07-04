@@ -250,6 +250,13 @@
 	*Scores* of people attended the rally.
 	He lived to be three *score* years and ten (= until he was 70 years old).
 
+##### Scorn (noun / verb)
+*ˈskȯrn*
+- **open dislike and disrespect or mockery often mixed with indignation**
+- **to treat with scorn: reject or dismiss as contemptible or unworthy**
+	They treated his suggestion with _scorn_.
+	*scorned* to reply to the charge
+
 ##### Scourge (noun / verb)
 *ˈskərj*
 - **whip, especially used to inflict pain or punishment**
