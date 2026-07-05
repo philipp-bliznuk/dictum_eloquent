@@ -425,6 +425,13 @@
 	The dinner was attended by many foreign _dignitaries_.
 	After the war, Julian joined a delegation of American _dignitaries_ on a trip to Europe that included a stop in Berlin.
 
+##### Dike (noun / verb)
+*ˈdīk*
+- **an artificial watercourse: ditch**
+- **a bank usually of earth constructed to control or confine water: levee**
+	an elaborate system of _dikes_ built to protect the lowlands from the relentless onslaught of the sea
+	water flowed along the _dike_ to the small pond
+
 ##### Dilapidated (adjective)
 *də-ˈla-pə-ˌdā-təd*
 - **decayed, deteriorated, or fallen into partial ruin especially through neglect or misuse**

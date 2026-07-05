@@ -259,6 +259,13 @@
 	The gardener noticed brown *lesions* on the tomato leaves, a tell-tale sign of a fungal infection spreading through the crop.
 	During the annual check-up, the doctor noted a small, pigmented *lesion* on the patient's shoulder and recommended a biopsy to rule out malignancy.
 
+##### Levee (noun)
+*ˈle-vē*
+- **an embankment for preventing flooding**
+- **a continuous dike or ridge (as of earth) for confining the irrigation areas of land to be flooded**
+	the raging floodwaters were too much for the _levee_ to handle
+	we tied the boat up at the _levee_ and started unloading the fish we had caught
+
 ##### Levity (noun)
 *ˈle-və-tē*
 - **excessive or unseemly frivolity**
