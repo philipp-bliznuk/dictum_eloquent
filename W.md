@@ -244,6 +244,13 @@
 	There's plenty of luxury to go around, as backseat passengers can _while_ away the miles with a massage.
 	The activity is in the Art Lab, which is brimming with other projects that will _while_ away the time.
 
+##### Whin (noun)
+*ˈ(h)win*
+- **a prickly, yellow-flowered evergreen shrub: gorse**
+- **a hard, dark basaltic rock**
+	The sheep navigated the steep Scottish hillside, grazing on the sparse grass growing between thickets of prickly *whin*.
+	The ancient castle was built directly onto a massive ridge of dark *whin* rock, making it nearly impossible for enemies to undermine the foundations.
+
 ##### Whinny (noun / verb)
 *ˈ(h)wi-nē*
 - **the neigh of a horse especially when low or gentle**
@@ -295,6 +302,13 @@
 - **an arrangement of similar anatomical parts (such as leaves) in a circle around a point on an axis**
 	the _whorls_ and eddies of the river
 	the _whorl_ of a fingerprint
+
+##### Whortleberry (noun)
+*ˈ(h)wər-tᵊl-ˌber-ē*
+- **blueberry**
+- **a small, wild, dark blue European berry that is closely related to the blueberry and huckleberry: bilberry**
+	We spent the sunny August afternoon foraging on the open moors, filling our baskets with tart wild *whortleberries* to bake into a rustic summer pie.
+	The low-growing shrubs were laden with ripe *whortleberries*, their deep purple juices staining the children's fingers as they picked them.
 
 ##### Whoso (pronoun)
 *ˈhü-(ˌ)sō*

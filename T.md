@@ -570,6 +570,13 @@
 	The company's stock is being _touted_ by many financial advisers.
 	People were _touting_ tickets outside the stadium.
 
+##### Tracery (noun)
+*ˈtrā-sə-rē*
+- **architectural ornamental work with branching lines**
+- **a decorative interlacing of lines suggestive of Gothic tracery**
+	This window is an example of Gothic _tracery_.
+	the delicate _tracery_ of a butterfly's wing
+
 ##### Tract (noun)
 *ˈtrakt*
 - **a system of body parts or organs that act together to perform some function**

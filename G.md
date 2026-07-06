@@ -82,6 +82,13 @@
 	the wedding guest's thick makeup was _garish_ and unnecessary
 	The fairies in the forest wear *garish* green glittery outfits.
 
+##### Garnet (noun)
+*ˈgär-nət*
+- **a variable color averaging a dark red**
+- **a brittle and more or less transparent usually red silicate mineral that has a vitreous luster, occurs mainly in crystals but also in massive form and in grains, is found commonly in gneiss and mica schist, and is used as a semiprecious stone and as an abrasive**
+	For her grandmother's birthday, she purchased an antique silver ring set with a brilliantly polished, wine-red *garnet*.
+	The interior designer chose a rich *garnet* velvet for the living room curtains to give the space a warm, luxurious feel.
+
 ##### Gaudy (adjective)
 *ˈgȯ-dē*
 - **exceptional**

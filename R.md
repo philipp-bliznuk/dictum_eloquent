@@ -682,6 +682,13 @@
 	in the mad _rout_ from the school shooter, it was every person for himself
 	as expected, the professional team had no trouble _routing_ the amateurs
 
+##### Rowan (noun)
+*ˈrau̇-ən* / *ˈrō-ən*
+- **European/American mountain ash**
+- **the fruit of a European or American mountain ash**
+	As autumn arrived, the *rowan* tree in the front garden bent under the weight of hundreds of brilliant scarlet berries, attracting flocks of hungry birds.
+	According to ancient Scottish tradition, planting a *rowan* by the cottage gate would guard the household against evil spirits.
+
 ##### Rowdy (adjective / noun)
 *ˈrau̇-dē*
 - **coarse or boisterous in behavior: rough**

@@ -142,6 +142,13 @@
 	her new _beau_ brought flowers when he picked her up for their first date
 	She introduced us to her latest _beau_.
 
+##### Bedew (verb)
+*bi-ˈdü*
+- **to wet with or as if with dew**
+- **moisten, damp, rince**
+	Before the sun fully rose, a heavy morning mist arrived to *bedew* the delicate petals of the sleeping roses.
+	As she read the heartbreaking letter from her brother, a few silent tears began to *bedew* her cheeks.
+
 ##### Beech (noun)
 *ˈbēch*
 - **any of a genus (Fagus of the family Fagaceae, the beech family) of hardwood trees with smooth gray bark and small edible nuts**

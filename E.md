@@ -516,6 +516,15 @@
 	out of the corner of my eye I _espied_ the squirrel making another raid on the bird feeder
 	among the several horses she _espied_ the white mustang
 
+##### Esquire (noun)
+*ˈe-ˌskwī(-ə)r* / *i-ˈskwī(-ə)r*
+- **a member of the English gentry ranking below a knight**
+- **a candidate for knighthood serving as shield bearer and attendant to a knight**
+- **used as a title of courtesy often by attorneys usually placed in its abbreviated form after the surname**
+- **a landed proprietor**
+	In the 19th century, the wealthy landowner insisted that all his business correspondence be addressed to him as 'Thomas Bramble, *Esquire*'.
+	The formal letter regarding the real estate contract was addressed to Eleanor Vance, *Esquire*.
+
 ##### Essay (verb)
 *e-ˈsā*
 - **to put to a test**
