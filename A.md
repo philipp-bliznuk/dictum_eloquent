@@ -980,6 +980,13 @@ _ə-ˈskan(t)s_
 	When continents stretch and split, space opens beneath the breaking point and is rapidly filled with semi-molten _asthenosphere_.
 	This layer is a part of the _asthenosphere_, which sits beneath the tectonic plates.
 
+##### Astir (adjective)
+*ə-ˈstər*
+- **exhibiting activity**
+- **being out of bed: up**
+	the mall was _astir_ with throngs of holiday shoppers
+	streets *astir* with shoppers
+
 ##### Astringent (noun / adjective)
 *ə-ˈstrin-jənt*
 - **a liquid cosmetic for cleansing the skin and contracting the pores**

@@ -1016,6 +1016,13 @@ Peruke (noun)
 	The fossil was well _preserved_.
 	a jar of strawberry _preserve_
 
+##### Press (noun / verb)
+*ˈpres*
+- **a crowd or crowded condition: throng**
+- **to force into service especially in an army or navy: impress**
+	he pushed his way through the *press* of people outside the courthouse
+	Knowing the army was desperate for recruits, the young blacksmith hid in the cellar to avoid being *pressed* into the king's infantry.
+
 ##### Pretension (noun)
 *pri-ˈten(t)-shən*
 - **an allegation of doubtful value: pretext**

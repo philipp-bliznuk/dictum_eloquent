@@ -205,6 +205,13 @@
 	He's an important _layman_ in his church.
 	For a _layman_, he knows a lot about the law.
 
+##### Lay (noun)
+*ˈlā*
+- **a simple narrative poem: ballad**
+- **melody, song**
+	the minstrel strummed a cheerful _lay_ on his lute
+	she sang a short _lay_ in dedication to her husband
+
 ##### League (noun / verb)
 *ˈlēg*
 - **an association of persons or groups united by common interests or goals**

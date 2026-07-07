@@ -55,6 +55,14 @@
 	we tried her cooking and found it to be very _wanting_
 	a mitten _wanting_ its mate
 
+##### Want (noun)
+*ˈwȯnt* / *ˈwänt*
+- **deficiency, lack**
+- **personal defect: fault**
+- **extreme poverty that threatens life itself through starvation or exposure**
+	His attitude shows a _want_ of proper respect.
+	He is suffering from _want_ of adequate sleep.
+
 ##### Wanton (noun / adjective / verb)
 *ˈwȯn-tᵊn*
 - **merciless, inhumane**
