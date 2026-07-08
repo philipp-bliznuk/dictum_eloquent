@@ -898,3 +898,10 @@ _bi-ˈsä-təd_
 - **I swear**
 	*By my troth!* I have never seen a more magnificent sunset in all my years of traveling the coast.
 	*By my troth*, sir, if you continue to speak of me in such a manner, I shall be forced to demand an apology!
+
+##### Byre (noun)
+*ˈbī(-ə)r*
+- **a cow barn**
+- **a cowshed or barn where cattle are kept**
+	Before the winter storm hit, the farmer guided the dairy herd out of the muddy field and into the warm stone *byre*.
+	We could hear the gentle lowing of the cows echoing from the dark *byre* as night fell over the valley.

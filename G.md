@@ -54,6 +54,13 @@
 	The group is hoping to *galvanize* public opinion against the proposed law.
 	a factory where steel is *galvanized*
 
+##### Gambol (noun / verb)
+*ˈgam-bəl*
+- **a skipping or leaping about in play: romp**
+- **to skip about in play: frisk, frolic**
+	dog owners chat while their pooches _gambol_ on the park's great lawn
+	she and her old college roommate headed off for one final European _gambol_ before returning to the States to start their separate careers
+
 ##### Ganglion (noun)
 *ˈgaŋ-glē-ən*
 - **a small cystic tumor connected either with a joint membrane or tendon sheath**
@@ -88,6 +95,13 @@
 - **a brittle and more or less transparent usually red silicate mineral that has a vitreous luster, occurs mainly in crystals but also in massive form and in grains, is found commonly in gneiss and mica schist, and is used as a semiprecious stone and as an abrasive**
 	For her grandmother's birthday, she purchased an antique silver ring set with a brilliantly polished, wine-red *garnet*.
 	The interior designer chose a rich *garnet* velvet for the living room curtains to give the space a warm, luxurious feel.
+
+##### Garth (noun)
+*ˈgärth*
+- **a small yard or enclosure: close**
+- **an open courtyard, a small garden, or a piece of enclosed ground, usually attached to a house or a church (like a cloister garth)**
+	The monks spent their afternoon in silent reflection, pacing the gravel paths of the quiet cloister *garth*.
+	Behind the ancient stone farmhouse lay a small, walled *garth* where the family grew their winter vegetables.
 
 ##### Gaudy (adjective)
 *ˈgȯ-dē*
