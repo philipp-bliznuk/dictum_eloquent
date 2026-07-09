@@ -228,6 +228,13 @@
 	His _delinquent_ behavior could lead to more serious problems.
 	The town is trying to collect _delinquent_ taxes.
 
+##### Deliver (verb)
+*di-ˈli-vər*
+- **to set free**
+- **implies release usually of a person from confinement, temptation, slavery, or suffering**
+	And lead us not into temptation, but *deliver* us from evil
+	*delivered* his people from bondage
+
 ##### Demagogue (noun / verb)
 *ˈde-mə-ˌgäg*
 - **a political leader who appeals to popular prejudices and who makes false claims and promises in order to gain power**

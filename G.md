@@ -407,6 +407,13 @@
 	a _guarded_ man who knew better than to reveal such delicate information
 	was in *guarded* condition after the crash
 
+##### Guerdon (noun / verb)
+*ˈgər-dᵊn*
+- **reward, recompense**
+- **a payment, usually for a noble deed, brave service, or artistic achievement**
+	The knight knelt before the queen, hoping his long years of loyal service in the borderlands would finally earn him a rich *guerdon* of land and gold.
+	The legendary poet was handsomely *guerdoned* by the duke for composing an epic ballad in honor of the royal wedding.
+
 ##### Guidon (noun)
 *ˈgī-ˌdän*
 - **a small flag, especially one borne by a military unit as a unit marker**

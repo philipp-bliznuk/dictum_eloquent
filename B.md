@@ -1,3 +1,10 @@
+##### Babe (noun)
+*ˈbāb*
+- **infant, baby**
+- **a naive inexperienced person: novice, beginner**
+	although I worked with film for years, I'm just a _babe_ as far as digital photography is concerned
+	a _babe_ in arms, too young even to crawl
+
 ##### Bailie / Bailiff (noun)
 *ˈbā-lē* / *ˈbā-ləf*
 - **a Scottish municipal magistrate corresponding to an English alderman**
