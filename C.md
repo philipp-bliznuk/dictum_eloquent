@@ -1432,6 +1432,13 @@ _ˈkau̇n-tᵊn-ən(t)s_
 	The car has lots of _cubbyholes_ for small items.
 	He worked in a _cubbyhole_ under the stairs.
 
+##### Cub (noun)
+*ˈkəb*
+- **a young person**
+- **apprentice, novice**
+	the kind of big story that can propel a _cub_ reporter into the stratosphere of the newspaper world
+	assigned to teach a bunch of young _cubs_ how to play baseball
+
 ##### Cudgel (noun / verb)
 *ˈkə-jəl*
 - **a short heavy club: baton**

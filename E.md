@@ -102,6 +102,13 @@
 	They offered _effusive_ thanks for our help.
 	often _effusive_ no matter what the occasion, they are even more so at weddings and funerals
 
+##### Egg (verb)
+*ˈeg*
+- **to incite to action -> usually used with "on"**
+- **encourage someone to do something -> usually something foolish, risky, or aggressive**
+	The schoolyard argument quickly escalated into a fight because a crowd of kids gathered around to *egg* them *on*.
+	Though he initially hesitated to jump into the freezing lake, his friends managed to *egg* him *on* until he finally leaped from the dock.
+
 ##### Eke (verb)
 *ˈēk*
 - **to get with great difficulty -> usually used with _out_**

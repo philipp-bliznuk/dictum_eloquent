@@ -745,6 +745,13 @@
 	He _rumpled_ her hair affectionately.
 	the guest _rumpled_ the antique bedspread by lying down on it
 
+##### Runagate (noun)
+*ˈrə-nə-ˌgāt*
+- **vagabond**
+- **fugitive, runaway**
+	The sheriff posted handbills across the county, offering a reward for the capture of the notorious *runagate* who had broken out of the county jail.
+	Tired of the strict rules of the monastery, the young monk slipped out into the night to live the reckless life of a penniless *runagate*.
+
 ##### Runnel (noun)
 *ˈrə-nᵊl*
 - **rivulet, streamlet**

@@ -315,6 +315,13 @@
 	a moralist who decried what she regarded as the _licentious_ and corrupt culture of the entertainment industry
 	*licentious* behavior
 
+##### Liege (noun / adjective)
+*ˈlēj*
+- **a feudal superior to whom allegiance and service are due**
+- **faithful, loyal**
+	The knight drew his sword and swore a solemn oath to defend his *liege* against all enemies of the realm.
+	The king knew he could count on his faithful *lieges* to rally their troops when the kingdom was threatened.
+
 ##### Lieu / In lieu of (noun / phrase)
 *ˈlü* / *ˈin ˈlü ˈəv*
 - **place, stead**
