@@ -132,6 +132,14 @@
 	the belief that somehow it is the nation's president who is responsible for the _weal_ or woe of the people
 	Some people develop pin-sized, raised bumps (_weals_) when sweating—this condition is called cholinergic urticaria.
 
+##### Wean (verb)
+*ˈwēn*
+- **to accustom (a young child or animal) to take food otherwise than by nursing**
+- **to detach from a source of dependence / unwholesome habit or interest**
+	The calves are _weaned_ at an early age.
+	being *weaned* off the medication
+	*wean* him off his excessive drinking
+
 ##### Well-nigh / Wellnigh (adverb)
 *ˈwel-ˈnī*
 - **almost, nearly**

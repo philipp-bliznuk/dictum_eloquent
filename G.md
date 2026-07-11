@@ -393,6 +393,13 @@
 	clean off those _grubby_ hands before you touch anything
 	became involved in *grubby* squabbles over money
 
+##### Grudge (noun / verb)
+*ˈgrəj*
+- **to be unwilling to give or admit: give or allow reluctantly or resentfully**
+- **a feeling of deep-seated resentment or ill will**
+	I don't _grudge_ paying my share.
+	He has nursed a _grudge_ against his former boss for years.
+
 ##### Grunt (noun)
 *ˈgrənt*
 - **a U.S. army or marine foot soldier especially in the Vietnam War**
