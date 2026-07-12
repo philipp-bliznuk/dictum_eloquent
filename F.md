@@ -653,6 +653,7 @@
 *ˈfu̇l-krəm*
 - **the support about which a lever turns: prop**
 - **a part of an animal that serves as a hinge or support**
+- **one deemed essential to the function or development of something**
 	the camera moves on a fixed *fulcrum*, either horizontally (panning) or vertically (tilting)
 	In zoology, _fulcrum_ refers to a part of an animal that serves as a hinge or support, such as the joint supporting a bird's wing.
 

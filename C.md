@@ -501,6 +501,15 @@
 	She _chided_ us for arriving late.
 	He is quick to *chide* against the mayor for his negligence.
 
+##### Chine (noun / verb)
+*ˈchīn*
+- **backbone, spine**
+- **to cut through the backbone of (as in butchering)**
+- **the intersection of the bottom and the sides of a flat or V-bottomed boat**
+- **a steep, narrow ravine or gorge leading down to the sea**
+	The chef carefully trimmed the fat away from the *chine* of the pork roast before popping it into the oven.
+	The coastal path led us down through a steep, wooded *chine* that opened directly onto a hidden sandy beach.
+
 ##### Chirurgeon (noun)
 *kī-ˈrər-jən*
 - **surgeon**

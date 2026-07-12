@@ -682,6 +682,13 @@
 	in the mad _rout_ from the school shooter, it was every person for himself
 	as expected, the professional team had no trouble _routing_ the amateurs
 
+##### Rove (noun / verb)
+*ˈrōv*
+- **suggests vigorous and sometimes purposeful roaming**
+- **to move aimlessly: roam, wander**
+	buffalo _roving_ over the vast plains
+	armed brigands _roved_ over the countryside
+
 ##### Rowan (noun)
 *ˈrau̇-ən* / *ˈrō-ən*
 - **European/American mountain ash**

@@ -736,6 +736,13 @@ _bi-ˈsä-təd_
 	The tiny seaside cottage was cluttered with Victorian *bric-a-brac*, from porcelain cats to faded postcards stuck into the frames of mirrors.
 	We spent the rainy Saturday afternoon rummaging through the *bric-a-brac* stall at the local flea market, looking for a brass paperweight.
 
+##### Brigand (noun)
+*ˈbri-gənd*
+- **one who lives by plunder usually as a member of a band: bandit**
+- **a member of a gang of thieves or outlaws, typically operating in wild, lawless areas like mountains or forests, who rob travelers by surprise attack**
+	Merchants rarely traveled the mountain pass without an armed escort, as the rocky cliffs were known to hide desperate *brigands* waiting to ambush unsuspecting caravans.
+	The local governor dismissed the guerrilla fighters as mere *brigands* and criminals, refusing to acknowledge their political demands.
+
 ##### Brimstone (noun)
 *ˈbrim-ˌstōn*
 - **sulfur, especially considered as a component of the torments of hell in Christianity.**
