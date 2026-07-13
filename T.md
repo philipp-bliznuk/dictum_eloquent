@@ -372,6 +372,13 @@
 	_threshing_ and harvesting at the same time
 	the poor dog _threshed_ against his chain
 
+##### Thriftless (adjective)
+*ˈthrift-ləs*
+- **lacking usefulness or worth**
+- **careless, wasteful, or incompetent in handling money or resources: improvident, wasteful**
+	After inheriting a massive fortune, the *thriftless* young heir spent it all on luxury cars and lavish parties within a few short years.
+	The old shopkeeper shook his head at his *thriftless* employees, who constantly tossed out perfectly reusable shipping boxes instead of saving them.
+
 ##### Thrift (noun)
 *ˈthrift*
 - **healthy and vigorous growth**

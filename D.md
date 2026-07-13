@@ -25,6 +25,13 @@
 	in the old days, holes in socks had to be _darned_ by hand
 	a sweater full of *darns*
 
+##### Dastard (noun)
+*ˈda-stərd*
+- **coward**
+- **a mean-spirited, malicious coward - someone who does cruel or underhanded deeds, typically targeting people who cannot defend themselves**
+	The villain of the play proved to be a true *dastard*, poisoning the king's drink while his back was turned and then blaming the innocent guard.
+	Only a complete *dastard* would steal money from a charity box meant for the town's orphanage.
+
 ##### Daub (verb / noun)
 *ˈdȯb*
 - **to cover or coat with soft adhesive matter: plaster**
@@ -748,6 +755,13 @@
 - **a dignified elderly woman: matron**
 	The estate is owned by a wealthy _dowager_.
 	the town's _dowagers_ frequently shake their heads over the younger generation
+
+##### Downtrodden (adjective)
+*ˈdau̇n-ˈträ-dᵊn*
+- **suffering oppression**
+- **persecuted**
+	They were poor and _downtrodden_.
+	a war that was supposed to liberate the _downtrodden_ citizens of that nation
 
 ##### Drab (adjective / noun)
 *ˈdrab*

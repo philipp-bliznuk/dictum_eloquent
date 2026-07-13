@@ -465,6 +465,13 @@
 - **being dried and withered**
 	a _sere_ region that can't support agriculture
 
+##### Serf (noun)
+*ˈsərf*
+- **a member of a servile feudal class bound to the land and subject to the will of its owner**
+- **an agricultural laborer bound under the feudal system to work on his lord's estate**
+	During the Middle Ages, the *serf* was required to give a significant portion of his harvest to the lord of the manor in exchange for protection.
+	When the estate was sold to a new nobleman, the land, the village, and every *serf* living there transferred to the new owner's control.
+
 ##### Sermonize (verb)
 *ˈsər-mə-ˌnīz*
 - **to speak didactically or dogmatically**

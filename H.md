@@ -217,6 +217,13 @@
 	Sauropods were known to travel in herds, as do many types of large modern _herbivores_.
 	Their spectrum still ranges from pure carnivores to pure _herbivores_, with most bears today being omnivores.
 
+##### Hereabout(s) (adverb)
+*ˈhir-ə-ˌbau̇ts* / *ˈhir-ə-ˌbau̇t*
+- **in this vicinity**
+- **near this place, in this general vicinity, or around here**
+	If you are looking for a good place to grab lunch, there is a fantastic little deli somewhere *hereabout*.
+	We don't see a lot of snow *hereabouts*.
+
 ##### Herewith (adverb)
 *hir-ˈwit͟h*
 - **with this communication: enclosed in this**

@@ -794,6 +794,15 @@ Peruke (noun)
 	Doctors have been using _porcine_ heart valves to replace damaged ones in humans since the 1960s.
 	This is consistent with experimental studies of _porcine_ respiratory coronavirus (PRCV).
 
+##### Porpoise (noun / verb)
+*ˈpȯr-pəs*
+- **any of a family (Phocoenidae) of small gregarious toothed whales**
+- **dolphin (Note: While not closely related, porpoises and dolphins share a physical resemblance that often leads to misidentification.)**
+- **to leap or plunge like a porpoise**
+- **to rise and fall repeatedly**
+	While sailing near the coast, we spotted a small pod of *porpoises* breaking the surface of the chilly water.
+	When traveling in the water, Adélie penguins move by *porpoising*.
+
 ##### Portal (noun)
 *ˈpȯr-tᵊl*
 - **door, entrance (especially a grand or imposing one)**
