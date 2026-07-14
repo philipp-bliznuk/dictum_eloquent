@@ -88,6 +88,19 @@
 	the Shaker Store sells _hanks_ of yarn, Shaker seeds, herbal teas, and Shaker brooms.
 	The next morning, the police and Victoria’s parents found articles of the girl’s clothing and a bloody _hank_ of hair on a road near a sand pit in Mahwah.
 
+##### Haply (adverb)
+*ˈha-plē*
+- **by chance, luck, or accident**
+- **perhaps, happenstance**
+	The weary traveler walked into the tavern, hoping that *haply* he might find an old friend among the crowd.
+	Keep your eyes on the road ahead, for *haply* we may cross paths with the royal messenger before sundown.
+
+##### Happenstance (noun)
+*ˈha-pən-ˌstan(t)s*
+- **a circumstance especially that is due to chance**
+	Our meeting was pure _happenstance_.
+	It was an agreeable _happenstance_ that we met.
+
 ##### Harangue (noun / verb)
 *hə-ˈraŋ*
 - **a speech addressed to a public assembly**

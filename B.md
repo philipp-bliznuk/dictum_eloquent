@@ -343,6 +343,13 @@ _bi-ˈsä-təd_
 	the slightest change in her daily routine leaves her in complete _bewilderment_
 	She stared at them in *bewilderment*.
 
+##### Bier (noun)
+*ˈbir*
+- **a stand on which a corpse or coffin is placed**
+- **a framework for carrying**
+	The pallbearers gently lifted the heavy oak coffin from the wooden *bier* and lowered it into the earth.
+	The fallen king lay in state upon a velvet-draped *bier* in the center of the great cathedral as thousands of mourners filed past.
+
 ##### Bifurcation (noun)
 *ˌbī-(ˌ)fər-ˈkā-shən*
 - **the point or area at which something divides into two branches or parts: the point at which bifurcating occurs**

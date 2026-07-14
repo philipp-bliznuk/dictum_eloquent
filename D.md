@@ -728,6 +728,13 @@
 - **old person in a state on mental decline**
 	We humored the rambling *dotard* by listening to his stories.
 
+##### Dote (verb)
+*ˈdōt*
+- **to exhibit mental decline of or like that of old age: be in one's dotage**
+- **to be lavish or excessive in one's attention, fondness, or affection -> usually used with "on", adore**
+	The grandparents absolutely *dote on* their newborn granddaughter, constantly buying her new toys and flooding their phones with photos.
+	She tended to *dote on* her prize-winning orchids, checking their soil moisture and light levels multiple times a day.
+
 ##### Doughty (adjective)
 *ˈdau̇-tē*
 - **marked by fearless resolution: valiant**

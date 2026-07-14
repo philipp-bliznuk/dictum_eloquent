@@ -1255,6 +1255,13 @@ _ˈkau̇n-tᵊn-ən(t)s_
 - **the violent overthrow or alteration of an existing government by a small group**
 	a military _coup d'état_ of the dictator
 
+##### Coverlet (noun)
+*ˈkə-vər-lət*
+- **bedspread**
+- **quilt**
+	The host prepared the guest room with fresh linen sheets and a beautiful, woven blue *coverlet* that matched the curtains.
+	During the chilly autumn nights, she added an extra handmade woolen *coverlet* to the foot of her bed.
+
 ##### Covert (adjective / noun)
 *ˈkō-(ˌ)vərt*
 - **not openly shown, engaged in, or avowed: veiled**
@@ -1324,6 +1331,14 @@ _ˈkau̇n-tᵊn-ən(t)s_
 - **suggests a grossness of mind precluding discrimination or delicacy**
 	*crass* commercialism
 	a _crass_, materialistic people
+
+##### Craven (adjective)
+*ˈkrā-vən*
+- **lacking the least bit of courage: contemptibly fainthearted**
+- **suggests extreme defeatism and complete lack of resistance**
+- **defeated, vanquished**
+	secretly despised her own _craven_ yes-men
+	a _craven_ refusal to deliver the unwelcome news personally
 
 ##### Craze (verb / noun)
 *ˈkrāz*
