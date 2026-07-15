@@ -838,6 +838,13 @@
 	We don't believe that _twaddle_ anymore.
 	the novel's elaborate theory detailing a supposed 2,000-year-old conspiracy is mostly tiresome _twaddle_
 
+##### Twain (noun / adjective / pronoun)
+*ˈtwān*
+- **two**
+- **couple, pair**
+	He tried to bridge his life as a classical pianist with his love for heavy metal, but *never the twain shall meet*; the two worlds were simply too different.
+	With a sudden, violent crack of thunder, the ancient oak tree was split in *twain*.
+
 ##### Twill (noun)
 *ˈtwil*
 - **a textile weave in which the filling threads pass over one and under two or more warp threads to give an appearance of diagonal lines**

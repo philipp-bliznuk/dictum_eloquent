@@ -1672,6 +1672,13 @@
 	The *swart* smith spent the entire afternoon working at the blazing forge, his skin covered in a thin layer of soot.
 	The portrait depicted a rugged sea captain with a *swart*, weather-beaten face shaped by decades under the tropical sun.
 
+##### Swath (noun)
+*ˈswäth*
+- **a row of cut grain or grass left by a scythe or mowing machine**
+- **a stroke of or as if of a scythe / a space devastated as if by a scythe**
+	An aerial view of the countryside shows wide _swathes_ of green.
+	He _cut a swath through_ the field with his scythe.
+
 ##### Swat (noun / verb)
 *ˈswät*
 - **a powerful or crushing blow**

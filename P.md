@@ -368,6 +368,13 @@ _parā bellum_
 	remember to _pen_ up the dogs when visitors come over
 	a goat _pen_
 
+##### Pent (adjective)
+*ˈpent*
+- **shut up: confined, repressed**
+- **something that is shut up, closely confined, or penned in -> usually used with "up"**
+	Having been *pent* inside the tiny cabin for three days during the blizzard, the children ran wild the moment the sun came out.
+	After weeks of staying quiet and holding his frustration in, his *pent-up* anger finally boiled over during the meeting.
+
 ##### Percolate (verb)
 *ˈpər-kə-ˌlāt*
 - **to be diffused through: penetrate**

@@ -96,6 +96,13 @@
 	For her grandmother's birthday, she purchased an antique silver ring set with a brilliantly polished, wine-red *garnet*.
 	The interior designer chose a rich *garnet* velvet for the living room curtains to give the space a warm, luxurious feel.
 
+##### Garrulous (adjective)
+*ˈger-ə-ləs*
+- **given to prosy, rambling, or tedious loquacity: pointlessly or annoyingly talkative**
+- **using or containing many and usually too many words**
+	He became more _garrulous_ after drinking a couple of beers.
+	a _garrulous_ boy who was in constant trouble for talking out of turn
+
 ##### Garth (noun)
 *ˈgärth*
 - **a small yard or enclosure: close**

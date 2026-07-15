@@ -401,6 +401,13 @@
 	As the stagecoach pulled into the courtyard, the *ostler* rushed out to unhitch the weary team and lead them toward the hay and water.
 	The *hostler* carefully maneuvered the diesel engine onto the turntable, ensuring it was fueled and ready for the morning freight run.
 
+##### Hotfoot (verb / adverb)
+*ˈhät-ˌfu̇t*
+- **to go hotfoot: hurry -> usually used with _it_**
+- **in haste**
+	you'd better _hotfoot it_ to the bus stop if you're going to catch the bus
+	lowered his plane _hotfoot_ onto a pasture when the engine started to sputter
+
 ##### Howdah (noun)
 *ˈhau̇-də*
 - **a seat or covered pavilion on the back of an elephant or camel**

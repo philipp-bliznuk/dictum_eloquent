@@ -469,6 +469,13 @@
 	the hair stylist started by _lopping off_ several inches from her long tresses, before beginning to shape what was left
 	The Vietnamese *lopped* off a thumb without pain killers.
 
+##### Loquacious (adjective)
+*lō-ˈkwā-shəs*
+- **given to fluent or excessive tal : garrulous, talkative**
+- **suggests the power of expressing oneself articulately, fluently, or glibly**
+	a _loquacious_ and glib politician
+	the _loquacious_ host of a radio talk show
+
 ##### Lorry (noun)
 *ˈlȯr-ē*
 - **motortruck**
