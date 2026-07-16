@@ -662,6 +662,13 @@
 	As the boat approached the pier, the deckhand tossed the line to the dockmaster, who quickly secured it to a heavy iron *cleat*.
 	The referee checked the player's *cleats* before the match to ensure the metal studs weren't sharp enough to cause injury.
 
+##### Cleave (verb)
+*ˈklēv*
+- **to adhere firmly and closely or loyally and unwaveringly**
+- **to divide by or as if by a cutting blow: split**
+	They kept themselves strictly separate, each *cleaving* to their own language, rituals, and food.
+	The blow _cleaved_ the victim's skull.
+
 ##### Clemency (noun)
 *ˈkle-mən(t)-sē*
 - **pleasant mildness of weather**
