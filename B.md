@@ -170,6 +170,13 @@
 	most of the applicants were _befuddled_ by the wording of one of the questions on the driving test
 	_befuddled_ with drink all the time
 
+##### Beget (verb)
+*bi-ˈget*
+- **to procreate as the father: sire**
+- **to produce especially as an effect or outgrowth**
+	He died without _begetting_ an heir.
+	one change in the natural environment will _beget_ others
+
 ##### Beguile (verb)
 *bi-ˈgī(-ə)l*
 - **to engage the interest of by or as if by guile**

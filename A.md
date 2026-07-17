@@ -1009,6 +1009,13 @@ _ə-ˈskan(t)s_
 - **an individual or character that manifests atavism: throwback**
 	He was a magnificent *atavism*, a man so purely primitive that he was of the type that came into the world before the development of the moral nature.
 
+##### Athwart (adverb / preposition)
+*ə-ˈthwȯrt*
+- **across especially in an oblique direction**
+- **in opposition to the right or expected course**
+	we hung the twisted strips of crepe paper _athwart_ to the floor and ceiling so that they formed giant crosses on all four walls
+	_athwart_ the road was farmland as far as the eye could see
+
 ##### Atoll (noun)
 *ˈa-ˌtȯl*
 - **a coral island consisting of a reef surrounding a lagoon**

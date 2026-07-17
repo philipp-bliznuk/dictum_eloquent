@@ -354,6 +354,13 @@ _parā bellum_
 	a *penal* offense
 	Australia was once a _penal_ colony.
 
+##### Penance (noun / verb)
+*ˈpe-nən(t)s*
+- **an act of self-abasement, mortification, or devotion performed to show sorrow or repentance for sin**
+- **something (such as a hardship or penalty) resembling an act of penance (as in compensating for an offense)**
+	He did charitable work as a *penance*.
+	go on cheap camping trips instead of real vacations as a kind of *penance*
+
 ##### Pennant (noun)
 *ˈpe-nənt*
 - **any of various nautical flags tapering usually to a point or swallowtail and used for identification or signaling**
