@@ -261,6 +261,20 @@
 	there's no need to _berate_ someone for making a mistake during the first day on the job
 	being _berated_ by her parents when she came home late
 
+##### Bereaved (adjective)
+*bi-ˈrēvd*
+- **suffering the death of a loved one**
+- **someone who is suffering the death of a loved one: one who is bereaved**
+	The *bereaved* family received an outpouring of love and support from neighbors who brought over meals during their first week of mourning.
+	After the memorial service, the pastor stayed behind to offer private comfort and counseling to the *bereaved*.
+
+##### Bereave (verb)
+*bi-ˈrēv*
+- **to deprive of something -> usually used with "of"**
+- **to take away (a valued or necessary possession) especially by force**
+	The long, brutal winter threatened to *bereave* the small village of its elderly residents.
+	A sudden illness can *bereave* a family of its primary provider, leaving them to navigate both profound grief and financial uncertainty.
+
 ##### Bereft (adjective)
 _bi-ˈreft_
 - **deprived robbed of the possession or use of something —> usually used with _of_**
@@ -308,6 +322,13 @@ _bi-ˈsä-təd_
 - **wearing spectacles**
 	Then one of them, the boy’s trim and _bespectacled_ father, spoke.
 	On the very top of the pile was a black-and-white mug shot of a bearded, *bespectacled* man.
+
+##### Bespoke (adjective)
+*bi-ˈspōk*
+- **custom-made, tailored**
+- **engaged**
+	Instead of buying a standard suit off the rack, he went to Savile Row to have a *bespoke* tuxedo crafted for his wedding.
+	The firm didn't want a generic software package, so they hired a team of developers to build a *bespoke* inventory management system.
 
 ##### Bethink (verb)
 *bi-ˈthiŋk*

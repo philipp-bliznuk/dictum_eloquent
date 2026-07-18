@@ -343,6 +343,13 @@
 	the police had to break up an _affray_ that started between fans of the opposing teams
 	He emerged from the *affray* with a torn coat and a bruised ego, though he was fortunately spared any lasting injury.
 
+##### Affright (verb / noun)
+*ə-ˈfrīt*
+- **to frighten, alarm**
+- **sudden and great fear: terror**
+	The sudden, piercing howl of a wolf at midnight did *affright* the weary travelers encamped in the woods.
+	She woke up in great *affright*, her heart hammering against her ribs after a vivid nightmare.
+
 ##### Affront (verb / noun)
 *ə-ˈfrənt*
 - **a deliberate offense: insult**
@@ -507,6 +514,13 @@ _ˈāl_
 - **a leisurely walk**
 	They _ambled_ down the road.
 	we had a lovely _amble_ about the quaint village before continuing our drive
+
+##### Ambry / Aumbry (noun)
+*ˈam-brē* / *ˈäm-rē*
+- **pantry**
+- **a recess in a church wall (as for holding sacramental vessels)**
+	The old medieval kitchen featured a deep wooden *ambry* where loaves of bread and dried herbs were kept safe from pests.
+	The priest opened the stone *aumbry* to retrieve the holy oils before the baptismal service began.
 
 ##### Amenable (adjective)
 *ə-ˈmē-nə-bəl*
@@ -808,6 +822,13 @@ _ə-ˈper-əl_
 -  **lacking in interest and life: jejune**
 	a dull and _arid_ textbook
 	an _arid_ speech about duty and responsibility
+
+##### Aright (adverb)
+*ə-ˈrīt*
+- **right, correctly**
+- **properly**
+	If I hear you *aright*, you are saying that the entire shipment was lost at sea?
+	To guide the kingdom *aright*, the young queen relied heavily on the counsel of her most trusted advisors.
 
 ##### Ark (noun)
 *ˈärk*

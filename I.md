@@ -172,6 +172,13 @@
 	Two of my friends came by unexpectedly, and we had an _impromptu_ little party in my kitchen.
 	although five different lines had been written, the best choice turned out to be an _impromptu_ from the tired actor himself
 
+##### Improvident (adjective)
+*(ˌ)im-ˈprä-və-dənt*
+- **not provident: not foreseeing and providing for the future**
+- **careless, reckless, wasteful**
+	Her _improvident_ habits left her with no retirement savings.
+	the _improvident_ view that the wearing away of the ozone layer need not concern us
+
 ##### Impudence (noun)
 *ˈim-pyə-dən(t)s*
 - **the quality or state of being impudent**

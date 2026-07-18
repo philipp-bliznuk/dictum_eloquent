@@ -101,6 +101,13 @@
 	hurt to the *quick* by the remark
 	that nasty comment cut me to the _quick_
 
+##### Quid pro quo (noun)
+*ˌkwid-ˌprō-ˈkwō*
+- **something given or received for something else: exchange**
+- **a deal arranging a quid pro quo**
+	The merger was finalized after a *quid pro quo* arrangement where the startup gave up partial control in exchange for immediate global distribution.
+	I'll help you move your heavy couch this afternoon, but as a *quid pro quo*, you have to buy me dinner tonight.
+
 ##### Quilt (noun / verb)
 *ˈkwilt*
 - **a bed coverlet of two layers of cloth filled with padding (such as down or batting) held in place by ties or stitched designs: blanket**
