@@ -1012,6 +1012,14 @@
 	_Spittle_ sprayed from his lips as he shouted at them.
 	unaware that _spittle_ was leaking out of his mouth while he slept
 
+##### Splay (noun / verb / adjective)
+*ˈsplā*
+- **to cause to spread outward**
+- **a slope or bevel especially of the sides of a door or window**
+- **awkward, ungainly**
+	He sat with his legs _splayed_ apart.
+	She _splayed_ her fingers to show off her manicure.
+
 ##### Splurge (noun / verb)
 *ˈsplərj*
 - **an ostentatious effort, display, or expenditure**

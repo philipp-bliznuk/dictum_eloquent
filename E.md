@@ -154,6 +154,13 @@
 	unfortunately, when the book was condensed, some of the _elisions_ rendered major plot developments incomprehensible
 	Still, her assumptions and *elisions* are striking, if predictable.
 
+##### Ell (noun)
+*ˈel*
+- **a former English unit of length (as for cloth) equal to 45 inches (about 1.14 meters) based on the length of a person's arm from the elbow to the tip of the middle finger**
+- **a wing or extension of a building that sits at a right angle (90 degrees) to the main structure, giving the entire building an "L" shape**
+	The tailor carefully measured out three *ells* of fine green silk to fashion the nobleman's new cloak.
+	As the family grew, they built a small wooden *ell* onto the back of the farmhouse to serve as an expanded kitchen.
+
 ##### Elope (verb)
 *i-ˈlōp*
 - **to run away secretly with the intention of getting married usually without parental consent**

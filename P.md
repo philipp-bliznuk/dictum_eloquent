@@ -361,6 +361,13 @@ _parā bellum_
 	He did charitable work as a *penance*.
 	go on cheap camping trips instead of real vacations as a kind of *penance*
 
+##### Peninsula (noun)
+*pə-ˈnin(t)-s(ə-)lə*
+- **a portion of land nearly surrounded by water and connected with a larger body by an isthmus**
+- **a piece of land jutting out into the water whether with or without a well-defined isthmus**
+	They built their house on a narrow _peninsula_.
+	the _peninsula_ is constantly buffeted by storms
+
 ##### Pennant (noun)
 *ˈpe-nənt*
 - **any of various nautical flags tapering usually to a point or swallowtail and used for identification or signaling**
@@ -381,6 +388,13 @@ _parā bellum_
 - **something that is shut up, closely confined, or penned in -> usually used with "up"**
 	Having been *pent* inside the tiny cabin for three days during the blizzard, the children ran wild the moment the sun came out.
 	After weeks of staying quiet and holding his frustration in, his *pent-up* anger finally boiled over during the meeting.
+
+##### Pentangle (noun)
+*ˈpent-ˌaŋ-gəl*
+- **pentagram**
+- **five-pointed star drawn with five straight, continuous lines**
+	In the medieval poem "Sir Gawain and the Green Knight", the hero bears a golden *pentangle* on his shield as a symbol of truth and his five knightly virtues.
+	The archaeologist brushed away the dust to reveal an ancient *pentangle* carved deeply into the stone floor of the ruins.
 
 ##### Percolate (verb)
 *ˈpər-kə-ˌlāt*

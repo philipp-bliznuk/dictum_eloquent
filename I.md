@@ -128,6 +128,13 @@
 	hail was noisily _impinging_ upon the car's exterior
 	*impinge* on other people's rights
 
+##### Impious (adjective)
+*ˈim-pē-əs* / *(ˌ)im-ˈpī-əs*
+- **not pious: lacking in reverence or proper respect (especially for God): irreverent**
+- **atheistic, secular**
+	He was fearful of seeming _impious_.
+	an _impious_ act that horrified their pious mother
+
 ##### Implacable (adjective)
 *(ˌ)im-ˈpla-kə-bəl*
 - **not placable: not capable of being appeased, significantly changed, or mitigated**
@@ -740,6 +747,13 @@
 - **a member of a group (such as a political party) opposing compromise or collaboration**
 	theories that are _irreconcilable_ with each other
 	In both negotiations, opposing sides appear to have _irreconcilable_ demands.
+
+##### Isthmus (noun)
+*ˈi-sməs*
+- **a narrow strip of land connecting two larger land areas**
+- **a narrow anatomical part or passage connecting two larger structures or cavities**
+	The *Isthmus* of Panama is a crucial strip of land that connects North and South America while separating the Pacific and Atlantic Oceans.
+	Traders preferred taking the overland route across the narrow *isthmus* rather than sailing the long, dangerous way around the entire peninsula.
 
 ##### Itinerant (adjective)
 *ī-ˈti-nə-rənt*

@@ -329,6 +329,13 @@
 	There's always been an _affinity_ between us.
 	He never felt any _affinity_ with the other kids in his neighbourhood.
 
+##### Afflict (verb)
+*ə-ˈflikt*
+- **to cause pain or suffering to: to distress so severely as to cause persistent suffering or anguish**
+- **is a general term and applies to the causing of pain or suffering or of acute annoyance, embarrassment, or any distress**
+	The disease _afflicts_ an estimated two million people every year.
+	the South was _afflicted_ by a severe drought
+
 ##### Affluent (adjective / noun)
 *ˈa-(ˌ)flü-ənt*
 - **having an abundance of goods or riches: wealthy**

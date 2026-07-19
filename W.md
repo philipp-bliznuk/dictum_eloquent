@@ -20,6 +20,13 @@
 	The Dickensian novel tells the story of a penniless street *waif* who finds a hidden fortune.
 	The 1990s runway trends shifted sharply away from athletic supermodels toward a fragile, *waif* look.
 
+##### Wain (noun)
+*ˈwān*
+- **a usually large and heavy vehicle for farm use**
+- **wagon, cart**
+	The horses strained against their harnesses as they pulled the heavy *wain*, which was piled dangerously high with the autumn harvest.
+	A lone merchant's *wain* creaked slowly down the muddy cobblestone road just before the city gates closed for the night.
+
 ##### Waive (verb)
 *ˈwāv*
 - **to relinquish (something, such as a legal right) voluntarily**
@@ -465,6 +472,13 @@
 - **a remnant of something destroyed**
 	it's amazing how a raging sea can _wrack_ a seemingly sturdy beachfront home
 	After the chaos that _wracked_ Minnesota this year, music can be a solace.
+
+##### Wren (noun)
+*ˈren*
+- **any of a family (Troglodytidae) of small typically brownish oscine singing birds**
+- **any of various small singing birds resembling the true wrens in size and habits**
+	A tiny *wren* darted out from the dense garden hedge, its short tail pointing straight up into the air.
+	Though the morning was cold and quiet, the brilliant song of a single *wren* filled the entire forest.
 
 ##### Writhe (verb)
 *ˈrīt͟h*
