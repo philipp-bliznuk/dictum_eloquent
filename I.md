@@ -325,6 +325,13 @@
 	an unknown candidate challenging the *incumbent*
 	*incumbent* on us to take action
 
+##### Incur (verb)
+*in-ˈkər*
+- **to become liable or subject to: bring down upon oneself**
+- **it is most frequently paired with financial terms (like debts, fees, or expenses) or social consequences (like anger, wrath, or blame)**
+	If you fail to return the rental car with a full tank of gas, you will *incur* an additional refueling fee.
+	By constantly cutting off his colleagues during the presentation, the manager managed to *incur* the frustration of the entire team.
+
 ##### Indefatigable (adjective)
 *ˌin-di-ˈfa-ti-gə-bəl*
 - **incapable of being fatigued: untiring**

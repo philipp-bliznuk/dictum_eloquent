@@ -458,6 +458,14 @@
 	she paced about the room, as she is _wont_ to do whenever she is agitated
 	he got up early, as is his _wont_
 
+##### Woo (verb)
+*ˈwü*
+- **to sue for the affection of and usually marriage with: court**
+- **to solicit or entreat especially with importunity**
+- **to seek to gain or bring about**
+	The store had a sale in an effort to _woo_ new customers.
+	The company must find creative ways to _woo_ new employees.
+
 ##### Wouldst (verb)
 *ˈwu̇dst*
 - **archaic past tense second-person singular of will**

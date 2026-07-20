@@ -463,6 +463,13 @@
 	a generation that has _repudiated_ the values of the past
 	He has publicly _repudiated_ the government's policies.
 
+##### Rescind (verb)
+*ri-ˈsind*
+- **to make void by action of the enacting authority or a superior authority: repeal**
+- **take back, cancel, revoke**
+	The navy _rescinded_ its ban on women sailors.
+	The company later _rescinded_ its offer.
+
 ##### Respite (noun / verb / adjective)
 *ˈre-spət*
 - **a period of temporary delay**

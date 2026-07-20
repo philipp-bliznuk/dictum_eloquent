@@ -69,6 +69,12 @@
 	Chronic bad breath, or _halitosis_, is the most common symptom.
 	Warning Signs of Poor Oral Health Significantly bad breath, otherwise known as _halitosis_.
 
+##### Halting (adjective)
+*ˈhȯl-tiŋ*
+- **marked by a lack of sureness or effectiveness**
+	She answered in a _halting_ voice.
+	The baby took a few _halting_ steps.
+
 ##### Hamlet (noun)
 *ˈham-lət*
 - **a small village**
