@@ -168,6 +168,14 @@ _parā bellum_
 	battle and not *parlance* should determine his right and title.
 	The company's computer system had, in computer *parlance*, "crashed."
 
+##### Parley (noun / verb)
+*ˈpär-lē*
+- **a conference for discussion of points in dispute**
+- **a conference with an enemy**
+- **to speak with another: confer**
+	can we meet for an informal _parley_ to see if we can effect a compromise?
+	in an effort to win the goodwill of the locals, the developers _parleyed_ with them before finalizing plans for the massive mall
+
 ##### Parochial (adjective)
 *pə-ˈrō-kē-əl*
 - **of or relating to a church parish**

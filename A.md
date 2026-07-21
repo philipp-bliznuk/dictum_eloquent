@@ -322,6 +322,13 @@
 	His French accent is just an _affectation_.
 	a woman of great _affectation_ at social gatherings
 
+##### Affiance (noun / verb)
+*ə-ˈfī-ən(t)s*
+- **trust, confidence**
+- **to solemnly promise (oneself or another) in marriage: betroth**
+	He placed his full *affiance* in the divine wisdom of the heavens.
+	The young prince was *affianced* to the princess of Spain at a very early age to seal a political alliance.
+
 ##### Affinity (noun)
 *ə-ˈfi-nə-tē*
 - **relationship by marriage**

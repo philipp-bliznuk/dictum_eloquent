@@ -24,6 +24,13 @@
 	Each piece comes rolled up, tied with a piece of *raffia*.
 	The shoes come in four neutral shades: *raffia*, black, caramel and gold.
 
+##### Raffish (adjective)
+*ˈra-fish*
+- **marked by or suggestive of flashy vulgarity or crudeness**
+- **marked by a careless unconventionality: rakish**
+	With his unbuttoned linen shirt, tilted fedora, and three-day stubble, he carried a *raffish* charm that instantly drew people to him.
+	They spent the evening in a *raffish* jazz bar in the old quarter, where the neon light buzzed and the air smelled faintly of stale cigars and bourbon.
+
 ##### Ragtag (adjective)
 *ˈrag-ˌtag*
 - **ragged, unkempt**
