@@ -459,6 +459,13 @@
 - **a building or chamber in which bodies or bones are deposited; called also charnel house**
 	Though cremation has since solved the burial space issue, Hallstatt townspeople can choose to send their remains to the *charnel* house.
 
+##### Chary (adjective)
+*ˈcher-ē*
+- **hesitant and vigilant about dangers and risks**
+- **implies a cautious reluctance to give, act, or speak freely**
+	a government *chary* of getting involved in foreign entanglements
+	a person very *chary* of compliments
+
 ##### Chase (noun / verb)
 *ˈchās*
 - **groove, furrow, ornamental work on a metal surface**
@@ -724,6 +731,12 @@
 - **to arise from the combination of distinct elements**
 	a group of young reformers who gradually _coalesced_ into a political movement
 	The ice masses _coalesced_ into a glacier over time.
+
+##### Cockcrow (noun)
+*ˈkäk-ˌkrō*
+- **dawn**
+- **sunrise, morn**
+	by _cockcrow_ the mysterious stranger had vanished
 
 ##### Cocksure (adjective)
 *ˈkäk-ˈshu̇r*
