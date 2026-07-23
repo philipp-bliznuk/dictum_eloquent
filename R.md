@@ -651,6 +651,13 @@
 	Financial markets have been _roiled_ by the banking crisis.
 	the waters of the gulf tossed and _roiled_ as the hurricane surged toward the shore
 
+##### Rondure (noun)
+*ˈrän-jər*
+- **something (such as a circle, globe, or ring) that is round**
+- **gracefully rounded curvature**
+	As the spacecraft reached orbit, the astronauts marveled at the sweeping *rondure* of the Earth set against the dark void of space.
+	The sculptor spent months polishing the marble, carefully perfecting the smooth, sweeping *rondure* of the vase.
+
 ##### Rood (noun)
 *ˈrüd*
 - **a cross or crucifix symbolizing the cross on which Jesus Christ died**

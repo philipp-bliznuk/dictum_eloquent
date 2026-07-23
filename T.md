@@ -434,6 +434,14 @@
 	got into a little _tiff_ about what color sheets to buy for their bed
 	like any couple, they occasionally _tiff_, but it's never anything serious
 
+##### Tiller (noun / verb)
+*ˈti-lər*
+- **one that tills: cultivator**
+- **stalk, sprout**
+- **a lever used to turn the rudder of a boat from side to side / a device or system that plays a part in steering something**
+	Before planting the vegetable garden, she used a gas-powered *tiller* to loosen the hard soil.
+	The captain firmly gripped the wooden *tiller* to keep the sailboat on course against the strong wind.
+
 ##### Timbre (noun)
 *ˈtam-bər*
 - **the resonance by which the ear recognizes and identifies a voiced speech sound**
@@ -748,6 +756,14 @@
 *ˈträth-ˌplīt*
 - **to engage, to betroth**
 	After a _trothplight_ of unclear length, Anne Hathaway and William Shakespeare were married in 1582.
+
+##### Truant (noun / adjective / verb)
+*ˈtrü-ənt*
+- **one who shirks duty / one who stays out of school without permission**
+- **shirking responsibility / absent from school without permission**
+- **to idle away time especially while playing truant**
+	The principal called his parents after discovering he was a *truant* who had missed three days of class this week.
+	Instead of going to math class, the teenagers decided to *play truant* and hang out at the mall.
 
 ##### Truculent (adjective)
 *ˈtrə-kyə-lənt*
