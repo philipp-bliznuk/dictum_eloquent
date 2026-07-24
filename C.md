@@ -1249,11 +1249,13 @@ _ˈküt_
 	If thou *couldst* see the future, wouldst thou change thy current path?
 	Thou *couldst* always make me laugh, even on the darkest of winter days.
 
-##### Countenance (noun)
+##### Countenance (noun / verb)
 _ˈkau̇n-tᵊn-ən(t)s_
 - **the face as an indication of mood, emotion, or character**
+- **to extend approval or toleration to: sanction**
 	… a *countenance* which expressed both good humor and intelligence …
 	He managed to keep his *countenance* through the ordeal.
+	refused to *countenance* any changes in the policy
 
 ##### Countermand (noun / verb)
 *ˈkau̇n-tər-ˌmand*

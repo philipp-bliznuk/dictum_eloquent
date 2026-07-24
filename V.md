@@ -196,6 +196,14 @@
 	the constantly changing schedule was somewhat _vexing_, but I coped
 	This change simplified the most _vexing_ problems, of corrosion and containment, while preserving the high process heat that molten salt makes possible.
 
+##### Vex (verb)
+*ˈveks*
+- **to bring trouble, distress, or agitation to**
+- **implies greater provocation and stronger disturbance and usually connotes anger but sometimes perplexity or anxiety**
+- **to shake or toss about**
+	This problem has _vexed_ researchers for years.
+	We were _vexed_ by the delay.
+
 ##### Viaduct (noun)
 *ˈvī-ə-ˌdəkt*
 - **a long elevated roadway usually consisting of a series of short spans supported on arches, piers, or columns**

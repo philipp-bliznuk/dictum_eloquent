@@ -271,6 +271,13 @@
 	movie scenes set in heaven often suggest that harps are the favored instruments for _empyrean_ music
 	ascended into the _empyrean_ after a life filled with good deeds
 
+##### Emulate (verb)
+*ˈem-yə-ˌlāt*
+- **to equal or approach equality with**
+- **imitate**
+	She grew up _emulating_ her sports heroes.
+	artists _emulating_ the style of their teachers
+
 ##### Enamel (noun / verb)
 *i-ˈna-məl*
 - **a usually opaque vitreous composition applied by fusion to the surface of metal, glass, or pottery**

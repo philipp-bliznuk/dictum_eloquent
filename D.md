@@ -5,6 +5,13 @@
 	Don't do anything *daft*.
 	he looks at me as if I were *daft*.
 
+##### Dally (verb)
+*ˈda-lē*
+- **to act playfully**
+- **to waste time: linger, dawdle**
+	The two of us _dallied_ over our coffee that morning.
+	_dallying_ with the idea of building a boat someday
+
 ##### Dandruff (noun)
 *ˈdan-drəf*
 - **scaly white or grayish flakes of dead skin cells especially of the scalp**
