@@ -1096,6 +1096,13 @@ Peruke (noun)
 	He has _prim_ views on religion.
 	Her aunts were very _prim and proper_.
 
+##### Primogeniture (noun)
+*ˌprī-mō-ˈje-nə-ˌchu̇r*
+- **the state of being the firstborn of the children of the same parents**
+- **an exclusive right of inheritance belonging to the eldest son**
+	Under the rules of male-preference *primogeniture*, the king's vast kingdom passed directly to his eldest son, leaving his younger children with no land.
+	Many European monarchies have updated their laws to absolute *primogeniture*, ensuring the monarch's eldest child inherits the throne regardless of gender.
+
 ##### Primordial (adjective)
 *prī-ˈmȯr-dē-əl*
 - **first created or developed: primeval**
