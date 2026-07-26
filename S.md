@@ -1585,6 +1585,20 @@
 	a dome tent outfitted with _supple_ fiberglass tent poles
 	shoes made from _supple_ leather
 
+##### Suppliant (noun / adjective)
+*ˈsə-plē-ənt*
+- **one who makes a humble entreaty: supplicant**
+- **humbly imploring: entreating**
+	didn't like being in the position of a _suppliant_, having to ask her parents to help her pay the rent on her apartment
+	the _suppliant_ thief pleaded for a second chance
+
+##### Supplicant (noun / adjective)
+*ˈsə-pli-kənt*
+- **one who supplicates**
+- **suppliant**
+	the new governor soon had to deal with a long line of _supplicants_ asking for jobs and other political favors
+	hated having to go before his boss like a _supplicant_ beggar whenever he needed some time off to attend to personal matters
+
 ##### Supplicate (verb)
 *ˈsə-plə-ˌkāt*
 - **to make a humble entreaty**

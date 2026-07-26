@@ -703,6 +703,14 @@
 	He had some _trepidation_ about agreeing to their proposal.
 	shaking with _trepidation_, I stepped into the old abandoned house
 
+##### Tress (noun)
+*ˈtres*
+- **a long lock of hair**
+- **the long unbound hair of a woman -> usually used in plural**
+- **a plait of hair: braid**
+	She gently brushed a stray *tress* of hair away from her face before continuing to read.
+	The wind blew her golden *tresses* across her shoulders as she stood at the edge of the cliff.
+
 ##### Trifle (noun / verb)
 *ˈtrī-fəl*
 - **something of little value, substance, or importance**

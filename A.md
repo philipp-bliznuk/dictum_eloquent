@@ -281,6 +281,13 @@
 	The rugby player enjoyed the _adulation_ of his fans.
 	a writer who inspires _adulation_ in her readers
 
+##### Adumbrate (verb)
+*ˈa-dəm-ˌbrāt*
+- **to outline or sketch something broadly without giving full details**
+- **to faintly foreshadow a future event**
+	In the opening chapter, the professor *adumbrated* the main arguments of her theory, saving the specific evidence for later sections.
+	The dark clouds gathering over the horizon seemed to *adumbrate* the stormy debate that would take place in parliament that afternoon.
+
 ##### Advent (noun)
 *ˈad-ˌvent*
 - **the period beginning four Sundays before Christmas and observed by some Christians as a season of prayer and fasting**

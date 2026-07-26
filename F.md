@@ -343,6 +343,13 @@
 	There’s something in us as human beings which seeks _fixity_ and definiteness and absoluteness.
 	No crying out, no convulsions - nothing but the _fixity_ of a pensive gaze.
 
+##### Flagrant (adjective)
+*ˈflā-grənt*
+- **conspicuously offensive**
+- **applies usually to offenses or errors so bad that they can neither escape notice nor be condoned**
+	_flagrant_ abuse of the law
+	her _flagrant_ disregard for other people's rights
+
 ##### Flair (noun)
 *ˈfler*
 - **a skill or instinctive ability to appreciate or make good use of something: talent**
