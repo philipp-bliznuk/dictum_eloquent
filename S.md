@@ -984,6 +984,13 @@
 	accommodations on the windjammer are _spartan_ but clean and comfortable nevertheless
 	a *spartan* room
 
+##### Specious (adjective)
+*ˈspē-shəs*
+- **having a false look of truth or genuineness: sophistic**
+- **having deceptive attraction or allure: misleading**
+	He justified his actions with _specious_ reasoning.
+	a _specious_ argument that really does not stand up under close examination
+
 ##### Spica (noun)
 *ˈspī-kə*
 - **a bandage that is applied in successive V-shaped crossings and is used to immobilize a limb especially at a joint**

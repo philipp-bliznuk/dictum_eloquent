@@ -693,6 +693,13 @@ Peruke (noun)
 	a comedy sharpened by _pithy_ one-liners
 	The critic gave the film a _pithy_ review.
 
+##### Pit (verb)
+*ˈpit*
+- **to place, cast, bury, or store in a pit**
+- **to set (fighting birds, such as gamecocks) into or as if into a pit to fight -> usually used with "against"**
+	The survival reality show will *pit* ten strangers *against* each other in the deep wilderness.
+	The court case *pitted* a small family business *against* a multi-billion-dollar corporation.
+
 ##### Placate (verb)
 *ˈplā-ˌkāt* / *ˈpla-ˌkāt*
 - **to soothe or mollify especially by concessions: appease**
