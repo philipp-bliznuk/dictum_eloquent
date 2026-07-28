@@ -208,6 +208,13 @@
 	She _gleaned_ her data from various studies.
 	He has a collection of antique tools _gleaned_ from flea markets and garage sales.
 
+##### Glen (noun)
+*ˈglen*
+- **a secluded narrow valley**
+- **picturesque, secluded river valleys or mountain passes**
+	A quiet stream wound its way through the lush green *glen*, surrounded on both sides by steep, misty hills.
+	During our trip to the Scottish Highlands, we hiked along a scenic trail that led deep into the *glen*.
+
 ##### Glib (adjective)
 *ˈglib*
 - **said or done offhand and especially with inadequate attention or concern: said or done too easily or carelessly**
