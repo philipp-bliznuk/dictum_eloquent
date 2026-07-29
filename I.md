@@ -715,6 +715,13 @@
 	hurled curses and _invective_ at the driver who heedlessly cut them off in traffic
 	an overbearing, bullying boss who is fond of sending _invective_ e-mails to long-suffering assistants
 
+##### Inveigle (verb)
+*in-ˈvā-gəl*
+- **to acquire by ingenuity or flattery: wangle**
+- **implies enticing by cajoling or flattering**
+	She _inveigled_ him to write the letter.
+	We _inveigled_ the information from him.
+
 ##### Inviable (adjective)
 *(ˌ)in-ˈvī-ə-bəl*
 - **incapable of surviving especially because of a deleterious genetic constitution**

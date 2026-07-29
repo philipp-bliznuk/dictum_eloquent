@@ -55,6 +55,13 @@
 	The scandal caused her popularity to _wane_.
 	the _waning_ days of summer
 
+##### Wangle (verb)
+*ˈwaŋ-gəl*
+- **to resort to trickery or devious methods**
+- **to adjust or manipulate for personal or fraudulent ends**
+	He _wangled_ a free ticket to the show.
+	He managed to _wangle_ his way into the party.
+
 ##### Wanting (adjective / preposition)
 *ˈwän-tiŋ*
 - **not being up to standards or expectations**

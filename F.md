@@ -286,6 +286,13 @@
 	a juicy _fillet_ of beef
 	He carefully _filleted_ the fish with a sharp knife.
 
+##### Finagle (verb)
+*fə-ˈnā-gəl*
+- **to obtain (something) by indirect or involved means**
+- **to use devious or dishonest methods to achieve one's ends**
+	A con man _finagled_ my neighbor out of four hundred dollars.
+	let me look at my schedule and see if I can't _finagle_ a visit to the museum
+
 ##### Finery (noun)
 *ˈfī-nə-rē*
 - **ornament, decoration**
