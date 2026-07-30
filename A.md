@@ -336,6 +336,13 @@
 	He placed his full *affiance* in the divine wisdom of the heavens.
 	The young prince was *affianced* to the princess of Spain at a very early age to seal a political alliance.
 
+##### Affidavit (noun)
+*ˌa-fə-ˈdā-vət*
+- **a sworn statement in writing made especially under oath or on affirmation before an authorized magistrate or officer**
+- **written promise or pledge**
+	The witness's *affidavit* was presented to the court as evidence.
+	We have a signed *affidavit* stating that the two men were seen entering the building.
+
 ##### Affinity (noun)
 *ə-ˈfi-nə-tē*
 - **relationship by marriage**

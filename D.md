@@ -620,6 +620,18 @@
 	She did not _dither_ about what to do next.
 	we were all in a _dither_ while we waited for the test results
 
+##### Ditto (noun / verb / adverb / adjective)
+*ˈdi-(ˌ)tō*
+- **a thing mentioned previously or above -> used to avoid repeating a word**
+- **to repeat or imitate (something, such as a statement or an action)**
+- **to copy (something, such as printed matter) on a duplicator**
+- **as before or aforesaid: in the same manner -> used to indicate that a previous statement also applies to something or someone else**
+- **having the same characteristics: similar**
+	Mr. Thomas Potter, then, was a clerk in the city, and Mr. Robert Smithers was a *ditto* in the same neighborhood.
+	It's too early to know whether Southwest's move will be *dittoed* by other airlines.
+	She handed out *dittoed* sheets of arithmetic problems.
+	The skate park was nearly empty; *ditto* the dance club.
+	It's a *ditto* day, with no change.
 ##### Ditty (noun)
 *ˈdi-tē*
 - **an especially simple and unaffected song**
@@ -886,6 +898,13 @@
 - **fraudulent, deceptive**
 	warned her not to trust the _duplicitous_ art dealer
 	he decided to employ *duplicitous* tactics
+
+##### Duplicity (noun)
+*du̇-ˈpli-sə-tē*
+- **contradictory doubleness of thought, speech, or action / the belying of one's true intentions by deceptive words or action**
+- **the quality or state of being double or twofold**
+	He exposed the spy's _duplicity_.
+	we were lucky not to be taken in by his _duplicity_
 
 ##### Duress (noun)
 *du̇-ˈres*

@@ -393,6 +393,13 @@
 	She received yet another lengthy _missive_ from her father.
 	the two old friends like to fire off _missives_ filled with good-natured teasing and mock insults
 
+##### Moat (noun)
+*ˈmōt*
+- **a deep and wide trench around the rampart of a fortified place (such as a castle) that is usually filled with water**
+- **a channel resembling a moat (as about a seamount or for confinement of animals in a zoo)**
+	The *moat* can be crossed by a drawbridge.
+	A Bengal tiger stared at me from across the *moat*.
+
 ##### Modicum (noun)
 *ˈmä-di-kəm*
 - **a small portion: a limited quantity**
