@@ -60,6 +60,13 @@
 	The medieval prayer book turned out to be a *palimpsest*, hiding a much older, lost treatise by Archimedes beneath its Latin hymns.
 	To the historian, the city of Rome is a living *palimpsest*, where modern glass buildings sit directly atop Renaissance plazas and ancient Roman ruins.
 
+##### Palisade (noun / verb)
+*ˌpa-lə-ˈsād*
+- **a fence of stakes especially for defense: escarpment**
+- **a line of bold cliffs**
+	The early settlers built a sturdy wooden *palisade* around their village to protect the community from raids.
+	Archaeologists uncovered the remains of a tall *palisade* that once enclosed the ancient fort.
+
 ##### Pall (verb / noun)
 *ˈpȯl*
 - **to lose strength or effectiveness**
@@ -1074,6 +1081,13 @@ Peruke (noun)
 - **to force into service especially in an army or navy: impress**
 	he pushed his way through the *press* of people outside the courthouse
 	Knowing the army was desperate for recruits, the young blacksmith hid in the cellar to avoid being *pressed* into the king's infantry.
+
+##### Presuppose (verb)
+*ˌprē-sə-ˈpōz*
+- **to suppose beforehand: presume**
+- **to require as an antecedent in logic or fact**
+	The rule _presupposes_ a need to restrict student access to the library.
+	the book _presupposes_ its readers will already know something about the subject
 
 ##### Pretension (noun)
 *pri-ˈten(t)-shən*

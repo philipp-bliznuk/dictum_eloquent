@@ -162,6 +162,13 @@
 	The soccer player suffered a mid-shaft *femur* fracture after a high-speed collision, requiring a titanium rod to be inserted for stability.
 	By measuring the length of the *femur*, the anthropologist was able to estimate the height of the individual with remarkable accuracy.
 
+##### Fenland (noun)
+*ˈfen-ˌland*
+- **an area of low often marshy ground**
+- **a low-lying, flat area of marshy or peaty wetland that is naturally flooded by fresh water or groundwater**
+	Thick fog rolled over the flat *fenland*, concealing the drainage channels and farmhouses until sunrise.
+	Centuries of draining the local *fenlands* turned wet, swampy marsh into some of the most fertile farmland in the country.
+
 ##### Feretory (noun)
 *ˈferəˌtōrē*
 - **an ornate often portable bier for the relics of a saint**

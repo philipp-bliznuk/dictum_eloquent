@@ -446,7 +446,7 @@
 	The dinner was attended by many foreign _dignitaries_.
 	After the war, Julian joined a delegation of American _dignitaries_ on a trip to Europe that included a stop in Berlin.
 
-##### Dike (noun / verb)
+##### Dike / Dyke (noun / verb)
 *ˈdīk*
 - **an artificial watercourse: ditch**
 - **a bank usually of earth constructed to control or confine water: levee**

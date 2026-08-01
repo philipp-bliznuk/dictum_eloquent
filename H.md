@@ -161,6 +161,13 @@
 	squatted down on her _haunches_ to get a better shot of the ducks with her camera
 	The dogs curled up and jammed their snouts into their _haunches_, to defend against the wind.
 
+##### Haunt (noun)
+*ˈhȯnt*
+- **a place habitually frequented**
+- **hangout, resort, refuge**
+	The restaurant became one of her favorite _haunts_.
+	one of their favorite after-school _haunts_ is Joe's Pizza
+
 ##### Hawk (verb)
 *ˈhȯk*
 - **to utter a harsh guttural sound in or as if in trying to clear the throat**
