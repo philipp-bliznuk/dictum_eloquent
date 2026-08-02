@@ -5,6 +5,13 @@
 	The barrister adjusted his lace *jabot* before addressing the court, maintaining the centuries-old tradition of legal dress.
 	For her Victorian-inspired blouse, the designer added a silk *jabot* that cascaded elegantly down the front, fastened with an antique pearl brooch.
 
+##### Jackdaw (noun)
+*ˈjak-ˌdȯ*
+- **any of a genus ("Quiscalus" of the family Icteridae) of large American blackbirds having iridescent black plumage: grackle**
+- **either of two common black and gray birds ("Corvus monedula" or "C. dauuricus") of Eurasia and northern Africa that are related to but smaller than the carrion crow**
+	A flock of *jackdaws* circled the old church tower, calling loudly to one another before roosting for the night.
+	Known for its curiosity and intelligence, the *jackdaw* quickly learned how to solve the puzzle to retrieve the seed.
+
 ##### Jaded (adjective)
 *ˈjā-dəd*
 - **fatigued by overwork: exhausted**

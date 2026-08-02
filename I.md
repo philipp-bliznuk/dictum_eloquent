@@ -100,6 +100,13 @@
 	an *imperforate* hymen
 	an *imperforate* anus
 
+##### Imperil (verb)
+*im-ˈper-əl*
+- **to bring into peril: endanger**
+- **threaten**
+	The toxic fumes _imperiled_ the lives of the trapped miners.
+	The financial health of the company was _imperiled_ by a string of bad investments.
+
 ##### Imperious (adjective)
 *im-ˈpir-ē-əs*
 - **intensely compelling: urgent**

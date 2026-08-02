@@ -272,6 +272,13 @@
 	a _fiend_ in human form
 	He's a real golf _fiend_.
 
+##### Filch (verb)
+*ˈfilch*
+- **to steal secretly or casually**
+- **snatching quickly and surreptitiously**
+	He _filched_ a pack of gum when no one was looking.
+	too hungry to wait until the party had started, he _filched_ a cookie from the buffet table when no one was looking
+
 ##### Filicide (noun)
 *ˈfi-lə-ˌsīd*
 - **the murder or killing of one's own daughter or son**

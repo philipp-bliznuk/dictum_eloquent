@@ -846,6 +846,13 @@ _bi-ˈsä-təd_
 - **an awkward and unsophisticated rustic**
 	the _bumpkin_ was overwhelmed by the city's confusing subway system
 
+##### Bungling (adjective)
+*ˈbəŋ-g(ə-)liŋ*
+- **clumsily awkward or inept**
+- **incompetent, botched**
+	The heist failed completely due to the *bungling* burglars, who accidentally locked themselves inside the vault.
+	After *bungling* the initial interview by arriving late and forgetting his resume, he was surprised to get a second chance.
+
 ##### Bunting (noun)
 *ˈbən-tiŋ*
 - **a lightweight loosely woven fabric used chiefly for flags and festive decorations**
