@@ -93,6 +93,13 @@
 	he plays the role of the duplicitous _knave_ who tries to foil the play's hero
 	How does history distinguish _knaves_ from legendary figures?
 
+##### Knoll (noun)
+*ˈnōl*
+- **a small round hill: mound**
+- **smaller and gentler in slope than a typical mountain or steep hill, often covered in grass or trees in a rural or parkland landscape**
+	They set up a cozy picnic blanket on top of the grassy *knoll* to watch the sunset over the valley.
+	A lonely oak tree stood at the summit of the gentle *knoll*, providing shade for the grazing sheep.
+
 ##### Knowest (verb)
 *know-est*
 - **archaic, second-person singular present-tense form of the verb "know."**

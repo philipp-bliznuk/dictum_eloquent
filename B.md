@@ -385,6 +385,13 @@ _bi-ˈsä-təd_
 	a thoughtful book about the nation's _bifurcation_ into two distinct and antagonistic cultures
 	a divisive issue that caused the _bifurcation_ of the political party
 
+##### Bight (noun)
+*ˈbīt*
+- **a bend in a coast forming an open bay: estuary**
+- **a slack part or loop in a rope**
+	The cargo ship sailed smoothly across the open waters of the *bight* before reaching the sheltered harbor.
+	To tie the knot correctly, take a *bight* of the rope and pass it under the standing line.
+
 ##### Bilious (adjective)
 *ˈbil-yəs*
 - **of or relating to bile**

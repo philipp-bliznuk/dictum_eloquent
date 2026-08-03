@@ -87,6 +87,13 @@
 	The mayor tried to _hamstring_ our efforts by cutting the budget.
 	The company claims it is being _hamstrung_ by government regulations.
 
+##### Hanker (verb)
+*ˈhaŋ-kər*
+- **to have a strong or persistent desire: yearn -> often used with "for" or "after"**
+- **suggests the uneasy promptings of unsatisfied appetite or desire**
+	always _hankering_ for money
+	By the middle of the winter, they were _hankering_ for a warm day.
+
 ##### Hank (noun)
 *ˈhaŋk*
 - **coil, loop**

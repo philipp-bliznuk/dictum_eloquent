@@ -745,6 +745,13 @@
 	The captain ordered 'hard to port,' and the helmsman swung the wheel, causing the massive *rudder* to bite into the current and turn the tanker.
 	Without a clear plan, the committee was like a ship without a *rudder*, drifting aimlessly through hours of circular debate.
 
+##### Rude (adjective)
+*ˈrüd*
+- **being in a rough or unfinished state: crude**
+- **marked by or suggestive of lack of training or skill: inexperienced**
+	peasants use *rude* wooden plows
+	*rude* workmanship
+
 ##### Rue (noun / verb)
 *ˈrü*
 - **regret, sorrow**

@@ -727,6 +727,13 @@
 	Pine trees _exude_ a sticky substance.
 	The flowers _exuded_ a sweet fragrance.
 
+##### Exult (verb)
+*ig-ˈzəlt*
+- **to be extremely joyful: rejoice**
+- **to leap for joy**
+	“That was the best meal I've ever had!” he _exulted_.
+	the winners of the Super Bowl spent the next week _exulting_ in their victory
+
 ##### Eyelet (noun)
 *ˈī-lət*
 - **a small hole designed to receive a cord or used for decoration (as in embroidery)**
