@@ -1277,6 +1277,14 @@ _ˈkau̇n-tᵊn-ən(t)s_
 - **the violent overthrow or alteration of an existing government by a small group**
 	a military _coup d'état_ of the dictator
 
+##### Cove (noun / verb)
+*ˈkōv*
+- **a recessed place: concavity**
+- **a small sheltered inlet or bay: estuary**
+- **a deep recess or small valley in the side of a mountain**
+	The sailors dropped anchor in the secluded *cove* to wait out the passing storm in calm waters.
+	A narrow trail wound down the cliffside, leading directly to a pristine, sandy *cove* hidden from the main beach.
+
 ##### Coverlet (noun)
 *ˈkə-vər-lət*
 - **bedspread**
