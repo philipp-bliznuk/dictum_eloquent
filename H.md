@@ -257,6 +257,13 @@
 	If you are looking for a good place to grab lunch, there is a fantastic little deli somewhere *hereabout*.
 	We don't see a lot of snow *hereabouts*.
 
+##### Hereditary (adjective)
+*hə-ˈre-də-ˌter-ē*
+- **refer to what is acquired before or at birth, to things transmitted from one's ancestors**
+- **of a kind established by tradition**
+	He suffers from a rare _hereditary_ condition.
+	*hereditary* enemies
+
 ##### Herewith (adverb)
 *hir-ˈwit͟h*
 - **with this communication: enclosed in this**

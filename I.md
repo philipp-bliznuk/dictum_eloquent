@@ -179,6 +179,13 @@
 	He muttered _imprecations_ under his breath.
 	the defiant prisoner continued to hurl _imprecations_ and insults at the guards
 
+##### Impregnable (adjective)
+*im-ˈpreg-nə-bəl*
+- **incapable of being taken by assault: unconquerable**
+- **unassailable, impenetrable**
+	an _impregnable_ fortress that had foiled one invader after another over the centuries
+	the castle's supposedly _impregnable_ walls
+
 ##### Impromptu (adjective / noun)
 *im-ˈpräm(p)-(ˌ)tü*
 - **made, done, or formed on or as if on the spur of the moment: improvised**

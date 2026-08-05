@@ -397,6 +397,13 @@
 	Relapses after _cessation of_ treatment are common.
 	the _cessation_ of the snowstorm was a relief
 
+##### Cession (noun)
+*ˈse-shən*
+- **a yielding to another: concession**
+- **surrender, submission**
+	territorial _cessions_ from one state to another
+	The law required _cession_ of the land to the heirs.
+
 ##### Cesspool (noun)
 *ˈses-ˌpül*
 - **an underground reservoir for liquid waste (such as household sewage)**
