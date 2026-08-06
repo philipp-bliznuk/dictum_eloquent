@@ -801,6 +801,13 @@ _ə-ˈper-əl_
 	This gorgeous 55x21x100-inch _arbor_ is a West Elm best-seller thanks to its elegant design and sturdy wrought iron frame.
 	In a video shared by a fan account on X, Keery can be standing under a garden _arbor_ in front of the bride and groom.
 
+##### Arcadia (noun)
+*är-ˈkā-dē-ə*
+- **a region or scene of simple pleasure and quiet**
+- **a place of rustic innocence and simple, quiet pleasure**
+	Seeking an escape from the noisy city, they bought a small cottage in the countryside, hoping to find their own personal *Arcadia*.
+	The poet painted a vivid vision of *Arcadia*, describing rolling green hills, clear streams, and a life free from modern stress.
+
 ##### Archipelago (noun)
 *ˌär-kə-ˈpe-lə-ˌgō*
 - **an expanse of water with many scattered islands**
