@@ -174,6 +174,14 @@
 	the rat _ravened_ the poisoned bait just as we had hoped
 	they *ravened* the earth, destroying its resources
 
+##### Rave (verb / noun)
+*ˈrāv*
+- **to talk irrationally in or as if in delirium**
+- **to move or advance violently: storm**
+- **an extravagantly favorable criticism**
+	The guy on the corner was _raving_ like a madman.
+	the books have received even more _raves_ from parents than from the kids they were written for
+
 ##### Raving (adjective / noun)
 *ˈrā-viŋ*
 - **talking wildly or irrationally**

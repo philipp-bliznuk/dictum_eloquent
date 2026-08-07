@@ -54,6 +54,13 @@
 	he delivered the joke in such a _deadpan_ voice that we thought at first that he was serious
 	“I went back to doing push-ups again, and this time I almost completed one,” he _deadpanned_.
 
+##### Dearth (noun)
+*ˈdərth*
+- **scarcity that makes dear: famine**
+- **an inadequate supply: lack**
+	there was a _dearth_ of usable firewood at the campsite
+	the _dearth_ of salesclerks at the shoe store annoyed us
+
 ##### Debacle (noun)
 *dē-ˈbä-kəl*
 - **a great disaster: catastrophe, fiasco**

@@ -364,6 +364,20 @@
 	There’s something in us as human beings which seeks _fixity_ and definiteness and absoluteness.
 	No crying out, no convulsions - nothing but the _fixity_ of a pensive gaze.
 
+##### Flabbergasted (adjective)
+*ˈfla-bər-ˌga-stəd*
+- **feeling or showing intense shock, surprise, or wonder: utterly astonished**
+- **stunned**
+	was _flabbergasted_ when we heard she was moving out of the state
+	responded to the news of his arrival with a _flabbergasted_ gasp
+
+##### Flabby (adjective)
+*ˈfla-bē*
+- **lacking resilience or firmness: flaccid**
+- **weak and ineffective: feeble**
+	his daughter playfully poked at his *flabby* belly
+	a *flabby* defense
+
 ##### Flagrant (adjective)
 *ˈflā-grənt*
 - **conspicuously offensive**
