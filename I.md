@@ -743,6 +743,13 @@
 	The seeds were stored in a damp environment for too long, rendering them *inviable* for the upcoming planting season.
 	Without a significant increase in funding, the board decided that the proposed expansion was financially *inviable*.
 
+##### Invidious (adjective)
+*in-ˈvi-dē-əs*
+- **of an unpleasant or objectionable nature: obnoxious**
+- **tending to cause discontent, animosity, or envy**
+	The boss made _invidious_ distinctions between employees.
+	inevitably, his remarkable success attracted the _invidious_ attention of the other sales representatives
+
 ##### Inviolate (adjective)
 *(ˌ)in-ˈvī-ə-lət*
 - **not violated or profaned**

@@ -862,6 +862,12 @@
 	This precious stone was doubtless nothing else than a *druse* of this shining but valueless mineral.
 	The walls of the cave were covered with scintillating *druse*.
 
+##### Dryshod / Dry-shod (adjective / adverb)
+*ˈdrī-ˌshäd*
+- **having dry shoes or feet**
+	By carefully stepping from one flat rock to another, they managed to cross the creek **dryshod**.
+	Thanks to her heavy waterproof boots, she walked through the muddy marshlands entirely **dryshod**.
+
 ##### Ductile (adjective)
 *ˈdək-tᵊl*
 - **capable of being fashioned into a new form**

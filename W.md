@@ -495,6 +495,13 @@
 	A tiny *wren* darted out from the dense garden hedge, its short tail pointing straight up into the air.
 	Though the morning was cold and quiet, the brilliant song of a single *wren* filled the entire forest.
 
+##### Wring (verb)
+*ˈriŋ*
+- **to squeeze or twist especially so as to make dry or to extract moisture or liquid**
+- **to affect painfully as if by wringing: torment**
+	I _wrung_ the towel and hung it up to dry.
+	a tragedy that *wrings* the heart
+
 ##### Writhe (verb)
 *ˈrīt͟h*
 - **to twist into coils or folds**
