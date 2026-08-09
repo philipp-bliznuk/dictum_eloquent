@@ -704,6 +704,13 @@ _bi-ˈsä-təd_
 	cedar *brakes*
 	built a small shelter in the _brake_ to watch for deer
 
+##### Bramble (noun)
+*ˈbram-bəl*
+- **any of a genus ("Rubus") of usually prickly shrubs of the rose family including the raspberries and blackberries**
+- **a rough prickly shrub or vine**
+	While searching for the lost ball, he snagged his jacket on a sharp *bramble* by the edge of the woods.
+	Every August, the children would head down the lane to pick sweet blackberries from the wild *brambles*.
+
 ##### Brash (adjective)
 *ˈbrash*
 - **heedless of the consequences: audacious**

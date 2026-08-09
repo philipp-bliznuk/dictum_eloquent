@@ -1431,6 +1431,14 @@ Peruke (noun)
 	Uber was breached to its core, *purportedly* by an 18-year-old.
 	The video then *purportedly* shows Anthony letting go of Brown, who picks up the bag and heads for the exit.
 
+##### Purport (verb / noun)
+*(ˌ)pər-ˈpȯrt*
+- **to have the often specious appearance of being, intending, or claiming (something implied or inferred): claim**
+- **intend, purpose**
+- **substance, gist**
+	he _purports_ to be an expert in criminalistics
+	The letter was not read aloud, but all present were informed of its _purport_.
+
 ##### Purview (noun)
 *ˈpər-ˌvyü*
 - **the body or enacting part of a statute**

@@ -236,6 +236,13 @@
 - **a detached living portion of a plant (such as a bud or shoot) joined to a stock in grafting and usually supplying solely aerial parts to a graft**
 	He's a _scion_ of a powerful family.
 
+##### Scoff (noun / verb)
+*ˈskäf*
+- **an expression of scorn, derision, or contempt: gibe**
+- **to eat greedily**
+	_scoffed_ at their concerns
+	_scoffed_ dinner before running off to the basketball game
+
 ##### Sconce (noun)
 *ˈskän(t)s*
 - **a bracket candlestick or group of candlesticks**
@@ -1204,6 +1211,14 @@
 	beams being used to _stay_ the bridge while it is undergoing repairs
 	a free press is one of the principal _stays_ of a democratic society
 	_stay_ the trial until this new evidence has been processed
+
+##### Steal (verb / noun)
+*ˈstēl*
+- **to come or go secretly, unobtrusively, gradually, or unexpectedly**
+- **to move, convey, or introduce secretly: smuggle**
+- **a fraudulent or questionable political deal**
+	They *stole* out of the room.
+	*stole* a nap this afternoon
 
 ##### Steeple (noun)
 *ˈstē-pəl*
