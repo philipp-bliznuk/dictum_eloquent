@@ -480,6 +480,13 @@
 	photographs that capture the _ingenuous_ smiles of young children at play
 	the story of an _ingenuous_ newcomer to the big city who outwits the slickers at their own game
 
+##### Inglorious (adjective)
+*(ˌ)in-ˈglȯr-ē-əs*
+- **shameful, ignominious**
+- **not glorious: lacking fame or honor**
+	an *inglorious* defeat
+	made an *inglorious* comeback
+
 ##### Ingratiate (verb)
 *in-ˈgrā-shē-ˌāt*
 - **to gain favor or favorable acceptance for by deliberate effort -> usually used with _with_**

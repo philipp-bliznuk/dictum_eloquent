@@ -720,6 +720,13 @@
 	The _extremity_ of her grief is impossible to imagine.
 	made offers of aid to the refugees, and of asylum in _extremity_
 
+##### Extricate (verb)
+*ˈek-strə-ˌkāt*
+- **implies the use of care or ingenuity in freeing from a difficult position or situation**
+- **to distinguish from a related thing**
+	Several survivors were _extricated from_ the wreckage.
+	She hasn't been able to _extricate_ herself _from_ her legal problems.
+
 ##### Exude (verb)
 *ig-ˈzüd*
 - **to ooze out**
@@ -740,6 +747,13 @@
 - **peephole, loophole**
 	The sailor struggled to thread the heavy canvas line through the rusted brass *eyelet* as the storm began to pick up.
 	For her summer dress, she chose a delicate *eyelet* fabric, characterized by hundreds of tiny embroidered cutouts that allowed the breeze to pass through.
+
+##### Eyot / Ait (noun)
+*ˈā(-ə)t* / *ˈāt*
+- **a little island in a river or lake**
+- **ilet**
+	Swans and wild ducks nested along the grassy banks of the small *eyot* in the middle of the river.
+	During our boat trip down the Thames, we passed a peaceful *eyot* dotted with willow trees and a small boathouse.
 
 ##### Eyrie / Aerie (noun)
 *ˈir-ē*
