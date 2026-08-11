@@ -291,6 +291,13 @@
 	an *incisive* unsentimental writer
 	She's known for her _incisive_ mind and quick wit.
 
+##### Incite (verb)
+*in-ˈsīt*
+- **to move (someone) to action: urge on**
+- **to cause (a usually violent action or feeling) to occur: provoke**
+	The news _incited_ widespread fear and paranoia.
+	the rock band's failure to show up _incited_ a riot, as the crowd had waited for hours
+
 ##### Inclement (adjective)
 *(ˌ)in-ˈkle-mənt*
 - **lacking mildness: turbulent**

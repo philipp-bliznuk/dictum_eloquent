@@ -291,6 +291,13 @@
 	"Cats *depredate* and scavenge a large fraction of the species present across the range available in the landscapes they forage in," the authors write.
 	Fortunately, research shows that reduced from 12 members to four, their propensity to *depredate* on cattle is lower.
 
+##### Depute (verb)
+*di-ˈpyüt*
+- **delegate**
+- **appoint**
+	Several officers were _deputed_ to guard the building.
+	I've been _deputed_ to meet them at the airport.
+
 ##### Derelict (adjective / noun)
 *ˈder-ə-ˌlikt*
 - **abandoned especially by the owner or occupant**

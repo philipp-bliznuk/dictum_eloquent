@@ -462,6 +462,14 @@
 	enjoyed the _repose_ of a serene summer evening	
 	the Constitution _reposes_ the power to declare war to Congress, and to that body alone
 
+##### Reprisal (noun)
+*ri-ˈprī-zəl*
+- **a retaliatory act**
+- **the regaining of something (as by recapture)**
+- **something (such as a sum of money) given or paid in restitution -> usually used in plural**
+	Enemy officers suffered harsh _reprisals_.
+	The hostages were taken _in reprisal_ for the bombing.
+
 ##### Reprobate (noun / adjective / verb)
 *ˈre-prə-ˌbāt*
 - **an unprincipled or depraved person: scoundrel, rogue**
