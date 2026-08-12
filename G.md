@@ -238,6 +238,13 @@
 	a *glug* of olive oil
 	*glugging* beer/wine/champagne
 
+##### Gnomic (adjective)
+*ˈnō-mik*
+- **characterized by aphorism**
+- **a style of writing, or sometimes speech, characterized by pithy phrases, which are often terse to the point of mysteriousness**
+	When asked about his future plans, the CEO offered only a *gnomic* remark: 'The river flows where the banks allow.'
+	Ancient philosophical texts are often filled with *gnomic* sayings that require careful study and interpretation.
+
 ##### Goad (noun / verb)
 *ˈgōd*
 - **suggests a motive that keeps one going against one's will or desire**

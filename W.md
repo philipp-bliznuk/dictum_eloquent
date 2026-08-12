@@ -114,6 +114,13 @@
 	Signs of disease include _warts_ on legs, crusty or swollen eyes, feebleness, a ruffled appearance, difficulty breathing, nasal discharge, and diarrhea.
 	The general store transitions to massive profit margins via every _wart_ of United States history, no significant devastation is spared, no milestone overlooked.
 
+##### Wastage (noun)
+*ˈwā-stij*
+- **loss, decrease, or destruction of something (as by use, decay, erosion, or leakage)**
+- **wasteful or avoidable loss of something valuable**
+	The restaurant upgraded its kitchen inventory system to reduce unnecessary food *wastage* at the end of every week.
+	Rather than laying off employees, the company reduced its workforce through natural *wastage* as older staff members retired.
+
 ##### Wastrel (noun)
 *ˈwā-strəl*
 - **vagabond, waif**
