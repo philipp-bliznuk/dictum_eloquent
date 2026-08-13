@@ -936,6 +936,14 @@ _bi-ˈsä-təd_
 	Ask the college _bursar_ about tuition installment plans.
 	He was owned by William O. Young, who oversaw the university's business affairs as secretary and _bursar_ from 1917 to 1941.
 
+##### Buskin (noun)
+*ˈbə-skən*
+- **a laced boot reaching halfway or more to the knee**
+- **a high thick-soled laced boot worn by actors in Greek and Roman tragic drama: cothurnus**
+- **tragedy resembling that of ancient Greek drama**
+	The actor strapped on his laced leather *buskins* before stepping onto the stage to play the fallen king.
+	The playwright was equally skilled in both comedy and tragedy, moving effortlessly from the sock to the *buskin*.
+
 ##### Butte (noun)
 *ˈbyüt*
 - **an isolated hill or mountain with steep or precipitous sides usually having a smaller summit area than a mesa**

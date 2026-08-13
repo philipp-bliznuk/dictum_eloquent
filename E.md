@@ -235,6 +235,13 @@
 	the first printout quickly revealed that our computer program needed to be _emended_
 	*emended* the manuscript
 
+##### Emigrate (verb)
+*ˈe-mə-ˌgrāt*
+- **to leave one's place of residence or country to live elsewhere**
+- **stresses the country someone is coming from while immigrate tresses the country someone is going to**
+	After securing a research position in Berlin, she decided to *emigrate* from Canada to Germany.
+	In the late 19th century, millions of people *emigrated* from Europe to the United States in search of economic opportunity.
+
 ##### Eminence (noun)
 *ˈe-mə-nən(t)s*
 - **a position of prominence or superiority**

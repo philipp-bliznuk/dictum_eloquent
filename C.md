@@ -1249,6 +1249,13 @@ _ˈküt_
 	a classic car from the 1950s, replete with yards of _coruscating_ chrome
 	With his new book, Pan, Clune has turned his cockeyed sensibility and _coruscating_ intellect to fiction.
 
+##### Cothurnus (noun)
+*kō-ˈthər-nəs*
+- **a high thick-soled laced boot worn by actors in Greek and Roman tragic drama: buskin**
+- **the dignified somewhat stilted style of ancient tragedy**
+	The tragic actor stepped onto the stage wearing a elevated *cothurnus* on each foot to give his portrayal of King Oedipus a commanding height.
+	His grand, solemn writing style was often described as wearing the *cothurnus*, suited far more for lofty tragedy than lighthearted comedy.
+
 ##### Couldst (verb)
 *ˈku̇dst*
 - **archaic past tense second-person singular of can**
