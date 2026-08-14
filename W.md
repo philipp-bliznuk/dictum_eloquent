@@ -62,6 +62,13 @@
 	He _wangled_ a free ticket to the show.
 	He managed to _wangle_ his way into the party.
 
+##### Wanhope (noun / adjective)
+*ˈwɒnhəʊp*
+- **lack of hope, hopelessness, despair**
+- **vain hope, delusion**
+	Trapped inside the dark, crumbling fortress with no chance of rescue, the soldiers slowly surrendered to *wanhope*.
+	He stared out across the barren wasteland, his heart filled with a profound *wanhope* that spring would ever return.
+
 ##### Wanting (adjective / preposition)
 *ˈwän-tiŋ*
 - **not being up to standards or expectations**

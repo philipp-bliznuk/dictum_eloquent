@@ -1400,6 +1400,13 @@ Peruke (noun)
 	She's very _punctilious_ about grammar.
 	old-money aristocrats with a _punctilious_ sense of propriety
 
+##### Punitive (adjective)
+*ˈpyü-nə-tiv*
+- **inflicting, involving, or aiming at punishment**
+- **penal**
+	The federal government will take _punitive_ action against the company that polluted the river.
+	Lobbyists complain that the bill would impose _punitive taxes_ on the industry.
+
 ##### Puny (adjective)
 *ˈpyü-nē*
 - **slight or inferior in power, size, or importance: weak**
