@@ -1681,6 +1681,13 @@
 	The surgeon _sutured_ the incision.
 	the doctor cleaned, _sutured_, and bandaged the wound
 
+##### Suzerain (noun)
+*ˈsü-zə-rən*
+- **a superior feudal lord to whom fealty is due: overlord**
+- **a dominant state controlling the foreign relations of a vassal state but allowing it sovereign authority in its internal affairs**
+	Although the small principality managed its own local laws and taxes, the empire acted as its *suzerain*, controlling all foreign diplomacy and military strategy.
+	The local lords owed allegiance and tribute to the king, who served as their *suzerain* in exchange for military protection.
+
 ##### Svelte (adjective)
 *ˈsvelt*
 - **slender, lithe**

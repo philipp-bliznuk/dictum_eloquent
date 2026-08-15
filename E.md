@@ -354,6 +354,13 @@
 	There's a long history of _enmity_ between them.
 	His comments earned him the _enmity_ of his coworkers.
 
+##### Ennoble (verb)
+*i-ˈnō-bəl*
+- **to make noble: elevate**
+- **to raise to the rank of nobility**
+	a life _ennobled_ by suffering
+	Her skill and talent _ennoble_ her profession.
+
 ##### Ensconce (verb)
 *in-ˈskän(t)s*
 - **shelter, conceal**

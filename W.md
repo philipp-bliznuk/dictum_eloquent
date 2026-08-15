@@ -375,6 +375,13 @@
 	He is incredibly brilliant when it comes to math, but so *wifty* in everyday life that he regularly forgets his own phone number.
 	I had a hard time following the plot of the movie because of its *wifty*, dream-like logic.
 
+##### Wight (noun)
+*ˈwīt*
+- **a malevolent ghost, corpse-like monster, or reanimated spirit guarding ancient graves or ruins**
+- **a person or living creature, often used with an adjective to describe someone unfortunate or brave**
+	The adventurer drew his glowing sword as a skeletal *wight* rose from the ancient stone tomb.
+	The weary *wight* trudged through the rainstorm, searching desperately for an inn to spend the night.
+
 ##### Wile (verb / noun)
 *ˈwī(-ə)l*
 - **suggests an attempt to entrap or deceive with false allurements**
