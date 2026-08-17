@@ -231,6 +231,13 @@
 	The king appointed his most trusted duke as *vicegerent* to govern the distant province while he was away at war.
 	In some ancient empires, the emperor was revered not just as a political leader, but as a divine *vicegerent* tasked with maintaining cosmic order.
 
+##### Viceroy (noun)
+*ˈvīs-ˌrȯi*
+- **the governor of a country or province who rules as the representative of a king or sovereign**
+- **a North American butterfly ("Limenitis archippus") famous for closely mimicking the orange-and-black pattern of the Monarch butterfly**
+	The king appointed a *viceroy* to govern the overseas territory and enforce imperial laws on his behalf.
+	You can distinguish a *viceroy* butterfly from a monarch by the thin black line crossing its lower wings.
+
 ##### Vicissitude (noun)
 *və-ˈsi-sə-ˌtüd*
 - **the quality or state of being changeable: mutability**

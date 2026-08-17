@@ -108,6 +108,13 @@
 	The merger was finalized after a *quid pro quo* arrangement where the startup gave up partial control in exchange for immediate global distribution.
 	I'll help you move your heavy couch this afternoon, but as a *quid pro quo*, you have to buy me dinner tonight.
 
+##### Quiescent (adjective)
+*kwī-ˈe-sᵊnt*
+- **marked by inactivity or repose: tranquilly at rest**
+- **suggests a usually temporary cessation of activity**
+	a group of _quiescent_ loungers recovering from the Thanksgiving feast
+	the disease was _quiescent_
+
 ##### Quilt (noun / verb)
 *ˈkwilt*
 - **a bed coverlet of two layers of cloth filled with padding (such as down or batting) held in place by ties or stitched designs: blanket**

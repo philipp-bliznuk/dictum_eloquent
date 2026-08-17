@@ -5,6 +5,13 @@
 	The broken glass _lacerated_ his feet.
 	The patient's hand was severely _lacerated_.
 
+##### Lackadaisical (adjective)
+*ˌla-kə-ˈdā-zi-kəl*
+- **lacking life, spirit, or zest: languid**
+- **implies a carefree indifference marked by half-hearted efforts**
+	His teachers did not approve of his _lackadaisical_ approach to homework.
+	feeling particularly _lackadaisical_ in the summer heat, they lazily tossed a ball back and forth
+
 ##### Lacquer (noun / verb)
 *ˈla-kər*
 - **a spirit varnish (such as shellac)**
@@ -156,6 +163,13 @@
 - **a fixture that consists usually of a water-flushed bowl and seat and is used for defecation and urination: toilet**
 	where's the nearest _latrine_, soldier?
 	Someone had flushed a bird along the trail to the *latrine*.
+
+##### Latterly (adverb)
+*ˈla-tər-lē*
+- **later**
+- **of late: recently**
+	He devoted his time to painting, sculpture, and, _latterly_, to gardening.
+	he had been a teacher, a librarian, and some years _latterly_, a novelist
 
 ##### Lattice (noun)
 *ˈla-təs*

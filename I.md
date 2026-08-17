@@ -221,6 +221,13 @@
 	an _inadvertent_ encounter with a rattlesnake in the brush
 	So if those *inadvertent* dents and dings add up, it could be subtracted from your wallet at the end of the lease.
 
+##### Inalienable / Unalienable (adjective)
+*(ˌ)i-ˈnāl-yə-nə-bəl*
+- **incapable of being alienated, surrendered, or transferred**
+- **quality that cannot be taken away, given up, or transferred to another person**
+	Freedom of speech is considered an *inalienable* right that no government should be allowed to revoke.
+	Every child is born with the *inalienable* human dignity that deserves respect and protection.
+
 ##### Inamorata (noun)
 *i-ˌna-mə-ˈrä-tə*
 - **a woman with whom one is in love or has intimate relations**
