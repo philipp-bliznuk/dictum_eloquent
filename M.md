@@ -379,6 +379,14 @@
 	Steidle-Land recommends adding classic _mirepoix_, garlic, thyme, and very small amounts of star anise and clove.
 	All great soups start with a good _mirepoix_, and this soup is no different.
 
+##### Mise-en-scene (noun)
+*ˌmē-ˌzäⁿ-ˈsen*
+- **the arrangement of actors and scenery on a stage for a theatrical production: stage setting**
+- **the physical setting of an action (as of a narrative or a movie): context**
+- **strongly suggests the use of properties to achieve a particular atmosphere or theatrical effect**
+	an era in which the *mise-en-scène* of Broadway musicals became ever more spectacular
+	the movie captures the *mise-en-scène* of strife and desperation in a country torn apart by civil war
+
 ##### Miser (noun)
 *ˈmī-zər*
 - **a mean grasping person**

@@ -627,6 +627,13 @@
 	the house was once again _tranquil_ after the kids moved outside to play
 	though she should have been upset, she felt oddly _tranquil_ upon learning that she would not be receiving the scholarship
 
+##### Transverse (adjective / noun)
+*tran(t)s-ˈvərs*
+- **acting, lying, or being across: set crosswise**
+- **made at right angles to the long axis of the body: perpendicular**
+	Light is a **transverse** wave because its electromagnetic field oscillates at right angles to the direction the light travels.
+	A CT scan takes horizontal cross-section images along the **transverse** plane of the body.
+
 ##### Trapezius (noun)
 *trə-ˈpē-zē-əs*
 - **a large flat triangular superficial muscle of each side of the upper back**

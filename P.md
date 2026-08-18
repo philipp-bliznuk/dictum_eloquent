@@ -161,6 +161,13 @@ _parā bellum_
 	apple *parings*
 	This 13-piece knife set has six handy blades, including a large chef’s knife for chopping and a _paring_ blade for smaller slices.
 
+##### Pari Passu (adjective / adverb)
+*ˈper-i-ˈpa-(ˌ)sü*
+- **at an equal rate or pace**
+- **something treated equally**
+	During the company's liquidation, the court ensured that all unsecured creditors were paid out *pari passu*, giving each the same percentage recovery.
+	The newly issued Class B shares will rank *pari passu* with the existing Class A shares regarding dividend payments.
+
 ##### Parish (noun)
 *ˈper-ish*
 - **the ecclesiastical unit of area committed to one pastor**
@@ -1304,6 +1311,13 @@ Peruke (noun)
 - **to reduce to submission, helplessness, or exhaustion**
 	The police found the body in a _prostrate_ position.
 	the huge increase in gas prices really _prostrated_ the nation's economic engine
+
+##### Protean (adjective)
+*ˈprō-tē-ən*
+- **displaying great diversity or variety: versatile**
+- **of or resembling Proteus in having a varied nature or ability to assume different forms**
+	The actor was praised for his *protean* talent, seamlessly shifting from slapstick comedy to intense classical drama.
+	It is difficult to predict the market's trajectory in such a *protean* economic landscape.
 
 ##### Prothyron (noun)
 *ˈproʊ.θɪ.rɒn*

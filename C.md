@@ -619,6 +619,14 @@
 	What is the _circumference_ of the Earth at the equator?
 	The fence marks the _circumference_ of the field.
 
+##### Circumflex (noun / adjective)
+*ˈsər-kəm-ˌfleks*
+- **a mark ˆ, ⌢, or ˜ originally used in Greek over long vowels to indicate a rising-falling tone and in other languages to mark length, contraction, or a particular vowel quality**
+- **characterized by the pitch, quantity, or quality indicated by a circumflex**
+- **structures that bend, loop, or wind around another body part**
+	When writing the French word "château", be sure to place the *circumflex* accent over the letter 'a'.
+	The doctor noted that the *circumflex* artery wraps around the side of the heart to deliver blood.
+
 ##### Circumscribe (verb)
 *ˈsər-kəm-ˌskrīb*
 - **to draw a line around / to surround by or as if by a boundary**
@@ -1340,6 +1348,13 @@ _ˈkau̇n-tᵊn-ən(t)s_
 - **implies artful persuading or flattering to attain a thing or a purpose**
 	_cozened_ several elderly ladies into believing that he was intending marriage
 	_cozened_ scores of people by persuading them to hand over funds that he would “invest”
+
+##### Crabbed (adjective)
+*ˈkra-bəd*
+- **applies to a forbidding morose harshness of manner**
+- **difficult to read or understand**
+	Years of living alone in the mountains had made him bitter and *crabbed*, rarely greeting visitors with anything more than a scowl.
+	The old scholar spent hours squinting at the yellowed parchment, trying to decipher the author's *crabbed* script.
 
 ##### Craggy (adjective)
 *ˈkra-gē*

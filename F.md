@@ -760,6 +760,13 @@
 	A _fusillade_ of bullets filled the courtyard.
 	responded calmly to the _fusillade_ of criticism levelled at his design for the memorial
 
+##### Fustian (noun)
+*ˈfəs-chən*
+- **a strong cotton and linen fabric**
+- **high-flown or affected writing or speech / anything high-flown or affected in style**
+	The laborer wore a sturdy jacket made of dark *fustian* to protect against the cold and rough work.
+	Behind all his loud speeches and rhetorical *fustian*, the candidate offered very few practical solutions.
+
 ##### Fusty (adjective)
 *ˈfə-stē*
 - **suggest lack of fresh air and sunlight also implying prolonged uncleanliness**

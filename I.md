@@ -571,6 +571,13 @@
 	the army is finally making _inroads_ into enemy territory
 	There are several other companies looking to make _inroads_ in the space.
 
+##### Inset (noun / verb)
+*ˈin-ˌset*
+- **a place where something flows in: channel**
+- **to insert within something else in such a way as to be visible: to set in**
+	The floor is decorated with an _inset_ of marble tiles.
+	_inset_ a map in a larger map
+
 ##### Insidious (adjective)
 *in-ˈsi-dē-əs*
 - **causing harm in a way that is gradual or not easily noticed**
@@ -735,6 +742,13 @@
 - **courageous, fearless**
 	an _intrepid_ explorer who probed parts of the rain forest never previously attempted
 	was one of the most *intrepid* adventurers of all time
+
+##### Intrinsic (adjective)
+*in-ˈtrin-zik*
+- **belonging to the essential nature or constitution of a thing: occurring as a natural part of something**
+- **originating or due to causes within a body, organ, or part**
+	the _intrinsic_ value of a gem
+	the _intrinsic_ brightness of a star
 
 ##### Inure (verb)
 *i-ˈnu̇r*
