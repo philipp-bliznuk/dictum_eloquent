@@ -681,6 +681,13 @@
 	The village church is famous for its remarkably preserved 15th-century *rood* screen, featuring intricate carvings of the apostles beneath the central cross.
 	The old deed described the property boundary as extending three *roods* past the stone wall and toward the creek.
 
+##### Rook (noun / verb)
+*ˈru̇k*
+- **a common Old World gregarious crow ("Corvus frugilegus") that nests and roosts in usually treetop colonies**
+- **to defraud by cheating or swindling**
+	A noisy colony of *rooks* built their messy twig nests high in the tall elm trees at the edge of the farm.
+	The dishonest street vendor tried to *rook* tourists by charging double the regular price for souvenir trinkets.
+
 ##### Rosary (noun)
 *ˈrō-zə-rē*
 - **a traditional Catholic devotion involving the recitation of a series of prayers while meditating on key events in the lives of Jesus Christ and his mother, Mary**

@@ -379,6 +379,13 @@
 	Steidle-Land recommends adding classic _mirepoix_, garlic, thyme, and very small amounts of star anise and clove.
 	All great soups start with a good _mirepoix_, and this soup is no different.
 
+##### Mirth (noun)
+*ˈmərth*
+- **gladness or gaiety as shown by or accompanied with laughter**
+- **glee, cheerfulness**
+	Her clumsy attempt to cut the cake was the cause of much _mirth_.
+	as charming as your mutual _mirth_ is, could you refrain from nudging each other and giggling during class?
+
 ##### Mise-en-scene (noun)
 *ˌmē-ˌzäⁿ-ˈsen*
 - **the arrangement of actors and scenery on a stage for a theatrical production: stage setting**
