@@ -879,6 +879,13 @@ _ə-ˈper-əl_
 	The suspect was taken to the courthouse to be *arraigned* on three counts of grand larceny, where he calmly entered a plea of not guilty.
 	Legal analysts spent the morning debating how the high-profile CEO would be *arraigned*, given the complexity of the white-collar charges brought by the grand jury.
 
+##### Arras (noun)
+*ˈa-rəs*
+- **a wall hanging or screen of tapestry**
+- **a tapestry of Flemish origin used especially for wall hangings and curtains**
+	In Shakespeare’s Hamlet, Polonius hides behind the *arras* in the queen's bedchamber to eavesdrop on their conversation.
+	The grand hall of the medieval castle was insulated with a massive, handwoven *arras* depicting a royal hunting scene.
+
 ##### Array (noun / verb)
 *ə-ˈrā*
 - **rich or beautiful apparel: finery**

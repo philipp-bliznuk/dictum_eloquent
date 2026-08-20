@@ -274,9 +274,17 @@
 - **any of the solid intervals between crenellations of a battlement**
 	Conversely, an arresting-looking romaine salad, dressed with za'atar yogurt and served in a bowl with Parmesan crisps lining the edge like _merlons_ atop a castle wall, is oddly underseasoned.
 
+##### Meseems (impersonal verb)
+*mi-ˈsēmz*
+- **it seems to me**
+- **it appears to me**
+	*Meseems* the dark storm clouds are gathering quickly over the northern ridge.
+	*Meseems* you have forgotten the solemn promise you made before the king.
+
 ##### Methinks (impersonal verb)
 *mi-ˈthiŋ(k)s*
 - **it seems to me**
+- **I think**
 	"The lady doth protest too much, *methinks*," is one of the most famous lines from Shakespeare's Hamlet.
 	Looking at the dark clouds gathering on the horizon, he remarked, "*Methinks* a storm is brewing, and we should probably head inside."
 

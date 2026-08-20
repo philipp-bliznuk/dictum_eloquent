@@ -267,6 +267,13 @@
 	The day itself was one of those prize-winningly crappy days when everything went *pear-shaped*.
 	Next we travelled to Bournemouth and it was there that things began to turn rather *pear-shaped*.
 
+##### Goodly (adjective)
+*ˈgu̇d-lē*
+- **pleasantly attractive**
+- **significantly large: considerable**
+	$10,000 is a _goodly_ reward to offer for a missing wedding ring
+	a _goodly_ number of people gathered to watch the spectacle
+
 ##### Gopher (noun)
 *ˈgō-fər*
 - **a burrowing land tortoise (Gopherus polyphemus) of the southern U.S**

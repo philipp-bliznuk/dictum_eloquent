@@ -267,6 +267,13 @@
 	books *whereof* the best are lost
 	knows *whereof* she speaks
 
+##### Whereon (adverb / conjunction)
+*(h)wer-ˈȯn*
+- **on what / which**
+- **immediately after which: consequently**
+	They climbed to the summit of the hill *whereon* the ancient fortress once stood.
+	The judge demanded quiet, *whereon* the courtroom fell completely silent.
+
 ##### Wherewithal (noun)
 *ˈ(h)wer-wi-ˌt͟hȯl*
 - **money, finances, resources**
