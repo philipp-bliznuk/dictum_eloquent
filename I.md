@@ -172,6 +172,13 @@
 	the demands of the chairmanship were becoming too _importunate_ for me to continue without an assistant
 	*importunate* creditors
 
+##### Impoverished (adjective)
+*im-ˈpä-v(ə-)risht*
+- **reduced to poverty: poor**
+- **exhausted of richness or fertility**
+	the widespread hope that the lottery's record-setting jackpot is won by an _impoverished_ family
+	an _impoverished_ field that over the years had been overgrazed
+
 ##### Imprecation (noun)
 *ˌim-pri-ˈkā-shən*
 - **curse**

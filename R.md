@@ -611,6 +611,13 @@
 	Speculation about who would be fired _ran rife_ for weeks.
 	a city government that is _rife_ with malfeasance and corruption
 
+##### Rigamarole (noun)
+*ˈri-gə-mə-ˌrōl*
+- **something (such as a procedure or an explanation) that is long, complicated, and tedious**
+- **confused or meaningless talk: gobbledygook**
+	We had to go through the _rigmarole_ of installing, registering, and activating the software before we found out it wouldn't work.
+	He just told us what to do without all the usual _rigamarole_.
+
 ##### Rill / Rille (noun / verb)
 *ˈril*
 - **a very small brook**

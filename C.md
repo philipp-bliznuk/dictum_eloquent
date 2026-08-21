@@ -803,6 +803,13 @@
 	I was _cogitating_ about my chances of failing.
 	by the time he finishes _cogitating_ what to do with his life, it'll be almost over
 
+##### Cognate (adjective / noun)
+*ˈkäg-ˌnāt*
+- **of the same or similar nature: generically alike**
+- **related by blood/descent**
+	English "eat" and German "essen" are _cognate_.
+	Spanish and French are _cognate_ languages.
+
 ##### Cognizant (adjective)
 *ˈkäg-nə-zənt*
 - **knowledgeable of something especially through personal experience: mindful**
