@@ -611,6 +611,13 @@ Peruke (noun)
 	a strangely _phlegmatic_ response to what should have been happy news
 	a _phlegmatic_ man unmoved by tears
 
+##### Phlox (noun)
+*ˈfläks*
+- **a genus of North American flowering plants in the polemonium family ("Polemoniaceae"), widely cultivated in gardens for their dense clusters of small, fragrant, five-petaled blossoms**
+- **name comes from the Greek word "phlox", meaning "flame," referring to the intense, vivid colors of many wild species**
+	In late spring, the stone wall was completely blanketed in a cascade of vibrant pink creeping *phlox*.
+	The sweet, clove-like scent of blooming *phlox* drifted across the garden in the warm evening air.
+
 ##### Physiognomy (noun)
 *ˌfi-zē-ˈä(g)-nə-mē*
 - **the facial features held to show qualities of mind or character by their configuration or expression**

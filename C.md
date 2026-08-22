@@ -1467,6 +1467,13 @@ _ˈkau̇n-tᵊn-ən(t)s_
 	People living with sickle cell disease have red blood cells that are _crescent_ shaped due to a gene mutation.
 	Off in the southwest, the last colors of sunset lit up the rim of the sky, as a _crescent_ Moon and two planets lined up above.
 
+##### Cress (noun)
+*ˈkres*
+- **any of various crucifers with moderately pungent leaves used especially in salads**
+- **a group of fast-growing, edible leafy plants in the mustard family ("Brassicaceae"), known for their crisp texture and sharp, peppery, or tangy flavor**
+	The chef topped the cold cucumber soup with a handful of fresh *cress* to add a bright, peppery kick.
+	Because *cress* seeds germinate rapidly, they are often used in elementary school science experiments to demonstrate plant growth.
+
 ##### Crestfallen (adjective)
 *ˈkrest-ˌfȯ-lən*
 - **having a drooping crest or hanging head**

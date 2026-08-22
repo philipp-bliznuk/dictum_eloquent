@@ -127,6 +127,13 @@
 	The ground was covered with a *mantle* of leaves.
 	a past shrouded in a *mantle* of secrecy
 
+##### Marigold (noun)
+*ˈmer-ə-ˌgōld*
+- **any of a genus ("Tagetes") of composite herbs with showy usually yellow, orange, or maroon flower heads**
+- **a calendula ("Calendula officinalis") grown especially for ornament: pot marigold**
+	The gardener planted rows of *marigolds* alongside the tomato plants to deter harmful garden pests with their strong aroma.
+	Intricate garlands of golden-orange *marigolds* were woven to adorn the altars and archways during the holiday celebration.
+
 ##### Maritime (adjective)
 *ˈmer-ə-ˌtīm*
 - **of, relating to, or bordering on the sea**

@@ -222,6 +222,13 @@
 	Politicians need to do more than provide _glib_ answers to difficult questions.
 	the actor's _glib_ portrayal of a drug addict
 
+##### Gloam (noun)
+*ˈglōm*
+- **twilight, dusk**
+- **soft dim light of evening**
+	The bats began to emerge from the barn rafter by rafter, gliding through the gathering *gloam*.
+	We sat silently on the porch, watching the purple hues of the *gloaming* settle over the distant hills.
+
 ##### Glop (noun)
 *ˈgläp*
 - **a thick semiliquid substance (such as food) that is usually unattractive in appearance**

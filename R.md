@@ -674,6 +674,13 @@
 	Financial markets have been _roiled_ by the banking crisis.
 	the waters of the gulf tossed and _roiled_ as the hurricane surged toward the shore
 
+##### Rollick (verb)
+*ˈrä-lik*
+- **to move or behave in a carefree joyous manner: frolic**
+- **play**
+	The young puppies began to *rollick* across the grassy meadow, tumbling over one another in pure delight.
+	Festivalgoers continued to *rollick* in the town square late into the night, dancing to the booming brass band.
+
 ##### Rondure (noun)
 *ˈrän-jər*
 - **something (such as a circle, globe, or ring) that is round**
