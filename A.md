@@ -989,6 +989,13 @@ _ə-ˈskan(t)s_
 	He asked with some *asperity* just what they were implying.
 	whether hearing herself described as a 'lovely woman' softened the *asperity* of her grief
 
+##### Asphodel (noun)
+*ˈas-fə-ˌdel*
+- **any of various Old World herbs (especially genera "Asphodelus" and "Asphodeline") of the lily family with flowers in usually long erect racemes**
+- **famously associated with the "Asphodel Meadows" - a section of the Greek Underworld where ordinary, neutral souls wandered after death. Because of this connection, the flower frequently symbolizes mourning, death, memory, and the afterlife in European poetry and literature**
+	Poets often depicted the souls of the deceased wandering endlessly among fields of pale *asphodel* in the quiet shadows of the Underworld.
+	The rocky Mediterranean hillside was blanketed with tall stalks of wild *asphodel*, their pale blossoms swaying in the sea breeze.
+
 ##### Asphyxiation (noun)
 *as-ˌfik-sē-ˈā-shən*
 - **deprivation of oxygen that can result in unconsciousness and often death: an act of asphyxiating a person or animal or a state of asphyxia: suffocation**

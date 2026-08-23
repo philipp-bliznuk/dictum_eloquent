@@ -956,6 +956,13 @@
 	In some versions of the tragic myth, the protagonist is driven to *sororicide* after a bitter dispute over the family's ancient inheritance.
 	The detective noted that while cases of fratricide are more common in historical records, *sororicide* remains an equally devastating and rare category of familial homicide.
 
+##### Sorrel (noun)
+*ˈsȯr-əl*
+- **any of various plants or plant parts with sour juice**
+- **a brownish orange to light brown, especially a light bright chestnut horse often with a mane and tail of lighter color**
+	The chef prepared a classic French sauce by wilting fresh *sorrel* leaves in butter to pair with the poached salmon.
+	The rancher saddled his handsome *sorrel* gelding before riding out across the pasture.
+
 ##### Sortie (noun)
 *ˈsȯr-tē*
 - **a sudden issuing of troops from a defensive position against the enemy**

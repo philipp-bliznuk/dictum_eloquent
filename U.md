@@ -34,6 +34,14 @@
 	Seconds before the countdown reached zero, the massive *umbilical* arms swung away from the side of the rocket, disconnecting the fuel lines and power cables just as the engines ignited for liftoff.
 	After the birth, the father was invited to cut the *umbilical cord*, symbolically separating the newborn from the mother's circulatory system and marking the start of the infant's independent life.
 
+##### Umbrage (noun)
+*ˈəm-brij*
+- **may suggest hurt pride, resentment, or suspicion of another's motives: take umbrage at something**
+- **shady branches: foliage**
+- **shade, shadow**
+	He took *umbrage* at the suggestion that he hadn't completed the project entirely on his own.
+	The weary travelers rested beneath the cool, leafy *umbrage* of the ancient oak trees.
+
 ##### Unabated (adjective)
 *ˌən-ə-ˈbā-təd*
 - **not abated: being at full strength or force**

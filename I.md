@@ -825,6 +825,12 @@
 	theories that are _irreconcilable_ with each other
 	In both negotiations, opposing sides appear to have _irreconcilable_ demands.
 
+##### Irrepressible (adjective)
+*ˌir-i-ˈpre-sə-bəl*
+- **impossible to repress, restrain, or control**
+	Despite facing multiple setbacks during the expedition, her *irrepressible* optimism kept the rest of the crew motivated.
+	A wave of *irrepressible* laughter burst through the classroom when the teacher accidentally dropped his stack of papers.
+
 ##### Isthmus (noun)
 *ˈi-sməs*
 - **a narrow strip of land connecting two larger land areas**

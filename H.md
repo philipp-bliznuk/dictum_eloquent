@@ -135,6 +135,13 @@
 	After weeks of heavy rain, the backyard became a swamp because the thick *hardpan* beneath the grass wouldn't let the water soak into the water table.
 	The pioneer farmers struggled to break through the *hardpan* with their wooden plows, eventually requiring heavy steel blades to reach the fertile soil underneath.
 
+##### Harebell (noun)
+*ˈher-ˌbel*
+- **a slender blue-flowered herb ("Campanula rotundifolia") with linear leaves on the stem**
+- **characterized by delicate, wiry stems bearing papery, nodding, bell-shaped blossoms of violet-blue or pale blue**
+	Despite their fragile appearance, *harebells* are remarkably resilient wildflowers capable of thriving in nutrient-poor alpine soils.
+	The wind swept across the Scottish moorland, causing dozens of pale *harebells* to nod in unison along the hillside.
+
 ##### Harpsichord (noun)
 *ˈhärp-si-ˌkȯrd*
 - **a stringed instrument resembling a grand piano but usually having two keyboards and two or more strings for each note and producing tones by the plucking of strings with plectra**

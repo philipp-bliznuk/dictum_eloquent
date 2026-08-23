@@ -5,6 +5,14 @@
 	The barrister adjusted his lace *jabot* before addressing the court, maintaining the centuries-old tradition of legal dress.
 	For her Victorian-inspired blouse, the designer added a silk *jabot* that cascaded elegantly down the front, fastened with an antique pearl brooch.
 
+##### Jacinth (noun)
+*ˈjā-sᵊn(t)th*
+- **a precious stone of the ancients sometimes held to be the sapphire: hyacinth**
+- **a orange-red, reddish-brown, or fiery yellow variety of zircon valued as a gemstone**
+- **an archaic or poetic name for the "hyacinth" flower, derived from the Greek youth "Hyakinthos", whose blood, according to myth, produced the blue-purple blossom upon his death**
+	The king's heavy signet ring was set with a glowing *jacinth*, which caught the light of the torches in deep flashes of amber red.
+	Spring brought a blanket of wild *jacinths* along the forest floor, perfuming the air with their sweet scent.
+
 ##### Jackdaw (noun)
 *ˈjak-ˌdȯ*
 - **any of a genus ("Quiscalus" of the family Icteridae) of large American blackbirds having iridescent black plumage: grackle**
@@ -103,6 +111,13 @@
 - **plural: riding breeches cut full through the hips and close-fitting from knee to ankle**
 	An equestrian silhouette was also presented, with tight _jodhpur_ trousers worn with cropped jackets and long leather boots.
 	Carrington wore corduroy trousers and _jodhpurs_, and styled her hair in a short, blunt bob that threatened to obscure her face.
+
+##### Joie de vivre (noun)
+*ˌzhwä-də-ˈvēvrᵊ*
+- **keen or buoyant enjoyment of life**
+- **joy of living**
+	Even in her nineties, my grandmother possessed an infectious *joie de vivre* that illuminated every room she entered.
+	The sidewalk cafés were packed with people laughing late into the evening, exuding a effortless sense of *joie de vivre*.
 
 ##### Jotting (noun)
 *ˈjä-tiŋ*

@@ -139,6 +139,13 @@
 	This material resists corrosion without _verdigris_ oxidation, ensuring slow aging and a lasting patina.
 	The metal form features a purposeful _verdigris_ patina (i.e., the blue-green tint metal can take on when exposed to air or water), giving it the look of a true vintage piece without the antique market haggling.
 
+##### Verdure (noun)
+*ˈvər-jər*
+- **the greenness of growing vegetation / vegetation itself**
+- **a condition of health and vigor**
+	a good time to tour the wine country is when it is clothed with the _verdure_ of midsummer
+	a portrait of a fresh-faced teenage girl in all of her youthful _verdure_ and irrepressible joie de vivre
+
 ##### Verisimilar (adjective)
 *ˌver-ə-ˈsi-mə-lər*
 - **having the appearance of truth: probable**

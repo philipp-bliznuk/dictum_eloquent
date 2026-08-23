@@ -65,6 +65,13 @@
 	_Nay_, I do not wish to go.
 	gave a resounding _nay_ to the request for a mixed-company camping trip
 
+##### Neath (preposition)
+*ˈnēth*
+- **beneath**
+- **under**
+	The travelers sought shelter from the sudden rain *'neath* the spreading branches of the ancient oak tree.
+	Soft moonlight shimmered *'neath* the silent canopy of pines as the night wind began to stir.
+
 ##### Nebulous
 *ˈne-byə-ləs*
 - **of, relating to, or resembling a nebula**

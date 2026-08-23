@@ -852,6 +852,13 @@ Peruke (noun)
 	We had to listen to her _pontificate_ about the best way to raise children.
 	He was elected to the _pontificate_ last year.
 
+##### Poplar (noun)
+*ˈpä-plər*
+- **a tall North American timber tree ("Liriodendron tulipifera") of the magnolia family having large greenish-yellow tulip-shaped flowers and soft white wood used especially for cabinetwork and woodenware: tulip tree**
+- **any of a genus ("Populus") of slender catkin-bearing quick-growing deciduous trees (such as an aspen or cottonwood) of the willow family**
+	A long line of tall Lombardy *poplars* was planted along the property border to act as a natural windbreak.
+	The leaves of the giant *poplar* quivered and shimmered in the afternoon heat, rustling like soft rain.
+
 ##### Porcine (adjective / noun)
 *ˈpȯr-ˌsīn*
 - **of, relating to, or suggesting swine: piggish**
