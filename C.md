@@ -641,6 +641,13 @@
 	diplomacy required a *circumspect* response
 	They are *circumspect* in all their business dealings.
 
+##### Clamant (adjective)
+*ˈklā-mənt*
+- **clamorous, blatant**
+- **demanding attention: urgent, vociferous**
+	Poverty and crumbling infrastructure were the most *clamant* issues facing the newly elected mayor.
+	The council was overwhelmed by the *clamant* protests of citizens demanding an end to the project.
+
 ##### Clandestine (adjective)
 *klan-ˈde-stən*
 - **marked by, held in, or conducted with secrecy: surreptitious**

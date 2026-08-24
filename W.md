@@ -168,6 +168,13 @@
 	being *weaned* off the medication
 	*wean* him off his excessive drinking
 
+##### Weir (noun)
+*ˈwer* / *ˈwir*
+- **a fence or enclosure set in a waterway for taking fish**
+- **a dam in a stream or river to raise the water level or divert its flow**
+	Engineers constructed a concrete *weir* along the river to monitor water volume during heavy spring rains.
+	The sound of rushing water echoed softly through the valley as the current poured over the moss-covered *weir*.
+
 ##### Well-nigh / Wellnigh (adverb)
 *ˈwel-ˈnī*
 - **almost, nearly**

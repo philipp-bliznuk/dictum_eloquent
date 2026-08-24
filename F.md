@@ -440,6 +440,12 @@
 - **lightness, cheerfulness, frivolity**
 	no one appreciates your _flippancy_ during our religious services
 
+##### Flittermouse (noun)
+*ˈflɪtərˌmaʊs*
+- **bat**
+	As twilight deepened over the churchyard, a lonely *flittermouse* darted through the dim shadows of the bell tower.
+	The old villagers believed that seeing a *flittermouse* swoop low across the cottage roof was an omen of impending rain.
+
 ##### Floe (noun)
 *ˈflō*
 - **floating ice formed in a large sheet on the surface of a body of water**
