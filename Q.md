@@ -165,3 +165,10 @@
 - **a select group**
 	We need five people to make a _quorum_.
 	In order to adopt articles, according to the rules, the assembly will need a *quorum* of two thirds.
+
+##### Quoth (verb)
+*ˈkwōth*
+- **said, spoke**
+- **only exists in the past tense, is always used in the first or third person (e.g., "quoth I", "quoth he"), and almost always precedes its subject rather than following it**
+	"*Quoth* the Raven 'Nevermore.'" - Edgar Allan Poe
+	‘Fear not the journey,’ *quoth* the old knight, drawing his sword as they approached the dark forest.

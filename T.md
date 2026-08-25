@@ -309,6 +309,13 @@
 	The king declared a week of celebration, and the townspeople *thereat* rejoiced openly in the streets.
 	The witness gave her testimony, and *thereat* the court recessed for lunch.
 
+##### Therethrough (adverb)
+*ˌðɛəˈθruː*
+- **through that: in or through a specified opening**
+- **in consequence: because of that: thereby**
+	The old stone wall had a narrow iron grate, and *therethrough* the cool morning air drifted into the courtyard.
+	He signed the royal decree, *therethrough* granting full amnesty to all political exilees.
+
 ##### Thereto (adverb)
 *t͟her-ˈtü*
 - **to that**

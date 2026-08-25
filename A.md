@@ -795,9 +795,10 @@ _ə-ˈper-əl_
 - **of, relating to, or resembling an eagle**
 	an *aquiline* nose
 
-##### Arbor (noun)
+##### Arbor / Arbour (noun)
 *ˈär-bər*
 - **a shelter of vines or branches or of latticework covered with climbing shrubs or vines**
+- **a shady, sheltered recess in a garden, park, or woodland**
 	This gorgeous 55x21x100-inch _arbor_ is a West Elm best-seller thanks to its elegant design and sturdy wrought iron frame.
 	In a video shared by a fan account on X, Keery can be standing under a garden _arbor_ in front of the bride and groom.
 

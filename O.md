@@ -233,6 +233,13 @@
 	The castle’s floor contained a hidden iron grate, beneath which lay a dark, damp *oubliette* carved directly into the limestone bedrock.
 	Legends say the king would drop his most troublesome enemies into the *oubliette*, where the only light they ever saw was the flicker of a guard’s torch during the rare delivery of bread.
 
+##### Ousel / Ouzel (noun)
+*ou·​sel* / *ˈü-zəl*
+- **a common thrush ("Turdus merula") of Eurasia and northern Africa having an orange bill and eye rim: blackbird**
+- **any of a genus ("Cinclus" and especially "C. cinclus" of the Old World and "C. mexicanus" of North America) of birds that comprise an oscine family (Cinclidae) and include individuals that wade and dive into swift mountain streams in search of food: dipper**
+	Along the glistening cobbles of the bank, a black *ouzel* bobbed and flew rock to rock, staying just ahead of me, keeping me company.
+	Hikers climbing through the rocky upland moors spotted a ring *ousel* perched high atop a crag.
+
 ##### Oust (verb)
 *ˈau̇st*
 - **implies removal or dispossession by power of the law or by force or compulsion**

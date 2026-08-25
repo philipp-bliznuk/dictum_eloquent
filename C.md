@@ -524,6 +524,13 @@
 	The chef carefully trimmed the fat away from the *chine* of the pork roast before popping it into the oven.
 	The coastal path led us down through a steep, wooded *chine* that opened directly onto a hidden sandy beach.
 
+##### Chirp (noun / verb)
+*ˈchərp*
+- **to utter (something) with a cheerful liveliness: twitter, trill**
+- **to make sharply critical, complaining, or taunting remarks**
+	The birds were _chirping_ in the trees.
+	We heard the crickets _chirping_.
+
 ##### Chirurgeon (noun)
 *kī-ˈrər-jən*
 - **surgeon**
@@ -1171,6 +1178,13 @@
 	Join a nunnery, there'll always be a place for you in the *convent*.
 	Of course, the parents had to pay less to a *convent* than to a bridegroom.
 
+##### Con (verb)
+*ˈkän*
+- **to commit to memory**
+- **to study or examine closely**
+	_conned_ the poem
+	Clare regarded her attentively, *conned* the characters of her face as if they had been hieroglyphics.
+
 ##### Convex (adjective)
 *kän-ˈveks* / *ˈkän-ˌveks*
 - **curved or rounded outward like the exterior of a sphere or circle**
@@ -1270,6 +1284,13 @@ _ˈküt_
 - **to be brilliant or showy in technique or style**
 	a classic car from the 1950s, replete with yards of _coruscating_ chrome
 	With his new book, Pan, Clune has turned his cockeyed sensibility and _coruscating_ intellect to fiction.
+
+##### Cosmogony (noun)
+*käz-ˈmä-gə-nē*
+- **a theory of the origin of the universe**
+- **the creation or origin of the world or universe**
+	Norse *cosmogony* describes the world emerging from the meeting of primordial ice and fire within a vast abyss.
+	The Big Bang theory remains the dominant scientific *cosmogony* of the modern era, explaining the earliest moments of cosmic expansion.
 
 ##### Cothurnus (noun)
 *kō-ˈthər-nəs*

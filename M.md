@@ -356,6 +356,13 @@
 	political radicals with a _militant_ unwillingness to compromise on any issue
 	_militant_ protesters rallied against the new law
 
+##### Mincing (adjective)
+*ˈmin(t)-siŋ*
+- **affectedly dainty or delicate / taking short, fast, self-conscious steps**
+- **not to mince words: to speak bluntly without softening the truth**
+	He crossed the ballroom with rapid, *mincing* steps, holding his velvet cape above the dusty floor.
+	With their next 22 games against postseason contenders, there was no *mincing* words about the importance of the next few series.
+
 ##### Mingy (adjective)
 *ˈmin-jē*
 - **mean, stingy**

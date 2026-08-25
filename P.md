@@ -521,6 +521,13 @@ Peruke (noun)
 	I was nervous and could feel myself start to _perspire_.
 	She ran two miles and wasn't even _perspiring_.
 
+##### Pert (adjective)
+*ˈpərt*
+- **saucily free and forward: flippantly cocky and assured**
+- **lively, vivacious**
+	a _pert_ girl who is a member of the cheerleading squad
+	a _pert_ retort that irritated the teacher
+
 ##### Pervade (verb)
 *pər-ˈvād*
 - **to become diffused throughout every part of**
@@ -790,6 +797,13 @@ Peruke (noun)
 - **to use or wield diligently**
 	a single _ply_ of fabric
 	she _plied_ all of her charm and intelligence to convince everyone to volunteer as tutors
+
+##### Poesy (noun)
+*ˈpō-ə-zē*
+- **a poem or body of poems: poetry**
+- **poetic inspiration**
+	He dedicated his youth entirely to the sweet pursuit of *poesy*, filling bound journals with sonnets to the moon.
+	in olden days young gentlemen were expected to be proficient in the art of *poesy*
 
 ##### Pogonip (noun)
 *ˈpä-gə-ˌnip*
