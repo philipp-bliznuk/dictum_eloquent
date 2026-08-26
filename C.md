@@ -662,6 +662,13 @@
 	a _clandestine_ meeting of conspirators
 	a *clandestine* love affair
 
+##### Clangour / Clangor (noun / verb)
+*ˈklaŋ-ər* / *ˈklaŋ-ər*
+- **a resounding clang or medley of clangs**
+- **rattle, clatter**
+	the *clangor* of pots and pans coming from the kitchen as the cooks threw together an impromptu meal
+	the *clangor* of a battle in the Middle Ages, as steel hit against steel a thousand times
+
 ##### Claptrap (noun / adjective)
 *ˈklap-ˌtrap*
 - **pretentious nonsense: trash, nonsense, rubbish**
