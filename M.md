@@ -611,3 +611,10 @@
 - **gag, restrain, restrict**
 	a dangerous dog that should be _muzzled_
 	attempts by the government to _muzzle_ the press
+
+##### Myopia (noun)
+*mī-ˈō-pē-ə*
+- **a condition in which the visual images come to a focus in front of the retina of the eye resulting especially in defective vision of distant objects: nearsightedness**
+- **a lack of foresight or discernment: a narrow view of something**
+	Her *myopia* made it difficult to read the street signs while driving, requiring corrective concave lenses for distance.
+	Focusing exclusively on quarterly profits at the expense of long-term innovation was a clear case of corporate *myopia*.

@@ -61,6 +61,13 @@
 	At its base is a heat shield made of an _ablative_ mixture called Avcoat, reformulated from the Apollo era.
 	The _ablative_ thermal barrier burned away unevenly as the craft reentered the atmosphere, but Orion still made it to a safe, on-target splashdown.
 
+##### Abode (noun)
+*ə-ˈbōd*
+- **the place where one lives: home**
+- **a temporary stay: sojourn**
+	welcome to my humble *abode*
+	were reluctant to leave their lifelong *abode*
+
 ##### Abolition (noun)
 *ˌa-bə-ˈli-shᵊn*
 - **the act of officially ending or stopping something: the act of abolishing something**
@@ -1092,6 +1099,13 @@ _ə-ˈskan(t)s_
 - **a coral island consisting of a reef surrounding a lagoon**
 	From the air, the *atoll* appeared as a brilliant turquoise circle of water framed by a thin, white ribbon of coral sand.
 	The scientists set up a research station on the remote *atoll* to study how rising sea levels affect the nesting habits of green sea turtles.
+
+##### Attain (verb)
+*ə-ˈtān*
+- **to reach as an end: gain, achieve**
+- **to come into possession of: obtain**
+	She refused to let the injury keep her from _attaining_ her goal of being in the Olympics.
+	The car can _attain_ a top speed of 200 mph.
 
 ##### Attenuated (adjective)
 *ə-ˈten-yə-ˌwā-təd*

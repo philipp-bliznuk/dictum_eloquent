@@ -313,6 +313,13 @@
 	the fish is not an _endemic_ species of the lake, and it is rapidly devouring the native trout population
 	problems *endemic* to translation
 
+##### Endow (verb)
+*in-ˈdau̇*
+- **to make a grant of money providing for the continuing support or maintenance of / to furnish with an income**
+- **to provide with something freely or naturally**
+	The wealthy couple *endowed* a new wing of the hospital.
+	*endowed* with a good sense of humor
+
 ##### Enervate (adjective / verb)
 *i-ˈnər-vət / ˈe-nər-ˌvāt*
 - **lacking physical, mental, or moral vigour: enervated**
@@ -580,6 +587,13 @@
 - **an arm of the sea at the lower end of a river**
 	the city sits on the shores of a deep _estuary_ where the Hudson River meets the Atlantic Ocean
 	From the _estuary_ of the River Plate, the city looks mysterious, almost smudged, its lines seeming less refined than those of Paris but more modern than Warsaw’s.
+
+##### Ether / Aether (noun)
+*ˈē-thər*
+- **the rarefied element formerly believed to fill the upper regions of space: heavens**
+- **a medium that in the wave theory of light permeates all space and transmits transverse waves**
+	broadcasting radio signals into the *ether*
+	The balloon disappeared into the *ether*.
 
 ##### Eupepsia (noun)
 *yu̇-ˈpep-shə*

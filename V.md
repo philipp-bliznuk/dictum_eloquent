@@ -26,6 +26,14 @@
 	the _vainglory_ that nations have historically shown after they have achieved military supremacy
 	For all his _vainglory_, Mitchell was onto something in betting on a race as an aeronautical showcase.
 
+##### Valence / Valency (noun)
+*ˈvā-lən(t)s*
+- **the degree of combining power of an element as shown by the number of atomic weights of a monovalent element (such as hydrogen) with which the atomic weight of the element will combine or for which it can be substituted or with which it can be compared**
+- **relative capacity to unite, react, or interact (as with antigens or a biological substrate)**
+- **intrinsic emotional attractiveness ("positive valence") or aversiveness ("negative valence") of an event, object, situation, or emotion**
+	Carbon has a *valence* of four, allowing it to readily form stable covalent bonds with up to four other atoms.
+	Researchers measured how participants reacted to images of differing emotional *valence*, comparing uplifting scenes to frightening ones.
+
 ##### Vale (noun)
 *ˈvāl*
 - **valley, dale**

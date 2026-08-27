@@ -237,6 +237,13 @@
 	They returned to the land _whence_ they came.
 	no one could tell me _from whence_ the gold had come
 
+##### Whensoever (conjunction / adverb)
+*ˈ(h)wen(t)-sə-ˌwe-vər*
+- **whenever**
+- **at any time whatever**
+	The agreement states that the landlord may inspect the premises *whensoever* an emergency repairs request is formally submitted.
+	*Whensoever* the alarm bell tolls, the villagers must gather at the central square without delay.
+
 ##### Whereat (conjunction)
 *(h)wer-ˈat*
 - **at or toward which**
