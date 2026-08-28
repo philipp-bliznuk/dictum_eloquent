@@ -1771,6 +1771,13 @@
 - **a servile self-seeking flatterer** 
 	a powerful prince surrounded by _sycophants_
 
+##### Sylph / Sylphid (noun)
+*ˈsilf*
+- **an elemental being in the theory of Paracelsus that inhabits air**
+- **a slender graceful woman or girl**
+	In medieval alchemy, while gnomes guarded the treasures of the earth, unseen *sylphs* rode the high mountain breezes.
+	The prima ballerina moved across the stage like a *sylph*, leaping with an effortlessness that seemed to defy gravity.
+
 ##### Synod (noun)
 *ˈsi-nəd*
 - **an ecclesiastical governing or advisory council**

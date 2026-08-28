@@ -813,6 +813,13 @@ _bi-ˈsä-təd_
 	there are tiny fish and frogs in that _brook_
 	I will not _brook_ insults from my own employees.
 
+##### Brownie (noun)
+*ˈbrau̇-nē*
+- **a legendary good-natured elf that performs helpful services at night: fairy, elf**
+- **a small square or rectangle of rich usually chocolate cake often containing nuts**
+	To reward the helpful *brownie* living in their hearth, the farm family left out a bowl of fresh cream and honey every evening before bed.
+	She baked a tray of fudgy chocolate *brownies* topped with walnuts for the weekend bake sale.
+
 ##### Brunt (noun)
 *ˈbrənt*
 - **the principal force, shock, or stress (as of an attack)**

@@ -1232,6 +1232,14 @@ _ˈküt_
 	The baby _cooed_ quietly in her crib.
 	They all _cooed_ over the baby pictures.
 
+##### Coppice (noun / verb)
+*ˈkä-pəs*
+- **a thicket, grove, or growth of small trees: copse**
+- **forest originating mainly from shoots or root suckers rather than seed**
+- **to cut back so as to regrow in the form of a coppice**
+	The ancient hazel *coppice* provided a rich habitat for dormice and allowed sunlight to reach the woodland floor.
+	Woodworkers traditionally *coppiced* chestnut trees every decade to harvest straight, rot-resistant poles for fence posts.
+
 ##### Coquette (noun)
 *kō-ˈket*
 - **a woman who endeavours without sincere affection to gain the attention and admiration of men**
