@@ -287,6 +287,13 @@
 	The Egyptian sphinx has the body of a _recumbent_ lion.
 	a patient comfortably _recumbent_ in a hospital bed
 
+##### Rede (noun / verb)
+*ˈrēd*
+- **to give counsel to: advise**
+- **account, story, wisdom**
+	Listen well to my *rede*, young traveler, for the mountain pass is treacherous beyond the river.
+	The village elder *reded* the young leader to hold his peace until all the facts were known.
+
 ##### Redolent (adjective)
 *ˈre-də-lənt*
 - **full of a specified fragrance: scented**
