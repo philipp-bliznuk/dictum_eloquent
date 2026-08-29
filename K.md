@@ -65,6 +65,13 @@
 	The medieval maiden wore a simple linen *kirtle* beneath her heavy woolen cloak to stay warm during the winter months.
 	The blacksmith tightened the leather belt over his green *kirtle* before stepping up to the roaring forge.
 
+##### Kith (noun)
+*ˈkith*
+- **familiar friends, neighbors, or relatives**
+- **native community**
+	When they celebrated their fiftieth wedding anniversary, they invited all their *kith* and kin to the town hall for a grand feast.
+	After years of traveling abroad, the sailor longed to return to his home village and see his old *kith* once more.
+
 ##### Kitty-corner / Catty-corner / Catercorner (adverb / adjective)
 *ˈki-tē-ˌkȯr-nər* / *ˈka-tē-ˌkȯr-nər*
 - **in a diagonal or oblique position**
