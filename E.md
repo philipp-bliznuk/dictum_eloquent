@@ -662,6 +662,13 @@
 	a soap that promises to help me _exfoliate_ all that dry, flaky skin I've apparently been carrying around
 	Native to southeastern woodlands, oakleaf hydrangeas have vibrant fall color and attractive, _exfoliating_ bark.
 
+##### Exigent (adjective)
+*ˈek-sə-jənt*
+- **requiring immediate aid or action: urgent**
+- **requiring or calling for much: demanding**
+	started his workday with a flood of *exigent* matters that required his quick decision
+	an *exigent* client
+
 ##### Exonerate (verb)
 *ig-ˈzä-nə-ˌrāt*
 - **to relieve of a responsibility, obligation, or hardship**
