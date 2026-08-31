@@ -1545,6 +1545,13 @@ _ˈkau̇n-tᵊn-ən(t)s_
 	The boy _crowed_ with delight.
 	The rest of us were sick of hearing her _crow_ about her success.
 
+##### Crucifer (noun)
+*ˈkrü-sə-fər*
+- **one who carries a cross especially at the head of an ecclesiastical procession**
+- **any of a family (Brassicaceae synonym Cruciferae) of plants including the cabbage, turnip, and mustard**
+	The *crucifer* held the ornamental silver cross high above the congregation as the opening hymn began.
+	Gardeners frequently rotate their crops to prevent pests from destroying cabbages and other edible *crucifers*.
+
 ##### Crud (noun)
 *ˈkrəd*
 - **a deposit or incrustation of filth, grease, or refuse**

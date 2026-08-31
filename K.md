@@ -44,6 +44,12 @@
 	a nosy _kibitzer_ who always knows who is dating whom
 	a *kibitzer* at a card game
 
+##### Kine (noun)
+*ˈkīn*
+- **plural for cows or cattle**
+	Pharaoh dreamed that seven sleek, fat *kine* came up out of the river to graze among the reeds.
+	At dusk, the dairy farmer called his *kine* back from the hillsides to the shelter of the barn.
+
 ##### Kinesthesia / Kinaesthesia (noun)
 *ˌki-nəs-ˈthē-zh(ē-)ə*
 - **a sense mediated by receptors located in muscles, tendons, and joints and stimulated by bodily movements and tensions**

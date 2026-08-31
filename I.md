@@ -39,6 +39,13 @@
 	some of his friends considered the low-level job to be an _ignominious_ fate for the laid-off executive
 	the prison guards degraded themselves with their inhumane, _ignominious_ treatment of the prisoners
 
+##### Illhap / Ill-hap (noun)
+*ˈil-ˈhap*
+- **a bad luck/fortune**
+- **a tragic misfortune**
+	‘Should any *illhap* befall our expedition in the high pass, return at once to the stronghold,’ warned the captain.
+	Through a series of cruel *illhaps*, the kingdom lost both its northern harvest and its legendary fleet within a single season.
+
 ##### Imbricate (adjective / verb)
 *ˈim-bri-kət*
 - **lying lapped over each other in regular order**

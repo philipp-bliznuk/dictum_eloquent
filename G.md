@@ -483,6 +483,13 @@
 	He was enough of a _gull_ to fall victim to a pyramid scheme even though he'd been duped before.
 	we were _gulled_ into believing that if we answered the e-mail, we'd somehow become millionaires, but instead we just got put on a list for junk mail
 
+##### Gumption (noun)
+*ˈgəm(p)-shən*
+- **the determination and practical readiness to take bold action, seize opportunities, or solve problems independently**
+- **sound judgment, practical intelligence, or sharp wit**
+	It took a lot of *gumption* for the young intern to pitch her idea directly to the CEO.
+	With a bit of *gumption* and a box of old tools, he managed to repair the leaky roof before the storm hit.
+
 ##### Gung ho (adjective)
 *ˈgəŋ-ˈhō*
 - **extremely or overly zealous or enthusiastic**

@@ -578,6 +578,14 @@ _ˈāl_
 	They reached an _amicable_ agreement.
 	the contract negotiations between the hotel workers and management were reasonably _amicable_
 
+##### Amidmost (preposition / adverb)
+*ˈamid-ˌmōst*
+- **in the exact middle of**
+- **in the very center**
+- **surrounded by**
+	A magnificent marble fountain stood *amidmost* the palace courtyard, drawing every visitor's eye to its center.
+	Standing *amidmost* the swirling blizzard, the traveler could see neither the path behind nor the refuge ahead.
+
 ##### Aminy (noun)
 *ˈa-mə-tē*
 - **friendship**
