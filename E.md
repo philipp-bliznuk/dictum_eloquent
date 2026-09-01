@@ -423,6 +423,13 @@
 	The admiral’s gold *epaulets* caught the sunlight, their long silk fringes swaying with every step he took across the deck.
 	For the gala, the designer added faux-pearl *epaulets* to the blazer, giving the structured shoulders a regal, avant-garde flair.
 
+##### Epigram (noun)
+*ˈe-pə-ˌgram*
+- **a concise poem dealing pointedly and often satirically with a single thought or event and often ending with an ingenious turn of thought**
+- **a terse, sage, or witty and often paradoxical saying: proverb**
+	Oscar Wilde was a master of the *epigram*, famously remarking, 'I can resist everything except temptation.'
+	The speechwriter distilled a complex economic policy into a single memorable *epigram* that dominated the evening news.
+
 ##### Epistle (noun)
 *i-ˈpi-səl*
 - **capitalized: one of the letters adopted as books of the New Testament**

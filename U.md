@@ -112,6 +112,13 @@
 	She has an _unerring_ instinct for language.
 	He has an _unerring_ sense of good taste.
 
+##### Unfettered (adjective)
+*ˌən-ˈfe-tərd*
+- **not controlled or restricted: free, unrestrained**
+- **free from restraint, limitations, or bondage: uninhibited**
+	Given *unfettered* creative freedom by the studio, the director produced a visually daring masterpiece.
+	Economists debated whether an *unfettered* free market would naturally self-correct or lead to greater instability.
+
 ##### Unforthcoming (adjective)
 *ˌən-fȯrth-ˈkə-miŋ*
 - **not affable or sociable: reticent, reserved**
@@ -172,6 +179,13 @@
 - **to remove a stopper from: unstop**
 	*unstopper* a flask
 	The good news is that a few nuanced regulatory tweaks could _unstopper_ a wave of rehabs.
+
+##### Untenable (adjective)
+*ˌən-ˈte-nə-bəl*
+- **indefensible, unmaintainable, or impossible to defend**
+- **not able to be occupied**
+	an *untenable* position/argument
+	As new evidence came to light, the defense attorney realized her client's original alibi had become entirely *untenable*.
 
 ##### Unto (preposition)
 *ˈən-(ˌ)tü*

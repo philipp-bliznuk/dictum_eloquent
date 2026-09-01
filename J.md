@@ -83,6 +83,13 @@
 	didn't see any passengers waiting for the ferry, so the captain sailed past the _jetty_
 	Stay off of _jetties_, piers, rocks, and other waterside infrastructure.
 
+##### Jeu d'esprit (noun)
+*zhœ-de-ˈsprē*
+- **a witty comment or composition**
+- **game of mind / play of wit**
+	What began as a late-night *jeu d'esprit* composed among friends eventually turned into one of the author's most famous satirical essays.
+	Her brilliant reply was not intended as a serious proposal, but rather a playful *jeu d'esprit* to spark debate among the scholars.
+
 ##### Jink (verb / noun)
 *ˈjiŋk*
 - **to move quickly or unexpectedly with sudden turns and shifts (as in dodging)**
