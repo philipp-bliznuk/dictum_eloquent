@@ -241,6 +241,13 @@
 	an impregnable fortress that not even the mightiest army on earth would venture to *leaguer*
 	The king’s army pitched their *leaguer* outside the city walls, preparing for a siege that would last through the winter.
 
+##### Lea / Ley (noun)
+*ˈlē* / *ˈlā*
+- **grassland, pasture**
+- **ley: arable land used temporarily for hay or grazing**
+	across the _lea_ rolls a lonely wagon
+	the cattle were free to range over the _ley_
+
 ##### Leave (noun)
 *ˈlēv*
 - **permission to do something**

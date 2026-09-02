@@ -322,6 +322,13 @@
 	having no claim to the land under the _aegis_ of the law, the cattle baron decided to claim it by force
 	a medical study that was questioned by many because it was done under the _aegis_ of a major pharmaceutical company
 
+##### Aery (adjective / noun)
+*ˈer-ē* / *ˈā-ə-rē*
+- **having an aerial quality: ethereal**
+- **the nest of a bird on a cliff or a mountaintop: aerie, eyrie**
+	The composer filled the score with *aery* woodwind melodies that evoked a gentle breeze.
+	High atop the granite cliff face, the golden eagle defended its *aery* from the mountain wind.
+
 ##### Affable (adjective)
 *ˈa-fə-bəl*
 - **being pleasant and at ease in talking to others**
