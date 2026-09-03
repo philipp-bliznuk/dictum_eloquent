@@ -389,6 +389,14 @@
 	She placed a large *wicker* hamper in the corner of the nursery to hold the baby’s blankets.
 	We spent the afternoon lounging in *wicker* armchairs on the veranda, sipping iced tea and watching the sunset.
 
+##### Wicket (noun)
+*ˈwi-kət*
+- **a small gate or door / especially one forming part of or placed near a larger gate or door**
+- **an opening like a window / especially a grilled or grated window through which business is transacted**
+- **an arch or hoop in croquet**
+	The night watchman unlatched the heavy oak *wicket* within the castle gate to let the lone traveler inside.
+	The bowler shattered the middle stump, taking a crucial *wicket* just before the rain stopped play.
+
 ##### Wifty (adjective)
 *ˈwif-tē*
 - **eccentrically silly or scatterbrained: ditzy**

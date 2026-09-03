@@ -110,6 +110,13 @@
 	the *pangs* of childbirth
 	*pangs* of remorse
 
+##### Panicle (noun)
+*ˈpa-ni-kəl*
+- **a pyramidal loosely branched flower cluster**
+- **a much-branched, compound flower cluster: inflorescence**
+	In late spring, the lilac bush explodes with large, highly fragrant *panicles* of purple flowers.
+	As the rice crop reaches maturity, the heavy seed-filled *panicles* bend the tall stalks toward the mud.
+
 ##### Panoply (noun)
 *ˈpa-nə-plē*
 - **a magnificent or impressive array**

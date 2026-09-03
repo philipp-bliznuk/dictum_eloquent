@@ -586,6 +586,13 @@
 	on a clear night at sea the stars seem to take on a magical _luster_
 	her pearl necklace *lustered* softly in the candlelight of the restaurant
 
+##### Lustihood (noun)
+*ˈlə-stē-ˌhu̇d*
+- **vigor of body or spirit: robustness**
+- **sexual inclination or capacity: passion**
+	In the prime of his *lustihood*, the knight could ride for days in heavy plate armor without showing a trace of fatigue.
+	The springtime air filled the villagers with a sudden *lustihood*, sending them out into the fields to dance and celebrate the harvest.
+
 ##### Lych-Gate / Lich-Gate / Lychgate (noun)
 *ˈlich-ˌgāt*
 - **a roofed gate in a churchyard under which a bier rests during the initial part of the burial service**

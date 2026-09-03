@@ -494,6 +494,13 @@
 	In recent years she has had to reduce her schedule because of age and _infirmity_.
 	the _infirmities_ of old age
 
+##### Inflorescence (noun)
+*ˌin-flə-ˈre-sᵊn(t)s*
+- **the mode of development and arrangement of flowers on an axis**
+- **the budding and unfolding of blossoms: flowering**
+	Sunflowers and daisies are often mistaken for single blossoms, but each head is actually a dense *inflorescence* made of hundreds of tiny individual florets.
+	The orchid's striking *inflorescence* bore twelve pale pink blossoms cascading along a single curved stalk.
+
 ##### Infraction (noun)
 *in-ˈfrak-shən*
 - **the act of infringing: violation**

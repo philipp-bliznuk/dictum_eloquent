@@ -442,6 +442,13 @@
 	you'd better _hotfoot it_ to the bus stop if you're going to catch the bus
 	lowered his plane _hotfoot_ onto a pasture when the engine started to sputter
 
+##### Houseleek (noun)
+*ˈhau̇s-ˌlēk*
+- **a pink-flowered European succulent plant ("Sempervivum tectorum") of the orpine family that tends to form clusters of rosettes and is often grown in rock gardens**
+- **any of a genus ("Sempervivum") of Old World fleshy perennial herbs of the orpine family often grown as ornamentals: sempervivum**
+	Because they thrive in nutrient-poor soil with minimal water, *houseleeks* are ideal plants for rock gardens and green roofs.
+	Villagers in medieval England routinely planted *houseleek* along the crests of their thatched cottages to guard against sudden lightning strikes.
+
 ##### Howdah (noun)
 *ˈhau̇-də*
 - **a seat or covered pavilion on the back of an elephant or camel**

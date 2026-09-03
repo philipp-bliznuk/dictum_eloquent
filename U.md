@@ -19,6 +19,13 @@
 	Memes of women praising the crown prince and _ululating_ in celebration danced around the Internet.
 	a widow _ululating_ in sorrow
 
+##### Umbel (noun)
+*ˈəm-bəl*
+- **a racemose inflorescence typical of the carrot family in which the pedicels arise from about the same point to form a flat or rounded flower cluster**
+- **flower cluster (inflorescence) in which short floral stalks radiate from a single central point**
+	Foragers must learn to carefully distinguish the delicate white *umbels* of edible wild carrot from those of poisonous poison hemlock.
+	In midsummer, the garden fills with towering ornamental onions displaying spherical, violet *umbels* that attract pollinators.
+
 ##### Umber (noun / adjective / verb)
 *ˈəm-bər*
 - **a brown earth that is darker in color than ocher and sienna because of its content of manganese and iron oxides and is highly valued as a permanent pigment either in the raw or burnt state**
