@@ -124,6 +124,20 @@
 	As the sun dipped below the horizon, the sweet, melodic song of a *nightingale* filled the quiet woods.
 	The opera singer's voice was so pure and effortless that the critics quickly dubbed her the '*nightingale* of the stage.'
 
+##### Nightjar (noun)
+*ˈnīt-ˌjär*
+- **any of a family (Caprimulgidae) of medium-sized long-winged crepuscular or nocturnal birds (such as the whippoorwills and nighthawks) having a short bill, short legs, and soft mottled plumage and feeding on insects which they catch on the wing**
+- **goatsucker**
+	Resting motionlessly on a fallen branch throughout the day, the *nightjar* remained virtually invisible until flushed from its roost.
+	As twilight settled over the heath, the rhythmic, churring call of a *nightjar* echoed through the cool summer air.
+
+##### Nightshade (noun)
+*ˈnīt-ˌshād*
+- **any of a genus ("Solanum" of the family Solanaceae, the nightshade family) of herbs, shrubs, and trees having alternate leaves, cymose flowers, and fruits that are berries and including some poisonous weeds, various ornamentals, and important crop plants (such as the potato and eggplant)**
+- **an Old World poisonous plant ("Atropa belladonna") of the nightshade family having purple or green bell-shaped flowers, glossy black berries, and root and leaves that yield atropine: belladonna**
+	Historically, Renaissance women diluted extracts of deadly *nightshade* to dilate their pupils for cosmetic effect, unaware of its severe toxicity.
+	Despite being staple foods today, tomatoes and potatoes belong to the *nightshade* family and were originally viewed with suspicion in Europe.
+
 ##### Nodule (noun)
 *ˈnä-(ˌ)jül*
 - **a small mass of rounded or irregular shape**

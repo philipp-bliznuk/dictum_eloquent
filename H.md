@@ -387,6 +387,13 @@
 	there was a forgotten _holdall_ in the bus station loo
 	Bally’s core tradition in accessories is reflected in the range of luxurious yet practical _holdalls_ and backpacks, trimmed in leather.
 
+##### Holly (noun)
+*ˈhä-lē*
+- **any of a genus ("Ilex" of the family Aquifoliaceae, the holly family) of trees and shrubs**
+- **the foliage or branches of the holly**
+	To ensure a harvest of vibrant red berries in the autumn, gardeners must plant both male and female *holly* bushes within close proximity.
+	Long before it became a staple of Christmas wreaths, sprigs of *holly* were brought indoors during the winter solstice to offer shelter to woodland spirits.
+
 ##### Homage (noun)
 *ˈä-mij*
 - **a feudal ceremony by which a person acknowledges vassalage to a lord**
@@ -448,6 +455,13 @@
 - **any of a genus ("Sempervivum") of Old World fleshy perennial herbs of the orpine family often grown as ornamentals: sempervivum**
 	Because they thrive in nutrient-poor soil with minimal water, *houseleeks* are ideal plants for rock gardens and green roofs.
 	Villagers in medieval England routinely planted *houseleek* along the crests of their thatched cottages to guard against sudden lightning strikes.
+
+##### Howbeit (adverb / conjunction)
+*hau̇-ˈbē-ət*
+- **nevertheless**
+- **although**
+	our visit to Niagara Falls was very pleasant, _howbeit_ slightly shorter than we had planned
+	I've never written a poem before; _howbeit_, I feel my first attempt is quite good.
 
 ##### Howdah (noun)
 *ˈhau̇-də*

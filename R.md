@@ -493,6 +493,13 @@
 	a generation that has _repudiated_ the values of the past
 	He has publicly _repudiated_ the government's policies.
 
+##### Requital (noun)
+*ri-ˈkwī-tᵊl*
+- **something given in return, compensation, or retaliation: recompense**
+- **the act or action of requiting: the state of being requited**
+	the judge ordered the landlord to pay his former tenants $100,000 each as _requital_ for goods lost or damaged in the apartment fire
+	the electrician's _requital_ for the used car was in the form of work on the dealer's house
+
 ##### Rescind (verb)
 *ri-ˈsind*
 - **to make void by action of the enacting authority or a superior authority: repeal**

@@ -217,6 +217,13 @@
 	Every morning he eats a *meager* breakfast of toast and coffee.
 	They suffered through several _meager_ years at the beginning of their marriage.
 
+##### Meed (noun)
+*ˈmēd*
+- **a deserved reward, recompense**
+- **a fitting return or recompense for one's actions**
+	The valiant knight sought no rich titles for his deeds, desiring only the king's praise as his noble *meed*.
+	Those who toil in silence often receive their true *meed* long after their labor is completed.
+
 ##### Meek (adjective)
 *ˈmēk*
 - **enduring harm or injury with patience and without resentment**

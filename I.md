@@ -39,6 +39,13 @@
 	some of his friends considered the low-level job to be an _ignominious_ fate for the laid-off executive
 	the prison guards degraded themselves with their inhumane, _ignominious_ treatment of the prisoners
 
+##### Ilex (noun)
+*ˈī-ˌleks*
+- **a southern European evergreen oak ("Quercus ilex"): holm oak**
+- **a scientific genus name for holly**
+	Taxonomists place hundreds of evergreen species under the genus *Ilex*, ranging from ornamental landscape shrubs to tropical trees.
+	Unlike most Northern Hemisphere members of *Ilex*, which are grown purely for decoration, South American species are cultivated for their energy-boosting caffeine content.
+
 ##### Illhap / Ill-hap (noun)
 *ˈil-ˈhap*
 - **a bad luck/fortune**

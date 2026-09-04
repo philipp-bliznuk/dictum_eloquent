@@ -889,3 +889,10 @@
 - **a fabric with a twill weave**
 	Most blue jeans are made from a rugged cotton *twill* called denim, which gives them their iconic diagonal texture and long-lasting strength.
 	The upholstery was finished in a heavy silk *twill*, chosen specifically because the diagonal weave makes the fabric more resistant to wrinkling and wear.
+
+##### 'Twixt (preposition)
+*ˈtwikst*
+- **between**
+- **betwixt**
+	The old fortress stood sentinel *'twixt* the towering mountains and the dark, restless sea.
+	There’s many a slip *'twixt* the cup and the lip, so do not celebrate victory before the final vote is counted.

@@ -834,6 +834,12 @@ _bi-ˈsä-təd_
 	She asked for a cup of coffee and received a _brusque_ reply: “We don't have any.”
 	The teacher was _brusque_ and impatient.
 
+##### Bryony / Briony (noun)
+*ˈbrī-ə-nē*
+- **any of a genus ("Bryonia") of tendril-bearing vines of the gourd family with large leaves and red or black fruit**
+	The hedge was thickly draped in wild *bryony*, its delicate tendrils clinging securely to the hawthorn branches.
+	Because of its large, pale, human-shaped tuber, dishonest medieval herbalists often sold carved *bryony* root as true mandrake.
+
 ##### Buckle (verb)
 *ˈbə-kəl*
 - **to cause to bend, give way, or crumple**

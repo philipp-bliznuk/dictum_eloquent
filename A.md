@@ -710,6 +710,13 @@ _ˈāl_
 	After his stroke, the patient developed *aphasia*, making it difficult for him to name common objects like a 'pen' or 'watch' even though he knew what they were.
 	Communicating with someone who has *aphasia* requires patience; you have to remember that their mind is still sharp, even if their words are scrambled.
 
+##### Apiary (noun)
+*ˈā-pē-ˌer-ē*
+- **a place where bees are kept: bee yard**
+- **a collection of hives or colonies of bees kept for their honey**
+	Fruit growers often rent mobile *apiaries* during the spring blooming season to ensure thorough pollination of their almond trees.
+	Nestled in a quiet corner of the botanical garden, the educational *apiary* allowed visitors to observe honey bees safely through glass viewing panels.
+
 ##### Aplomb (noun)
 *ə-ˈpläm*
 - **complete and confident composure or self-assurance: poise**
