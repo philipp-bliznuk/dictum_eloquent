@@ -1240,6 +1240,13 @@ _ˈküt_
 	The ancient hazel *coppice* provided a rich habitat for dormice and allowed sunlight to reach the woodland floor.
 	Woodworkers traditionally *coppiced* chestnut trees every decade to harvest straight, rot-resistant poles for fence posts.
 
+##### Copse / Coppice (noun)
+*ˈkäps*
+- **a thicket, grove, or growth of small trees**
+- **cluster of small trees or shrubs**
+	A flock of sheep sought refuge from the midday sun beneath the shady canopy of a hazel *copse*.
+	Every seven years, charcoal burners would harvest the slender trunks from the sweet chestnut *copse*.
+
 ##### Coquette (noun)
 *kō-ˈket*
 - **a woman who endeavours without sincere affection to gain the attention and admiration of men**
