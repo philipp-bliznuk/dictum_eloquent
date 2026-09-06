@@ -226,6 +226,13 @@
 	a tree whose delicate beauty _belies_ its real toughness
 	Their actions _belie_ their claim to be innocent.
 
+##### Belike (adverb)
+*bi-ˈlīk*
+- **most likely: probably**
+- **probably, perhaps**
+	‘*Belike* he thinks that we are unaware of his treachery,’ whispered the captain as they watched the approaching ship.
+	She turned away in silence, *belike* seeking a quiet spot to nurse her grief away from curious eyes.
+
 ##### Bellow (verb)
 *ˈbe-(ˌ)lō*
 - **to make the loud deep hollow sound characteristic of a bull**
@@ -343,6 +350,14 @@ _bi-ˈsä-təd_
 - **to happen to: befall -> used chiefly in the phrase "woe betide"**
 	we will be happy in our new home, whatever may _betide_
 	woe *betide* our enemies
+
+##### Betimes (adverb)
+*bi-ˈtīmz*
+- **in good time: early**
+- **in a short time: speedily**
+- **at times: occasionally**
+	We must rise *betimes* tomorrow if we wish to cross the mountain pass before the midday heat.
+	Repent *betimes*, lest foolish delay bring about your ultimate undoing.
 
 ##### Betoken (verb)
 *bi-ˈtō-kən*

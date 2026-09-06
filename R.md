@@ -393,6 +393,14 @@
 	She memorized the historical dates only to _regurgitate_ them on the exam.
 	The speaker was just _regurgitating_ facts and figures.
 
+##### Rein (noun / verb)
+*ˈrān*
+- **a strap fastened to a bit by which a rider or driver controls an animal -> usually plural**
+- **a restraining influence: check**
+- **opportunity for unhampered activity or use**
+	He has people working for him, but he _has a tight rein on_ every part of the process.
+	try to _rein in_ your spending, so you have some money left for saving
+
 ##### Rejoinder (noun)
 *ri-ˈjȯin-dər*
 - **the defendant's answer to the plaintiff's replication**

@@ -53,6 +53,13 @@
 	‘Should any *illhap* befall our expedition in the high pass, return at once to the stronghold,’ warned the captain.
 	Through a series of cruel *illhaps*, the kingdom lost both its northern harvest and its legendary fleet within a single season.
 
+##### Illimitable (adjective)
+*(ˌ)i(l)-ˈli-mə-tə-bəl*
+- **incapable of being limited or bounded: measureless**
+- **infinite, endless**
+	Standing on the edge of the vessel, she stared into the *illimitable* expanse of the midnight ocean.
+	The philosopher argued that human curiosity possesses an *illimitable* capacity to question the nature of existence.
+
 ##### Imbricate (adjective / verb)
 *ˈim-bri-kət*
 - **lying lapped over each other in regular order**

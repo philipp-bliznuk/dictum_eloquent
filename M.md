@@ -189,6 +189,13 @@
 	The tragedy of Orestes in Greek mythology is perhaps the most famous depiction of *matricide*, as he is driven by duty to avenge his father but haunted by the Furies for the death of his mother.
 	The forensic psychiatrist testified that the defendant’s long history of isolation and resentment toward his primary caregiver eventually culminated in an impulsive act of *matricide*.
 
+##### Matriculate (verb)
+*mə-ˈtri-kyə-ˌlāt*
+- **to enroll as a member of a body and especially of a college or university**
+- **enroll**
+	After months of waiting for acceptance letters, she was thrilled to *matriculate* at Oxford in the autumn term.
+	The traditional ceremony required all incoming freshers to sign the college register before officially *matriculating*.
+
 ##### Mauve (noun / adjective)
 *ˈmȯv*
 - **a moderate purple, violet, or lilac color**
