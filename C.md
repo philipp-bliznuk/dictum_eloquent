@@ -726,6 +726,12 @@
 	monks living in a _cloister_ in the country
 	The courtyard is surrounded with a *cloister*.
 
+##### Clomb (verb)
+*ˈklōm*
+- **past tense and past participle of the verb climb**
+	Up the hillside, long and steep, he slowly *clomb* to reach the ridge before nightfall.
+	The shadow *clomb* higher up the ancient tower wall as the evening sun dipped below the horizon.
+
 ##### Clomp (verb)
 *ˈklämp*
 - **to walk or move clumsily and noisily**
