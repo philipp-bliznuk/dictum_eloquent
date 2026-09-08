@@ -94,6 +94,13 @@
 	Today, the _basilica_ remains a sought-after wedding venue, with the parish hosting as many as eight ceremonies a day, according to the church's priest.
 	The earth beneath my feet shook as the bells of the ancient *basilica* tolled.
 
+##### Bate (verb)
+*ˈbāt*
+- **to reduce the force or intensity of: restrain, abate**
+- **to take away: deduct**
+	The audience waited with *bated* breath as the illusionist prepared to make his final escape from the locked chest.
+	That grave and orderly senior was not going to *bate* a jot of his dignity.
+
 ##### Batholith (noun)
 *ˈba-thə-ˌlith*
 - **a great mass of intruded igneous rock that for the most part stopped in its rise a considerable distance below the surface**

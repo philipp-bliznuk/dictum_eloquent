@@ -67,6 +67,13 @@
 	The early settlers built a sturdy wooden *palisade* around their village to protect the community from raids.
 	Archaeologists uncovered the remains of a tall *palisade* that once enclosed the ancient fort.
 
+##### Pallor (noun)
+*ˈpa-lər*
+- **deficiency of color especially of the face: paleness**
+- **often associated with illness, exhaustion, emotional shock, or fear**
+	The physician noted the patient's striking*pallor* and requested a blood count to check for severe iron-deficiency anemia.
+	A deathly *pallor* washed over his face as he read the strange message sealed within the black envelope.
+
 ##### Pall (verb / noun)
 *ˈpȯl*
 - **to lose strength or effectiveness**
@@ -1420,6 +1427,13 @@ Peruke (noun)
 - **plump, fat**
 	The baby wrapped her _pudgy_ little hand around my finger.
 	Coach recalled first meeting him as a _pudgy_ eighth grader.
+
+##### Puffin (noun)
+*ˈpə-fən*
+- **any of several seabirds (genus "Fratercula") of the northern hemisphere having a short neck and a deep grooved parti-colored laterally compressed bill**
+- **any of three species of pelagic seabirds in the auk family**
+	A single *puffin* returned to the cliffside burrow carrying over a dozen glittering sand eels lined up in its brightly colored beak.
+	Outside of the spring breeding season, the *puffin* spends its entire winter far out at sea, riding the open ocean waves in near solitude.
 
 ##### Pugnacious (adjective)
 *ˌpəg-ˈnā-shəs*

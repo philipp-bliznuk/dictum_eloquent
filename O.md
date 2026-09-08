@@ -87,6 +87,13 @@
 	a pile of _offal_ from the tannery operating in the neighborhood
 	The butchers were allowed to keep the *offal* for their troubles.
 
+##### Ogle (verb / noun)
+*ˈō-gəl*
+- **to glance with amorous invitation or challenge: gawk**
+- **an amorous or coquettish glance**
+	He sat at the bar, _ogling_ several women.
+	I was _ogling_ the dessert menu before my meal even arrived.
+
 ##### Olfactory (adjective)
 *äl-ˈfak-t(ə-)rē*
 - **of or relating to the sense of smell**

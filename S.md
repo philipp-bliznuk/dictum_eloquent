@@ -372,6 +372,13 @@
 	Box turtles, for example, grow their _scute_ outward over time, like how humans grow fingernails.
 	In a study published in the journal PNAS Nexus, researchers claim that the _scute_ keratin of a chelonian shell layers over time.
 
+##### Seamew / Sea mew (noun)
+*ˈsē-myü*
+- **a common gull ("Larus canus") of Eurasia and northwestern North America**
+- **seagull**
+	The cry of the wild *seamew* echoed mournfully over the grey, foam-flecked waves as the ship sailed away.
+	Sailors watched the wheeling *seamews* intently, knowing their presence near the bow signaled shallow waters ahead.
+
 ##### Seam (noun / verb)
 *ˈsēm*
 - **the joining of two pieces (as of cloth or leather) by sewing usually near the edge**
@@ -1606,6 +1613,13 @@
 - **marked by wastefulness: extravagant**
 	he cleared off all the _superfluous_ stuff on his desk to make room for the new computer
 	Oddly, despite the preponderance of *superfluous* words, the book has no glossary, which is a must for an introductory audience.
+
+##### Suplex (noun)
+*ˈsuːplɛks*
+- **a wrestling hold in which a wrestler grasps his opponent round the waist from behind and carries him backwards**
+- **offensive throw in which a wrestler lifts an opponent off the ground and arches backward to slam them over their own body onto their upper back or shoulders**
+	The heavyweight champion hooked his opponent's waist from behind and executed a bridging German *suplex* for the three-count.
+	In Greco-Roman wrestling, executing a high-amplitude *suplex* requires tremendous core strength and back flexibility.
 
 ##### Supple (adjective / verb)
 *ˈsə-pəl*

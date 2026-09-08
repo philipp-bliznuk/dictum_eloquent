@@ -584,6 +584,12 @@
 	a _chronicle_ of the American Civil War
 	a magazine that _chronicles_ the lives of the rich and famous
 
+##### Chrysoprase / Chrysophrase (noun)
+*ˈkri-sə-ˌprāz*
+- **an apple-green chalcedony (cryptocrystalline quartz) valued as a gem**
+	Because its vivid apple-green color comes from nickel rather than chromium, prolonged exposure to direct sunlight can cause high-grade *chrysoprase* to fade.
+	The bishop's ceremonial ring featured a polished oval of *chrysoprase*, carved intricately with a delicate Christian symbol.
+
 ##### Chunter (verb)
 *ˈchən-tər*
 - **to talk in a low inarticulate way: mutter**
@@ -718,6 +724,14 @@
 - **implies a mild or merciful disposition in one having the power or duty of punishing**
 	the judge chose to show _clemency_ to the truly repentant embezzler
 	The fair was a great success, owing to the *clemency* of the weather.
+
+##### Clobber (verb)
+*ˈklä-bər*
+- **to pound mercilessly / to hit with force**
+- **to defeat overwhelmingly**
+- **to have a strongly negative impact on**
+	If you say anything I'll _clobber_ you.
+	Businesses are being _clobbered_ by the bad economy.
 
 ##### Cloister (noun / verb)
 *ˈklȯi-stər*
@@ -1263,6 +1277,13 @@ _ˈküt_
 - **a smokeless powder composed of nitroglycerin, guncotton, and a petroleum substance usually gelatinized by addition of acetone and pressed into cords resembling brown twine**
 	For the railgun, it's used to propel projectiles at tremendous speeds without the need for _cordite_ or other explosives.
 	The men hit the ground as the blast hit, the smell of _cordite_ and dust going deep into their nostrils.
+
+##### Cormorant (noun)
+*ˈkȯr-mə-rənt*
+- **any of various dark-colored web-footed waterbirds (family "Phalacrocoracidae", especially genus "Phalacrocorax") that have a long neck, hooked bill, and distensible throat pouch**
+- **a gluttonous, greedy, or rapacious person: hog**
+	After spending nearly a minute underwater chasing prey, the *cormorant* surfaced near the jetty with an eel pinned in its hooked bill.
+	Perched atop the sunlit sea wall, a lone *cormorant* held its dark wings wide open to catch the morning breeze.
 
 ##### Corposant (noun)
 *ˈkȯr-pə-ˌsant*

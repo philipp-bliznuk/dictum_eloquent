@@ -234,6 +234,13 @@
 	an old chair that needs new _upholstery_
 	He learned _upholstery_ from his father.
 
+##### Uppity (adjective)
+*ˈə-pə-tē*
+- **putting on or marked by airs of superiority: arrogant, presumptuous**
+- **aspiring to a rank or position higher than one deserves or is entitled to**
+	During the Jim Crow era, white supremacists frequently dismissed educated Black professionals as '*uppity*' for demanding equal civil rights.
+	The old lord looked down on his newly wealthy neighbors, scorning them as *uppity* commoners who lacked proper refinement.
+
 ##### Urbane (adjective)
 *ˌər-ˈbān*
 - **fashionable and somewhat formal**

@@ -109,6 +109,13 @@
 	The schoolyard argument quickly escalated into a fight because a crowd of kids gathered around to *egg* them *on*.
 	Though he initially hesitated to jump into the freezing lake, his friends managed to *egg* him *on* until he finally leaped from the dock.
 
+##### Eider (noun)
+*ˈī-dər*
+- **any of several large northern sea ducks (genera "Somateria" and "Polystica") having fine soft down that is used by the female for lining the nest: eider duck**
+- **the down of the eider: eiderdown**
+	Flocks of *eiders* dived through the freezing coastal swells, foraging along the rocky seabed for mussels and crustaceans.
+	For centuries, Icelandic farmers have carefully protected nesting *eider* colonies to sustainably collect the soft down left behind in abandoned nests.
+
 ##### Eke (verb)
 *ˈēk*
 - **to get with great difficulty -> usually used with _out_**

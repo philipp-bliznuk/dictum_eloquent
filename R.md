@@ -345,6 +345,14 @@
 	Park lakes and _reedy_ little streams - anything not too polluted from the steel factories.
 	But his voice is still warm and _reedy_ - a deviated septum helps give it that slight nasal edge - and the notes land precisely, if not predictably.
 
+##### Reef (noun / verb)
+*ˈrēf*
+- **a part of a sail taken in or let out in regulating size**
+- **a chain of rocks or coral or a ridge of sand at or near the surface of water**
+- **to reduce the area of (a sail) by rolling or folding a portion**
+	The vibrant *reef* provides shelter and breeding grounds for thousands of tropical fish species.
+	As the gale-force winds began to pick up, the captain ordered the crew to take a *reef* in the mainsail to prevent the vessel from capsizing.
+
 ##### Refectory (noun)
 *ri-ˈfek-t(ə-)rē*
 - **a dining hall (as in a monastery or college)**

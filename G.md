@@ -68,6 +68,13 @@
 	Glaucoma remains a leading cause of blindness worldwide, and while treatments often focus on lowering intraocular pressure, damage to retinal _ganglion_ cells can continue even when pressure is controlled.
 	The ventral _ganglion_ is a collection of nerves found on an arrow worm’s belly and is a biological feature unique only to them.
 
+##### Gannet (noun)
+*ˈga-nət*
+- **any of a genus ("Morus" of the family "Sulidae", the gannet family) of large fish-eating seabirds that breed in colonies chiefly on offshore islands**
+- **used as a derogatory term for a gluttonous or greedy eater**
+	Folding its wings back like an arrow, the *gannet* plummeted from a height of thirty meters, breaking the water's surface with hardly a splash.
+	Slow down and save some food for the rest of us - you're eating like an absolute *gannet* tonight!
+
 ##### Gantry (noun)
 *ˈgan-trē*
 - **a frame for supporting barrels**
