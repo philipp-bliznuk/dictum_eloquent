@@ -102,6 +102,13 @@
 	An arbitrator was called in to break the _impasse_.
 	She had reached an _impasse_ in her career.
 
+##### Impearl (verb)
+*im-ˈpər(-ə)l*
+- **to form into pearls**
+- **to form of or adorn with pearls**
+	The crisp morning mist began to *impearl* the delicate spiderwebs strung across the garden hedge.
+	Dewdrops that *impearl* the rose’s leaf at dawn reflected the first golden rays of the rising sun.
+
 ##### Impel (verb)
 *im-ˈpel*
 - **to urge or drive forward or on by or as if by the exertion of strong moral pressure: force**

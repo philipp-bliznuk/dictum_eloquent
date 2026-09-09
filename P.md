@@ -432,6 +432,13 @@ _parā bellum_
 	In the medieval poem "Sir Gawain and the Green Knight", the hero bears a golden *pentangle* on his shield as a symbol of truth and his five knightly virtues.
 	The archaeologist brushed away the dust to reveal an ancient *pentangle* carved deeply into the stone floor of the ruins.
 
+##### Penultimate (adjective)
+*pi-ˈnəl-tə-mət*
+- **next to the last**
+- **of or relating to the next to the last syllable of a word**
+	The *penultimate* chapter of the mystery novel raised the stakes dramatically, setting the stage for the explosive final resolution.
+	Entering the *penultimate* lap of the race, the runner surged forward into second place before making his final sprint.
+
 ##### Percolate (verb)
 *ˈpər-kə-ˌlāt*
 - **to be diffused through: penetrate**
@@ -892,6 +899,13 @@ Peruke (noun)
 - **of, relating to, or suggesting swine: piggish**
 	Doctors have been using _porcine_ heart valves to replace damaged ones in humans since the 1960s.
 	This is consistent with experimental studies of _porcine_ respiratory coronavirus (PRCV).
+
+##### Porphyry (noun)
+*ˈpȯr-f(ə-)rē*
+- **a rock consisting of feldspar crystals embedded in a compact dark red or purple groundmass**
+- **an igneous rock of porphyritic texture**
+	The geologist examined the granite *porphyry*, identifying distinct pink feldspar phenocrysts scattered throughout the dark, fine-grained matrix.
+	Resting in the center of the cathedral stood the ancient emperor's tomb, carved entirely from a solid block of polished imperial *porphyry*.
 
 ##### Porpoise (noun / verb)
 *ˈpȯr-pəs*

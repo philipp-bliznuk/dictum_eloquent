@@ -146,6 +146,13 @@
 	*tawdry* clothing/jewels
 	a *tawdry* scandal/affair
 
+##### Tawny (noun / adjective)
+*ˈtȯ-nē*
+- **a brownish-orange to light brown color**
+- **of a warm sandy color**
+	The lion's *tawny* coat blended seamlessly into the tall, sun-baked grasses of the African savanna.
+	Autumn leaves of deep crimson and *tawny* orange drifted slowly down from the oak trees, carpeting the woodland trail.
+
 ##### Teak (noun)
 *ˈtēk*
 - **a tall tropical Asian timber tree (Tectona grandis) of the mint family**
