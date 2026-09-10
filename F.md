@@ -135,13 +135,17 @@
 	The boxer made a _feint_ with his right, then followed with a left hook.
 	a _feint_ toward the enemy's left flank
 
-##### Fell (adjective)
+##### Fell (adjective / noun)
 *ˈfel*
 - **fierce, cruel, terrible**
 - **sinister, malevolent**
 - **very destructive: deadly**
-	war crimes committed by a _fell_ and barbarous enemy
-	planning for the distribution of resources in case of some _fell_ event
+- **a high, barren, or rocky hill, mountain, or moorland tract**
+- **skin, hide, pelt**
+	war crimes committed by a *fell* and barbarous enemy
+	planning for the distribution of resources in case of some *fell* event
+	Hikers set out before dawn to navigate the rugged trail across the high *fell* before the thick mountain fog rolled in.
+	The trapper presented a thick wolf *fell* at the trading post, hoping to exchange the warm hide for essential supplies.
 
 ##### Fellatio (noun)
 *fə-ˈlā-shē-ˌō*

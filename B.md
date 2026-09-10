@@ -262,6 +262,15 @@
 	the poor _benighted_ souls who do not know the joys of reading
 	*Benighted* travellers have seen his midnight candle glimmering.
 
+##### Bent (noun)
+*ˈbent*
+- **a strong inclination or interest: bias, talent**
+- **capacity of endurance**
+- **unenclosed grassland**
+	the perfect gift for a person of a literary *bent*
+	having a decided *bent* for languages, he picked up Italian in no time
+	They walked across the desolate *bent*, where the whistling sea breeze whipped through the tall, coarse grass.
+
 ##### Bequeath (verb)
 *bi-ˈkwēth*
 - **to give or leave by will -> used especially of personal property**

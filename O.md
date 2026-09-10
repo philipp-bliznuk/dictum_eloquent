@@ -94,6 +94,13 @@
 	He sat at the bar, _ogling_ several women.
 	I was _ogling_ the dessert menu before my meal even arrived.
 
+##### Olden (adjective)
+*ˈōl-dən*
+- **of or relating to a bygone era**
+- **ancient, or long past**
+	In *olden* times, before the great forest was cleared, legends spoke of a hidden kingdom beneath the mountain.
+	The bard sang ballads of *olden* valor and forgotten kings, filling the castle hall with tales of ancient glory.
+
 ##### Olfactory (adjective)
 *äl-ˈfak-t(ə-)rē*
 - **of or relating to the sense of smell**
