@@ -897,6 +897,13 @@
 	We joined the other _duffers_ at the course.
 	He's a lovable old _duffer_.
 
+##### Duly (adverb)
+*ˈdü-lē*
+- **in a due manner or time: properly**
+- **correctly, appropriately**
+	They were _duly_ impressed by her speech.
+	The objections were _duly noted_.
+
 ##### Dungaree (noun)
 *ˌdəŋ-gə-ˈrē*
 - **a heavy coarse durable cotton twill woven from colored yarns / blue denim**

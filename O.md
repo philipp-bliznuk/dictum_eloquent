@@ -182,6 +182,13 @@
 	Why couldn’t the _orderlies_ have been played by Caucasian actors in this instance?
 	Shortly after the _orderlies_ wheeled Jim away to be intubated, an intensive-care doctor explained to me and Alice that our brother was suffering from acute respiratory failure.
 
+##### Ordinance (noun)
+*ˈȯr-də-nən(t)s*
+- **something ordained or decreed by fate or a deity**
+- **order governing some detail of procedure or conduct enforced by a limited authority such as a municipality: regulation**
+	The town has passed a zoning _ordinance_ limiting construction.
+	a local _ordinance_ forbids all street parking during snowstorms
+
 ##### Ordure (noun)
 *ˈȯr-jər*
 - **excrement**

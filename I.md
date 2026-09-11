@@ -846,6 +846,13 @@
 	_Irate_ viewers called the television network to complain about the show.
 	the big increase in cable rates prompted a flood of _irate_ calls and letters
 
+##### Iris (noun)
+*ˈī-rəs*
+- **any of a large genus (_Iris_ of the family Iridaceae, the iris family) of perennial herbaceous plants with linear usually basal leaves and large showy flowers**
+- **the opaque contractile diaphragm perforated by the pupil and forming the colored portion of the eye**
+	The gardener planted purple bearded *irises* along the sunny border, where their velvety fall petals bloomed in late spring.
+	As the bright flashlight hit his face, the muscles in his *iris* contracted rapidly to constrict the pupil.
+
 ##### Irksome (adjective)
 *ˈərk-səm*
 - **tending to irk: tedious**

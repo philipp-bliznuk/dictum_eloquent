@@ -24,6 +24,13 @@
 - **the superior of a monastery for men**
 	The _abbot_ later said the temple would cover her medical expenses, according to Pairat.
 
+##### Abet (verb)
+*ə-ˈbet*
+- **to actively second and encourage (something, such as an activity or plan)**
+- **to assist or support (someone) in the achievement of a purpose**
+	She _abetted_ the thief in his getaway.
+	Their actions were shown to _abet_ terrorism.
+
 ##### Abhorrence (noun)
 *əb-ˈhȯr-ən(t)s*
 - **the act or state of abhorring or despising something or someone: loathing**
