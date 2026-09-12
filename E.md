@@ -423,6 +423,13 @@
 	The snake _entwined_ itself around the branch.
 	marveled at how the vines had delicately and intricately _entwined_ themselves on the trellis
 
+##### Envoy (noun)
+*ˈen-ˌvȯi* / *ˈän-ˌvȯi*
+- **a minister plenipotentiary accredited to a foreign government who ranks between an ambassador and a minister resident: delegate**
+- **messenger, representative**
+	the president sent the secretary of state as his personal _envoy_ to gain the support of the country's allies
+	one of the hostage takers was chosen as the group's _envoy_ for all dealings with the authorities
+
 ##### Epaulet (noun)
 *ˌe-pə-ˈlet*
 - **an ornamental fringed shoulder pad formerly worn as part of a military uniform**

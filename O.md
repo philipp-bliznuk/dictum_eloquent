@@ -281,6 +281,13 @@
 	_From its very outset_, the company has produced the highest quality products.
 	She set high goals for herself _at the outset_ of her career.
 
+##### Overmuch (noun / adjective / adverb)
+*ˌō-vər-ˈməch*
+- **too great an amount**
+- **too much / excessive**
+	you must not expect an _overmuch_ of gratitude from a very young child
+	you worry _overmuch_ about what other people think
+
 ##### Overt (adjective)
 *ō-ˈvərt*
 - **open to view: manifest**

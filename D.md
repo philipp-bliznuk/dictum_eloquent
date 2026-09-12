@@ -46,6 +46,13 @@
 	Various political slogans had been _daubed_ on the walls.
 	She added a few _daubs_ of colour to the painting.
 
+##### Daytide (noun)
+*ˈdā-ˈtīd*
+- **daytime**
+- **a specific season of day**
+	While yet the golden *daytide* lasted, the laborers labored ceaselessly in the sun-drenched fields.
+	The shadow fell long across the valley as *daytide* slowly yielded to the cool quiet of eventide.
+
 ##### Deadpan (adjective / noun / adverb / verb)
 *ˈded-ˌpan*
 - **marked by an impassive matter-of-fact manner, style, or expression**

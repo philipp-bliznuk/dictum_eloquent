@@ -367,6 +367,13 @@
 	He bowed his _hoary_ head.
 	a _hoary_ tale of revenge
 
+##### Hobnob (verb)
+*ˈhäb-ˌnäb*
+- **to associate familiarly: fraternize**
+- **to drink sociably: bond**
+	He loves to _hobnob_ with celebrities.
+	those two have been _hobnobbing_ together since freshman year
+
 ##### Hock (verb)
 *ˈhäk*
 - **to forcefully spit out (something, such as phlegm)**

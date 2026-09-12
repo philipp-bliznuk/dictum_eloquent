@@ -198,6 +198,13 @@
 	The captain signaled for the steam *launch* to be lowered so the officers could be ferried to the shore for the evening's festivities.
 	We spent the afternoon touring the Venetian canals in a polished mahogany *launch*, its engine humming quietly as we glided past the ancient palaces.
 
+##### Laurel (noun / verb)
+*ˈlȯr-əl*
+- **an evergreen shrub or tree ("Laurus nobilis" of the family Lauraceae, the laurel family) of southern Europe with small yellow flowers, fruits that are ovoid blackish berries, and evergreen foliage once used by the ancient Greeks to crown victors in the Pythian games**
+- **a crown of laurel awarded as an honor**
+	They enjoyed the _laurels_ of their military victory.
+	The player earned his _laurels_ from years of hard work.
+
 ##### Lavatory (noun)
 *ˈla-və-ˌtȯr-ē* / *ˈla-və-t(ə-)rē*
 - **a vessel (such as a basin) for washing**
