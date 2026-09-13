@@ -394,6 +394,13 @@
 	there was a forgotten _holdall_ in the bus station loo
 	Bally’s core tradition in accessories is reflected in the range of luxurious yet practical _holdalls_ and backpacks, trimmed in leather.
 
+##### Hollo / Halloo (noun / verb)
+*ˈhä-(ˌ)lō* / *hə-ˈlü*
+- **an exclamation or call of hollo**
+- **to utter loudly: holler**
+	The huntsman gave a sharp *hollo* across the valley as the hounds caught the scent and broke into a run.
+	He heard a faint *hollo* echoing through the misty woods, but could see no traveler on the dark road.
+
 ##### Holly (noun)
 *ˈhä-lē*
 - **any of a genus ("Ilex" of the family Aquifoliaceae, the holly family) of trees and shrubs**

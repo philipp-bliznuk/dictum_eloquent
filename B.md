@@ -156,6 +156,13 @@
 	her new _beau_ brought flowers when he picked her up for their first date
 	She introduced us to her latest _beau_.
 
+##### Beauteous (adjective)
+*ˈbyü-tē-əs*
+- **beautiful**
+- **pretty, attractive**
+	a *beauteous* smile
+	the day ended with a *beauteous* sunset
+
 ##### Bedew (verb)
 *bi-ˈdü*
 - **to wet with or as if with dew**
