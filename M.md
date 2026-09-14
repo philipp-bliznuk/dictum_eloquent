@@ -302,6 +302,13 @@
 	*Meseems* the dark storm clouds are gathering quickly over the northern ridge.
 	*Meseems* you have forgotten the solemn promise you made before the king.
 
+##### Mete (verb / noun)
+*ˈmēt*
+- **to give out by measure: dole out, portion -> usually used with "out"**
+- **boundary**
+	The tribunal was established to *mete* out justice to those responsible for war crimes.
+	The old deed defined the farm's property lines by *metes* and bounds, referencing a large oak tree and the bank of the creek.
+
 ##### Methinks (impersonal verb)
 *mi-ˈthiŋ(k)s*
 - **it seems to me**

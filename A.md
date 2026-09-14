@@ -47,6 +47,13 @@
 	_abide_ in the house of the Lord
 	a love that _abided_ till the end of their lives
 
+##### Ab initio (adverb)
+*ˌab-ə-ˈni-shē-ˌō*
+- **from the beginning**
+- **from first principles**
+	Using *ab initio* molecular dynamics, researchers modeled the electronic structure of the new alloy without needing previous experimental data.
+	Because the agreement was executed under duress, the court ruled that the contract was fraudulent and void *ab initio*.
+
 ##### Abjure (verb)
 *ab-ˈju̇r*
 - **to abstain from: avoid**

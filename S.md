@@ -460,6 +460,14 @@
 	The attic was filled with dusty boxes of *sepia*-toned portraits of ancestors I had never met.
 	The illustrator chose to work in *sepia* ink rather than black to give the sketches a softer, more antique feel.
 
+##### Septic (adjective)
+*ˈsep-tik*
+- **of, relating to, or causing putrefaction**
+- **relating to, involving, caused by, or affected with sepsis**
+- **used for sewage treatment and disposal**
+	The surgeon immediately debrided the deep tissue to prevent the localized infection from going *septic*.
+	Because the rural cabin lacked access to municipal sewers, wastewater was processed through an underground *septic* system.
+
 ##### Sequester (verb)
 *si-ˈkwe-stər*
 - **to set apart: segregate**
