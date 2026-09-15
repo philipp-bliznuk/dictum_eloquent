@@ -411,6 +411,13 @@
 	The adventurer drew his glowing sword as a skeletal *wight* rose from the ancient stone tomb.
 	The weary *wight* trudged through the rainstorm, searching desperately for an inn to spend the night.
 
+##### Wilder (verb)
+*ˈwil-dər*
+- **to lead astray**
+- **bewilder, perplex**
+	Thick fog descended over the heath, threatening to *wilder* the weary travelers far from the main road.
+	Separated from the main company in the blizzard, the lone scout *wildered* for hours through the trackless mountain passes.
+
 ##### Wile (verb / noun)
 *ˈwī(-ə)l*
 - **suggests an attempt to entrap or deceive with false allurements**

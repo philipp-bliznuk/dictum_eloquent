@@ -683,6 +683,13 @@
 	a soap that promises to help me _exfoliate_ all that dry, flaky skin I've apparently been carrying around
 	Native to southeastern woodlands, oakleaf hydrangeas have vibrant fall color and attractive, _exfoliating_ bark.
 
+##### Exhort (verb)
+*ig-ˈzȯrt*
+- **to incite by argument or advice: urge strongly**
+- **to give warnings or advice: make urgent appeals**
+	He _exhorted_ his people _to take back_ their land.
+	She _exhorted_ her listeners _to support_ the proposition.
+
 ##### Exigent (adjective)
 *ˈek-sə-jənt*
 - **requiring immediate aid or action: urgent**

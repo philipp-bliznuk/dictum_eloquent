@@ -343,6 +343,14 @@
 	a moralist who decried what she regarded as the _licentious_ and corrupt culture of the entertainment industry
 	*licentious* behavior
 
+##### Lief (adjective / adverb)
+*ˈlēf* / *ˈlēv*
+- **dear, beloved**
+- **willing, glad**
+- **soon, gladly**
+	I thank you for your offer of company, sir, but in truth I had as *lief* travel the forest road alone.
+	The knight swore fealty to his *lief* lord, vowing to defend the realm to his last breath.
+
 ##### Liege (noun / adjective)
 *ˈlēj*
 - **a feudal superior to whom allegiance and service are due**

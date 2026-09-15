@@ -271,6 +271,15 @@
 	a city ravaged by the _scourge_ of unemployment
 	a neighborhood _scourged_ by crime
 
+##### Scour (verb / noun)
+*ˈskau̇(-ə)r*
+- **to clean by purging: purge**
+- **to clear (a region) of enemies or outlaws**
+- **to move about quickly especially in search**
+	the police *scoured* the city for the Typhoid Mary of this latest epidemic
+	Upon returning home, the heroes set about *scouring* the valley of the tyrant's mercenaries to reclaim their ancestral lands.
+	The king dispatched a regiment of cavalry to *scour* the northern marches and drive out the remaining border raiders.
+
 ##### Scrape (noun)
 *ˈskrāp*
 - **a distressing encounter**

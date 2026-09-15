@@ -464,6 +464,13 @@
 	promptly _remunerated_ the repair company for fixing the dryer
 	the negligent landlord must _remunerate_ those made homeless by the fire by finding new housing for them at his own expense
 
+##### Rendition (noun)
+*ren-ˈdi-shən*
+- **a performance or interpretation of something: version**
+- **depiction, translation**
+	a moving _rendition_ of an old gospel song
+	a new _rendition_ of the text in English
+
 ##### Repair (noun / verb)
 *ri-ˈper*
 - **a popular gathering place**
