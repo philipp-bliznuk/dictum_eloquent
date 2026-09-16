@@ -210,6 +210,13 @@
 	We sat quietly on the porch, watching the *westering* sun slowly dip below the distant mountain range.
 	The old captain battened down the hatches, knowing that a fierce *wester* was blowing in from the sea.
 
+##### Wharf / Warf (noun)
+*ˈ(h)wȯrf*
+- **a structure built along or at an angle from the shore of navigable waters so that ships may lie alongside to receive and discharge cargo and passengers: pier, quay**
+- **the bank of a river or the shore of the sea**
+	tied the rowboat up at the *wharf*
+	Merchant sloops were tied up along the old wooden *warf*, their crews unloading crates of spices and timber into the warehouses.
+
 ##### Wheatear (noun)
 *ˈ(h)wēt-ˌir*
 - **any of various small Old World flycatchers (genus Oenanthe) (bird)**
