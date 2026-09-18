@@ -455,6 +455,12 @@
 	tried to project some _semblance_ of confidence even though public speaking terrified her
 	a used-car dealer with only a _semblance_ of honesty
 
+##### Sennight / Se'nnight (noun)
+*ˈse-ˌnīt*
+- **the space of seven nights and days: week**
+	The ship is scheduled to weigh anchor and set sail for Bristol this day *sennight*.
+	‘Weary *sennights* nine times nine shall he dwindle, peak and pine,’ cursed the witch upon the doomed captain.
+
 ##### Sensorium (noun)
 *sen-ˈsȯr-ē-əm*
 - **the parts of the brain or the mind concerned with the reception and interpretation of sensory stimuli**

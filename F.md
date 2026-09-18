@@ -597,6 +597,13 @@
 - **to give way: collapse**
 	trying to save a *foundering* career
 
+##### Fount (noun)
+*ˈfau̇nt*
+- **fountain, source**
+- **abundant source of supply**
+	The old professor was considered an inexhaustible *fount* of knowledge on medieval manuscripts.
+	‘Come, Thou *Fount* of every blessing, tune my heart to sing Thy grace,’ rang out the voices of the chapel choir.
+
 ##### Fracas (noun)
 *ˈfrā-kəs*
 - **a noisy quarrel: brawl**

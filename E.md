@@ -727,6 +727,14 @@
 	a politically _expedient_ decision
 	Marley found it *expedient* to maintain social relationships with gunmen and politicians from both political parties.
 
+##### Expiate (verb)
+*ˈek-spē-ˌāt*
+- **to make amends for**
+- **to extinguish the guilt incurred by**
+- **to put an end to**
+	Determined to *expiate* his past corruption, the former executive spent his remaining years funding public educational programs.
+	The king sought to *expiate* his transgression against the church by embarking on a long pilgrimage to the holy site.
+
 ##### Explicate (verb)
 *ˈek-splə-ˌkāt*
 - **to develop the implications of: analyze logically**
