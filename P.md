@@ -714,6 +714,17 @@ Peruke (noun)
 	They lived a quiet, _pious_ life.
 	I'm tired of hearing politicians making _pious_ pronouncements about their devotion to the people.
 
+##### Pip (noun / verb)
+*ˈpip*
+- **any of various human ailments / a feeling of irritation or annoyance**
+- **one of the dots used on dice and dominoes to indicate numerical value**
+- **spot, speck**
+- **a small fruit seed**
+- **one extraordinary of its kind**
+	listening to all that chat show blather gives me the _pip_
+	a black horse with white _pips_
+	that new sports car is a real _pip_
+
 ##### Piquant (adjective)
 *ˈpē-kənt*
 - **agreeably stimulating to the taste / having a pleasantly pungent, sharp, or spicy taste**

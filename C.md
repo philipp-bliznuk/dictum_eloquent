@@ -1272,6 +1272,13 @@ _ˈküt_
 - **a woman who endeavours without sincere affection to gain the attention and admiration of men**
 	She was a bit of a _coquette_.
 
+##### Corbel (noun / verb)
+*ˈkȯr-bəl*
+- **an architectural member that projects from within a wall and supports a weight**
+- **to furnish with or make into a corbel**
+	Massive stone *corbels* jutted from the upper fortress walls, supporting the heavy timber beams of the outer gallery.
+	The ancient builders used *corbeled* brickwork to narrow the wide chimney breast as it rose toward the roofline.
+
 ##### Cordite (noun)
 *ˈkȯr-ˌdīt*
 - **a smokeless powder composed of nitroglycerin, guncotton, and a petroleum substance usually gelatinized by addition of acetone and pressed into cords resembling brown twine**

@@ -867,6 +867,13 @@
 	theories that are _irreconcilable_ with each other
 	In both negotiations, opposing sides appear to have _irreconcilable_ demands.
 
+##### Irreparable (adjective)
+*i-ˈre-p(ə-)rə-bəl* / *ˌir-(r)ə-ˈper-ə-bəl*
+- **not reparable: irremediable**
+- **irreversible**
+	The oil spill did _irreparable_ harm to the bay.
+	The damage to their relationship was _irreparable_.
+
 ##### Irrepressible (adjective)
 *ˌir-i-ˈpre-sə-bəl*
 - **impossible to repress, restrain, or control**

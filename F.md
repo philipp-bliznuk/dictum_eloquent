@@ -695,6 +695,13 @@
 	sported a threadbare wardrobe and _frowsy_ hair
 	the abandoned house was dank and _frowsy_
 
+##### Fructify (verb)
+*ˈfrək-tə-ˌfī*
+- **to bear fruit**
+- **to make fruitful or productive**
+	After weeks of gentle rain and warm spring sunshine, the apple orchard began to blossom and *fructify*.
+	The grant provided the necessary funding to *fructify* years of theoretical research into a practical medical treatment.
+
 ##### Frugal (adjective)
 *ˈfrü-gəl*
 - **characterised by or reflecting economy the use of resources**
