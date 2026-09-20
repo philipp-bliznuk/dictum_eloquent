@@ -1475,6 +1475,13 @@ _ˈkau̇n-tᵊn-ən(t)s_
 	The corn _crake_ is considered a species at risk of extinction by the Royal Society for the Protection of Birds.
 	On the trail, Holt describes the nearby corn _crake_ to Kevin, who can’t see through his swollen eyes.
 
+##### Cranny (noun)
+*ˈkra-nē*
+- **a small break or slit: crevice**
+- **an obscure nook or corner**
+	We saw strange, colorful creatures in the _crannies_ of the reef while scuba diving.
+	We explored every _cranny_ of the old castle.
+
 ##### Crass (adjective)
 *ˈkras*
 - **guided by or indicative of base or materialistic values**

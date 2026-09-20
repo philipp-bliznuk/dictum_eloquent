@@ -441,6 +441,13 @@
 	Her supporters were _agog_ at the idea.
 	His talent as a painter is so enormous that you look at his surfaces with your mouth *agog* at the near-impossibility of it all.
 
+##### Agone (adjective / adverb)
+*ə-ˈgȯn*
+- **earlier than the present time: ago**
+- **elapsed in time**
+	Full twenty winters *agone*, a great fleet set sail from these shores, never to return.
+	The old bard sang fondly of youth, love, and glory in the golden summers long *agone*.
+
 ##### Agoraphobia (noun)
 *ˌa-g(ə-)rə-ˈfō-bē-ə*
 - **abnormal fear of being helpless in a situation from which escape may be difficult or embarrassing that is characterized initially often by panic or anticipatory anxiety and finally by the avoidance of open or public places**

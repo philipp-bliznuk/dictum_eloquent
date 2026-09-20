@@ -1021,6 +1021,14 @@
 	So long as nothing throws a _spanner_ in the works, looks like we’re all set for a happy holiday season.
 	The design has been around for more than 30 years and the rifle comes with a small *spanner* wrench to assist with takedown and assembly.
 
+##### Spar (noun / verb)
+*ˈspär*
+- **a stout rounded usually wood or metal piece (such as a mast, boom, gaff, or yard) used to support rigging**
+- **a movement of offense or defense in boxing**
+- **a sparring match or session**
+	Gale-force winds snapped the vessel's main *spar*, forcing the crew to cut loose the damaged yard and sail for shelter.
+	The two politicians continued to *spar* over economic policy throughout the broadcast, trading sharp retorts.
+
 ##### Spartan (adjective)
 *ˈspär-tᵊn*
 - **marked by strict self-discipline or self-denial**
