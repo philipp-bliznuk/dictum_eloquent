@@ -213,6 +213,13 @@
 	The procession is seen as a devotional prayer - a walking prayer - and is also called a _novena_.
 	Her mother started a _novena_, a nine-day period of prayer to ask for Casey's intercession on Mary's behalf.
 
+##### Nowise (adverb)
+*ˈnō-ˌwīz*
+- **not at all**
+- **no, never, nothing**
+	Though confronted with overwhelming odds, the commander was *nowise* dismayed by the enemy’s advance.
+	The unexpected turn of events did *nowise* alter the fundamental truth of their agreement.
+
 ##### Noxious (adjective)
 *ˈnäk-shəs*
 - **disagreeable, obnoxious**

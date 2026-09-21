@@ -384,6 +384,13 @@
 	He crossed the ballroom with rapid, *mincing* steps, holding his velvet cape above the dusty floor.
 	With their next 22 games against postseason contenders, there was no *mincing* words about the importance of the next few series.
 
+##### Minded (adjective)
+*ˈmīn-dəd*
+- **inclined, disposed, willing**
+- **having a mind especially of a specified kind or concerned with a specified thing -> usually used in combination**
+	Should the committee be *minded* to proceed with the proposal, the implementation phase will begin immediately.
+	The conference brought together thousands of like-*minded* scientists to discuss renewable energy solutions.
+
 ##### Mingy (adjective)
 *ˈmin-jē*
 - **mean, stingy**

@@ -911,6 +911,14 @@
 	They were _duly_ impressed by her speech.
 	The objections were _duly noted_.
 
+##### Dumb (adjective / verb)
+*ˈdəm*
+- **lacking the ability to speak: mute**
+- **not expressed in uttered words**
+- **silent, taciturn**
+	When the unexpected verdict was read aloud, the defendant stood *dumb* with shock, unable to utter a single word.
+	The travelers gazed down in *dumb* amazement at the ancient city carved directly into the canyon wall.
+
 ##### Dungaree (noun)
 *ˌdəŋ-gə-ˈrē*
 - **a heavy coarse durable cotton twill woven from colored yarns / blue denim**

@@ -1115,6 +1115,13 @@
 	She pinned a beautiful *spray* of white orchids to the lapel of her suit jacket.
 	On the dining room table sat a crystal vase holding a single, elegant *spray* of pink cherry blossoms.
 
+##### Sprent (adjective)
+*ˈsprent*
+- **sprinkled over**
+- **flecked with liquid, light, or fine particles**
+	The morning sun rose bright over the meadow, glistening upon the dew-*sprent* clover.
+	The knight’s polished silver shield was *sprent* with red droplets following the fierce skirmish.
+
 ##### Sprightly (adjective)
 *ˈsprīt-lē*
 - **full of life and vivacity: spirited**

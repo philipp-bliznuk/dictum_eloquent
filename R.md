@@ -895,6 +895,13 @@
 	The inn has a _rustic_ atmosphere.
 	a _rustic_ who was awed by the prices that city dwellers had to pay
 
+##### Ruth (noun)
+*ˈrüth*
+- **compassion for the misery of another: sympathy**
+- **sorrow for one's own faults: remorse**
+	The conqueror felt a sudden pang of *ruth* upon seeing the plight of the defeated townspeople, ordering his men to spare the city.
+	Moved by *ruth* for the orphaned traveler, the villagers offered him food and shelter from the winter storm.
+
 ##### Rut (noun / verb)
 *ˈrət*
 - **a periodic and often annually recurring state of certain male animals (such as deer or elk) during which behavior associated with the urge to breed is displayed**
