@@ -140,6 +140,14 @@
 	And the woman, whose voice had risen to a kind of *eldritch* singsong, turned with a skip, and was gone.
 	the film works its whimsically *eldritch* spell through inspired casting, brilliant editing, and subtly astonishing special effects
 
+##### Elegiac (adjective)
+*ˌe-lə-ˈjī-ək*
+- **of, relating to, or comprising elegy or an elegy**
+- **expressive sorrow, mournful lamentation, or poetic verse written in memory of the dead**
+- **somber, lonesome, depressing**
+	The cello soloist played with an *elegiac* beauty, filling the hall with a poignant sense of loss and remembrance.
+	Thomas Gray’s masterpiece, set in an English churchyard, remains one of the finest examples of *elegiac* verse in the language.
+
 ##### Elicit (verb)
 *i-ˈli-sət*
 - **to call forth or draw out (something, such as information or a response)**
