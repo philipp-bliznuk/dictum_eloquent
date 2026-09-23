@@ -24,6 +24,13 @@
 - **the superior of a monastery for men**
 	The _abbot_ later said the temple would cover her medical expenses, according to Pairat.
 
+##### Abed (adjective / adverb)
+*ə-ˈbed*
+- **in bed**
+- **to bed**
+	While the farmhands were already out in the fields at dawn, the lord remained comfortably *abed*.
+	The gentle pitter-patter of rain upon the cottage roof kept him contentedly *abed* through the chilly morning.
+
 ##### Abet (verb)
 *ə-ˈbet*
 - **to actively second and encourage (something, such as an activity or plan)**
@@ -1199,6 +1206,13 @@ _ə-ˈskan(t)s_
 - **imposing, solemn**
 	We visited their _august_ mansion and expansive grounds.
 	The family claims an _august_ lineage.
+
+##### Aureole (noun)
+*ˈȯr-ē-ˌōl*
+- **a radiant light around the head or body of a representation of a sacred personage: halo**
+- **radiance, aura**
+	In the medieval fresco, a shimmering golden *aureole* framed the head of the patron saint.
+	As the autumn mist drifted across the valley, a pale *aureole* formed around the full moon.
 
 ##### Aurochs (noun)
 *ˈau̇-ˌräks*

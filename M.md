@@ -377,6 +377,12 @@
 	political radicals with a _militant_ unwillingness to compromise on any issue
 	_militant_ protesters rallied against the new law
 
+##### Minaret (noun)
+*ˌmi-nə-ˈret*
+- **a tall slender tower of a mosque having one or more balconies from which the summons to prayer is cried by the muezzin**
+	The city skyline was dominated by the soaring *minarets* of the ancient mosque, their carved stone balconies catching the evening sun.
+	At dawn, the melodious chant echoed from the height of the central *minaret*, awakening the sleeping quarter below.
+
 ##### Mincing (adjective)
 *ˈmin(t)-siŋ*
 - **affectedly dainty or delicate / taking short, fast, self-conscious steps**

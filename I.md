@@ -249,6 +249,14 @@
 	she mistakenly believed that she could insult people with _impunity_
 	The hasty British withdrawal left the field clear for anyone to loot, burn, rape and murder with *impunity*.
 
+##### Impurpurate (verb / adjective)
+*im-pər-ˈpyu̇r-ˌāt*
+- **to make purple: empurpled**
+- **flushed, or glowing with deep crimson, violet, or wine-red hues**
+- **clothed in imperial purple garments, symbolic of royalty, noble status, or lofty majesty**
+	The evening horizon flared in *impurpurate* hues as the setting sun cast deep crimson and violet shadows across the clouds.
+	In all his *impurpurate* splendor, the Byzantine emperor mounted the dais surrounded by his guard.
+
 ##### Inadvertent (adjective)
 *ˌi-nəd-ˈvər-tᵊnt*
 - **unintentional**

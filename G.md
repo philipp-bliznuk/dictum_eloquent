@@ -442,6 +442,14 @@
 	I don't _grudge_ paying my share.
 	He has nursed a _grudge_ against his former boss for years.
 
+##### Gruel (noun)
+*ˈgrü-əl*
+- **a thin porridge**
+- **something that lacks substance or significance**
+- **British: punishment ("to get one's gruel" - to accept punishment)**
+	The workhouse master stared in disbelief when the young orphan dared to ask for an extra portion of thin *gruel*.
+	To help ease the feverish child's stomach, the apothecary recommended a light *gruel* boiled from crushed barley and milk.
+
 ##### Grunt (noun)
 *ˈgrənt*
 - **a U.S. army or marine foot soldier especially in the Vietnam War**

@@ -320,6 +320,12 @@ _bi-ˈreft_
 	The soil would have had to be removed from the site and not be used in the *berm*.
 	Most of the roads have a bike lane, ‘sharrows,’ or wide *berm*.
 
+##### Beryl (noun)
+*ˈber-əl*
+- **a mineral consisting of a silicate of beryllium and aluminum of great hardness that occurs in colorless hexagonal prisms when pure and in various colors (such as green, blue, yellow, or pink) when not pure, that is valued as a source of gems, and that is the principal source of beryllium**
+	The pegmatite veins contained hexagonal crystals of *beryl*, including gem-quality pale blue aquamarines.
+	The clear mountain stream flowed over smooth pebbles, revealing water of a pale, luminous *beryl*.
+
 ##### Besagew / Besague (noun)
 *ˈbɛs.ə.ɡju*
 - **a circular (or at least vaguely circular) piece of plate armour that fitted onto the upper chest area of a breastplate or cuirass to protect the shoulder-joint from the front by covering the gap between breastplate and pauldron**
@@ -509,6 +515,15 @@ _bi-ˈsä-təd_
 - **to proclaim flamboyantly**
 	Rock music _blared_ through the store from the loudspeakers.
 	the _blare_ of electric guitars
+
+##### Blazon (noun / verb)
+*ˈblā-zᵊn*
+- **armorial bearings: coat of arms**
+- **ostentatious display**
+- **to publish widely: proclaim**
+- **to display, to adorn**
+	The official herald unrolled the parchment to read the knight's *blazon* before the joust began.
+	The company's new logo was *blazoned* across billboards, buses, and storefronts throughout the city.
 
 ##### Bleat (verb / noun)
 *ˈblēt*

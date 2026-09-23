@@ -802,6 +802,13 @@ Peruke (noun)
 	_pleat_ ribbons
 	Her skirt has _pleats_ at the waist.
 
+##### Plenilune (noun)
+*ˈplēnəˌlün*
+- **the time of full moon**
+- **the full moon**
+	The silent waters of the lake mirrored the silver brilliance of the *plenilune* as it reached its highest arc.
+	Ancient folklore held that rare night-blooming herbs gathered under the light of the *plenilune* possessed potent healing virtues.
+
 ##### Plinth (noun)
 *ˈplin(t)th*
 - **a usually square block serving as a base**

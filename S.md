@@ -448,6 +448,13 @@
 	The band smoothly _segued_ from one song to the next.
 	She quickly _segued_ to the next topic.
 
+##### Selenite (noun)
+*ˈse-lə-ˌnīt*
+- **a variety of gypsum occurring in transparent crystals or crystalline masses**
+- **a chemical salt containing the selenite anion**
+	The cave walls were encrusted with giant columns of clear *selenite*, which glinted like ice under the miners' lamps.
+	With an impressive rock collection, guests can purchase a polished rock of crystal or various minerals like *selenite*, green calcite, apophyllite, citrine, obsidian, rose quartz, pink tourmaline and more.
+
 ##### Semblance (noun)
 *ˈsem-blən(t)s*
 - **actual or apparent resemblance**
@@ -610,6 +617,12 @@
 - **furnished or equipped with a shoe**
 	The limiting factor here is that both cars are _shod_ with all-season tires; a sports sedan like the GLI deserves stickier rubber.
 	Ennamorati was charged with an additional assault and battery with dangerous weapon for using a _shod_ foot.
+
+##### Shoon (noun)
+*ˈshün* / *ˈshōn*
+- **chiefly dialectal plural of shoe**
+	"These *shoon* cannot be made for siller," said the old man solemnly.
+	The weary traveler kicked off his dusty *shoon* before resting beside the hearth.
 
 ##### Shrewd (adjective)
 *ˈshrüd*
