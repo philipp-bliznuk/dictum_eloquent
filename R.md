@@ -164,6 +164,14 @@
 	we drove off at a _rattling_ pace
 	a _rattling_ good storyteller
 
+##### Ravel (verb / noun)
+*ˈra-vəl*
+- **to become unwoven, untwisted, or unwound: fray**
+- **to become entangled or confused**
+- **something entangled / something unraveled**
+	The tailor carefully began to *ravel* the hem of the antique garment to salvage the silk threads.
+	Rather than clarifying the issue, the conflicting testimony served only to *ravel* the investigation further.
+
 ##### Raven (adjective / verb)
 *ˈrā-vən*
 - **shiny and black like a raven's feathers**

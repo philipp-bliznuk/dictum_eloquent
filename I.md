@@ -908,3 +908,10 @@
 - **a traveler's guidebook**
 	Our _itinerary_ included stops at several famous cathedrals.
 	I'll mail you a copy of my _itinerary_ so you'll know where to reach me.
+
+##### Insuperable (adjective)
+*(ˌ)in-ˈsü-p(ə-)rə-bəl*
+- **incapable of being surmounted, overcome, passed over, or solved**
+- **insurmountable**
+	Despite months of rigorous negotiation, the conflicting territorial claims proved to be an *insuperable* obstacle to reaching a peace treaty.
+	The steep, ice-slicked cliffs presented an *insuperable* wall to the weary travelers, forcing them to turn back before nightfall.

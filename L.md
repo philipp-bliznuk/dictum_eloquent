@@ -212,6 +212,14 @@
 	a wide choice of _lavatories_ on sale at plumbing supply stores
 	the school's filthy, broken-down _lavatories_ were a disgrace
 
+##### Lave (verb / noun)
+*ˈlāv*
+- **wash, bathe**
+- **pour**
+- **something that is left: residue**
+	The weary traveler knelt by the mountain stream to *lave* his dusty face and hands in the icy water.
+	While three scouts went ahead into the pass, the *lave* of the company waited in the forest below.
+
 ##### Lax (adjective)
 *ˈlaks*
 - **not tense, firm, or rigid: slack**
