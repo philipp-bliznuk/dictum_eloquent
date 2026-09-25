@@ -134,6 +134,13 @@
 	most people can't imagine the kind of _elation_ that comes with winning a super lottery's grand prize, but they're dying to find out
 	Another Bruce Springsteen tour on-sale; another bout of _elation_ among those who procured tickets.
 
+##### Eld (noun)
+*ˈeld*
+- **old age**
+- **old times: antiquity**
+	The ancient oak had stood upon the hilltop since days of *eld*, whispering stories of long-forgotten kings.
+	Though bent by the heavy burden of *eld*, the old scholar's eyes retained their sharp, youthful vitality.
+
 ##### Eldritch (adjective)
 *ˈel-drich*
 - **strange or unnatural especially in a way that inspires fear: weird, eerie**

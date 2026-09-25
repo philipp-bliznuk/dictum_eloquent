@@ -1212,6 +1212,12 @@ Peruke (noun)
 	all life on Earth supposedly came from a _primordial_ ooze in existence many millions of years ago
 	*primordial* human joys
 
+##### Primus inter pares (noun)
+*ˈprī-məs-ˌin-tər-ˈpa-rēz*
+- **first among equals**
+	Under the parliamentary system, the Prime Minister functions as a *primus inter pares*, relying on cabinet consensus rather than presidential decree.
+	Though elected dean of the faculty, she viewed her role as *primus inter pares*, working alongside her fellow professors as a peer.
+
 ##### Princeps (noun)
 *ˈprinˌseps*
 - **the head of the state under the Roman Empire**
@@ -1494,6 +1500,14 @@ Peruke (noun)
 - **implies minute, even excessive attention to fine points**
 	She's very _punctilious_ about grammar.
 	old-money aristocrats with a _punctilious_ sense of propriety
+
+##### Pundit (noun)
+*ˈpən-dət*
+- **a wise or learned man in India -> often used as an honorary title: pandit**
+- **a learned person: teacher**
+- **a person who gives opinions in an authoritative manner usually through the mass media: critic**
+	a moral question that has puzzled the _pundits_ throughout the ages
+	the new mini laptop has gotten a thumbs-up from industry _pundits_
 
 ##### Punitive (adjective)
 *ˈpyü-nə-tiv*
