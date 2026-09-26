@@ -1045,6 +1045,14 @@
 	the claim that the state's long-standing antitax attitude is _conducive_ to entrepreneurship
 	the noisy environment of the dorms was not very _conducive_ to studying
 
+##### Confabulate (verb)
+*kən-ˈfa-byə-ˌlāt*
+- **to talk informally: chat**
+- **to hold a discussion: confer**
+- **to fill in gaps in memory by fabrication**
+	The two scholars stood by the hearth to *confabulate* over rare manuscripts long into the evening.
+	Due to severe memory loss, the patient would unwittingly *confabulate* detailed, elaborate accounts of daily events that never actually occurred.
+
 ##### Confectionary / Confectionery (noun)
 *kən-ˈfek-shə-ˌner-ē* / *kən-ˈfek-shə-ˌner-ē*
 - **sweets**
