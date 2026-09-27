@@ -561,6 +561,16 @@
 	He showed great _forbearance_ in his dealings with them.
 	we thank you for your _forbearance_ while we attend to the technical difficulties interrupting the TV program
 
+##### Forebear (verb / noun)
+*fȯr-ˈber*
+- **to hold oneself back from especially with an effort: abstain**
+- **to control oneself when provoked: be patient**
+- **ancestor, forefather**
+- **precursor -> usually plural**
+	He carefully *forbore* any mention of her name for fear of upsetting them.
+	We decided to *forbear* from provoking him any further.
+	His *forebears* fought in the American Revolution.
+
 ##### Foreknow (verb)
 *(ˌ)fȯr-ˈnō*
 - **to have previous knowledge of**

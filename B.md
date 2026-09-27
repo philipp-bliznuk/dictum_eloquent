@@ -255,6 +255,13 @@
 	He _bellowed_ at her to come over at once.
 	He was _bellowing_ into the phone, giving orders to one of his employees.
 
+##### Bellwether (noun)
+*ˈbel-ˈwe-t͟hər*
+- **one that takes the lead or initiative: leader**
+- **an indicator of trends: pioneer**
+	She is a _bellwether_ of fashion.
+	a county that is a _bellwether_ in national elections
+
 ##### Benediction (noun)
 *ˌbe-nə-ˈdik-shən*
 - **the invocation of a blessing**
