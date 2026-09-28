@@ -38,6 +38,13 @@
 	She _abetted_ the thief in his getaway.
 	Their actions were shown to _abet_ terrorism.
 
+##### Abeyance (noun)
+*ə-ˈbā-ən(t)s*
+- **a state of temporary inactivity: suspension -> used chiefly in the phrase "in abeyance"**
+- **a lapse in succession during which there is no person in whom a title is vested**
+	Her artistic ambitions remained in *abeyance* for several years while she managed the family estate.
+	The court decided to place the environmental lawsuit in *abeyance* pending the outcome of the new federal inquiry.
+
 ##### Abhorrence (noun)
 *əb-ˈhȯr-ən(t)s*
 - **the act or state of abhorring or despising something or someone: loathing**

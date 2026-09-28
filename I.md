@@ -490,6 +490,13 @@
 - **not to be persuaded, moved, or stopped: relentless**
 	the _inexorable_ rise of a political movement
 
+##### In extenso (adverb)
+*ˌin-ik-ˈsten(t)-(ˌ)sō*
+- **at full length**
+- **in complete detail or without omission or abridgement**
+	The treaty was published *in extenso* in the official gazette so that every citizen could read the exact terms.
+	Rather than relying on brief excerpts, the historian insisted on quoting the 17th-century letter *in extenso*.
+
 ##### Infanticide (noun)
 *in-ˈfan-tə-ˌsīd*
 - **the killing of an infant**
@@ -666,6 +673,13 @@
 - **of, relating to, or constituting an island**
 	the _insular_ world of boarding schools
 	an _insular_ community that is not receptive of new ideas, especially from outsiders
+
+##### Insuperable (adjective)
+*(ˌ)in-ˈsü-p(ə-)rə-bəl*
+- **incapable of being surmounted, overcome, passed over, or solved**
+- **insurmountable**
+	Despite months of rigorous negotiation, the conflicting territorial claims proved to be an *insuperable* obstacle to reaching a peace treaty.
+	The steep, ice-slicked cliffs presented an *insuperable* wall to the weary travelers, forcing them to turn back before nightfall.
 
 ##### Insurgent (noun / adjective)
 *in-ˈsər-jənt*
@@ -908,10 +922,3 @@
 - **a traveler's guidebook**
 	Our _itinerary_ included stops at several famous cathedrals.
 	I'll mail you a copy of my _itinerary_ so you'll know where to reach me.
-
-##### Insuperable (adjective)
-*(ˌ)in-ˈsü-p(ə-)rə-bəl*
-- **incapable of being surmounted, overcome, passed over, or solved**
-- **insurmountable**
-	Despite months of rigorous negotiation, the conflicting territorial claims proved to be an *insuperable* obstacle to reaching a peace treaty.
-	The steep, ice-slicked cliffs presented an *insuperable* wall to the weary travelers, forcing them to turn back before nightfall.
