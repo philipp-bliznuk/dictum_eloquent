@@ -1538,6 +1538,13 @@
 	Judging by the satisfied look that settles on both men's faces, the meal was *sublime*.
 	He composed some of the most _sublime_ symphonies in existence.
 
+##### Suborn (verb)
+*sə-ˈbȯrn*
+- **to induce secretly to do an unlawful thing**
+- **to induce to commit perjury**
+	The defense attorney was disbarred after prosecutors proved he had attempted to *suborn* perjury by offering money to a key witness.
+	In Shakespeare's historical dramas, ambitious nobles frequently plot to *suborn* servants to betray their lords.
+
 ##### Subterfuge (noun)
 *ˈsəb-tər-ˌfyüj*
 - **deception by artifice or stratagem in order to conceal, escape, or evade**
