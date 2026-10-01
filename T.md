@@ -456,6 +456,13 @@
 	Before planting the vegetable garden, she used a gas-powered *tiller* to loosen the hard soil.
 	The captain firmly gripped the wooden *tiller* to keep the sailboat on course against the strong wind.
 
+##### Tilth (noun)
+*ˈtilth*
+- **cultivated land: tillage**
+- **the state of aggregation of a soil especially in relation to its suitability for crop growth**
+	Adding compost to the heavy clay in our garden significantly improved its *tilth*, making it much easier to dig and plant.
+	Before sowing the carrot seeds, the farmer raked the topsoil until it reached a fine, crumbly *tilth*.
+
 ##### Timbre (noun)
 *ˈtam-bər*
 - **the resonance by which the ear recognizes and identifies a voiced speech sound**

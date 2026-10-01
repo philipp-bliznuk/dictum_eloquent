@@ -459,6 +459,13 @@
 	Oscar Wilde was a master of the *epigram*, famously remarking, 'I can resist everything except temptation.'
 	The speechwriter distilled a complex economic policy into a single memorable *epigram* that dominated the evening news.
 
+##### Epistemic (adjective)
+*ˌe-pə-ˈstē-mik*
+- **of or relating to knowledge or knowing: cognitive**
+- **a degree of validation/truth of a statement**
+	The scientist cautioned that her conclusions carried *epistemic* uncertainty because the sample size was too small to draw definitive conclusions.
+	When evaluating news sources, it is important to practice *epistemic* humility by acknowledging what we do not yet know.
+
 ##### Epistle (noun)
 *i-ˈpi-səl*
 - **capitalized: one of the letters adopted as books of the New Testament**

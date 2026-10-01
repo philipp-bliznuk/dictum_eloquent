@@ -133,6 +133,14 @@
 	Knights in *panoply* were ready for battle.
 	The nobles were in *panoply* for the coronation.
 
+##### Pansy (noun / adjective)
+*ˈpan-zē*
+- **a garden plant ("Viola wittrockiana") derived chiefly from the hybridization of the European Johnny-jump-up ("Viola tricolor") with other wild violets**
+- **a weak or effeminate man or boy -> used as a term of abuse and disparagement**
+- **a gay man -> used as a term of abuse and disparagement**
+	We planted purple and yellow *pansies* in the window boxes to bring color to the garden during early spring.
+	Despite the chilly autumn temperatures, the *pansies* continued to bloom bright and strong.
+
 ##### Pap (noun)
 *ˈpap*
 - **something shaped like a nipple**
