@@ -1027,6 +1027,13 @@
 	found a variety of uses for the _spalls_ left over from their stonecutting operations
 	When _spalling_ occurs on the exterior of the concrete, material can break off and fall onto the road below.
 
+##### Spangle (noun / verb)
+*ˈspaŋ-gəl*
+- a small plate of shining metal or plastic used for ornamentation especially on clothing
+- a small glittering object or particle
+	showgirls dressed in costumes with gold _spangles_
+	in typical Las Vegas fashion, the showgirls' sequined costumes _spangled_ gloriously
+
 ##### Spanner (noun)
 *ˈspa-nər*
 - **wrench**
