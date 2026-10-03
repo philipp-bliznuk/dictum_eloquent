@@ -373,6 +373,22 @@
 	*In lieu of* flowers, donations can be made to the American Cancer Society.
 	I have decided that *in lieu of* a going-away shower, those who wish to go in on a nice gift for her can see me after church.
 
+##### Lilting (adjective)
+*ˈlil-tiŋ*
+- **characterized by a rhythmical swing or cadence**
+- **cheerful, buoyant**
+- **describes a sound, voice, or musical cadence that moves with a light, rhythmic, and cheerful rising-and-falling rhythm**
+	She spoke with a warm, *lilting* accent that instantly put everyone in the room at ease.
+	A *lilting* flute melody floated through the air, drifting out from the open window."
+
+##### Lilt (noun / verb)
+*ˈlilt*
+- **a spirited and usually cheerful song or tune**
+- **a rhythmical swing, flow, or cadence**
+- **a springy buoyant movement**
+	There was a charming *lilt* to her voice.
+	a tune with a *lilt*
+
 ##### Limpid (adjective)
 *ˈlim-pəd*
 - **suggests the soft clearness of pure water: pellucid**
@@ -386,7 +402,7 @@
 	As the sun began to set, the harsh desert horizon softened into a *liquescent* glow of violets and deep oranges.
 	The soprano’s voice was truly *liquescent*, flowing over the high notes with a seamless, watery grace that left the audience spellbound.
 
-##### Lissome (adjective)
+##### Lissome / Lissom (adjective)
 *ˈli-səm*
 - **easily flexed: lithe**
 - **nimble, graceful**

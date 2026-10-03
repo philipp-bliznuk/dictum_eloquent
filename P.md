@@ -831,6 +831,13 @@ Peruke (noun)
 	We _plodded_ through mud that came up past our ankles.
 	He _plodded_ through his work.
 
+##### Plotter (noun)
+*ˈplä-tər*
+- **one that plots: a person who schemes or conspires**
+- **a contriver of a literary plot**
+	Investigators uncovered a secret document detailing the *plotters'* plan to overthrow the government.
+	Authorities alleged the *plotters* planned to assemble and detonate devices in suicide attacks.
+
 ##### Ploy (noun)
 *ˈplȯi*
 - **escapade, frolic**

@@ -304,6 +304,13 @@
 	had a quick _tête-à-tête_ with my neighbor before heading off to work
 	met _tête-à-tête_ with the student's parents to discuss his disciplinary problems in class
 
+##### Thane (noun)
+*ˈthān*
+- **one resembling a feudal baron by holding lands of and performing military service for the king**
+- **a feudal lord in Anglo-Saxon England or medieval Scotland**
+	In Shakespeare's tragedy, Macbeth is originally rewarded with the title of *Thane* of Cawdor for his bravery on the battlefield.
+	The Anglo-Saxon king summoned every local *thane* to gather their soldiers and defend the realm against the invading forces.
+
 ##### Thence (adverb)
 *ˈt͟hen(t)s*
 - **from that place**
@@ -875,6 +882,13 @@
 - **a dish in which food may be baked and served**
 	The delegates would have started with _tureens_ of soup set at both ends of the table.
 	Place the soup in a _tureen_ and add the raw whole egg right from shell to garnish soup.
+
+##### Tussock (noun)
+*ˈtə-sək*
+- **a compact tuft especially of grass or sedge**
+- **an area of raised solid ground in a marsh or bog that is bound together by roots of low vegetation**
+	Hikers struggled to maintain their balance as they stepped carefully from one muddy *tussock* to another across the marsh.
+	Golden *tussock* grasses covered the rolling hills, swaying gently in the high-altitude wind.
 
 ##### Tutelage (noun)
 *ˈtü-tə-lij*

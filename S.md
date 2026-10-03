@@ -368,6 +368,13 @@
 	DuVall says a secondary kitchen (sometimes called a prep kitchen or a _scullery_) is also increasingly desired.
 	When possible, move countertop appliances into a _scullery_, pantry, or cupboard.
 
+##### Scullion (noun)
+*ˈskəl-yən*
+- **a servant assigned to perform menial tasks in a kitchen, such as washing dishes, scrubbing pots, peeling vegetables, and sweeping floors**
+- **can also be used as a archaic insult to imply someone is low-born or insignificant**
+	Before rising to become the castle's head chef, he began his career as a lowly *scullion* washing greasy iron pots.
+	The angry nobleman dismissed the servant, shouting that he would not take advice from a mere *scullion*.
+
 ##### Scurry (verb)
 *ˈskər-ē*
 - **to move in or as if in a brisk pace: scamper**
