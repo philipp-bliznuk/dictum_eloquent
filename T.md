@@ -343,6 +343,12 @@
 	The contract was signed by the CEO, and the official company seal was stamped *therewith*.
 	The king issued the royal decree, and *therewith* ended a decades-long feud between the two families.
 
+##### Thew (noun)
+*ˈthü*
+- **muscular power or development: strength, vitality**
+- **muscle, sinew -> usually plural**
+	The blacksmith worked the anvil all afternoon, his broad shoulders showing the impressive *thews* built from years of heavy labor.
+	It took all the warrior's physical *thew* and endurance to pull the heavy iron gate open.
 ##### Thimble (noun)
 *ˈthim-bəl*
 - **a pitted cap or cover worn on the finger to push the needle in sewing**

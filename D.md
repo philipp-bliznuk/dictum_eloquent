@@ -955,6 +955,13 @@
 	He gave the information _under duress_.
 	complied with the order only under _duress_
 
+##### Durst (verb)
+*ˈdərst*
+- **archaic and dialectal past tense of dare: dared**
+- **means "had the courage or audacity to do something"**
+	Not a single knight *durst* challenge the champion when he stepped into the tournament ring.
+	She looked at her stern grandfather and barely *durst* speak a word in reply.
+
 ##### Dyspepsia (noun)
 *dis-ˈpep-shə*
 - **indigestion**

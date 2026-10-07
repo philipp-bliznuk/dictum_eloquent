@@ -269,6 +269,14 @@
 	that old _adage_, “the early bird gets the worm”
 	As the popular _adage_ goes, Superman is not walking through that door.
 
+##### Adder (noun)
+*ˈa-dər*
+- **the common venomous viper ("Vipera berus") of Europe / any of various snakes of the viper family**
+- **any of several North American snakes (such as the hognose snakes) that are harmless but are popularly believed to be venomous**
+- **a device (as in a computer) that performs addition**
+	Hikers were advised to wear sturdy boots to protect against *adders* basking in the sunny heather.
+	In computer architecture class, we learned how a full *adder* circuit combines binary digits to perform basic addition.
+
 ##### Addled (adjective)
 *ˈa-dᵊld*
 - **thrown into confusion: confused**
