@@ -903,6 +903,14 @@ _ə-ˈper-əl_
 	an _ardent_ supporter of human rights
 	an *ardent* sun
 
+##### Ardor / Ardour (noun)
+*ˈär-dər*
+- **an often restless or transitory warmth of feeling: zeal, enthusiasm**
+- **extreme vigor or energy: intensity**
+- **sexual excitement**
+	She spoke about her research on marine life with an infectious *ardour* that captivated the entire audience.
+	Despite facing several setbacks early in the match, the team defended their goal with fierce *ardour* until the final whistle.
+
 ##### Arduous (adjective)
 *ˈär-jə-wəs*
 - **hard to accomplish or achieve: difficult**
@@ -1311,3 +1319,11 @@ _ə-ˈskan(t)s_
 - **canopy, tent**
 	stayed under the _awning_ outside the shop during the rainstorm
 	The shape of the *awning* gives you far more wind, rain, and sun protection.
+
+##### Aye / Ay (adverb / noun)
+*ˈī*
+- **yes**
+- **an affirmative vote or voter**
+- **always, continually, ever**
+	When the chairperson called for the vote, a loud chorus of *ayes* echoed through the council chamber.
+	I *aye* thought that she was the loveliest woman I ever laid eyes on

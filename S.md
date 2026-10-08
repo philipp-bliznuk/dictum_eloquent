@@ -762,6 +762,14 @@
 	London reviewers _slagged_ off the new play for being another kitchen-sink drama.
 	When the smelters smashed the furnace and the molten *slag* flowed out, what remained were precious lumps of copper.
 
+##### Slake (verb)
+*ˈslāk*
+- **to lessen the force of: moderate**
+- **subside, abate**
+- **satisfy, quench**
+	After running ten miles in the afternoon heat, an ice-cold glass of lemonade was the only thing that could *slake* his thirst.
+	The museum's interactive exhibit helped to *slake* the young students' curiosity about space exploration.
+
 ##### Slalom (noun / verb)
 *ˈslä-ləm*
 - **skiing in a zigzag or wavy course between upright obstacles (such as flags)**
@@ -1119,6 +1127,14 @@
 - **a light air-filled structure or a winglike part protruding from the hull of a seaplane to steady it on water**
 	With a nod of approval from Mike, Johnson placed his son on a _sponson_ of the 26-foot hull.
 	The _sponsons_ will be able to store plenty of fuel, too, with tanks designed to hold the renewable biofuel of the future.
+
+##### Spoor (noun / verb)
+*ˈspu̇r*
+- **a track, a trail, a scent, or droppings especially of a wild animal**
+- **a trace by which the progress of someone or something may be followed**
+- **to track by a spoor**
+	The experienced tracker kneeled in the damp dirt to examine the fresh *spoor* left by the leopard.
+	Hunters followed the *spoor* through the dense forest until the trail disappeared into the rocky riverbed.
 
 ##### Spout (verb / noun)
 *ˈspau̇t*

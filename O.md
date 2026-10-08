@@ -87,6 +87,13 @@
 	a pile of _offal_ from the tannery operating in the neighborhood
 	The butchers were allowed to keep the *offal* for their troubles.
 
+##### Oftentimes (adverb)
+*ˈȯ-fən-ˌtīmz*
+- **on many occasions: often**
+- **frequently, constantly**
+	When learning a new language, students *oftentimes* make simple grammatical errors before gaining confidence.
+	During the rainy season, the local rivers *oftentimes* overflow their banks and flood the nearby farmland.
+
 ##### Ogle (verb / noun)
 *ˈō-gəl*
 - **to glance with amorous invitation or challenge: gawk**

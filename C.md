@@ -77,6 +77,13 @@
 	The cow _calved_ in the barn.
 	The approach was tested using real satellite observations of icebergs _calved_ from Petermann Glacier and other locations in north-west Greenland.
 
+##### Camerlengo (noun)
+*ˌka-mər-ˈleŋ-(ˌ)gō*
+- **a cardinal who is appointed by the pope and charged with specific duties (such as certifying the pope's death and preparing a conclave) during a papal interregnum**
+- **a cardinal who manages the financial administrative duties of the Vatican and serves as the temporary head of the Holy See during the period between a pope's death or resignation and the election of a successor**
+	Upon the death of the Pope, the *camerlengo* officially certified the vacancy of the Holy See and assumed temporary administrative control of the Vatican.
+	As *camerlengo*, the cardinal was tasked with sealing the papal apartments and organizing the upcoming conclave.
+
 ##### Campion (noun)
 *ˈkam-pē-ən*
 - **any of various plants (genera 'Lychnis' and 'Silene') of the pink family**
