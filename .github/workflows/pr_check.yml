@@ -1,0 +1,68 @@
+name: pr check
+
+on:
+  pull_request:
+  push:
+    branches: [master]
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  python:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: ./.github/actions/setup_env
+      - name: ruff format
+        run: uv run -- ruff format --check .
+      - name: ruff lint
+        run: uv run -- ruff check .
+      - name: bandit
+        run: uv run -- bandit -c pyproject.toml -r app.py dictum gunicorn.conf.py
+      - name: migrations in sync
+        run: |
+          uv run -- alembic upgrade head
+          uv run -- alembic check
+        env:
+          DATABASE_URL: sqlite+aiosqlite:///./ci.db
+          DATA_DIR: ./data
+      - name: tests
+        run: uv run -- pytest
+
+  ui:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ui
+    steps:
+      - uses: actions/checkout@v7
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version-file: ui/package.json
+      - run: bun install --frozen-lockfile
+      - run: bun run check
+      - run: bun run build
+
+  container:
+    runs-on: ubuntu-latest
+    needs: [python, ui]
+    steps:
+      - uses: actions/checkout@v7
+      - name: build image
+        run: podman build -f docker/Containerfile -t dictum:ci .
+      - name: smoke
+        run: |
+          echo "MW_API_KEY=" > .env
+          mkdir -p data
+          podman run -d --name dictum -p 3000:3000 --env-file .env \
+            -e PUID=1000 -e PGID=1000 -v "$PWD/data:/data:Z" dictum:ci
+          for i in $(seq 1 30); do
+            curl -fsS http://127.0.0.1:3000/api/health && break
+            sleep 2
+          done
+          curl -fsS http://127.0.0.1:3000/api/health
+          curl -fsS http://127.0.0.1:3000/ | grep -q '<div id="app">'
+          podman logs dictum
+          podman rm -f dictum

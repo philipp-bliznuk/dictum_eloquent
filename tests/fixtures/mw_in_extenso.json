@@ -1,0 +1,66 @@
+[
+ {
+  "meta": {
+   "id": "in extenso",
+   "uuid": "b4c8fe82-2d51-4a43-bc2c-bbe0ba1fb4d7",
+   "sort": "101446000",
+   "src": "collegiate",
+   "section": "alpha",
+   "stems": [
+    "in extenso"
+   ],
+   "offensive": false
+  },
+  "hwi": {
+   "hw": "in ex*ten*so",
+   "prs": [
+    {
+     "mw": "ˌin-ik-ˈsten(t)-(ˌ)sō",
+     "sound": {
+      "audio": "inexte01",
+      "ref": "c",
+      "stat": "1"
+     }
+    }
+   ]
+  },
+  "fl": "adverb",
+  "def": [
+   {
+    "sseq": [
+     [
+      [
+       "sense",
+       {
+        "dt": [
+         [
+          "text",
+          "{bc}at full length "
+         ],
+         [
+          "vis",
+          [
+           {
+            "t": "the passage was quoted {it}in extenso{/it}"
+           }
+          ]
+         ]
+        ]
+       }
+      ]
+     ]
+    ]
+   }
+  ],
+  "et": [
+   [
+    "text",
+    "Medieval Latin"
+   ]
+  ],
+  "date": "1826",
+  "shortdef": [
+   "at full length"
+  ]
+ }
+]

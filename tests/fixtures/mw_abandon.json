@@ -1,0 +1,473 @@
+[
+ {
+  "meta": {
+   "id": "abandon:1",
+   "uuid": "968e42ac-5d9d-42d9-bb14-37c69b0c0f8f",
+   "sort": "010062000",
+   "src": "collegiate",
+   "section": "alpha",
+   "stems": [
+    "abandon",
+    "abandoned",
+    "abandoner",
+    "abandoners",
+    "abandoning",
+    "abandons"
+   ],
+   "offensive": false
+  },
+  "hom": 1,
+  "hwi": {
+   "hw": "aban*don",
+   "prs": [
+    {
+     "mw": "ə-ˈban-dən",
+     "sound": {
+      "audio": "abando01",
+      "ref": "c",
+      "stat": "1"
+     }
+    }
+   ]
+  },
+  "fl": "verb",
+  "ins": [
+   {
+    "if": "aban*doned"
+   },
+   {
+    "if": "aban*don*ing"
+   },
+   {
+    "if": "aban*dons"
+   }
+  ],
+  "def": [
+   {
+    "vd": "transitive verb",
+    "sseq": [
+     [
+      [
+       "sense",
+       {
+        "sn": "1 a",
+        "dt": [
+         [
+          "text",
+          "{bc}to give up to the control or influence of another person or agent"
+         ]
+        ]
+       }
+      ],
+      [
+       "sense",
+       {
+        "sn": "b",
+        "dt": [
+         [
+          "text",
+          "{bc}to give up with the intent of never again claiming a right or interest in "
+         ],
+         [
+          "vis",
+          [
+           {
+            "t": "{wi}abandon{/wi} property"
+           }
+          ]
+         ]
+        ]
+       }
+      ]
+     ],
+     [
+      [
+       "sense",
+       {
+        "sn": "2",
+        "dt": [
+         [
+          "text",
+          "{bc}to withdraw from often in the face of danger or encroachment "
+         ],
+         [
+          "vis",
+          [
+           {
+            "t": "{wi}abandon{/wi} ship"
+           },
+           {
+            "t": "soldiers forced to {wi}abandon{/wi} their position"
+           }
+          ]
+         ]
+        ]
+       }
+      ]
+     ],
+     [
+      [
+       "sense",
+       {
+        "sn": "3",
+        "dt": [
+         [
+          "text",
+          "{bc}to withdraw protection, support, or help from "
+         ],
+         [
+          "vis",
+          [
+           {
+            "t": "he {wi}abandoned{/wi} his family"
+           }
+          ]
+         ]
+        ]
+       }
+      ]
+     ],
+     [
+      [
+       "sense",
+       {
+        "sn": "4",
+        "dt": [
+         [
+          "text",
+          "{bc}to give (oneself) over unrestrainedly "
+         ],
+         [
+          "vis",
+          [
+           {
+            "t": "{wi}abandoned{/wi} himself to a life of self-indulgence"
+           }
+          ]
+         ]
+        ]
+       }
+      ]
+     ],
+     [
+      [
+       "sense",
+       {
+        "sn": "5 a",
+        "dt": [
+         [
+          "text",
+          "{bc}to cease from maintaining, practicing, or using "
+         ],
+         [
+          "vis",
+          [
+           {
+            "t": "{wi}abandoned{/wi} their native language"
+           }
+          ]
+         ]
+        ]
+       }
+      ],
+      [
+       "sense",
+       {
+        "sn": "b",
+        "dt": [
+         [
+          "text",
+          "{bc}to cease intending or attempting to perform "
+         ],
+         [
+          "vis",
+          [
+           {
+            "t": "{wi}abandoned{/wi} the escape"
+           }
+          ]
+         ]
+        ]
+       }
+      ]
+     ]
+    ]
+   }
+  ],
+  "uros": [
+   {
+    "ure": "aban*don*er",
+    "fl": "noun"
+   }
+  ],
+  "syns": [
+   {
+    "pl": "synonyms",
+    "pt": [
+     [
+      "text",
+      "{sc}abandon{/sc} {sc}desert{/sc} {sc}forsake{/sc} mean to leave without intending to return. {sc}abandon{/sc} suggests that the thing or person left may be helpless without protection. "
+     ],
+     [
+      "vis",
+      [
+       {
+        "t": "{it}abandoned{/it} children"
+       }
+      ]
+     ],
+     [
+      "text",
+      " {sc}desert{/sc} implies that the object left may be weakened but not destroyed by one's absence. "
+     ],
+     [
+      "vis",
+      [
+       {
+        "t": "a {it}deserted{/it} town"
+       }
+      ]
+     ],
+     [
+      "text",
+      " {sc}forsake{/sc} suggests an action more likely to bring impoverishment or bereavement to that which is forsaken than its exposure to physical dangers. "
+     ],
+     [
+      "vis",
+      [
+       {
+        "t": "a {it}forsaken{/it} lover"
+       }
+      ]
+     ]
+    ],
+    "sarefs": [
+     "relinquish"
+    ]
+   }
+  ],
+  "et": [
+   [
+    "text",
+    "Middle English {it}abandounen{/it}, borrowed from Anglo-French {it}abanduner{/it}, derivative of {it}abandun{/it} \"surrender, abandonment,\" from the phrase {it}a bandun{/it} \"in one's power, at one's disposal,\" from {it}a{/it} \"at, to\" (going back to Latin {it}ad{/it} \"to\") + {it}bandun{/it} \"jurisdiction,\" going back to a Gallo-Romance derivative of Old Low Franconian {it}*bann-{/it} \"summons, command\" (with {it}-d-{/it} probably from outcomes of Germanic {it}*bandwō{/it} \"sign\") {ma}{mat|at:1|}, {mat|ban:1|}, {mat|banner:1|}{/ma}"
+   ]
+  ],
+  "date": "14th century{ds||1|b|}",
+  "shortdef": [
+   "to give up to the control or influence of another person or agent",
+   "to give up with the intent of never again claiming a right or interest in",
+   "to withdraw from often in the face of danger or encroachment"
+  ]
+ },
+ {
+  "meta": {
+   "id": "abandon:2",
+   "uuid": "fab53ece-1366-44a9-906e-115518b4848d",
+   "sort": "010063000",
+   "src": "collegiate",
+   "section": "alpha",
+   "stems": [
+    "abandon",
+    "abandons"
+   ],
+   "offensive": false
+  },
+  "hom": 2,
+  "hwi": {
+   "hw": "abandon"
+  },
+  "fl": "noun",
+  "def": [
+   {
+    "sseq": [
+     [
+      [
+       "sense",
+       {
+        "dt": [
+         [
+          "text",
+          "{bc}a thorough yielding to natural impulses"
+         ]
+        ],
+        "sdsense": {
+         "sd": "especially",
+         "dt": [
+          [
+           "text",
+           "{bc}{sx|enthusiasm||}, {sx|exuberance||} "
+          ],
+          [
+           "vis",
+           [
+            {
+             "t": "with reckless {wi}abandon{/wi}"
+            }
+           ]
+          ]
+         ]
+        }
+       }
+      ]
+     ]
+    ]
+   }
+  ],
+  "et": [
+   [
+    "text",
+    "borrowed from French, in part derivative of {it}abandonner{/it} \"to abandon,\" in part going back to Old French {it}abandon, abandun{/it} \"surrender\" {ma}{mat|abandon:1|}{/ma}"
+   ]
+  ],
+  "date": "1815",
+  "shortdef": [
+   "a thorough yielding to natural impulses; especially : enthusiasm, exuberance"
+  ]
+ },
+ {
+  "meta": {
+   "id": "abandon oneself to",
+   "uuid": "0963006c-abcf-4e1a-a90c-572e11c41482",
+   "sort": "350008000",
+   "src": "ld",
+   "section": "idioms",
+   "stems": [
+    "abandon oneself to"
+   ],
+   "offensive": false
+  },
+  "hwi": {
+   "hw": "abandon oneself to"
+  },
+  "fl": "phrase",
+  "def": [
+   {
+    "sls": [
+     "literary"
+    ],
+    "sseq": [
+     [
+      [
+       "sense",
+       {
+        "dt": [
+         [
+          "text",
+          "{bc}to allow oneself to be fully controlled or affected by (something, such as a strong emotion) "
+         ],
+         [
+          "vis",
+          [
+           {
+            "t": "He {it}abandoned himself to{/it} despair."
+           }
+          ]
+         ]
+        ]
+       }
+      ]
+     ]
+    ]
+   }
+  ],
+  "shortdef": [
+   "to allow oneself to be fully controlled or affected by (something, such as a strong emotion)"
+  ]
+ },
+ {
+  "meta": {
+   "id": "with reckless abandon",
+   "uuid": "869c539e-def3-492c-a235-e30cc92ca5c5",
+   "sort": "366737000",
+   "src": "ld",
+   "section": "idioms",
+   "stems": [
+    "with reckless abandon"
+   ],
+   "offensive": false
+  },
+  "hwi": {
+   "hw": "with reckless abandon"
+  },
+  "fl": "phrase",
+  "def": [
+   {
+    "sseq": [
+     [
+      [
+       "sense",
+       {
+        "dt": [
+         [
+          "text",
+          "{bc}in a very wild and reckless way "
+         ],
+         [
+          "vis",
+          [
+           {
+            "t": "She decided {it}with reckless abandon{/it} to quit her job and move to Tahiti."
+           }
+          ]
+         ]
+        ]
+       }
+      ]
+     ]
+    ]
+   }
+  ],
+  "shortdef": [
+   "in a very wild and reckless way"
+  ]
+ },
+ {
+  "meta": {
+   "id": "abandon/drop all pretense at",
+   "uuid": "4a6cea36-cd15-4561-80de-ace07af14309",
+   "sort": "350007000",
+   "src": "ld",
+   "section": "idioms",
+   "stems": [
+    "abandon all pretense at",
+    "abandon/drop all pretense at",
+    "drop all pretense at"
+   ],
+   "offensive": false
+  },
+  "hwi": {
+   "hw": "abandon/drop all pretense at"
+  },
+  "fl": "phrase",
+  "def": [
+   {
+    "sseq": [
+     [
+      [
+       "sense",
+       {
+        "dt": [
+         [
+          "text",
+          "{bc}to stop acting or appearing in a way that looks real but is false {bc}to stop pretending "
+         ],
+         [
+          "vis",
+          [
+           {
+            "t": "He {it}abandoned/dropped all pretense at{/it} politeness."
+           }
+          ]
+         ]
+        ]
+       }
+      ]
+     ]
+    ]
+   }
+  ],
+  "shortdef": [
+   "to stop acting or appearing in a way that looks real but is false : to stop pretending"
+  ]
+ }
+]

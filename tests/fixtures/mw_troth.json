@@ -1,0 +1,228 @@
+[
+ {
+  "meta": {
+   "id": "troth:1",
+   "uuid": "c3e4ded7-11d8-47d6-864d-0dbbe1ce36b9",
+   "sort": "244358000",
+   "src": "collegiate",
+   "section": "alpha",
+   "stems": [
+    "troth",
+    "troths"
+   ],
+   "offensive": false
+  },
+  "hom": 1,
+  "hwi": {
+   "hw": "troth",
+   "prs": [
+    {
+     "mw": "ˈträth",
+     "sound": {
+      "audio": "troth001",
+      "ref": "c",
+      "stat": "1"
+     }
+    },
+    {
+     "mw": "ˈtrȯth"
+    },
+    {
+     "mw": "ˈtrōth",
+     "sound": {
+      "audio": "troth002",
+      "ref": "c",
+      "stat": "1"
+     }
+    },
+    {
+     "l": "or with",
+     "mw": "t͟h"
+    }
+   ]
+  },
+  "fl": "noun",
+  "def": [
+   {
+    "sseq": [
+     [
+      [
+       "sense",
+       {
+        "sn": "1",
+        "dt": [
+         [
+          "text",
+          "{bc}loyal or pledged faithfulness {bc}{sx|fidelity||} "
+         ],
+         [
+          "vis",
+          [
+           {
+            "t": "pledged my {wi}troth{/wi}"
+           }
+          ]
+         ]
+        ]
+       }
+      ]
+     ],
+     [
+      [
+       "sense",
+       {
+        "sn": "2",
+        "dt": [
+         [
+          "text",
+          "{bc}one's pledged word "
+         ],
+         [
+          "vis",
+          [
+           {
+            "t": "… I don't remember the details or, by my {wi}troth{/wi}, even the gist …",
+            "aq": {
+             "auth": "Stanley Elkin"
+            }
+           }
+          ]
+         ]
+        ],
+        "sdsense": {
+         "sd": "also",
+         "dt": [
+          [
+           "text",
+           "{bc}{sx|betrothal||}"
+          ]
+         ]
+        }
+       }
+      ]
+     ]
+    ]
+   }
+  ],
+  "et": [
+   [
+    "text",
+    "Middle English {it}trouth{/it}, from Old English {it}trēowth{/it} {ma}{mat|truth|}{/ma}"
+   ]
+  ],
+  "date": "12th century{ds||1||}",
+  "shortdef": [
+   "loyal or pledged faithfulness : fidelity",
+   "one's pledged word; also : betrothal"
+  ]
+ },
+ {
+  "meta": {
+   "id": "troth:2",
+   "uuid": "936fc4e1-b525-4b5e-9dfe-e9625ba733a9",
+   "sort": "244359000",
+   "src": "collegiate",
+   "section": "alpha",
+   "stems": [
+    "troth",
+    "trothed",
+    "trothing",
+    "troths"
+   ],
+   "offensive": false
+  },
+  "hom": 2,
+  "hwi": {
+   "hw": "troth"
+  },
+  "fl": "verb",
+  "ins": [
+   {
+    "if": "trothed"
+   },
+   {
+    "if": "troth*ing"
+   },
+   {
+    "if": "troths"
+   }
+  ],
+  "def": [
+   {
+    "vd": "transitive verb",
+    "sseq": [
+     [
+      [
+       "sense",
+       {
+        "dt": [
+         [
+          "text",
+          "{bc}{sx|pledge||}, {sx|betroth||}"
+         ]
+        ]
+       }
+      ]
+     ]
+    ]
+   }
+  ],
+  "date": "14th century",
+  "shortdef": [
+   "pledge, betroth"
+  ]
+ },
+ {
+  "meta": {
+   "id": "plight one's troth",
+   "uuid": "5883b6c0-6eef-4b55-93ed-ea0a68699400",
+   "sort": "361963000",
+   "src": "ld",
+   "section": "idioms",
+   "stems": [
+    "plight her troth",
+    "plight his troth",
+    "plight one's troth",
+    "plight their troth"
+   ],
+   "offensive": false
+  },
+  "hwi": {
+   "hw": "plight one's troth"
+  },
+  "fl": "phrase",
+  "def": [
+   {
+    "sls": [
+     "old-fashioned"
+    ],
+    "sseq": [
+     [
+      [
+       "sense",
+       {
+        "dt": [
+         [
+          "text",
+          "{bc}to promise to marry someone "
+         ],
+         [
+          "vis",
+          [
+           {
+            "t": "the garden where the lovers {it}plighted their troth{/it}"
+           }
+          ]
+         ]
+        ]
+       }
+      ]
+     ]
+    ]
+   }
+  ],
+  "shortdef": [
+   "to promise to marry someone"
+  ]
+ }
+]

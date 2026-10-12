@@ -1,0 +1,90 @@
+[
+ {
+  "meta": {
+   "id": "aide-de-camp",
+   "uuid": "00f4aaf3-6d04-413f-8815-8c53a77287fc",
+   "sort": "011660000",
+   "src": "collegiate",
+   "section": "alpha",
+   "stems": [
+    "aide-de-camp",
+    "aides-de-camp"
+   ],
+   "offensive": false
+  },
+  "hwi": {
+   "hw": "aide-de-camp",
+   "prs": [
+    {
+     "mw": "ˌād-di-ˈkamp",
+     "sound": {
+      "audio": "aide_d02",
+      "ref": "c",
+      "stat": "1"
+     }
+    },
+    {
+     "mw": "-ˈkäⁿ"
+    }
+   ]
+  },
+  "fl": "noun",
+  "ins": [
+   {
+    "il": "plural",
+    "if": "aides-de-camp",
+    "prs": [
+     {
+      "mw": "ˌād(z)-di-ˈkamp",
+      "sound": {
+       "audio": "aide_d03",
+       "ref": "c",
+       "stat": "1"
+      }
+     },
+     {
+      "mw": "-ˈkäⁿ"
+     }
+    ]
+   }
+  ],
+  "def": [
+   {
+    "sseq": [
+     [
+      [
+       "sense",
+       {
+        "dt": [
+         [
+          "text",
+          "{bc}a military aide"
+         ]
+        ],
+        "sdsense": {
+         "sd": "also",
+         "dt": [
+          [
+           "text",
+           "{bc}a civilian aide usually to an executive"
+          ]
+         ]
+        }
+       }
+      ]
+     ]
+    ]
+   }
+  ],
+  "et": [
+   [
+    "text",
+    "French {it}aide de camp{/it}, literally, camp assistant"
+   ]
+  ],
+  "date": "1670",
+  "shortdef": [
+   "a military aide; also : a civilian aide usually to an executive"
+  ]
+ }
+]

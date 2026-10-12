@@ -1,0 +1,291 @@
+[
+ {
+  "meta": {
+   "id": "colour",
+   "uuid": "5cdc3f1f-35f9-4059-86c5-5b8febbe8db8",
+   "sort": "040461000",
+   "src": "collegiate",
+   "section": "alpha",
+   "stems": [
+    "color",
+    "colour",
+    "coloured",
+    "colouring",
+    "colours"
+   ],
+   "offensive": false
+  },
+  "hwi": {
+   "hw": "col*our",
+   "prs": [
+    {
+     "mw": "ˈkə-lər",
+     "sound": {
+      "audio": "colour01",
+      "ref": "c",
+      "stat": "1"
+     }
+    }
+   ]
+  },
+  "cxs": [
+   {
+    "cxl": "chiefly British spelling of",
+    "cxtis": [
+     {
+      "cxt": "color"
+     }
+    ]
+   }
+  ],
+  "shortdef": []
+ },
+ {
+  "meta": {
+   "id": "colour supplement",
+   "uuid": "6fe59c0c-6837-4cd1-a8df-c7f0601a3ef1",
+   "sort": "351989000",
+   "src": "ld",
+   "section": "idioms",
+   "stems": [
+    "colour supplement"
+   ],
+   "offensive": false
+  },
+  "hwi": {
+   "hw": "colour supplement"
+  },
+  "fl": "noun",
+  "def": [
+   {
+    "sls": [
+     "British"
+    ],
+    "sseq": [
+     [
+      [
+       "sense",
+       {
+        "dt": [
+         [
+          "text",
+          "{bc}a magazine printed in color that is added to a newspaper usually on a Saturday or Sunday"
+         ]
+        ]
+       }
+      ]
+     ]
+    ]
+   }
+  ],
+  "shortdef": [
+   "a magazine printed in color that is added to a newspaper usually on a Saturday or Sunday"
+  ]
+ },
+ {
+  "meta": {
+   "id": "color bar",
+   "uuid": "ed0ff861-9242-4957-bd50-6ce79643348d",
+   "sort": "040424000",
+   "src": "collegiate",
+   "section": "alpha",
+   "stems": [
+    "break the color bar",
+    "break the colour bar",
+    "breaking the color bar",
+    "breaking the colour bar",
+    "breaks the color bar",
+    "breaks the colour bar",
+    "broke the color bar",
+    "broke the colour bar",
+    "color bar",
+    "color bars",
+    "colour bar",
+    "colour bars"
+   ],
+   "offensive": false
+  },
+  "hwi": {
+   "hw": "color bar"
+  },
+  "vrs": [
+   {
+    "vl": "US",
+    "va": "color bar"
+   },
+   {
+    "vl": "or British",
+    "va": "colour bar"
+   }
+  ],
+  "fl": "noun",
+  "ins": [
+   {
+    "il": "plural",
+    "if": "color bars"
+   }
+  ],
+  "def": [
+   {
+    "sseq": [
+     [
+      [
+       "sense",
+       {
+        "dt": [
+         [
+          "text",
+          "{bc}a set of societal or legal barriers that {d_link|segregates|segregate:1} people of color from white people (as by restricting social interaction or requiring separate facilities) and prevents people of color from exercising the same rights and accessing the same opportunities as white people {bc}{sx|color line||} "
+         ],
+         [
+          "vis",
+          [
+           {
+            "t": "\"Rosetta [LeNoire] did more than dream of a theater with no {wi}color bar{/wi}—she actually built one,\" he [Bill Clinton] said.",
+            "aq": {
+             "auth": "Douglas Martin"
+            }
+           }
+          ]
+         ],
+         [
+          "uns",
+          [
+           [
+            [
+             "text",
+             "usually used with {it}the{/it} "
+            ],
+            [
+             "vis",
+             [
+              {
+               "t": "In London, the department funded two student hostels, which aided the many students whom the {wi}color bar{/wi} prevented from finding decent lodging …",
+               "aq": {
+                "auth": "Aminatta Forna"
+               }
+              },
+              {
+               "t": "As a minor leaguer, he was one of five players who {phrase}broke the color bar{/phrase} in the South Atlantic League.",
+               "aq": {
+                "source": "{it}The (Mankato, Minnesota) Free Press{/it}"
+               }
+              }
+             ]
+            ]
+           ]
+          ]
+         ]
+        ]
+       }
+      ]
+     ]
+    ]
+   }
+  ],
+  "date": "1869",
+  "shortdef": [
+   "a set of societal or legal barriers that segregates people of color from white people (as by restricting social interaction or requiring separate facilities) and prevents people of color from exercising the same rights and accessing the same opportunities as white people : color line —usually used with the"
+  ]
+ },
+ {
+  "meta": {
+   "id": "color line",
+   "uuid": "a5a79df3-f765-46b9-9a6c-2ca8d6250d21",
+   "sort": "040447000",
+   "src": "collegiate",
+   "section": "alpha",
+   "stems": [
+    "break the color line",
+    "break the colour line",
+    "breaking the color line",
+    "breaking the colour line",
+    "breaks the color line",
+    "breaks the colour line",
+    "broke the color line",
+    "broke the colour line",
+    "color line",
+    "color lines",
+    "colour line",
+    "colour lines"
+   ],
+   "offensive": false
+  },
+  "hwi": {
+   "hw": "color line"
+  },
+  "vrs": [
+   {
+    "vl": "US",
+    "va": "color line"
+   },
+   {
+    "vl": "or British",
+    "va": "colour line"
+   }
+  ],
+  "fl": "noun",
+  "ins": [
+   {
+    "il": "plural",
+    "if": "color lines"
+   }
+  ],
+  "def": [
+   {
+    "sseq": [
+     [
+      [
+       "sense",
+       {
+        "dt": [
+         [
+          "text",
+          "{bc}a set of societal or legal barriers that {d_link|segregates|segregate:1} people of color from white people (as by restricting social interaction or requiring separate facilities) and prevents people of color from exercising the same rights and accessing the same opportunities as white people "
+         ],
+         [
+          "uns",
+          [
+           [
+            [
+             "text",
+             "usually used with {it}the{/it} "
+            ],
+            [
+             "vis",
+             [
+              {
+               "t": "His father … had grown up in California with Jackie Robinson, who {phrase}broke the color line{/phrase} in Major League Baseball.",
+               "aq": {
+                "auth": "Maureen O'Donnell"
+               }
+              }
+             ]
+            ]
+           ]
+          ]
+         ],
+         [
+          "ca",
+          {
+           "intro": "called also",
+           "cats": [
+            {
+             "cat": "color bar"
+            }
+           ]
+          }
+         ]
+        ]
+       }
+      ]
+     ]
+    ]
+   }
+  ],
+  "date": "1869",
+  "shortdef": [
+   "a set of societal or legal barriers that segregates people of color from white people (as by restricting social interaction or requiring separate facilities) and prevents people of color from exercising the same rights and accessing the same opportunities as white people —usually used with the —called also color bar"
+  ]
+ }
+]

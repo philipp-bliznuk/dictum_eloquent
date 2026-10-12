@@ -1,0 +1,30 @@
+services:
+  dictum:
+    image: dictum:local
+    build:
+      context: .
+      dockerfile: docker/Containerfile
+    container_name: dictum
+    restart: unless-stopped
+    env_file:
+      - path: .env
+        required: false
+    environment:
+      ENVIRONMENT: prod
+      DATA_DIR: /data
+      DATABASE_URL: sqlite+aiosqlite:////data/dictum.db
+      # Owner of ./data on the host; the entrypoint chowns the mount and drops to this user.
+      PUID: ${PUID:-1000}
+      PGID: ${PGID:-1000}
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./data:/data
+    # Repeated here on purpose: podman builds OCI images by default, which drop the
+    # HEALTHCHECK baked into the Containerfile. `$$` keeps `${BIND##*:}` for the shell.
+    healthcheck:
+      test: ["CMD-SHELL", "curl -fsS http://127.0.0.1:$${BIND##*:}/api/health || exit 1"]
+      interval: 30s
+      timeout: 5s
+      start_period: 20s
+      retries: 3

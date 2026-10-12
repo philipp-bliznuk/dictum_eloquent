@@ -1,0 +1,33 @@
+[
+ {
+  "meta": {
+   "id": "aggrandise",
+   "uuid": "8af89dfb-65e9-42d5-9edf-57037ae77202",
+   "sort": "011516000",
+   "src": "collegiate",
+   "section": "alpha",
+   "stems": [
+    "aggrandise",
+    "aggrandised",
+    "aggrandises",
+    "aggrandising",
+    "aggrandize"
+   ],
+   "offensive": false
+  },
+  "hwi": {
+   "hw": "ag*gran*dise"
+  },
+  "cxs": [
+   {
+    "cxl": "British spelling of",
+    "cxtis": [
+     {
+      "cxt": "aggrandize"
+     }
+    ]
+   }
+  ],
+  "shortdef": []
+ }
+]

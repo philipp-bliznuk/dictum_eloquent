@@ -1,0 +1,14 @@
+name: setup env
+description: install uv, python and project deps
+runs:
+  using: composite
+  steps:
+    - uses: astral-sh/setup-uv@v10
+      with:
+        enable-cache: true
+    - name: install python
+      shell: bash
+      run: uv python install
+    - name: sync deps
+      shell: bash
+      run: uv sync --frozen

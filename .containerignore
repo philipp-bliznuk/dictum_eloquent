@@ -1,0 +1,12 @@
+.git
+.venv
+.env
+.ruff_cache
+.pytest_cache
+__pycache__
+data
+tests
+ui/node_modules
+ui/dist
+*.md
+!README.md

@@ -1,0 +1,141 @@
+[project]
+name = "dictum-eloquent"
+version = "0.1.0"
+description = "Self-hosted vocabulary notebook: words, definitions, examples, pronunciation."
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "aiosqlite>=0.22.1",
+    "alembic>=1.20.0",
+    "boto3>=1.43.110",
+    "fastapi[standard]>=0.143.0",
+    "gunicorn>=26.2.0",
+    "httpx>=0.28.1",
+    "pydantic-settings>=2.15.0",
+    "rapidfuzz>=3.14.6",
+    "sqlalchemy[asyncio]>=2.1.4",
+    "sqlmodel>=0.0.48",
+    "uvicorn-worker>=0.4.0",
+    "uvicorn[standard]>=0.54.0",
+]
+
+[dependency-groups]
+dev = [
+    "bandit[toml]>=1.9.4",
+    "icecream>=2.2.0",
+    "pre-commit>=4.6.2",
+    "ruff>=0.16.10",
+]
+test = [
+    "gevent>=26.9.0",
+    "httpx>=0.28.1",
+    "pytest>=9.1.1",
+    "pytest-asyncio>=1.4.0",
+    "pytest-cov>=7.1.0",
+    "pytest-env>=1.7.1",
+    "pytest-instafail>=0.5.0",
+    "pytest-lazy-fixtures>=1.4.1",
+    "pytest-mock>=3.16.0",
+    "pytest-socket>=0.8.1",
+    "pytest-sugar>=1.1.1",
+    "pytest-timeout>=2.4.0",
+    "pytest-xdist>=3.8.0",
+]
+
+[tool.uv]
+package = false
+default-groups = ["dev", "test"]
+
+[tool.ruff]
+target-version = "py314"
+line-length = 120
+preview = true
+unsafe-fixes = true
+extend-exclude = ["migrations/versions"]
+
+[tool.ruff.format]
+docstring-code-format = true
+
+[tool.ruff.lint]
+select = ["ALL"]
+ignore = [
+    "undocumented-public-module",   # module docstring
+    "undocumented-public-package",   # package docstring
+    "undocumented-magic-method",   # magic method docstring
+    "undocumented-public-init",   # __init__ docstring
+    "incorrect-blank-line-before-class",   # conflicts with D211
+    "multi-line-summary-second-line",   # conflicts with D212
+    "missing-trailing-comma", # conflicts with formatter
+    "missing-copyright-notice", # copyright header
+    "docstring-missing-returns", # return doc redundant with annotations
+    "docstring-missing-exception", # raises doc
+    "boolean-positional-value-in-call", # positional bool in library calls
+    "no-self-use", # controllers / services are intentionally class-based
+]
+
+[tool.ruff.lint.per-file-ignores]
+"dictum/enums.py" = ["undocumented-public-class"]
+"dictum/models/**" = ["undocumented-public-class", "TC"]
+"dictum/schemas/**" = ["undocumented-public-class", "TC"]
+"dictum/services/transfer.py" = ["undocumented-public-class", "TC"]  # pydantic import/export models
+"dictum/routers/__init__.py" = ["non-empty-init-module"]
+"dictum/routers/**" = ["TC"]      # fastapi resolves endpoint annotations at runtime
+"dictum/dependencies/**" = ["TC"]
+"tests/**" = ["assert", "D", "magic-value-comparison", "ANN", "ARG", "no-self-use", "hardcoded-password-string", "hardcoded-password-func-arg"]
+"migrations/**" = ["D", "implicit-namespace-package", "ANN", "line-too-long"]
+
+[tool.ruff.lint.pydocstyle]
+convention = "google"
+
+[tool.ruff.lint.mccabe]
+max-complexity = 4
+
+[tool.ruff.lint.pylint]
+max-args = 4
+max-positional-args = 3
+max-bool-expr = 3
+max-branches = 5
+max-nested-blocks = 3
+
+[tool.ruff.lint.isort]
+force-single-line = true
+known-first-party = ["dictum", "app"]
+
+[tool.ruff.lint.flake8-bugbear]
+extend-immutable-calls = ["fastapi.Depends", "fastapi.Query", "fastapi.Header", "fastapi.Body", "fastapi.Path", "fastapi.File"]
+
+[tool.ruff.lint.flake8-type-checking]
+runtime-evaluated-base-classes = ["pydantic.BaseModel", "pydantic_settings.BaseSettings", "sqlmodel.SQLModel"]
+strict = true
+
+[tool.ruff.lint.flake8-annotations]
+mypy-init-return = true
+
+[tool.bandit]
+exclude_dirs = [".venv", "tests", "ui/node_modules"]
+severity = "low"
+confidence = "low"
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+asyncio_default_fixture_loop_scope = "function"
+timeout = 3
+addopts = "-n auto --disable-socket --allow-unix-socket --instafail --strict-markers --strict-config -p no:cacheprovider --cov=dictum --cov=app --cov-report=term-missing --cov-fail-under=95"
+testpaths = ["tests"]
+env = [
+    "ENVIRONMENT=test",
+    "DATABASE_URL=sqlite+aiosqlite://",
+    "DATA_DIR=/tmp/dictum-test-data",
+]
+filterwarnings = ["error"]
+
+[tool.coverage.run]
+branch = true
+concurrency = ["gevent", "thread"]
+omit = ["migrations/*"]
+
+[tool.coverage.report]
+fail_under = 95
+show_missing = true
+skip_covered = true
+exclude_also = ["if t.TYPE_CHECKING:", "raise NotImplementedError", "@t.overload"]

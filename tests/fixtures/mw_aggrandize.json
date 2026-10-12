@@ -1,0 +1,197 @@
+[
+ {
+  "meta": {
+   "id": "aggrandize",
+   "uuid": "40c55f96-5c67-489d-b9e7-f0ba3cedbe51",
+   "sort": "011517000",
+   "src": "collegiate",
+   "section": "alpha",
+   "stems": [
+    "aggrandize",
+    "aggrandized",
+    "aggrandizement",
+    "aggrandizements",
+    "aggrandizer",
+    "aggrandizers",
+    "aggrandizes",
+    "aggrandizing"
+   ],
+   "offensive": false
+  },
+  "hwi": {
+   "hw": "ag*gran*dize",
+   "prs": [
+    {
+     "mw": "ə-ˈgran-ˌdīz",
+     "sound": {
+      "audio": "aggran01",
+      "ref": "c",
+      "stat": "1"
+     }
+    },
+    {
+     "l": "also",
+     "mw": "ˈa-grən-"
+    }
+   ]
+  },
+  "fl": "verb",
+  "ins": [
+   {
+    "ifc": "-dized",
+    "if": "ag*gran*dized"
+   },
+   {
+    "ifc": "-diz*ing",
+    "if": "ag*gran*diz*ing"
+   }
+  ],
+  "def": [
+   {
+    "vd": "transitive verb",
+    "sseq": [
+     [
+      [
+       "sense",
+       {
+        "sn": "1",
+        "dt": [
+         [
+          "text",
+          "{bc}to make great or greater {bc}{sx|increase||}, {sx|enlarge||} "
+         ],
+         [
+          "vis",
+          [
+           {
+            "t": "{wi}aggrandize{/wi} an estate"
+           }
+          ]
+         ]
+        ]
+       }
+      ]
+     ],
+     [
+      [
+       "sense",
+       {
+        "sn": "2",
+        "dt": [
+         [
+          "text",
+          "{bc}to make appear great or greater {bc}praise highly"
+         ]
+        ]
+       }
+      ]
+     ],
+     [
+      [
+       "sense",
+       {
+        "sn": "3",
+        "dt": [
+         [
+          "text",
+          "{bc}to enhance the power, wealth, position, or reputation of "
+         ],
+         [
+          "vis",
+          [
+           {
+            "t": "exploited the situation to {wi}aggrandize{/wi} himself"
+           }
+          ]
+         ]
+        ]
+       }
+      ]
+     ]
+    ]
+   }
+  ],
+  "uros": [
+   {
+    "ure": "ag*gran*dize*ment",
+    "prs": [
+     {
+      "mw": "ə-ˈgran-dəz-mənt",
+      "sound": {
+       "audio": "aggran02"
+      }
+     },
+     {
+      "mw": "-ˌdīz-"
+     },
+     {
+      "l": "also",
+      "mw": "ˌa-grən-ˈdīz-"
+     }
+    ],
+    "fl": "noun"
+   },
+   {
+    "ure": "ag*gran*diz*er",
+    "prs": [
+     {
+      "mw": "ə-ˈgran-ˌdī-zər",
+      "sound": {
+       "audio": "aggran03",
+       "ref": "c",
+       "stat": "1"
+      }
+     },
+     {
+      "l": "also",
+      "mw": "ˈa-grən-"
+     }
+    ],
+    "fl": "noun"
+   }
+  ],
+  "et": [
+   [
+    "text",
+    "borrowed (with assimilation of the ending to {et_link|-ize|-ize}) from French {it}agrandiss-,{/it} stem of {it}agrandir,{/it} going back to Old French, from {it}a-,{/it} verb-forming prefix (going back to Latin {it}ad-{/it} {et_link|ad-|ad-}) + {it}-grandir,{/it} verbal derivative of {it}grand{/it} \"large, great,\" going back to Latin {it}grandis{/it} \"fully grown, large, great\" {ma}{mat|grand:1|}{/ma}"
+   ]
+  ],
+  "date": "1634{ds||1||}",
+  "shortdef": [
+   "to make great or greater : increase, enlarge",
+   "to make appear great or greater : praise highly",
+   "to enhance the power, wealth, position, or reputation of"
+  ]
+ },
+ {
+  "meta": {
+   "id": "aggrandise",
+   "uuid": "8af89dfb-65e9-42d5-9edf-57037ae77202",
+   "sort": "011516000",
+   "src": "collegiate",
+   "section": "alpha",
+   "stems": [
+    "aggrandise",
+    "aggrandised",
+    "aggrandises",
+    "aggrandising",
+    "aggrandize"
+   ],
+   "offensive": false
+  },
+  "hwi": {
+   "hw": "ag*gran*dise"
+  },
+  "cxs": [
+   {
+    "cxl": "British spelling of",
+    "cxtis": [
+     {
+      "cxt": "aggrandize"
+     }
+    ]
+   }
+  ],
+  "shortdef": []
+ }
+]

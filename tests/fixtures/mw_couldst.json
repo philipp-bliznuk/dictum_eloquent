@@ -1,0 +1,49 @@
+[
+ {
+  "meta": {
+   "id": "couldst",
+   "uuid": "f58aa2f8-0252-46cc-b485-153492a737ca",
+   "sort": "042583000",
+   "src": "collegiate",
+   "section": "alpha",
+   "stems": [
+    "can",
+    "couldst"
+   ],
+   "offensive": false
+  },
+  "hwi": {
+   "hw": "couldst",
+   "prs": [
+    {
+     "mw": "kədst"
+    },
+    {
+     "mw": "ˈku̇dst",
+     "sound": {
+      "audio": "coulds01",
+      "ref": "c",
+      "stat": "1"
+     }
+    },
+    {
+     "mw": "kətst"
+    },
+    {
+     "mw": "ˈku̇tst"
+    }
+   ]
+  },
+  "cxs": [
+   {
+    "cxl": "archaic past tense second-person singular of",
+    "cxtis": [
+     {
+      "cxt": "can"
+     }
+    ]
+   }
+  ],
+  "shortdef": []
+ }
+]

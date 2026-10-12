@@ -1,0 +1,46 @@
+[
+ {
+  "meta": {
+   "id": "put paid to",
+   "uuid": "85110854-3ed7-495a-970e-858171753cdc",
+   "sort": "184051500",
+   "src": "collegiate",
+   "section": "alpha",
+   "stems": [
+    "put paid to",
+    "puts paid to",
+    "putting paid to"
+   ],
+   "offensive": false
+  },
+  "hwi": {
+   "hw": "put paid to"
+  },
+  "fl": "phrase",
+  "def": [
+   {
+    "sls": [
+     "chiefly British"
+    ],
+    "sseq": [
+     [
+      [
+       "sense",
+       {
+        "dt": [
+         [
+          "text",
+          "{bc}to finish off {bc}bring an end to"
+         ]
+        ]
+       }
+      ]
+     ]
+    ]
+   }
+  ],
+  "shortdef": [
+   "to finish off : bring an end to"
+  ]
+ }
+]
