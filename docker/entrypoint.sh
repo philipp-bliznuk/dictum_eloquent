@@ -13,9 +13,11 @@ if [ "$(id -u)" = "0" ]; then
 		groupmod --non-unique --gid "${pgid}" app
 		usermod --non-unique --uid "${puid}" --gid "${pgid}" app
 	fi
-	mkdir -p "${data_dir}/audio"
-	chown -R "${puid}:${pgid}" "${data_dir}"
+	mkdir -p "${data_dir}/audio" /home/app
+	chown -R "${puid}:${pgid}" "${data_dir}" /home/app
 	echo "running as uid ${puid} gid ${pgid}"
+	# setpriv keeps the environment, so point HOME away from /root for the unprivileged process.
+	export HOME=/home/app
 	exec setpriv --reuid="${puid}" --regid="${pgid}" --init-groups /usr/local/bin/entrypoint.sh "$@"
 fi
 
