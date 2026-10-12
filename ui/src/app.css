@@ -55,7 +55,7 @@
   --serif: 'Iowan Old Style', Palatino, 'Palatino Linotype', 'Book Antiqua', Georgia, serif;
   --sans: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
   --mono: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace;
-  --top-h: 3.5rem;
+  --top-h: calc(3.5rem + env(safe-area-inset-top));
   --nav-h: calc(3.6rem + env(safe-area-inset-bottom));
   --content-w: 800px;
 }
@@ -193,6 +193,8 @@ main {
   position: sticky;
   top: 0;
   z-index: 20;
+  /* standalone iOS PWA draws under the status bar (viewport-fit=cover) */
+  padding-top: env(safe-area-inset-top);
   background: color-mix(in srgb, var(--bg-deep) 88%, transparent);
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
@@ -202,8 +204,8 @@ main {
 .topbar-inner {
   max-width: var(--content-w);
   margin: 0 auto;
-  min-height: var(--top-h);
-  padding: 0.45rem 1rem;
+  min-height: 3.5rem;
+  padding: 0.45rem max(1rem, env(safe-area-inset-right)) 0.45rem max(1rem, env(safe-area-inset-left));
   display: flex;
   align-items: center;
   gap: 0.75rem;
