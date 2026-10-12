@@ -12,3 +12,6 @@ keepalive = 5
 accesslog = "-"
 errorlog = "-"
 loglevel = os.environ.get("LOG_LEVEL", "info").lower()
+# gunicorn >= 25.1 opens a control socket under $XDG_RUNTIME_DIR or $HOME/.gunicorn.
+# Nothing talks to it here and the fallback path is not writable after dropping root.
+control_socket_disable = True

@@ -3,7 +3,7 @@ description: install uv, python and project deps
 runs:
   using: composite
   steps:
-    - uses: astral-sh/setup-uv@v10
+    - uses: astral-sh/setup-uv@v10.3.0
       with:
         enable-cache: true
     - name: install python
