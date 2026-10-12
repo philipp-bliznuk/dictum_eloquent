@@ -13,6 +13,8 @@ Personal vocabulary notebook. Self-hosted, LAN only, one container, SQLite on di
   `A.md`..`Z.md` layout
 - UI: Catppuccin Mocha, search bar on every page (`/` focuses it, arrow keys + Enter pick a hit,
   no hit offers "Add"), bottom tab bar on phones, top bar on wider screens
+- Installable: a web app manifest and icons let "Add to Home Screen" (iOS) or "Install app"
+  (Android, desktop Chrome) open it as a standalone app; offline mode is not provided
 
 ## Layout
 
