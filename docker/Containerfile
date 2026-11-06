@@ -46,7 +46,9 @@ COPY --chown=app:app dictum/ ./dictum/
 COPY --chown=app:app migrations/ ./migrations/
 COPY --chown=app:app docker/entrypoint.sh /usr/local/bin/entrypoint.sh
 COPY --from=ui --chown=app:app /ui/dist ./ui/dist
-RUN chmod +x /usr/local/bin/entrypoint.sh
+# COPY keeps the build host's modes (a default ACL or strict umask yields 0660), so normalise them:
+# root must read the entrypoint with every capability dropped, and any uid must read the app.
+RUN chmod 0755 /usr/local/bin/entrypoint.sh && chmod -R a+rX /app
 # No USER here: the entrypoint aligns `app` with PUID/PGID, chowns /data and drops privileges.
 # Rootless podman users may still pass --user / --userns=keep-id; the switch is then skipped.
 VOLUME ["/data"]
