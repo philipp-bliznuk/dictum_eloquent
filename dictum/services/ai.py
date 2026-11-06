@@ -1,7 +1,8 @@
 """Bedrock-backed drafting of definitions and example sentences.
 
-Every call uses the Converse API with forced tool use, so the model has to answer with JSON matching the
-tool schema. Anything else (truncated output, content filter, unexpected shape, AWS errors) becomes a
+Every call uses the Converse API with a structured output format (`outputConfig.textFormat`), so the
+model has to answer with JSON matching the schema; the API enforces the shape, the service validates
+it again. Anything else (truncated output, content filter, unexpected shape, AWS errors) becomes a
 `ProviderError` that the router turns into a 502; clients only ever see the AWS error code, never the
 message, because messages can carry the account ARN.
 """
@@ -20,6 +21,7 @@ import botocore.exceptions
 import pydantic
 
 from dictum.enums import DefinitionSource
+from dictum.enums import Effort
 from dictum.enums import ExampleSource
 from dictum.enums import SpellingKind
 from dictum.providers.base import ProviderError
@@ -57,7 +59,8 @@ PARTS_OF_SPEECH: t.Final = (
 SYSTEM_PROMPT: t.Final = (
     "You are a careful lexicographer helping an advanced English learner keep a personal dictionary. "
     "Write in the register of Merriam-Webster: concise, lower-case definitions without a leading article. "
-    "Answer only by calling the provided tool."
+    "Example sentences read like lines lifted from a good novel, a newspaper or a real conversation, each "
+    "one making its sense plain. Answer with the requested JSON only."
 )
 SENSE_POLICY: t.Final = (
     "Cover every distinct sense a well-read speaker may meet: common, literary, and archaic or obsolete ones alike. "
@@ -65,134 +68,136 @@ SENSE_POLICY: t.Final = (
     f"jargon only when it is the main use. Order definitions from most to least common, at most {MAX_SENSES_PER_POS} "
     "per part of speech."
 )
+EXAMPLE_POLICY: t.Final = (
+    "Every example must show its sense: a concrete, specific situation with a clearly drawn actor, place or object "
+    "and a telling detail, so that a reader meeting the word for the first time could infer this sense, and no "
+    "other sense of the word, from the sentence alone. Use the word in a grammatical frame and collocation typical "
+    "of that sense. Vary setting, register and sentence shape across the examples; avoid interchangeable stock "
+    "sentences, generic subjects such as 'the man' or 'they', fillers such as 'very', 'things' or 'something', and "
+    "never explain, paraphrase or define the word inside the sentence."
+)
 
 _BOTO_CONFIG: t.Final = botocore.config.Config(
     connect_timeout=5,
-    read_timeout=20,
+    read_timeout=60,
     retries={"total_max_attempts": 2, "mode": "standard"},
 )
+"""A whole-entry draft on a Sonnet-class model takes 10 to 25 s and arrives in one piece."""
 _BOLD = re.compile(r"\*\*(.+?)\*\*")
 _SHAPE_FAILURES: t.Final = (pydantic.ValidationError, KeyError, TypeError, IndexError, AttributeError)
+_SUCCESS: t.Final = "end_turn"
 
-_EXAMPLES_TOOL: t.Final[Json] = {
-    "name": "record_examples",
-    "description": "Record example sentences for each numbered definition.",
-    "inputSchema": {
-        "json": {
-            "type": "object",
-            "properties": {
-                "examples": {
-                    "type": "array",
-                    "items": {
-                        "type": "object",
-                        "properties": {
-                            "index": {
-                                "type": "integer",
-                                "minimum": 1,
-                                "description": "Number of the definition these sentences illustrate.",
-                            },
-                            "sentences": {"type": "array", "items": {"type": "string"}, "minItems": 1},
-                        },
-                        "required": ["index", "sentences"],
+# Structured output schemas. Bedrock supports a JSON Schema subset: `additionalProperties: false` is
+# mandatory on every object, item counts and numeric bounds are rejected and live in descriptions.
+_EXAMPLES_SCHEMA: t.Final[Json] = {
+    "type": "object",
+    "properties": {
+        "examples": {
+            "type": "array",
+            "description": "One group per numbered definition.",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "index": {
+                        "type": "integer",
+                        "description": "Number of the definition these sentences illustrate, starting at 1.",
                     },
+                    "sentences": {"type": "array", "items": {"type": "string"}, "description": "At least one."},
                 },
+                "required": ["index", "sentences"],
+                "additionalProperties": False,
             },
-            "required": ["examples"],
         },
     },
+    "required": ["examples"],
+    "additionalProperties": False,
 }
 
-_ENTRIES_TOOL: t.Final[Json] = {
-    "name": "record_entries",
-    "description": "Record dictionary entries for a word or phrase, one entry per part of speech.",
-    "inputSchema": {
-        "json": {
-            "type": "object",
-            "properties": {
-                "known": {
-                    "type": "boolean",
-                    "description": (
-                        "False when the text is not an English word or phrase you can define with confidence."
-                    ),
-                },
-                "entries": {
-                    "type": "array",
-                    "items": {
-                        "type": "object",
-                        "properties": {
-                            "spellings": {
-                                "type": "array",
-                                "items": {"type": "string"},
-                                "minItems": 1,
-                                "description": "Canonical spelling first, then accepted variants.",
+_ENTRIES_SCHEMA: t.Final[Json] = {
+    "type": "object",
+    "properties": {
+        "known": {
+            "type": "boolean",
+            "description": "False when the text is not an English word or phrase you can define with confidence.",
+        },
+        "entries": {
+            "type": "array",
+            "description": "One entry per part of speech; empty when known is false.",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "spellings": {
+                        "type": "array",
+                        "items": {"type": "string"},
+                        "description": "Canonical spelling first, then accepted variants; at least one.",
+                    },
+                    "part_of_speech": {"type": "string", "enum": list(PARTS_OF_SPEECH)},
+                    "pronunciation": {"type": "string", "description": "IPA transcription between slashes."},
+                    "definitions": {
+                        "type": "array",
+                        "description": f"1 to {MAX_SENSES_PER_POS} definitions, most common first.",
+                        "items": {
+                            "type": "object",
+                            "properties": {
+                                "text": {"type": "string"},
+                                "examples": {"type": "array", "items": {"type": "string"}},
                             },
-                            "part_of_speech": {"type": "string", "enum": list(PARTS_OF_SPEECH)},
-                            "pronunciation": {"type": "string", "description": "IPA transcription between slashes."},
-                            "definitions": {
-                                "type": "array",
-                                "minItems": 1,
-                                "maxItems": MAX_SENSES_PER_POS,
-                                "items": {
-                                    "type": "object",
-                                    "properties": {
-                                        "text": {"type": "string"},
-                                        "examples": {"type": "array", "items": {"type": "string"}},
-                                    },
-                                    "required": ["text", "examples"],
-                                },
-                            },
+                            "required": ["text", "examples"],
+                            "additionalProperties": False,
                         },
-                        "required": ["spellings", "part_of_speech", "definitions"],
                     },
                 },
+                "required": ["spellings", "part_of_speech", "definitions"],
+                "additionalProperties": False,
             },
-            "required": ["known", "entries"],
         },
     },
+    "required": ["known", "entries"],
+    "additionalProperties": False,
 }
 
 
-def _decode_json(value: object) -> object:
-    """Decode a nested array the model serialised as a JSON string (rare Claude tool-use quirk).
-
-    Non-strings and strings that are not JSON are returned untouched so the field's
-    own validation reports them.
-    """
-    if not isinstance(value, str):
-        return value
-    try:
-        return json.loads(value)
-    except ValueError:
-        return value
+def _format(*, name: str, description: str, schema: Json) -> Json:
+    """Converse `outputConfig.textFormat.structure.jsonSchema` definition; the schema travels as a string."""
+    return {"name": name, "description": description, "schema": json.dumps(schema)}
 
 
-_JSON: t.Final = pydantic.BeforeValidator(_decode_json)
+_EXAMPLES_FORMAT: t.Final[Json] = _format(
+    name="record_examples",
+    description="Example sentences for each numbered definition.",
+    schema=_EXAMPLES_SCHEMA,
+)
+_ENTRIES_FORMAT: t.Final[Json] = _format(
+    name="record_entries",
+    description="Dictionary entries for a word or phrase, one entry per part of speech.",
+    schema=_ENTRIES_SCHEMA,
+)
 
 
 class _ExampleGroup(pydantic.BaseModel):
     index: int
-    sentences: t.Annotated[list[str], _JSON]
+    sentences: list[str]
 
 
 class _ExamplesOutput(pydantic.BaseModel):
-    examples: t.Annotated[list[_ExampleGroup], _JSON]
+    examples: list[_ExampleGroup]
 
 
 class _DefinitionOutput(pydantic.BaseModel):
     text: str
-    examples: t.Annotated[list[str], _JSON] = []
+    examples: list[str] = []
 
 
 class _EntryOutput(pydantic.BaseModel):
-    spellings: t.Annotated[list[str], _JSON]
+    spellings: list[str]
     part_of_speech: str
     pronunciation: str | None = None
-    definitions: t.Annotated[list[_DefinitionOutput], _JSON]
+    definitions: list[_DefinitionOutput]
 
 
 class _EntriesOutput(pydantic.BaseModel):
     known: bool
-    entries: t.Annotated[list[_EntryOutput], _JSON] = []
+    entries: list[_EntryOutput] = []
 
 
 class BedrockClient(t.Protocol):
@@ -208,11 +213,12 @@ class AIConfig:
     """Model and generation settings."""
 
     model_id: str
-    max_tokens: int = 2048
-    """Output budget for example sentences."""
-    draft_max_tokens: int = 4096
+    max_tokens: int = 4096
+    """Output budget for example sentences; the model's reasoning, when it reasons, counts against it."""
+    draft_max_tokens: int = 8192
     """Output budget for whole entries: several parts of speech, up to `MAX_SENSES_PER_POS` senses each."""
-    temperature: float = 0.7
+    effort: Effort | None = Effort.MEDIUM
+    """`outputConfig.effort`; None leaves it out for models without the parameter (Claude 4.5 and older)."""
     concurrency: int = 2
     """Simultaneous Bedrock calls; also caps the worker threads blocked in `to_thread`."""
 
@@ -224,22 +230,22 @@ def _examples_prompt(*, word: str, part_of_speech: str, definitions: cabc.Sequen
         f"Write {per_definition} example sentences for every definition above, using its number as `index`. "
         f'Each sentence must be a complete, natural sentence of 8 to 20 words that uses "{word}" '
         "(an inflected form is fine) in exactly that sense, and must wrap the word or phrase as used in single "
-        f"asterisks, e.g. *{word}*. Vary context and register; never explain or define the word inside the sentence."
+        f"asterisks, e.g. *{word}*. {EXAMPLE_POLICY}"
     )
 
 
-def _entries_tool(*, parts_of_speech: cabc.Sequence[str]) -> Json:
-    """`_ENTRIES_TOOL` with its part-of-speech enum narrowed when every requested value is a known one.
+def _entries_format(*, parts_of_speech: cabc.Sequence[str]) -> Json:
+    """`_ENTRIES_FORMAT` with its part-of-speech enum narrowed when every requested value is a known one.
 
     Unknown labels (`plural noun`) leave the full enum in place; the prompt still asks for the restriction.
     """
     wanted = {p.casefold() for p in parts_of_speech}
     if not wanted or not wanted <= set(PARTS_OF_SPEECH):
-        return _ENTRIES_TOOL
-    tool = copy.deepcopy(_ENTRIES_TOOL)
-    entry_schema = tool["inputSchema"]["json"]["properties"]["entries"]["items"]
+        return _ENTRIES_FORMAT
+    schema = copy.deepcopy(_ENTRIES_SCHEMA)
+    entry_schema = schema["properties"]["entries"]["items"]
     entry_schema["properties"]["part_of_speech"]["enum"] = [p for p in PARTS_OF_SPEECH if p in wanted]
-    return tool
+    return _format(name=_ENTRIES_FORMAT["name"], description=_ENTRIES_FORMAT["description"], schema=schema)
 
 
 def _hints_block(*, hints: cabc.Sequence[str]) -> str:
@@ -267,7 +273,7 @@ def _entries_prompt(
         f"define with confidence, record one entry per part of speech{scope}: canonical spelling first followed by "
         "accepted variants, an IPA pronunciation, and concise dictionary-style definitions, "
         f"each with {per_definition} example sentences of 8 to 20 words that wrap the word or phrase as used in "
-        f"single asterisks, e.g. *{text}*. {SENSE_POLICY}{_hints_block(hints=hints)}\n\n"
+        f"single asterisks, e.g. *{text}*. {EXAMPLE_POLICY} {SENSE_POLICY}{_hints_block(hints=hints)}\n\n"
         "If it looks like a misspelling, a proper name, or is not English, set known to false and record no entries; "
         "never guess a correction."
     )
@@ -303,22 +309,23 @@ def _entry(*, item: _EntryOutput, word: str) -> DraftEntry | None:
     )
 
 
-def _tool_input(*, response: Json, tool: Json) -> Json:
+def _output_text(*, response: Json) -> str:
+    """The structured answer: the first text block; reasoning blocks, when the model reasons, come before it."""
     stop = response.get("stopReason")
-    if stop != "tool_use":
+    if stop != _SUCCESS:
         msg = f"{PROVIDER_NAME}: generation stopped ({stop})"
         raise ProviderError(msg)
     for block in response["output"]["message"]["content"]:
-        use = block.get("toolUse")
-        if use and use.get("name") == tool["name"]:
-            return use["input"]
-    msg = f"{PROVIDER_NAME}: no tool output"
+        text = block.get("text")
+        if isinstance(text, str):
+            return text
+    msg = f"{PROVIDER_NAME}: no text output"
     raise ProviderError(msg)
 
 
-def _parse[T: pydantic.BaseModel](*, response: Json, tool: Json, output: type[T]) -> T:
+def _parse[T: pydantic.BaseModel](*, response: Json, output: type[T]) -> T:
     try:
-        return output.model_validate(_tool_input(response=response, tool=tool))
+        return output.model_validate_json(_output_text(response=response))
     except _SHAPE_FAILURES as exc:
         log.warning("%s returned an unusable payload: %s", PROVIDER_NAME, exc)
         msg = f"{PROVIDER_NAME}: unusable model output"
@@ -347,7 +354,7 @@ class AIService:
             word=word, part_of_speech=part_of_speech, definitions=definitions, per_definition=per_definition
         )
         output = await self._call(
-            tool=_EXAMPLES_TOOL, prompt=prompt, model=_ExamplesOutput, max_tokens=self._config.max_tokens
+            fmt=_EXAMPLES_FORMAT, prompt=prompt, model=_ExamplesOutput, max_tokens=self._config.max_tokens
         )
         groups: dict[int, list[str]] = {}
         for group in output.examples:
@@ -375,7 +382,7 @@ class AIService:
         """
         prompt = _entries_prompt(text=text, per_definition=per_definition, hints=hints, parts_of_speech=parts_of_speech)
         output = await self._call(
-            tool=_entries_tool(parts_of_speech=parts_of_speech),
+            fmt=_entries_format(parts_of_speech=parts_of_speech),
             prompt=prompt,
             model=_EntriesOutput,
             max_tokens=self._config.draft_max_tokens,
@@ -385,19 +392,25 @@ class AIService:
         drafts = (_entry(item=item, word=text) for item in output.entries)
         return merge_by_part_of_speech(entries=(d for d in drafts if d is not None))
 
-    async def _call[T: pydantic.BaseModel](self, *, tool: Json, prompt: str, model: type[T], max_tokens: int) -> T:
+    async def _call[T: pydantic.BaseModel](self, *, fmt: Json, prompt: str, model: type[T], max_tokens: int) -> T:
         async with self._semaphore:
-            response = await asyncio.to_thread(self._converse, tool=tool, prompt=prompt, max_tokens=max_tokens)
-        return _parse(response=response, tool=tool, output=model)
+            response = await asyncio.to_thread(self._converse, fmt=fmt, prompt=prompt, max_tokens=max_tokens)
+        return _parse(response=response, output=model)
 
-    def _converse(self, *, tool: Json, prompt: str, max_tokens: int) -> Json:
+    def _output_config(self, *, fmt: Json) -> Json:
+        config: Json = {"textFormat": {"type": "json_schema", "structure": {"jsonSchema": fmt}}}
+        if self._config.effort is not None:
+            config["effort"] = self._config.effort.value
+        return config
+
+    def _converse(self, *, fmt: Json, prompt: str, max_tokens: int) -> Json:
         try:
             return self._client.converse(
                 modelId=self._config.model_id,
                 system=[{"text": SYSTEM_PROMPT}],
                 messages=[{"role": "user", "content": [{"text": prompt}]}],
-                toolConfig={"tools": [{"toolSpec": tool}], "toolChoice": {"tool": {"name": tool["name"]}}},
-                inferenceConfig={"maxTokens": max_tokens, "temperature": self._config.temperature},
+                outputConfig=self._output_config(fmt=fmt),
+                inferenceConfig={"maxTokens": max_tokens},
             )
         except botocore.exceptions.ClientError as exc:
             code = _error_code(exc=exc)
@@ -435,4 +448,4 @@ def build_ai_service(*, settings: Settings, client: BedrockClient | None = None)
             aws_secret_access_key=secret_key,
             config=_BOTO_CONFIG,
         )
-    return AIService(client=client, config=AIConfig(model_id=settings.bedrock_model_id))
+    return AIService(client=client, config=AIConfig(model_id=settings.bedrock_model_id, effort=settings.bedrock_effort))

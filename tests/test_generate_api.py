@@ -19,7 +19,7 @@ from tests.conftest import definitions_schema
 from tests.conftest import make_ai_settings
 from tests.conftest import make_settings
 from tests.conftest import part_of_speech_enum
-from tests.conftest import tool_use_response
+from tests.conftest import structured_response
 
 if t.TYPE_CHECKING:
     import pathlib
@@ -53,11 +53,11 @@ def examples_body(**overrides: t.Any) -> Json:
 
 
 def examples_response(*groups: Json) -> Json:
-    return tool_use_response(name="record_examples", payload={"examples": list(groups)})
+    return structured_response(payload={"examples": list(groups)})
 
 
 def entries_response(*entries: Json, known: bool = True) -> Json:
-    return tool_use_response(name="record_entries", payload={"known": known, "entries": list(entries)})
+    return structured_response(payload={"known": known, "entries": list(entries)})
 
 
 def entry(**overrides: t.Any) -> Json:
@@ -120,8 +120,9 @@ class TestGenerateExamples:
         call = bedrock.calls[0]
         assert call["modelId"] == settings.bedrock_model_id
         assert call["system"] == [{"text": SYSTEM_PROMPT}]
-        assert call["inferenceConfig"] == {"maxTokens": 2048, "temperature": 0.7}
-        assert bedrock.tools == ["record_examples"]
+        assert call["inferenceConfig"] == {"maxTokens": 4096}
+        assert call["outputConfig"]["effort"] == "medium"
+        assert bedrock.format_names == ["record_examples"]
         prompt = bedrock.prompts[0]
         assert prompt.startswith(
             "Word or phrase: abandon\nPart of speech: verb\nDefinitions:\n1. to give up\n2. to leave behind\n\n"
@@ -203,14 +204,15 @@ class TestGenerateExamples:
         ("response", "detail"),
         [
             (
-                tool_use_response(name="record_examples", payload={"examples": []}, stop_reason="max_tokens"),
+                structured_response(payload={"examples": []}, stop_reason="max_tokens"),
                 "bedrock: generation stopped (max_tokens)",
             ),
             (
-                tool_use_response(name="record_entries", payload={"known": False, "entries": []}),
-                "bedrock: no tool output",
+                {"stopReason": "end_turn", "output": {"message": {"role": "assistant", "content": []}}},
+                "bedrock: no text output",
             ),
-            (tool_use_response(name="record_examples", payload={"examples": "nope"}), "bedrock: unusable model output"),
+            (structured_response(payload={"known": False, "entries": []}), "bedrock: unusable model output"),
+            (structured_response(payload={"examples": "nope"}), "bedrock: unusable model output"),
         ],
     )
     async def test_bad_model_output_returns_502(
@@ -256,8 +258,8 @@ class TestGenerateDefinitions:
         assert response.status_code == 200, response.text
         assert response.json() == {"query": "put paid to", "found": False, "entries": []}
         assert bedrock.calls[0]["modelId"] == settings.bedrock_model_id
-        assert bedrock.calls[0]["toolConfig"]["toolChoice"] == {"tool": {"name": "record_entries"}}
-        assert bedrock.calls[0]["inferenceConfig"] == {"maxTokens": 4096, "temperature": 0.7}
+        assert bedrock.format_names == ["record_entries"]
+        assert bedrock.calls[0]["inferenceConfig"] == {"maxTokens": 8192}
         assert bedrock.prompts[0].startswith("Text: put paid to\n\n")
         assert "each with 2 example sentences" in bedrock.prompts[0]
 
@@ -271,9 +273,9 @@ class TestGenerateDefinitions:
         assert "only when used as" not in prompt
         assert "noted these senses" not in prompt
         assert "record one entry per part of speech: canonical spelling first" in prompt
-        [tool] = bedrock.tool_specs
-        assert part_of_speech_enum(tool=tool) == list(PARTS_OF_SPEECH)
-        assert definitions_schema(tool=tool)["maxItems"] == MAX_SENSES_PER_POS
+        [fmt] = bedrock.formats
+        assert part_of_speech_enum(fmt=fmt) == list(PARTS_OF_SPEECH)
+        assert f"1 to {MAX_SENSES_PER_POS} definitions" in definitions_schema(fmt=fmt)["description"]
 
     async def test_steering_forwarded_to_bedrock(self, client: httpx.AsyncClient, bedrock: FakeBedrock) -> None:
         definitions = [{"text": "a petty criticism", "examples": ["That is a mere nitpick, not a flaw."]}]
@@ -292,8 +294,8 @@ class TestGenerateDefinitions:
         assert "(only when used as noun; record no entries if it never is)" in prompt
         assert "each with 1 example sentences" in prompt
         assert "any part of speech):\n1. a petty criticism\nCover each of them first" in prompt
-        assert part_of_speech_enum(tool=bedrock.tool_specs[0]) == ["noun"]
-        assert bedrock.calls[0]["inferenceConfig"] == {"maxTokens": 4096, "temperature": 0.7}
+        assert part_of_speech_enum(fmt=bedrock.formats[0]) == ["noun"]
+        assert bedrock.calls[0]["inferenceConfig"] == {"maxTokens": 8192}
 
     async def test_hints_and_parts_of_speech_stripped(self, client: httpx.AsyncClient, bedrock: FakeBedrock) -> None:
         bedrock.queue(entries_response(known=False))
@@ -307,7 +309,7 @@ class TestGenerateDefinitions:
         prompt = bedrock.prompts[0]
         assert "\n1. a petty criticism\n2. to find fault with trifles\nCover each of them first" in prompt
         assert "(only when used as Noun or verb; record no entries if it never is)" in prompt
-        assert part_of_speech_enum(tool=bedrock.tool_specs[0]) == ["noun", "verb"]
+        assert part_of_speech_enum(fmt=bedrock.formats[0]) == ["noun", "verb"]
 
     async def test_unknown_part_of_speech_label_keeps_full_enum(
         self, client: httpx.AsyncClient, bedrock: FakeBedrock
@@ -317,7 +319,7 @@ class TestGenerateDefinitions:
         response = await client.post("/api/generate/definitions", json=body)
         assert response.status_code == 200, response.text
         assert "(only when used as plural noun; record no entries if it never is)" in bedrock.prompts[0]
-        assert part_of_speech_enum(tool=bedrock.tool_specs[0]) == list(PARTS_OF_SPEECH)
+        assert part_of_speech_enum(fmt=bedrock.formats[0]) == list(PARTS_OF_SPEECH)
 
     async def test_boundary_values_accepted(self, client: httpx.AsyncClient, bedrock: FakeBedrock) -> None:
         bedrock.queue(entries_response(known=False))
@@ -334,7 +336,7 @@ class TestGenerateDefinitions:
         assert f"\n{MAX_DEFINITIONS}. sense {MAX_DEFINITIONS}\nCover each of them first" in prompt
         assert "each with 5 example sentences" in prompt
         assert f"(only when used as {' or '.join(PARTS_OF_SPEECH)}; record no entries if it never is)" in prompt
-        assert part_of_speech_enum(tool=bedrock.tool_specs[0]) == list(PARTS_OF_SPEECH)
+        assert part_of_speech_enum(fmt=bedrock.formats[0]) == list(PARTS_OF_SPEECH)
 
     async def test_drafted_definitions_capped_at_max_senses(
         self, client: httpx.AsyncClient, bedrock: FakeBedrock

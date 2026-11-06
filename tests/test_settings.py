@@ -6,6 +6,7 @@ import pytest
 
 from dictum.enums import ConflictPolicy
 from dictum.enums import DefinitionSource
+from dictum.enums import Effort
 from dictum.enums import Environment
 from dictum.enums import ExampleSource
 from dictum.enums import ProviderOutcome
@@ -62,7 +63,8 @@ class TestSettings:
         assert settings.aws_region == "us-east-1"
         assert settings.aws_access_key_id is None
         assert settings.aws_secret_access_key is None
-        assert settings.bedrock_model_id == "us.anthropic.claude-haiku-4-5-20251001-v1:0"
+        assert settings.bedrock_model_id == "us.anthropic.claude-sonnet-5-5"
+        assert settings.bedrock_effort is Effort.MEDIUM
         assert settings.ai_enabled is False
         assert settings.log_level == "INFO"
         assert settings.allowed_hosts == ["*"]
@@ -89,49 +91,6 @@ class TestSettings:
         assert settings.mw_api_key.get_secret_value() == "abc-123"
         assert "abc-123" not in str(settings.mw_api_key)
         assert "abc-123" not in repr(settings)
-
-    @pytest.mark.parametrize(
-        ("access_key", "secret_key", "enabled"),
-        [
-            (None, None, False),
-            (AWS_ACCESS_KEY_ID, None, False),
-            (None, AWS_SECRET_ACCESS_KEY, False),
-            ("", AWS_SECRET_ACCESS_KEY, False),
-            (AWS_ACCESS_KEY_ID, "", False),
-            (AWS_ACCESS_KEY_ID, AWS_SECRET_ACCESS_KEY, True),
-        ],
-    )
-    def test_ai_enabled_needs_both_keys(
-        self, *, tmp_path: pathlib.Path, access_key: str | None, secret_key: str | None, enabled: bool
-    ) -> None:
-        settings = make_settings(tmp_path=tmp_path, aws_access_key_id=access_key, aws_secret_access_key=secret_key)
-        assert settings.ai_enabled is enabled
-
-    def test_aws_keys_are_secret(self, *, tmp_path: pathlib.Path) -> None:
-        settings = make_ai_settings(tmp_path=tmp_path)
-        assert settings.aws_access_key_id is not None
-        assert settings.aws_secret_access_key is not None
-        assert settings.aws_access_key_id.get_secret_value() == AWS_ACCESS_KEY_ID
-        assert settings.aws_secret_access_key.get_secret_value() == AWS_SECRET_ACCESS_KEY
-        for rendered in (
-            repr(settings),
-            str(settings),
-            str(settings.aws_access_key_id),
-            str(settings.aws_secret_access_key),
-        ):
-            assert AWS_ACCESS_KEY_ID not in rendered
-            assert AWS_SECRET_ACCESS_KEY not in rendered
-        assert AWS_SECRET_ACCESS_KEY not in str(settings.model_dump())
-
-    def test_aws_settings_from_env(self, *, monkeypatch: pytest.MonkeyPatch, tmp_path: pathlib.Path) -> None:
-        monkeypatch.setenv("AWS_ACCESS_KEY_ID", AWS_ACCESS_KEY_ID)
-        monkeypatch.setenv("AWS_SECRET_ACCESS_KEY", AWS_SECRET_ACCESS_KEY)
-        monkeypatch.setenv("AWS_REGION", "eu-west-1")
-        monkeypatch.setenv("BEDROCK_MODEL_ID", "anthropic.test-model")
-        settings = make_settings(tmp_path=tmp_path)
-        assert settings.ai_enabled is True
-        assert settings.aws_region == "eu-west-1"
-        assert settings.bedrock_model_id == "anthropic.test-model"
 
     @pytest.mark.parametrize("raw", ["ftp://x", "not a url", ""])
     def test_provider_urls_must_be_http(self, *, tmp_path: pathlib.Path, raw: str) -> None:
@@ -192,6 +151,68 @@ class TestSettings:
         get_settings.cache_clear()
 
 
+class TestBedrockSettings:
+    """AWS credentials gate the AI feature; model and effort come from the environment."""
+
+    @pytest.mark.parametrize(
+        ("access_key", "secret_key", "enabled"),
+        [
+            (None, None, False),
+            (AWS_ACCESS_KEY_ID, None, False),
+            (None, AWS_SECRET_ACCESS_KEY, False),
+            ("", AWS_SECRET_ACCESS_KEY, False),
+            (AWS_ACCESS_KEY_ID, "", False),
+            (AWS_ACCESS_KEY_ID, AWS_SECRET_ACCESS_KEY, True),
+        ],
+    )
+    def test_ai_enabled_needs_both_keys(
+        self, *, tmp_path: pathlib.Path, access_key: str | None, secret_key: str | None, enabled: bool
+    ) -> None:
+        settings = make_settings(tmp_path=tmp_path, aws_access_key_id=access_key, aws_secret_access_key=secret_key)
+        assert settings.ai_enabled is enabled
+
+    def test_aws_keys_are_secret(self, *, tmp_path: pathlib.Path) -> None:
+        settings = make_ai_settings(tmp_path=tmp_path)
+        assert settings.aws_access_key_id is not None
+        assert settings.aws_secret_access_key is not None
+        assert settings.aws_access_key_id.get_secret_value() == AWS_ACCESS_KEY_ID
+        assert settings.aws_secret_access_key.get_secret_value() == AWS_SECRET_ACCESS_KEY
+        for rendered in (
+            repr(settings),
+            str(settings),
+            str(settings.aws_access_key_id),
+            str(settings.aws_secret_access_key),
+        ):
+            assert AWS_ACCESS_KEY_ID not in rendered
+            assert AWS_SECRET_ACCESS_KEY not in rendered
+        assert AWS_SECRET_ACCESS_KEY not in str(settings.model_dump())
+
+    def test_aws_settings_from_env(self, *, monkeypatch: pytest.MonkeyPatch, tmp_path: pathlib.Path) -> None:
+        monkeypatch.setenv("AWS_ACCESS_KEY_ID", AWS_ACCESS_KEY_ID)
+        monkeypatch.setenv("AWS_SECRET_ACCESS_KEY", AWS_SECRET_ACCESS_KEY)
+        monkeypatch.setenv("AWS_REGION", "eu-west-1")
+        monkeypatch.setenv("BEDROCK_MODEL_ID", "anthropic.test-model")
+        monkeypatch.setenv("BEDROCK_EFFORT", "high")
+        settings = make_settings(tmp_path=tmp_path)
+        assert settings.ai_enabled is True
+        assert settings.aws_region == "eu-west-1"
+        assert settings.bedrock_model_id == "anthropic.test-model"
+        assert settings.bedrock_effort is Effort.HIGH
+
+    @pytest.mark.parametrize(
+        ("raw", "effort"),
+        [("low", Effort.LOW), ("xhigh", Effort.XHIGH), ("max", Effort.MAX), ("", None), ("  ", None), (None, None)],
+    )
+    def test_bedrock_effort_parsed(self, *, tmp_path: pathlib.Path, raw: object, effort: Effort | None) -> None:
+        """`BEDROCK_EFFORT=` (empty) means "do not send it", which Claude 4.5 and older require."""
+        assert make_settings(tmp_path=tmp_path, bedrock_effort=raw).bedrock_effort is effort
+
+    @pytest.mark.parametrize("raw", ["MEDIUM", "extreme", 1, "none"])
+    def test_bedrock_effort_rejects_unknown(self, *, tmp_path: pathlib.Path, raw: object) -> None:
+        with pytest.raises(pydantic.ValidationError, match="bedrock_effort"):
+            make_settings(tmp_path=tmp_path, bedrock_effort=raw)
+
+
 class TestEnums:
     @pytest.mark.parametrize(
         ("enum", "expected"),
@@ -203,6 +224,7 @@ class TestEnums:
             (DefinitionSource, ["user", "mw", "free_dict", "ai"]),
             (ExampleSource, ["user", "vault", "mw", "free_dict", "ai"]),
             (ProviderOutcome, ["found", "not_found", "error"]),
+            (Effort, ["low", "medium", "high", "xhigh", "max"]),
         ],
     )
     def test_values(self, *, enum: type[BaseEnum], expected: list[str]) -> None:

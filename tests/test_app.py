@@ -6,6 +6,7 @@ import httpx
 import pytest
 
 from app import ACCESS_LOGGER
+from app import QUIET_LOGGERS
 from app import Backends
 from app import create_app
 from app import quiet_healthcheck
@@ -19,7 +20,7 @@ from tests.conftest import MW_API_KEY
 from tests.conftest import FakeBedrock
 from tests.conftest import make_ai_settings
 from tests.conftest import make_settings
-from tests.conftest import tool_use_response
+from tests.conftest import structured_response
 
 if t.TYPE_CHECKING:
     import collections.abc as cabc
@@ -120,6 +121,14 @@ class TestHealthcheckFilter:
         create_app(settings=make_settings(tmp_path=tmp_path, log_level="debug"))
         basic_config.assert_called_once_with(level="DEBUG")
 
+    def test_http_client_loggers_capped_at_warning(self, tmp_path: pathlib.Path) -> None:
+        """httpx would print the Merriam-Webster key (`?key=`) with every request line at INFO."""
+        for name in QUIET_LOGGERS:
+            logging.getLogger(name).setLevel(logging.NOTSET)
+        create_app(settings=make_settings(tmp_path=tmp_path, log_level="debug"))
+        assert QUIET_LOGGERS == ("httpx", "httpcore")
+        assert [logging.getLogger(name).getEffectiveLevel() for name in QUIET_LOGGERS] == [logging.WARNING] * 2
+
 
 class TestCreateApp:
     def test_metadata_and_state(self, settings: Settings) -> None:
@@ -201,7 +210,7 @@ class TestCreateApp:
         with caplog.at_level("INFO", logger="dictum"):
             async with app.router.lifespan_context(app):
                 assert isinstance(app.state.ai, AIService)
-                bedrock.queue(tool_use_response(name="record_entries", payload={"known": False, "entries": []}))
+                bedrock.queue(structured_response(payload={"known": False, "entries": []}))
                 assert await app.state.ai.generate_entries(text="abandon") == []
         assert " ai=True" in caplog.text
         assert len(bedrock.calls) == 1

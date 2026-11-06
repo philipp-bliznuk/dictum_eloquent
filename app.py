@@ -27,6 +27,9 @@ if t.TYPE_CHECKING:
 API_PREFIX: t.Final = "/api"
 USER_AGENT: t.Final = "dictum-eloquent/0.1"
 ACCESS_LOGGER: t.Final = "uvicorn.access"
+QUIET_LOGGERS: t.Final = ("httpx", "httpcore")
+"""Capped at WARNING: httpx logs every request URL at INFO, query string included, and the
+Merriam-Webster key travels as `?key=`. Provider outcomes are logged by `dictum.*` without it."""
 _PATH_ARG: t.Final = 2
 """Position of the request path in uvicorn access records: client, method, path, http version, status."""
 log = logging.getLogger("dictum")
@@ -146,6 +149,8 @@ def _set_static(*, app: fastapi.FastAPI, settings: Settings) -> None:
 def _set_logging(*, settings: Settings) -> None:
     logging.basicConfig(level=settings.log_level)
     logging.getLogger(ACCESS_LOGGER).addFilter(quiet_healthcheck)
+    for name in QUIET_LOGGERS:
+        logging.getLogger(name).setLevel(logging.WARNING)
 
 
 def create_app(*, settings: Settings | None = None, backends: Backends | None = None) -> fastapi.FastAPI:

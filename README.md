@@ -68,7 +68,8 @@ Copy `.env.example` to `.env`. Everything optional except the DB path in prod.
 | `FREE_DICTIONARY_BASE_URL` | `api.dictionaryapi.dev/...` | keyless fallback provider |
 | `AWS_ACCESS_KEY_ID`, `AWS_SECRET_ACCESS_KEY` | empty | both set = AI drafting on (Bedrock); see below |
 | `AWS_REGION` | `us-east-1` | Bedrock region |
-| `BEDROCK_MODEL_ID` | Claude Haiku 4.5 inference profile | any Converse model with forced tool use (Claude 3+, Nova) |
+| `BEDROCK_MODEL_ID` | Claude Sonnet 5.5 cross-region inference profile (`us.`) | any model Bedrock lists for structured output (Claude 4.5 and later); Haiku 4.5 is cheaper and faster with `BEDROCK_EFFORT=` empty, its example sentences read flatter |
+| `BEDROCK_EFFORT` | `medium` | `outputConfig.effort` for Claude 5 / Opus 4.5+; empty leaves it out (Claude 4.5 rejects the parameter) |
 
 Lookup tries providers in order and stops at the first hit: Merriam-Webster (only with a key,
 free tier is 1000 queries/day), then dictionaryapi.dev. A provider error is reported in the
@@ -99,9 +100,10 @@ examples were filtered out as fragments arrive complete; it only tops up to two,
 part of speech (restricted to it, with the definitions already typed there passed as hints), and
 "Ask AI to draft it" after every dictionary came back empty. Every AI item is tagged `ai` and
 editable before saving; a misspelling is reported as not recognised rather than silently corrected.
-Calls go through the Bedrock Converse API with a forced tool call, so the model can only answer in
-the exact JSON shape the app validates; a truncated or refused answer is a `502`, never a
-half-filled form.
+Calls go through the Bedrock Converse API with a structured output format (`outputConfig.textFormat`,
+a JSON schema the API enforces), so the model can only answer in the exact shape the app validates
+again; a truncated or refused answer is a `502`, never a half-filled form. Sampling parameters are
+not sent (Claude 5 rejects `temperature`); `BEDROCK_EFFORT` is the one knob.
 
 Drafting follows one sense policy: every distinct sense a well-read speaker may meet (common,
 literary, archaic), closely related senses merged into one definition, jargon only when it is the

@@ -1,6 +1,5 @@
 import asyncio
 import contextlib
-import copy
 import dataclasses
 import json
 import threading
@@ -12,6 +11,7 @@ import pydantic
 import pytest
 
 from dictum.enums import DefinitionSource
+from dictum.enums import Effort
 from dictum.enums import ExampleSource
 from dictum.enums import SpellingKind
 from dictum.providers.base import ProviderError
@@ -20,6 +20,7 @@ from dictum.schemas.lookup import DraftDefinition
 from dictum.schemas.lookup import DraftEntry
 from dictum.schemas.lookup import DraftExample
 from dictum.schemas.word import SpellingIn
+from dictum.services.ai import EXAMPLE_POLICY
 from dictum.services.ai import PARTS_OF_SPEECH
 from dictum.services.ai import SENSE_POLICY
 from dictum.services.ai import SYSTEM_PROMPT
@@ -34,7 +35,8 @@ from tests.conftest import definitions_schema
 from tests.conftest import make_ai_settings
 from tests.conftest import make_settings
 from tests.conftest import part_of_speech_enum
-from tests.conftest import tool_use_response
+from tests.conftest import schema_of
+from tests.conftest import structured_response
 
 if t.TYPE_CHECKING:
     import collections.abc as cabc
@@ -52,9 +54,9 @@ IPA: t.Final = "/\u0259\u02c8b\u00e6nd\u0259n/"
 LOGGER: t.Final = "dictum.services.ai"
 
 
-def examples_response(*groups: Json, stop_reason: str = "tool_use") -> Json:
-    """`record_examples` tool call carrying `groups` of `{"index": n, "sentences": [...]}`."""
-    return tool_use_response(name="record_examples", payload={"examples": list(groups)}, stop_reason=stop_reason)
+def examples_response(*groups: Json, stop_reason: str = "end_turn") -> Json:
+    """`record_examples` output carrying `groups` of `{"index": n, "sentences": [...]}`."""
+    return structured_response(payload={"examples": list(groups)}, stop_reason=stop_reason)
 
 
 def group(index: int, *sentences: str) -> Json:
@@ -74,10 +76,10 @@ def entry(**overrides: t.Any) -> Json:
 
 
 def entries_response(*entries: Json, known: bool = True) -> Json:
-    return tool_use_response(name="record_entries", payload={"known": known, "entries": list(entries)})
+    return structured_response(payload={"known": known, "entries": list(entries)})
 
 
-def content_response(content: object, *, stop_reason: str = "tool_use") -> Json:
+def content_response(content: object, *, stop_reason: str = "end_turn") -> Json:
     """Converse answer with an arbitrary `content` block list (shape failures)."""
     return {"stopReason": stop_reason, "output": {"message": {"role": "assistant", "content": content}}}
 
@@ -122,8 +124,8 @@ async def draft_entries(
 class TestAIConfig:
     def test_defaults(self) -> None:
         config = AIConfig(model_id=MODEL_ID)
-        assert (config.max_tokens, config.draft_max_tokens) == (2048, 4096)
-        assert (config.temperature, config.concurrency) == (0.7, 2)
+        assert (config.max_tokens, config.draft_max_tokens) == (4096, 8192)
+        assert (config.effort, config.concurrency) == (Effort.MEDIUM, 2)
 
     def test_frozen(self) -> None:
         config = AIConfig(model_id=MODEL_ID)
@@ -142,11 +144,15 @@ class TestGenerateExamples:
         call = bedrock.calls[0]
         assert call["modelId"] == MODEL_ID
         assert call["system"] == [{"text": SYSTEM_PROMPT}]
-        assert call["inferenceConfig"] == {"maxTokens": 2048, "temperature": 0.7}
-        assert call["toolConfig"]["toolChoice"] == {"tool": {"name": "record_examples"}}
-        [tool] = call["toolConfig"]["tools"]
-        assert tool["toolSpec"]["name"] == "record_examples"
-        assert tool["toolSpec"]["inputSchema"]["json"]["required"] == ["examples"]
+        assert call["inferenceConfig"] == {"maxTokens": 4096}
+        assert "toolConfig" not in call
+        text_format = call["outputConfig"]["textFormat"]
+        assert text_format["type"] == "json_schema"
+        fmt = text_format["structure"]["jsonSchema"]
+        assert fmt["name"] == "record_examples"
+        assert isinstance(fmt["schema"], str)
+        assert schema_of(fmt=fmt)["required"] == ["examples"]
+        assert call["outputConfig"]["effort"] == "medium"
         [message] = call["messages"]
         assert message["role"] == "user"
         [block] = message["content"]
@@ -155,13 +161,15 @@ class TestGenerateExamples:
         )
         assert "Write 2 example sentences for every definition above" in block["text"]
         assert 'uses "abandon"' in block["text"]
-        assert "e.g. *abandon*." in block["text"]
+        assert block["text"].endswith(f"e.g. *abandon*. {EXAMPLE_POLICY}")
+        assert "never explain, paraphrase or define the word inside the sentence." in EXAMPLE_POLICY
 
     async def test_inference_config_from_settings(self, bedrock: FakeBedrock) -> None:
-        service = AIService(client=bedrock, config=AIConfig(model_id="m", max_tokens=99, temperature=0.1))
+        service = AIService(client=bedrock, config=AIConfig(model_id="m", max_tokens=99, effort=Effort.LOW))
         await draft_examples(service, bedrock, examples_response(), per_definition=3)
         assert bedrock.calls[0]["modelId"] == "m"
-        assert bedrock.calls[0]["inferenceConfig"] == {"maxTokens": 99, "temperature": 0.1}
+        assert bedrock.calls[0]["inferenceConfig"] == {"maxTokens": 99}
+        assert bedrock.calls[0]["outputConfig"]["effort"] == "low"
         assert "Write 3 example sentences" in bedrock.prompts[0]
 
     async def test_per_definition_defaults_to_two(self, service: AIService, bedrock: FakeBedrock) -> None:
@@ -231,22 +239,28 @@ class TestGenerateExamples:
         result = await draft_examples(service, bedrock, examples_response(group(1, "", "  ")))
         assert result == [[]]
 
-    async def test_matching_tool_found_after_text_block(self, service: AIService, bedrock: FakeBedrock) -> None:
-        tool_use = {"toolUseId": "t2", "name": "record_examples", "input": {"examples": [group(1, "x abandon")]}}
-        other = {"toolUseId": "t1", "name": "record_entries", "input": {"known": False, "entries": []}}
-        response = content_response([{"text": "Here you go."}, {"toolUse": other}, {"toolUse": tool_use}])
+    async def test_text_found_after_reasoning_block(self, service: AIService, bedrock: FakeBedrock) -> None:
+        reasoning = {"reasoningContent": {"reasoningText": {"text": "The reader wants two sentences."}}}
+        payload = json.dumps({"examples": [group(1, "x abandon")]})
+        response = content_response([reasoning, {"text": payload}, {"text": "ignored second block"}])
         result = await draft_examples(service, bedrock, response)
         assert result == [[ai("x *abandon*")]]
+
+    async def test_effort_left_out_when_unset(self, bedrock: FakeBedrock) -> None:
+        service = AIService(client=bedrock, config=AIConfig(model_id="m", effort=None))
+        await draft_examples(service, bedrock, examples_response())
+        assert "effort" not in bedrock.calls[0]["outputConfig"]
+        assert bedrock.format_names == ["record_examples"]
 
 
 class TestGenerateEntries:
     async def test_request_forwarded_to_converse(self, service: AIService, bedrock: FakeBedrock) -> None:
         await draft_entries(service, bedrock, entries_response(known=False))
-        assert bedrock.tools == ["record_entries"]
+        assert bedrock.format_names == ["record_entries"]
         call = bedrock.calls[0]
         assert call["modelId"] == MODEL_ID
         assert call["system"] == [{"text": SYSTEM_PROMPT}]
-        assert call["toolConfig"]["tools"][0]["toolSpec"]["inputSchema"]["json"]["required"] == ["known", "entries"]
+        assert schema_of(fmt=bedrock.formats[0])["required"] == ["known", "entries"]
         prompt = bedrock.prompts[0]
         assert prompt.startswith("Text: abandon\n\n")
         assert "each with 2 example sentences" in prompt
@@ -339,7 +353,7 @@ class TestEntriesMerge:
         assert await draft_entries(service, bedrock, entries_response(entry(), known=False)) == []
 
     async def test_entries_default_to_empty(self, service: AIService, bedrock: FakeBedrock) -> None:
-        response = tool_use_response(name="record_entries", payload={"known": True})
+        response = structured_response(payload={"known": True})
         assert await draft_entries(service, bedrock, response) == []
 
     async def test_spellings_validated_and_deduplicated(self, service: AIService, bedrock: FakeBedrock) -> None:
@@ -451,12 +465,26 @@ class TestEntriesMerge:
         result = await draft_entries(service, bedrock, response)
         assert [(e.part_of_speech, len(e.definitions)) for e in result] == [("verb", MAX_SENSES_PER_POS), ("noun", 1)]
 
-    async def test_tool_schema_caps_definitions_at_max_senses(self, service: AIService, bedrock: FakeBedrock) -> None:
+    async def test_schema_describes_definition_cap(self, service: AIService, bedrock: FakeBedrock) -> None:
+        """Bedrock's schema subset has no item counts; the cap is stated in the description and enforced here."""
         await draft_entries(service, bedrock, entries_response(known=False))
-        [tool] = bedrock.tool_specs
-        schema = definitions_schema(tool=tool)
-        assert (schema["minItems"], schema["maxItems"]) == (1, MAX_SENSES_PER_POS)
+        [fmt] = bedrock.formats
+        schema = definitions_schema(fmt=fmt)
+        assert schema["description"] == f"1 to {MAX_SENSES_PER_POS} definitions, most common first."
+        assert not {"minItems", "maxItems"} & set(schema)
         assert MAX_SENSES_PER_POS == 8
+
+    @pytest.mark.parametrize(("name", "nested_objects"), [("record_entries", 3), ("record_examples", 2)])
+    async def test_schema_objects_closed(
+        self, service: AIService, bedrock: FakeBedrock, *, name: str, nested_objects: int
+    ) -> None:
+        """Structured output requires `additionalProperties: false` on every object, nested ones included."""
+        await draft_entries(service, bedrock, entries_response(known=False))
+        await draft_examples(service, bedrock, examples_response())
+        [fmt] = [fmt for fmt in bedrock.formats if fmt["name"] == name]
+        serialised = fmt["schema"]
+        assert serialised.count('"type": "object"') == nested_objects
+        assert serialised.count('"additionalProperties": false') == nested_objects
 
 
 class TestEntriesSteering:
@@ -471,9 +499,11 @@ class TestEntriesSteering:
         assert "archaic or obsolete" in prompt
         assert (
             prompt.index("e.g. *abandon*. ")
+            < prompt.index(EXAMPLE_POLICY)
             < prompt.index(SENSE_POLICY)
             < prompt.index("If it looks like a misspelling")
         )
+        assert f"e.g. *abandon*. {EXAMPLE_POLICY} {SENSE_POLICY}" in prompt
 
     async def test_per_definition_in_prompt(self, service: AIService, bedrock: FakeBedrock) -> None:
         await draft_entries(service, bedrock, entries_response(known=False), per_definition=3)
@@ -535,7 +565,7 @@ class TestEntriesSteering:
         assert prompt.startswith("Text: nitpick\n\n")
         assert "(only when used as noun; record no entries if it never is)" in prompt
         assert "\n1. a petty criticism\nCover each of them first" in prompt
-        assert part_of_speech_enum(tool=bedrock.tool_specs[0]) == ["noun"]
+        assert part_of_speech_enum(fmt=bedrock.formats[0]) == ["noun"]
 
     @pytest.mark.parametrize(
         ("parts_of_speech", "enum"),
@@ -553,27 +583,26 @@ class TestEntriesSteering:
         self, service: AIService, bedrock: FakeBedrock, *, parts_of_speech: cabc.Sequence[str], enum: list[str]
     ) -> None:
         await draft_entries(service, bedrock, entries_response(known=False), parts_of_speech=parts_of_speech)
-        [tool] = bedrock.tool_specs
-        assert part_of_speech_enum(tool=tool) == enum
+        [fmt] = bedrock.formats
+        assert part_of_speech_enum(fmt=fmt) == enum
 
     async def test_narrowed_tool_otherwise_identical(self, service: AIService, bedrock: FakeBedrock) -> None:
         await draft_entries(service, bedrock, entries_response(known=False), parts_of_speech=["noun"])
         await draft_entries(service, bedrock, entries_response(known=False))
-        narrowed, full = bedrock.tool_specs
+        narrowed, full = bedrock.formats
         assert narrowed is not full
         assert narrowed["name"] == full["name"] == "record_entries"
-        restored = copy.deepcopy(narrowed)
-        restored["inputSchema"]["json"]["properties"]["entries"]["items"]["properties"]["part_of_speech"]["enum"] = (
-            list(PARTS_OF_SPEECH)
-        )
-        assert restored == full
-        assert definitions_schema(tool=narrowed)["maxItems"] == MAX_SENSES_PER_POS
+        assert narrowed["description"] == full["description"]
+        restored = schema_of(fmt=narrowed)
+        restored["properties"]["entries"]["items"]["properties"]["part_of_speech"]["enum"] = list(PARTS_OF_SPEECH)
+        assert restored == schema_of(fmt=full)
+        assert f"1 to {MAX_SENSES_PER_POS} definitions" in definitions_schema(fmt=narrowed)["description"]
 
     async def test_narrowing_leaves_shared_tool_untouched(self, service: AIService, bedrock: FakeBedrock) -> None:
         await draft_entries(service, bedrock, entries_response(known=False), parts_of_speech=["Noun", "verb"])
         await draft_entries(service, bedrock, entries_response(known=False))
         await draft_entries(service, bedrock, entries_response(known=False), parts_of_speech=["adjective"])
-        assert [part_of_speech_enum(tool=tool) for tool in bedrock.tool_specs] == [
+        assert [part_of_speech_enum(fmt=fmt) for fmt in bedrock.formats] == [
             ["noun", "verb"],
             list(PARTS_OF_SPEECH),
             ["adjective"],
@@ -589,46 +618,41 @@ class TestEntriesSteering:
         self, service: AIService, bedrock: FakeBedrock, parts_of_speech: list[str]
     ) -> None:
         await draft_entries(service, bedrock, entries_response(known=False), parts_of_speech=parts_of_speech)
-        [tool] = bedrock.tool_specs
-        assert part_of_speech_enum(tool=tool) == list(PARTS_OF_SPEECH)
+        [fmt] = bedrock.formats
+        assert part_of_speech_enum(fmt=fmt) == list(PARTS_OF_SPEECH)
         assert (
             f"(only when used as {' or '.join(parts_of_speech)}; record no entries if it never is)"
             in bedrock.prompts[0]
         )
 
-    async def test_unrestricted_and_unknown_labels_share_one_tool_object(
+    async def test_unrestricted_and_unknown_labels_share_one_format_object(
         self, service: AIService, bedrock: FakeBedrock
     ) -> None:
         await draft_entries(service, bedrock, entries_response(known=False))
         await draft_entries(service, bedrock, entries_response(known=False), parts_of_speech=["plural noun"])
         await draft_entries(service, bedrock, entries_response(known=False), parts_of_speech=["noun", "plural noun"])
-        first, second, third = bedrock.tool_specs
+        first, second, third = bedrock.formats
         assert first is second
         assert second is third
-        assert part_of_speech_enum(tool=first) == list(PARTS_OF_SPEECH)
+        assert part_of_speech_enum(fmt=first) == list(PARTS_OF_SPEECH)
 
     async def test_entries_use_draft_token_budget(self, service: AIService, bedrock: FakeBedrock) -> None:
         await draft_entries(service, bedrock, entries_response(known=False))
         await draft_examples(service, bedrock, examples_response())
-        assert [call["inferenceConfig"] for call in bedrock.calls] == [
-            {"maxTokens": 4096, "temperature": 0.7},
-            {"maxTokens": 2048, "temperature": 0.7},
-        ]
+        assert [call["inferenceConfig"] for call in bedrock.calls] == [{"maxTokens": 8192}, {"maxTokens": 4096}]
 
     async def test_custom_draft_token_budget(self, bedrock: FakeBedrock) -> None:
-        config = AIConfig(model_id="m", max_tokens=99, draft_max_tokens=77, temperature=0.1)
+        config = AIConfig(model_id="m", max_tokens=99, draft_max_tokens=77, effort=Effort.HIGH)
         service = AIService(client=bedrock, config=config)
         await draft_entries(service, bedrock, entries_response(known=False))
         await draft_examples(service, bedrock, examples_response())
-        assert [call["inferenceConfig"] for call in bedrock.calls] == [
-            {"maxTokens": 77, "temperature": 0.1},
-            {"maxTokens": 99, "temperature": 0.1},
-        ]
+        assert [call["inferenceConfig"] for call in bedrock.calls] == [{"maxTokens": 77}, {"maxTokens": 99}]
+        assert [call["outputConfig"]["effort"] for call in bedrock.calls] == ["high", "high"]
 
 
 class TestModelOutputFailures:
     @pytest.mark.parametrize(
-        "stop_reason", ["max_tokens", "end_turn", "content_filtered", "guardrail_intervened", "stop_sequence"]
+        "stop_reason", ["max_tokens", "tool_use", "content_filtered", "guardrail_intervened", "malformed_model_output"]
     )
     async def test_generation_stopped(self, service: AIService, bedrock: FakeBedrock, stop_reason: str) -> None:
         bedrock.queue(examples_response(group(1, "x abandon"), stop_reason=stop_reason))
@@ -645,40 +669,40 @@ class TestModelOutputFailures:
         "content",
         [
             [],
-            [{"text": "I cannot help with that."}],
-            [{"toolUse": {}}],
-            [{"toolUse": None}],
-            [{"toolUse": {"toolUseId": "t1", "name": "record_entries", "input": {"known": False, "entries": []}}}],
-            [{"toolUse": {"toolUseId": "t1", "input": {"examples": []}}}],
+            [{"text": None}],
+            [{"reasoningContent": {"reasoningText": {"text": "thinking"}}}],
+            [{"toolUse": {"toolUseId": "t1", "name": "record_examples", "input": {"examples": []}}}],
+            [{"image": {}}, {"text": 7}],
         ],
     )
-    async def test_no_tool_output(self, service: AIService, bedrock: FakeBedrock, content: list[Json]) -> None:
-        with pytest.raises(ProviderError, match=r"^bedrock: no tool output$"):
+    async def test_no_text_output(self, service: AIService, bedrock: FakeBedrock, content: list[Json]) -> None:
+        with pytest.raises(ProviderError, match=r"^bedrock: no text output$"):
             await draft_examples(service, bedrock, content_response(content))
 
-    async def test_wrong_tool_for_entries(self, service: AIService, bedrock: FakeBedrock) -> None:
-        with pytest.raises(ProviderError, match=r"^bedrock: no tool output$"):
+    async def test_wrong_shape_for_entries(self, service: AIService, bedrock: FakeBedrock) -> None:
+        with pytest.raises(ProviderError, match=r"^bedrock: unusable model output$") as info:
             await draft_entries(service, bedrock, examples_response(group(1, "x")))
+        assert isinstance(info.value.__cause__, pydantic.ValidationError)
 
     @pytest.mark.parametrize(
         ("response", "cause"),
         [
-            (tool_use_response(name="record_examples", payload={"examples": "nope"}), pydantic.ValidationError),
-            (tool_use_response(name="record_examples", payload={"examples": "7"}), pydantic.ValidationError),
-            (tool_use_response(name="record_examples", payload={"examples": '{"index": 1}'}), pydantic.ValidationError),
-            (tool_use_response(name="record_examples", payload={"examples": "[1, 2]"}), pydantic.ValidationError),
-            (
-                tool_use_response(name="record_examples", payload={"examples": '[{"index": 1}]'}),
-                pydantic.ValidationError,
-            ),
-            (tool_use_response(name="record_examples", payload={}), pydantic.ValidationError),
-            (tool_use_response(name="record_examples", payload="nope"), pydantic.ValidationError),
+            (structured_response(payload={"examples": "nope"}), pydantic.ValidationError),
+            (structured_response(payload={"examples": "7"}), pydantic.ValidationError),
+            (structured_response(payload={"examples": '{"index": 1}'}), pydantic.ValidationError),
+            (structured_response(payload={"examples": "[1, 2]"}), pydantic.ValidationError),
+            (structured_response(payload={"examples": '[{"index": 1}]'}), pydantic.ValidationError),
+            (structured_response(payload={}), pydantic.ValidationError),
+            (structured_response(payload="nope"), pydantic.ValidationError),
+            (structured_response(payload=[group(1, "x")]), pydantic.ValidationError),
+            (content_response([{"text": ""}]), pydantic.ValidationError),
+            (content_response([{"text": "not json"}]), pydantic.ValidationError),
+            (content_response([{"text": '{"examples": [{"index": 1, "sentences": ["x"]}'}]), pydantic.ValidationError),
             (examples_response({"index": "one", "sentences": ["x"]}), pydantic.ValidationError),
             (examples_response({"index": 1}), pydantic.ValidationError),
             (examples_response({"index": 1, "sentences": "x"}), pydantic.ValidationError),
-            ({"stopReason": "tool_use"}, KeyError),
-            ({"stopReason": "tool_use", "output": {}}, KeyError),
-            (content_response([{"toolUse": {"toolUseId": "t1", "name": "record_examples"}}]), KeyError),
+            ({"stopReason": "end_turn"}, KeyError),
+            ({"stopReason": "end_turn", "output": {}}, KeyError),
             (content_response(None), TypeError),
             (content_response(7), TypeError),
             (content_response(["text"]), AttributeError),
@@ -711,44 +735,7 @@ class TestModelOutputFailures:
     )
     async def test_unusable_entries_output(self, service: AIService, bedrock: FakeBedrock, payload: Json) -> None:
         with pytest.raises(ProviderError, match=r"^bedrock: unusable model output$") as info:
-            await draft_entries(service, bedrock, tool_use_response(name="record_entries", payload=payload))
-        assert isinstance(info.value.__cause__, pydantic.ValidationError)
-
-
-class TestStringifiedJson:
-    """Claude occasionally returns a nested array as a JSON string; the service decodes it."""
-
-    async def test_examples_list_as_string(self, service: AIService, bedrock: FakeBedrock) -> None:
-        groups = [group(1, "They *abandon* ship."), group(2, "We *abandon* hope.")]
-        response = tool_use_response(name="record_examples", payload={"examples": json.dumps(groups)})
-        result = await draft_examples(service, bedrock, response, definitions=["to leave", "to give up"])
-        assert result == [[ai("They *abandon* ship.")], [ai("We *abandon* hope.")]]
-
-    async def test_sentences_as_string(self, service: AIService, bedrock: FakeBedrock) -> None:
-        response = examples_response({"index": 1, "sentences": json.dumps(["They *abandon* ship."])})
-        result = await draft_examples(service, bedrock, response)
-        assert result == [[ai("They *abandon* ship.")]]
-
-    async def test_entries_list_as_string(self, service: AIService, bedrock: FakeBedrock) -> None:
-        payload = {"known": True, "entries": json.dumps([entry()])}
-        [draft] = await draft_entries(service, bedrock, tool_use_response(name="record_entries", payload=payload))
-        assert draft.spellings == [spelling("abandon")]
-        assert draft.definitions[0].text == "to give up"
-
-    async def test_nested_entry_fields_as_strings(self, service: AIService, bedrock: FakeBedrock) -> None:
-        definitions = [{"text": "to give up", "examples": json.dumps(["They *abandon* ship."])}]
-        response = entries_response(entry(spellings=json.dumps(["abandon"]), definitions=json.dumps(definitions)))
-        [draft] = await draft_entries(service, bedrock, response)
-        assert draft.spellings == [spelling("abandon")]
-        assert draft.definitions[0].examples == [ai("They *abandon* ship.")]
-
-    @pytest.mark.parametrize("entries", ["abandon", "7", "null", '{"spellings": ["abandon"]}'])
-    async def test_non_list_strings_still_rejected(
-        self, service: AIService, bedrock: FakeBedrock, entries: str
-    ) -> None:
-        payload = {"known": True, "entries": entries}
-        with pytest.raises(ProviderError, match=r"^bedrock: unusable model output$") as info:
-            await draft_entries(service, bedrock, tool_use_response(name="record_entries", payload=payload))
+            await draft_entries(service, bedrock, structured_response(payload=payload))
         assert isinstance(info.value.__cause__, pydantic.ValidationError)
 
 
@@ -966,7 +953,16 @@ class TestBuildAIService:
         bedrock.queue(examples_response())
         await service.generate_examples(word="abandon", part_of_speech="verb", definitions=["x"])
         assert bedrock.calls[0]["modelId"] == MODEL_ID
-        assert bedrock.calls[0]["inferenceConfig"] == {"maxTokens": 2048, "temperature": 0.7}
+        assert bedrock.calls[0]["inferenceConfig"] == {"maxTokens": 4096}
+        assert bedrock.calls[0]["outputConfig"]["effort"] == "medium"
+
+    async def test_effort_from_settings(self, *, tmp_path: pathlib.Path, bedrock: FakeBedrock) -> None:
+        settings = make_ai_settings(tmp_path=tmp_path, bedrock_effort=None)
+        service = build_ai_service(settings=settings, client=bedrock)
+        assert isinstance(service, AIService)
+        bedrock.queue(examples_response())
+        await service.generate_examples(word="abandon", part_of_speech="verb", definitions=["x"])
+        assert "effort" not in bedrock.calls[0]["outputConfig"]
 
     async def test_boto3_client_built_from_settings(
         self, *, tmp_path: pathlib.Path, boto3_client: MagicMock, mocker: MockerFixture
@@ -983,7 +979,7 @@ class TestBuildAIService:
         )
         config = boto3_client.call_args.kwargs["config"]
         assert isinstance(config, botocore.config.Config)
-        assert (config.connect_timeout, config.read_timeout) == (5, 20)
+        assert (config.connect_timeout, config.read_timeout) == (5, 60)
         assert config.retries == {"total_max_attempts": 2, "mode": "standard"}
         fake: FakeBedrock = boto3_client.return_value
         fake.queue(entries_response(known=False))

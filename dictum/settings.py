@@ -7,6 +7,7 @@ import pydantic
 import pydantic_settings
 
 from dictum import hosts
+from dictum.enums import Effort
 from dictum.enums import Environment
 
 LogLevel = t.Literal["DEBUG", "INFO", "WARNING", "ERROR", "CRITICAL"]
@@ -55,12 +56,19 @@ class Settings(pydantic_settings.BaseSettings):
     aws_access_key_id: pydantic.SecretStr | None = None
     aws_secret_access_key: pydantic.SecretStr | None = None
     """AI generation (Bedrock) is enabled only when both keys are present; set `ALLOWED_HOSTS` too."""
-    bedrock_model_id: str = "us.anthropic.claude-haiku-4-5-20251001-v1:0"
+    bedrock_model_id: str = "us.anthropic.claude-sonnet-5-5"
+    bedrock_effort: Effort | None = Effort.MEDIUM
+    """`outputConfig.effort`; empty leaves it out, which models without the parameter (Claude 4.5) need."""
 
     @pydantic.field_validator("log_level", mode="before")
     @classmethod
     def _upper_log_level(cls, value: object) -> object:
         return value.upper() if isinstance(value, str) else value
+
+    @pydantic.field_validator("bedrock_effort", mode="before")
+    @classmethod
+    def _empty_effort(cls, value: object) -> object:
+        return None if isinstance(value, str) and not value.strip() else value
 
     @pydantic.field_validator("allowed_hosts", mode="before")
     @classmethod

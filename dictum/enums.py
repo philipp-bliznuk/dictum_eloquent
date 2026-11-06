@@ -60,3 +60,13 @@ class SearchHitKind(BaseEnum):
 
     SPELLING = "spelling"
     DEFINITION = "definition"
+
+
+class Effort(BaseEnum):
+    """Bedrock `outputConfig.effort` for Claude 5 and Opus 4.5+ models; the default is `high`."""
+
+    LOW = "low"
+    MEDIUM = "medium"
+    HIGH = "high"
+    XHIGH = "xhigh"
+    MAX = "max"

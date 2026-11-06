@@ -192,16 +192,11 @@ class FakeUpstream:
         return responder(request)
 
 
-def tool_use_response(*, name: str, payload: object, stop_reason: str = "tool_use") -> Json:
-    """Converse API answer whose single content block is the model calling tool `name` with `payload`."""
+def structured_response(*, payload: object, stop_reason: str = "end_turn") -> Json:
+    """Converse API answer whose single content block is `payload` serialised as the structured output."""
     return {
         "stopReason": stop_reason,
-        "output": {
-            "message": {
-                "role": "assistant",
-                "content": [{"toolUse": {"toolUseId": "t1", "name": name, "input": payload}}],
-            }
-        },
+        "output": {"message": {"role": "assistant", "content": [{"text": json.dumps(payload)}]}},
         "usage": {"inputTokens": 1, "outputTokens": 1},
     }
 
@@ -244,24 +239,29 @@ class FakeBedrock:
         return [call["messages"][0]["content"][0]["text"] for call in self.calls]
 
     @property
-    def tools(self) -> list[str]:
-        """Forced tool name of every call, in order."""
-        return [call["toolConfig"]["toolChoice"]["tool"]["name"] for call in self.calls]
+    def formats(self) -> list[Json]:
+        """Structured output format (`jsonSchema` definition) of every call, in order; the same object when reused."""
+        return [call["outputConfig"]["textFormat"]["structure"]["jsonSchema"] for call in self.calls]
 
     @property
-    def tool_specs(self) -> list[Json]:
-        """Tool schema (`toolSpec`) offered in every call, in order; the same object when the service reuses it."""
-        return [call["toolConfig"]["tools"][0]["toolSpec"] for call in self.calls]
+    def format_names(self) -> list[str]:
+        """Name of the requested structured output format of every call, in order."""
+        return [fmt["name"] for fmt in self.formats]
 
 
-def part_of_speech_enum(*, tool: Json) -> list[str]:
-    """Allowed `part_of_speech` values in a `record_entries` tool schema."""
-    return tool["inputSchema"]["json"]["properties"]["entries"]["items"]["properties"]["part_of_speech"]["enum"]
+def schema_of(*, fmt: Json) -> Json:
+    """The JSON schema a structured output format carries (Converse wants it as a string)."""
+    return json.loads(fmt["schema"])
 
 
-def definitions_schema(*, tool: Json) -> Json:
-    """JSON schema of one entry's `definitions` array in a `record_entries` tool schema."""
-    return tool["inputSchema"]["json"]["properties"]["entries"]["items"]["properties"]["definitions"]
+def part_of_speech_enum(*, fmt: Json) -> list[str]:
+    """Allowed `part_of_speech` values in a `record_entries` format."""
+    return schema_of(fmt=fmt)["properties"]["entries"]["items"]["properties"]["part_of_speech"]["enum"]
+
+
+def definitions_schema(*, fmt: Json) -> Json:
+    """JSON schema of one entry's `definitions` array in a `record_entries` format."""
+    return schema_of(fmt=fmt)["properties"]["entries"]["items"]["properties"]["definitions"]
 
 
 def pytest_configure(config: pytest.Config) -> None:

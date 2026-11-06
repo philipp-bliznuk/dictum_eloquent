@@ -20,6 +20,15 @@ services:
       - "3000:3000"
     volumes:
       - ./data:/data
+    # Root only until the entrypoint has aligned uid/gid (usermod, chown) and dropped to `app`
+    # via setpriv; nothing else in the container needs a capability.
+    cap_drop: [ALL]
+    cap_add: [CHOWN, SETUID, SETGID]
+    security_opt: [no-new-privileges:true]
+    pids_limit: 256
+    logging:
+      driver: json-file
+      options: {max-size: 10m, max-file: "3"}
     # Repeated here on purpose: podman builds OCI images by default, which drop the
     # HEALTHCHECK baked into the Containerfile. `$$` keeps `${BIND##*:}` for the shell.
     healthcheck:
